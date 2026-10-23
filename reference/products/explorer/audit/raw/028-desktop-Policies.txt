@@ -1,0 +1,19 @@
+Note that this is a Beta version and can still be unstable
+Markets
+Leaderboard
+Create Market
+Policies
+Verified Market Policy
+Market Rules Policy
+App
+0x0000...dEaD
+
+24.69 xDAI
+
+Create New Market
+Type
+Categorical
+Scalar
+Multi Categorical
+Multi Scalar
+Next

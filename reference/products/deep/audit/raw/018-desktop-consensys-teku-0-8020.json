@@ -1,0 +1,2174 @@
+{
+ "title": "AI Prediction Markets",
+ "url": "https://deep.seer.pm/",
+ "scrollHeight": 900,
+ "headings": [
+  "h1: AI Prediction Markets",
+  "h2: Share of original work over time",
+  "h2: Original work per repository"
+ ],
+ "interactive": [
+  {
+   "i": 0,
+   "tag": "button",
+   "role": "",
+   "type": "",
+   "text": "AI Prediction Markets",
+   "href": "",
+   "disabled": false,
+   "selected": "page",
+   "expanded": "",
+   "box": [
+    64,
+    16,
+    239,
+    32
+   ]
+  },
+  {
+   "i": 1,
+   "tag": "button",
+   "role": "",
+   "type": "",
+   "text": "Leaderboard",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    936,
+    16,
+    106,
+    33
+   ]
+  },
+  {
+   "i": 2,
+   "tag": "button",
+   "role": "",
+   "type": "",
+   "text": "Profile",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1050,
+    16,
+    64,
+    33
+   ]
+  },
+  {
+   "i": 3,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Guide",
+   "href": "https://deep-pm.gitbook.io/seer-docs",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1122,
+    16,
+    77,
+    33
+   ]
+  },
+  {
+   "i": 4,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "0x0000…dEaD",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "false",
+   "box": [
+    1207,
+    12,
+    169,
+    40
+   ]
+  },
+  {
+   "i": 5,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Create trade wallet",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    562,
+    193,
+    151,
+    36
+   ]
+  },
+  {
+   "i": 6,
+   "tag": "button",
+   "role": "",
+   "type": "",
+   "text": "Round 3 · Originality LIVE",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    64,
+    273,
+    239,
+    50
+   ]
+  },
+  {
+   "i": 7,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Archive",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "false",
+   "box": [
+    307,
+    273,
+    111,
+    50
+   ]
+  },
+  {
+   "i": 8,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Refresh volume",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1159,
+    367,
+    24,
+    24
+   ]
+  },
+  {
+   "i": 9,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Charting by TradingView",
+   "href": "https://www.tradingview.com/?utm_medium=lwc-link&utm_campaign=lwc-chart&utm_source=deep.seer.pm/",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    98,
+    824,
+    35,
+    19
+   ]
+  },
+  {
+   "i": 10,
+   "tag": "input",
+   "role": "",
+   "type": "",
+   "text": "Search outcomes",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1159,
+    503,
+    169,
+    37
+   ]
+  },
+  {
+   "i": 11,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "ethereum/consensus-specs 0.8481",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    549,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 12,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "ethers-io/ethers.js 0.8275",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    581,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 13,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "sigp/lighthouse 0.8275",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    613,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 14,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "status-im/nimbus-eth2 0.8262",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    645,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 15,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Consensys/gnark-crypto 0.8067",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    677,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 16,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "foundry-rs/foundry 0.8034",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    709,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 17,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "supranational/blst 0.8033",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    741,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 18,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "flashbots/mev-boost 0.8028",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    773,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 19,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "consensys/teku 0.8020",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    1125,
+    805,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 20,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "ethereum/go-ethereum 0.7974",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    837,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 21,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "argotorg/solidity 0.7954",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    869,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 22,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "arkworks-rs/algebra 0.7954",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    901,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 23,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "ethereum/eips 0.7946",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    933,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 24,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "herumi/mcl 0.7903",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    965,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 25,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "nethereum/nethereum 0.7903",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    997,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 26,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "chainsafe/lodestar 0.7902",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    1029,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 27,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "argotorg/act 0.7884",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    1061,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 28,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "skalenetwork/libBLS 0.7828",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    1093,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 29,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "wevm/viem 0.7776",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    1125,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 30,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "a16z/halmos 0.7741",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    1157,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 31,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Vectorized/solady 0.7734",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    1189,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 32,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "paradigmxyz/reth 0.7730",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    1221,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 33,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "argotorg/hevm 0.7725",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    1253,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 34,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "ethereum/web3.py 0.7719",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    1285,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 35,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "openzeppelin/openzeppelin-contracts 0.7698",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    1317,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 36,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "vyperlang/titanoboa 0.7695",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    1349,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 37,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "paulmillr/noble-curves 0.7692",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    1381,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 38,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "OffchainLabs/prysm 0.7689",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    1413,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 39,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "intellij-solidity/intellij-solidity 0.7684",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    1445,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 40,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "vyperlang/vyper 0.7666",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    1477,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 41,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "ethereum/execution-apis 0.7663",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    1509,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 42,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "nomicfoundation/hardhat 0.7655",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    1541,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 43,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "erigontech/erigon 0.7652",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    1573,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 44,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "argotorg/sourcify 0.7629",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    1605,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 45,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "swiss-knife-xyz/swiss-knife 0.7619",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    1637,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 46,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "ethereum/py_ecc 0.7614",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    1669,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 47,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "evmts/tevm-monorepo 0.7611",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    1701,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 48,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "argotorg/fe 0.7602",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    1733,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 49,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Certora/CertoraProver 0.7595",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    1765,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 50,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "alloy-rs/alloy 0.7594",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    1797,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 51,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "lambdaclass/ethrex 0.7587",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    1829,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 52,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "apeworx/ape 0.7585",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    1861,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 53,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "ipsilon/evmone 0.7585",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    1893,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 54,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "grandinetech/grandine 0.7573",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    1925,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 55,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "shazow/whatsabi 0.7511",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    1957,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 56,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "lambdaclass/lambda_ethereum_consensus 0.7492",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    1989,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 57,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "flashbots/mev-boost-relay 0.7479",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    2021,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 58,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "erigontech/silkworm 0.7474",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    2053,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 59,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "ethstaker/ethstaker-deposit-cli 0.7473",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    2085,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 60,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "EspressoSystems/jellyfish 0.7468",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    2117,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 61,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "hyperledger/besu 0.7450",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    2149,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 62,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "libp2p/libp2p 0.7448",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    2181,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 63,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "hyperledger-web3j/web3j 0.7447",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    2213,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 64,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "taikoxyz/taiko-mono 0.7432",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    2245,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 65,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Commit-Boost/commit-boost-client 0.7422",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    2277,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 66,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "OffchainLabs/stylus-sdk-rs 0.7393",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    2309,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 67,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Cyfrin/aderyn 0.7384",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    2341,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 68,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "nethermindeth/nethermind 0.7383",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    2373,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 69,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "TrueBlocks/trueblocks-core 0.7369",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    2405,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 70,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "wealdtech/ethdo 0.7361",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    2437,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 71,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "holiman/goevmlab 0.7356",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    2469,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 72,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "DefiLlama/DefiLlama-Adapters 0.7315",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    2501,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 73,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "ethdebug/format 0.7313",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    2533,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 74,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "wighawag/hardhat-deploy 0.7299",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    2565,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 75,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "LFDT-web3j/web3j 0.7294",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    2597,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 76,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "ChainSafe/bls 0.7283",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    2629,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 77,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "ethereum-lists/chains 0.7271",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    2661,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 78,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "protofire/solhint 0.7253",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    2693,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 79,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "remix-project-org/remix-project 0.7249",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    2725,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 80,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Plonky3/Plonky3 0.7245",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    2757,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 81,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "0xMiden/miden-vm 0.7218",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    2789,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 82,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "powdr-labs/powdr 0.7209",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    2821,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 83,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "flashbots/rbuilder 0.7180",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    2853,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 84,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "edb-rs/edb 0.7166",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    2885,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 85,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "lambdaclass/lambdaworks 0.7164",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    2917,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 86,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "otterscan/otterscan 0.7106",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    2949,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 87,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "eth-infinitism/account-abstraction 0.7093",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    2981,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 88,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "dl-solarity/solidity-lib 0.7089",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    3013,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 89,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "a16z/helios 0.7044",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    3045,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 90,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "blockscout/blockscout 0.7027",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    3077,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 91,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "aestus-relay/mev-boost-relay 0.6998",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    3109,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 92,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "DefiLlama/chainlist 0.6962",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    3141,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 93,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "ethereum/js-ethereum-cryptography 0.6915",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    3173,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 94,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "l2beat/l2beat 0.6898",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    3205,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 95,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "scaffold-eth/scaffold-eth-2 0.6889",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    3237,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 96,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "axiom-crypto/snark-verifier 0.6820",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    3269,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 97,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "NethermindEth/juno 0.6786",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    3301,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 98,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "safe-global/safe-smart-account 0.6667",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    3333,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 99,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "succinctlabs/sp1 0.6607",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    3365,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 100,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "ethstaker/eth-docker 0.6571",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    3397,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 101,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "risc0/risc0-ethereum 0.6535",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    3429,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 102,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "succinctlabs/rsp 0.6417",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    3461,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 103,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "ethpandaops/ethereum-helm-charts 0.6362",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    3493,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 104,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "smartcontracts/simple-optimism-node 0.6250",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    3525,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 105,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "ethpandaops/ethereum-package 0.6188",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    3557,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 106,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "dappnode/DAppNode 0.5665",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    3589,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 107,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "succinctlabs/op-succinct 0.5451",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    3621,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 108,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "ethpandaops/checkpointz 0.5446",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1125,
+    3653,
+    212,
+    28
+   ]
+  },
+  {
+   "i": 109,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Hide all",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1125,
+    847,
+    214,
+    21
+   ]
+  },
+  {
+   "i": 110,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Upload predictions",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    242,
+    945,
+    173,
+    36
+   ]
+  },
+  {
+   "i": 111,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Export market weights",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1156,
+    1041,
+    196,
+    36
+   ]
+  },
+  {
+   "i": 112,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "REPOSITORY",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    88,
+    1192,
+    99,
+    16
+   ]
+  },
+  {
+   "i": 113,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "MARKET",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    688,
+    1192,
+    71,
+    16
+   ]
+  },
+  {
+   "i": 114,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "DIFFERENCE",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    817,
+    1192,
+    97,
+    16
+   ]
+  },
+  {
+   "i": 115,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "How the UP difference is calculated",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    918,
+    1192,
+    16,
+    16
+   ]
+  },
+  {
+   "i": 116,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "MARKET",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1107,
+    1192,
+    71,
+    16
+   ]
+  },
+  {
+   "i": 117,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "DIFFERENCE",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1235,
+    1192,
+    97,
+    16
+   ]
+  },
+  {
+   "i": 118,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "How the DOWN difference is calculated",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1336,
+    1192,
+    16,
+    16
+   ]
+  },
+  {
+   "i": 119,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Browse on Seer",
+   "href": "https://app.seer.pm/?chains=10",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1228,
+    1845,
+    124,
+    21
+   ]
+  },
+  {
+   "i": 120,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://kleros.io/",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    64,
+    2017,
+    179,
+    24
+   ]
+  },
+  {
+   "i": 121,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Telegram",
+   "href": "https://t.me/kleros",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1294,
+    2021,
+    16,
+    16
+   ]
+  },
+  {
+   "i": 122,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "X",
+   "href": "https://x.com/kleros_io",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1326,
+    2021,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 123,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "GitHub",
+   "href": "https://github.com/kleros",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1359,
+    2021,
+    17,
+    16
+   ]
+  }
+ ],
+ "charts": [
+  {
+   "tag": "canvas",
+   "box": [
+    88,
+    489,
+    942,
+    364
+   ],
+   "texts": [],
+   "paths": 0
+  },
+  {
+   "tag": "canvas",
+   "box": [
+    88,
+    489,
+    942,
+    364
+   ],
+   "texts": [],
+   "paths": 0
+  }
+ ],
+ "tables": [
+  {
+   "rows": 2,
+   "head": []
+  },
+  {
+   "rows": 100,
+   "head": [
+    "REPOSITORY",
+    "PREDICTED",
+    "UP · ORIGINAL WORK",
+    "DOWN · DEPENDENCIES",
+    "BALANCE",
+    "MARKET",
+    "DIFFERENCE",
+    "BALANCE",
+    "MARKET",
+    "DIFFERENCE"
+   ]
+  }
+ ],
+ "fonts": [
+  "-apple-system",
+  "ui-monospace"
+ ],
+ "colors": {
+  "bg": "rgb(243, 244, 246)",
+  "text": "rgb(55, 65, 81)"
+ },
+ "dialogs": 0
+}

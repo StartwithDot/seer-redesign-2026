@@ -1,0 +1,367 @@
+Note that this is a Beta version and can still be unstable
+Markets
+Leaderboard
+Create Market
+Policies
+App
+Connect
+/
+Market
+Conditional Market
+This market is conditional on the resolution of "Will Marine Le Pen be the National Rally’s candidate in the next French presidential election?" being "Yes".
+If the main market resolves to a different outcome, the tokens of this market will be worthless.
+Reports open
+Will the National Rally’s candidate win the next French presidential election?
+Answer on Reality.eth!
+Categorical
+Liquidity:
+7.54k
+Volume:
+11.74k
+Verified
+1D
+1W
+1M
+All
+Custom
+No
+74.5%
+Yes
+35.3%
+	
+	
+
+	
+	
+Outcomes
+
+#1 No
+
+Add Liquidity
+Hide pool details
+New conditional market
+74.5%
+Liquidity
+Chart
+
+Pool Id:
+
+0x2e5b...8626
+
+Pool Balances:
+
+0.38 LEPEN_NRYES / 7.18k LPY_NR_NO
+
+SHARES
+TOTAL
+
+0.9822
+
+142.24
+7177.77
+
+0.9763
+
+142.67
+7035.53
+
+0.9704
+
+143.10
+6892.86
+
+0.9646
+
+143.53
+6749.77
+
+0.9589
+
+143.96
+6606.24
+
+0.9531
+
+144.39
+6462.28
+
+0.9474
+
+144.82
+6317.89
+
+0.9418
+
+145.26
+6173.06
+
+0.9361
+
+145.70
+6027.80
+
+0.9305
+
+146.13
+5882.11
+
+0.9250
+
+146.57
+5735.97
+
+0.9194
+
+147.01
+5589.40
+
+0.9139
+
+147.46
+5442.39
+
+0.9085
+
+147.90
+5294.93
+
+0.9030
+
+148.34
+5147.03
+
+0.8976
+
+148.79
+4998.69
+
+0.8923
+
+149.24
+4849.90
+
+0.8869
+
+149.68
+4700.67
+
+0.8816
+
+150.13
+4550.98
+
+0.8763
+
+150.58
+4400.85
+
+0.8711
+
+151.04
+4250.27
+
+0.8659
+
+151.49
+4099.23
+
+0.8607
+
+151.95
+3947.74
+
+0.8556
+
+152.40
+3795.79
+
+0.8504
+
+158.69
+3643.39
+
+0.8454
+
+159.16
+3484.71
+
+0.8403
+
+153.78
+3325.54
+
+0.8353
+
+154.24
+3171.76
+
+0.8303
+
+154.71
+3017.52
+
+0.8253
+
+155.17
+2862.82
+
+0.8204
+
+155.64
+2707.65
+
+0.8155
+
+156.10
+2552.01
+
+0.8106
+
+156.57
+2395.91
+
+0.8057
+
+157.04
+2239.33
+
+0.8009
+
+157.51
+2082.29
+
+0.7961
+
+157.99
+1924.78
+
+0.7914
+
+158.46
+1766.79
+
+0.7866
+
+158.94
+1608.33
+
+0.7819
+
+159.42
+1449.39
+
+0.7773
+
+159.90
+1289.97
+
+0.7726
+
+160.38
+1130.07
+
+0.7680
+
+160.86
+969.70
+
+0.7634
+
+161.34
+808.84
+
+0.7588
+
+161.83
+647.50
+
+0.7543
+
+162.31
+485.67
+
+0.7498
+
+162.80
+323.36
+
+0.7454
+
+160.56
+160.56
+
+Last: 0.7454
+
+0.7453
+
+2.73
+2.73
+
+#2 Yes
+
+Add Liquidity
+View pool details
+New conditional market
+35.3%
+
+#3 Invalid
+
+Add Liquidity
+View pool details
+New conditional market
+0%
+No
+Market
+
+You pay
+
+LEPEN_NRYES
+
+0 LEPEN_NRYES
+
+Max
+
+You will get
+
+No
+
+Avg price
+0 LEPEN_NRYES
+Potential return
+0.00 LEPEN_NRYES (0.00%)
+Parameters:
+
+Max slippage 1%
+
+Enter an amount
+
+More
+
+Mint
+Mint
+Merge
+Redeem
+Amount
+Max
+Balance:
+0 LEPEN_NRYES
+Switch to Gnosis
+Major Events
+1 UPCOMING
+
+MAY 31, 2027 · 00:00 UTC
+
+Reality.eth Resolution
+
+Expected resolution date
+
+Comments
+Related Conditional Markets
+Top Holders
+Activity
+
+Connect your wallet to share your take
+
+Connect to comment
+
+No takes yet. Share the first one.

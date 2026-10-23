@@ -1,0 +1,112 @@
+Futarchy
+Gnosis
+👾
+0x00…dEaD
+What will the impact on PNK price be if KIP-88 is approved?
+—
+Impact (spot)
+Resolved
+Status
+11.89K
+ⓘ
+Volume (Total; sDAI)
+40.89
+ⓘ
+TVL
+6/9/2026
+Resolution Date
+Resolved: YES
+Resolution Question
+Snapshot Vote
+Add Liquidity
+Final Result
+APPROVED
+
+Will KIP-88 (DAO Guidance to the Cooperative) be approved ('Yes') or rejected ('No') by Kleros Governance? If the proposal is not approved by the end of the Snapshot vote, results as ('No').
+
+TWAP Complete
+(TWAP impact +2.23%)
+
+The Futarchy Recommendation is based on the time-weighted average price (TWAP) of the "pass" (yes) outcome over a 24 hour period. If the difference is positive, the recommendation is to approve. Otherwise, the recommendation is to reject.
+
+FINAL TWAP WINDOW
+UPDATED 11:01:07 PM
+
+YES TWAP
+
+0.008888
+
+NO TWAP
+
+0.008690
+
+YES outcome is ahead on TWAP.
+
+Trading Pair
+PNK/sDAI
+Yes Price
+0.0085 sDAI
+No Price
+0.0083 sDAI
+Status
+Resolved
+Impact (spot)
+—
+	
+	
+
+	
+	
+Redeem Tokens
+WINNING OUTCOME: YES
+
+No redeemable tokens found
+
+You don't have any YES outcome tokens to redeem.
+
+Resolved: YES
+If Yes
+If No
+Buy
+Sell
+Amount (sDAI)
+Max
+Available
+-
+Outcomes
+More info
+If Yes
+138.17 PNK
+Receive
+If No
+1.00 sDAI
+Recover
+Price impact 9.78%
+Insufficient balance
+Your view on KIP-88
+	If YES	If NO
+Bullish	BUY	SELL
+Bearish	SELL	BUY
+Balance
+sDAI
+0 sDAI
+mergeable
+YES 0 · NO 0
+Wallet:
+0 sDAI
+PNK
+0 PNK
+mergeable
+YES 0 · NO 0
+Wallet:
+0 PNK
+Split Collateral
+Merge Collateral
+Futarchy
+Market-based evaluation of governance decisions and milestones
+Social
+
+Switch Networks
+Ethereum
+Gnosis
+Connected

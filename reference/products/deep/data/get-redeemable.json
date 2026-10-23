@@ -1,0 +1,10 @@
+{
+ "_endpoint": "GET https://deep.seer.pm/.netlify/functions/get-redeemable?account=0x000000000000000000000000000000000000dEaD",
+ "_hits": 82,
+ "_complete_json": true,
+ "data": {
+  "checkedAt": 1792341734,
+  "wallets": {},
+  "executors": []
+ }
+}

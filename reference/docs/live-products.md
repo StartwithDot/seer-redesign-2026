@@ -1,0 +1,27 @@
+# What the live Seer products actually are (observed in the browser, Oct 17 2026)
+
+## Brand
+Seer's current public brand: purple, raven mascot inside a circle/orbit mark, 4-point star sparkles, italic display type. The EF kit replaces it with a lightning-S + "seer" wordmark on near-black. EF wins; the 4-point star sparkle is a safe optional accent.
+
+## seer.pm (homepage)
+Purple hero, raven illustration, headline "Seer, a next generation prediction marketplace", subline "Create, trade, and farm predictions". Sections: Create Unique Markets, Trade with Ease (Conditional Tokens, ERC1155 wrapped to ERC20), Kleros dispute resolution (Reality.eth answers), "A world of opportunities" category list, four market types: Categorical, Multi Categorical, Scalar, Multi Scalar. Nav: Documentation, Blog, Launch App.
+
+## app.seer.pm (Explorer, the Etherscan-like surface)
+Top nav: Markets, Leaderboard, Create Market, Policies v, App v, Connect, help, theme toggle. Row: big search ("Search by market, outcome or collection"), Filters dropdown, Create New Market. Grid of 3 cards per row: 40px circular logo + question; DONUT chart left with legend rows (label, %). Footer row: Seer logo, volume (e.g. $27.74k), tiny status icons (verified, chain, collection), star/bookmark. Market detail: breadcrumb, status strip "Reports open", question, "Answer on Reality.eth", meta row (type: Categorical, Liquidity, Volume, Verified), range tabs 1D 1W 1M All Custom, step-line chart with colored end-labels on the right axis, floating swap FAB (trade).
+
+## futarchy.seer.pm
+Header: Futarchy logo, theme toggle, Connect Wallet. Sections "Active Milestones" and "Recently Closed". Milestone card: round token logo (ETH, GNO, PNK), chain tag, question where the CONDITION is violet: "What will the impact on ETH price be **if EIP-8363 is Scheduled for Inclusion in Hegota?**", "Open until: 6d 17h 25m", three stat boxes: YES Price (blue) 2426.89 USDS, NO Price (amber) 2426.85 USDS, Impact (green) +0.00%. Closed cards show Status (Awaiting / Resolved), Outcome YES/NO, Impact %. Below: Organizations table (Gnosis DAO, Kleros DAO, Ethereum, VeloraDAO, Aave DAO): name, active, proposals, chain, liquidity; "Create market" button. KEY: futarchy here = conditional TOKEN PRICE markets (price of token if proposal passes vs fails), measured as Impact %.
+
+## deep.seer.pm ("AI Prediction Markets", Optimism)
+Light UI, blue accent. 3-step onboarding strip: 1 Connect wallet, 2 Create a trade wallet (a contract that batches hundreds of trades into one run), 3 Add sUSDS (settles in it, earns Sky savings yield). Tabs: "Round 3 · Originality" (LIVE) and Archive. Chart "Share of original work over time": each line is a repository's UP price = market estimate of how much is original. Each repository trades as UP/DOWN pair (UP = original share, DOWN = share carried by dependencies). Actions: Upload predictions (agents), Export market weights, Leaderboard, Guide. Footer card "Trading one market at a time? Seer has the individual market view, liquidity provision and full analytics. Browse on Seer".
+
+## Not live (new concepts from the bounty text)
+Opportunity Markets: traders forecast which submissions get selected; reviewers keep the final decision. Risk Pricing: market estimates of risk across DeFi protocols compared side by side (not a single yes/no price). No existing UI: design freely inside EF.
+
+## UPDATE: risk.seer.pm and opportunity.seer.pm DO exist (observed Oct 17 2026)
+
+### risk.seer.pm = "Kleros Foresight", Risk Pricing Predictions
+Question: "What is the yearly Probability of Default (PD) for the following DeFi assets during Q3 2026?" Trading period until 30 Sep 2026 23:59 UTC, countdown (Ended). Tabs Q3 2026 / Q4 2026 (coming soon). Views: Market Estimate Risk, Risk bars, Over time. 33 assets in groups: ETH Based 7 (weETH stETH ETH+ bsdETH rETH pufETH avETH), USD Based 13 (PYUSD RLUSD USDC USD1 USDS USDT RUSD USDF avUSD NUSD iUSD satUSD+ USDO), BTC Based 6 (BTCB solvBTC tBTC cbBTC LBTC UBTC), Funds Based 7 (GACLO-1 BUIDL-I JAAA JTRSY mF-ONE STAC U). Each shows PD (Ann.) and PD (Quart.), e.g. USDC 0.04%, stETH 0.08%, avETH 12.58%, USDF 15.80%. Risk bands: LOW 0-2%, MODERATE 2-5%, HIGH 5-10%, CRITICAL 10-100%. Headline stat: "Chance that no listed asset defaults" 46.52% (Ann.) / 82.59% (Quart.), with "No to All" shortcut. Participate: set estimates per protocol (choose how many; same capital predicts all at once), Upload CSV Predictions, "0 of 33 assets edited", Expand all. Pays in xDAI/sDAI/Foresight Credits on Gnosis Chain; Beginner and Advanced guides; Guide modal; Connect.
+
+### opportunity.seer.pm = Opportunity Markets
+Headline: "With AI, the cost of reviewing work is more than the time it takes to do it". Pitch: turn any selection process into a market; traders back the submission they think will be selected, odds move, sponsors prioritise review on top-rated submissions. Flow: Call for entries become submissions -> Traders set the odds of selection -> Price becomes a triage tool -> Sponsor makes final decision -> Traders earn P&L on the final decision. Pilot: one live market, "Seer AI Job Board Name", ACTIVE, liquidity $2.36K; leaders delegateyourjob.ai 5.9%, Zetsu.AI 4.1%, Wageware 3.6%, +232 more. Archive has 2 past markets (rebrand, Devcon merch). Protocol: TODAY Seer One operates it, NEXT anyone launches, ANY DECISION one shared layer. CTA "Open opportunity".

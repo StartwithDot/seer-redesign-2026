@@ -1,0 +1,2297 @@
+{
+ "startUrl": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+ "states": [
+  {
+   "id": "001",
+   "vp": "desktop",
+   "label": "/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "trigger": "page load",
+   "url": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election/",
+   "title": "Seer | Will the National Rally’s candidate win the next French presidential election?",
+   "shots": [
+    "001-desktop-markets-100-will-the-national-rallys-candidate-win-the-next-s0.png",
+    "001-desktop-markets-100-will-the-national-rallys-candidate-win-the-next-s1.png",
+    "001-desktop-markets-100-will-the-national-rallys-candidate-win-the-next-s2.png"
+   ],
+   "text": "001-desktop-markets-100-will-the-national-rallys-candidate-win-the-next.txt",
+   "dom": "001-desktop-markets-100-will-the-national-rallys-candidate-win-the-next.json",
+   "interactive": 58,
+   "charts": 3,
+   "tables": 1,
+   "dialogs": 0
+  },
+  {
+   "id": "002",
+   "vp": "desktop",
+   "label": "Policies",
+   "trigger": "click: button \"Policies\" on /markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "url": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election/",
+   "title": "Seer | Will the National Rally’s candidate win the next French presidential election?",
+   "shots": [
+    "002-desktop-Policies-s0.png",
+    "002-desktop-Policies-s1.png",
+    "002-desktop-Policies-s2.png"
+   ],
+   "text": "002-desktop-Policies.txt",
+   "dom": "002-desktop-Policies.json",
+   "interactive": 61,
+   "charts": 3,
+   "tables": 1,
+   "dialogs": 0
+  },
+  {
+   "id": "003",
+   "vp": "desktop",
+   "label": "Policies hover chart",
+   "trigger": "hover chart",
+   "url": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election/",
+   "title": "Seer | Will the National Rally’s candidate win the next French presidential election?",
+   "shots": [
+    "003-desktop-Policies-hover-chart-s0.png",
+    "003-desktop-Policies-hover-chart-s1.png",
+    "003-desktop-Policies-hover-chart-s2.png"
+   ],
+   "text": "003-desktop-Policies-hover-chart.txt",
+   "dom": "003-desktop-Policies-hover-chart.json",
+   "interactive": 61,
+   "charts": 3,
+   "tables": 1,
+   "dialogs": 0
+  },
+  {
+   "id": "004",
+   "vp": "desktop",
+   "label": "App",
+   "trigger": "click: button \"App\" on /markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "url": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election/",
+   "title": "Seer | Will the National Rally’s candidate win the next French presidential election?",
+   "shots": [
+    "004-desktop-App-s0.png",
+    "004-desktop-App-s1.png",
+    "004-desktop-App-s2.png"
+   ],
+   "text": "004-desktop-App.txt",
+   "dom": "004-desktop-App.json",
+   "interactive": 63,
+   "charts": 3,
+   "tables": 1,
+   "dialogs": 0
+  },
+  {
+   "id": "005",
+   "vp": "desktop",
+   "label": "24.69 xDAI",
+   "trigger": "click: button \"24.69 xDAI\" on /markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "url": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election/",
+   "title": "Seer | Will the National Rally’s candidate win the next French presidential election?",
+   "shots": [
+    "005-desktop-24-69-xDAI-s0.png",
+    "005-desktop-24-69-xDAI-s1.png",
+    "005-desktop-24-69-xDAI-s2.png"
+   ],
+   "text": "005-desktop-24-69-xDAI.txt",
+   "dom": "005-desktop-24-69-xDAI.json",
+   "interactive": 65,
+   "charts": 3,
+   "tables": 1,
+   "dialogs": 0
+  },
+  {
+   "id": "006",
+   "vp": "desktop",
+   "label": "Switch to dark mode",
+   "trigger": "click: button \"Switch to dark mode\" on /markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "url": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election/",
+   "title": "Seer | Will the National Rally’s candidate win the next French presidential election?",
+   "shots": [
+    "006-desktop-Switch-to-dark-mode-s0.png",
+    "006-desktop-Switch-to-dark-mode-s1.png",
+    "006-desktop-Switch-to-dark-mode-s2.png"
+   ],
+   "text": "006-desktop-Switch-to-dark-mode.txt",
+   "dom": "006-desktop-Switch-to-dark-mode.json",
+   "interactive": 58,
+   "charts": 3,
+   "tables": 1,
+   "dialogs": 0
+  },
+  {
+   "id": "007",
+   "vp": "desktop",
+   "label": "Answer on Reality.eth!",
+   "trigger": "click: button \"Answer on Reality.eth!\" on /markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "url": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election/",
+   "title": "Seer | Will the National Rally’s candidate win the next French presidential election?",
+   "shots": [
+    "007-desktop-Answer-on-Reality-eth-s0.png",
+    "007-desktop-Answer-on-Reality-eth-s1.png",
+    "007-desktop-Answer-on-Reality-eth-s2.png"
+   ],
+   "text": "007-desktop-Answer-on-Reality-eth.txt",
+   "dom": "007-desktop-Answer-on-Reality-eth.json",
+   "interactive": 63,
+   "charts": 3,
+   "tables": 1,
+   "dialogs": 1
+  },
+  {
+   "id": "008",
+   "vp": "desktop",
+   "label": "Open interest and liquidity breakdown",
+   "trigger": "click: button \"Open interest and liquidity breakdown\" on /markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "url": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election/",
+   "title": "Seer | Will the National Rally’s candidate win the next French presidential election?",
+   "shots": [
+    "008-desktop-Open-interest-and-liquidity-breakdown-s0.png",
+    "008-desktop-Open-interest-and-liquidity-breakdown-s1.png",
+    "008-desktop-Open-interest-and-liquidity-breakdown-s2.png"
+   ],
+   "text": "008-desktop-Open-interest-and-liquidity-breakdown.txt",
+   "dom": "008-desktop-Open-interest-and-liquidity-breakdown.json",
+   "interactive": 58,
+   "charts": 3,
+   "tables": 1,
+   "dialogs": 1
+  },
+  {
+   "id": "009",
+   "vp": "desktop",
+   "label": "Custom",
+   "trigger": "click: button \"Custom\" on /markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "url": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election/",
+   "title": "Seer | Will the National Rally’s candidate win the next French presidential election?",
+   "shots": [
+    "009-desktop-Custom-s0.png",
+    "009-desktop-Custom-s1.png",
+    "009-desktop-Custom-s2.png"
+   ],
+   "text": "009-desktop-Custom.txt",
+   "dom": "009-desktop-Custom.json",
+   "interactive": 101,
+   "charts": 3,
+   "tables": 1,
+   "dialogs": 1
+  },
+  {
+   "id": "010",
+   "vp": "desktop",
+   "label": "Add Liquidity",
+   "trigger": "click: button \"Add Liquidity\" on /markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "url": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election/",
+   "title": "Seer | Will the National Rally’s candidate win the next French presidential election?",
+   "shots": [
+    "010-desktop-Add-Liquidity-s0.png",
+    "010-desktop-Add-Liquidity-s1.png",
+    "010-desktop-Add-Liquidity-s2.png"
+   ],
+   "text": "010-desktop-Add-Liquidity.txt",
+   "dom": "010-desktop-Add-Liquidity.json",
+   "interactive": 61,
+   "charts": 3,
+   "tables": 1,
+   "dialogs": 1
+  },
+  {
+   "id": "011",
+   "vp": "desktop",
+   "label": "View pool details",
+   "trigger": "click: button \"View pool details\" on /markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "url": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election/",
+   "title": "Seer | Will the National Rally’s candidate win the next French presidential election?",
+   "shots": [
+    "011-desktop-View-pool-details-s0.png",
+    "011-desktop-View-pool-details-s1.png",
+    "011-desktop-View-pool-details-s2.png"
+   ],
+   "text": "011-desktop-View-pool-details.txt",
+   "dom": "011-desktop-View-pool-details.json",
+   "interactive": 64,
+   "charts": 3,
+   "tables": 1,
+   "dialogs": 0
+  },
+  {
+   "id": "012",
+   "vp": "desktop",
+   "label": "/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "trigger": "page load",
+   "url": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2/",
+   "title": "Seer | Will the National Rally’s candidate win the next French presidential election?",
+   "shots": [
+    "012-desktop-markets-100-will-the-national-rallys-candidate-win-the-next-s0.png",
+    "012-desktop-markets-100-will-the-national-rallys-candidate-win-the-next-s1.png",
+    "012-desktop-markets-100-will-the-national-rallys-candidate-win-the-next-s2.png"
+   ],
+   "text": "012-desktop-markets-100-will-the-national-rallys-candidate-win-the-next.txt",
+   "dom": "012-desktop-markets-100-will-the-national-rallys-candidate-win-the-next.json",
+   "interactive": 58,
+   "charts": 3,
+   "tables": 1,
+   "dialogs": 0
+  },
+  {
+   "id": "013",
+   "vp": "desktop",
+   "label": "Policies",
+   "trigger": "click: button \"Policies\" on /markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "url": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2/",
+   "title": "Seer | Will the National Rally’s candidate win the next French presidential election?",
+   "shots": [
+    "013-desktop-Policies-s0.png",
+    "013-desktop-Policies-s1.png",
+    "013-desktop-Policies-s2.png"
+   ],
+   "text": "013-desktop-Policies.txt",
+   "dom": "013-desktop-Policies.json",
+   "interactive": 61,
+   "charts": 3,
+   "tables": 1,
+   "dialogs": 0
+  },
+  {
+   "id": "014",
+   "vp": "desktop",
+   "label": "Policies hover chart",
+   "trigger": "hover chart",
+   "url": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2/",
+   "title": "Seer | Will the National Rally’s candidate win the next French presidential election?",
+   "shots": [
+    "014-desktop-Policies-hover-chart-s0.png",
+    "014-desktop-Policies-hover-chart-s1.png",
+    "014-desktop-Policies-hover-chart-s2.png"
+   ],
+   "text": "014-desktop-Policies-hover-chart.txt",
+   "dom": "014-desktop-Policies-hover-chart.json",
+   "interactive": 61,
+   "charts": 3,
+   "tables": 1,
+   "dialogs": 0
+  },
+  {
+   "id": "015",
+   "vp": "desktop",
+   "label": "App",
+   "trigger": "click: button \"App\" on /markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "url": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2/",
+   "title": "Seer | Will the National Rally’s candidate win the next French presidential election?",
+   "shots": [
+    "015-desktop-App-s0.png",
+    "015-desktop-App-s1.png",
+    "015-desktop-App-s2.png"
+   ],
+   "text": "015-desktop-App.txt",
+   "dom": "015-desktop-App.json",
+   "interactive": 63,
+   "charts": 3,
+   "tables": 1,
+   "dialogs": 0
+  },
+  {
+   "id": "016",
+   "vp": "desktop",
+   "label": "24.69 xDAI",
+   "trigger": "click: button \"24.69 xDAI\" on /markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "url": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2/",
+   "title": "Seer | Will the National Rally’s candidate win the next French presidential election?",
+   "shots": [
+    "016-desktop-24-69-xDAI-s0.png",
+    "016-desktop-24-69-xDAI-s1.png",
+    "016-desktop-24-69-xDAI-s2.png"
+   ],
+   "text": "016-desktop-24-69-xDAI.txt",
+   "dom": "016-desktop-24-69-xDAI.json",
+   "interactive": 65,
+   "charts": 3,
+   "tables": 1,
+   "dialogs": 0
+  },
+  {
+   "id": "017",
+   "vp": "desktop",
+   "label": "Switch to light mode",
+   "trigger": "click: button \"Switch to light mode\" on /markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "url": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2/",
+   "title": "Seer | Will the National Rally’s candidate win the next French presidential election?",
+   "shots": [
+    "017-desktop-Switch-to-light-mode-s0.png",
+    "017-desktop-Switch-to-light-mode-s1.png",
+    "017-desktop-Switch-to-light-mode-s2.png"
+   ],
+   "text": "017-desktop-Switch-to-light-mode.txt",
+   "dom": "017-desktop-Switch-to-light-mode.json",
+   "interactive": 58,
+   "charts": 3,
+   "tables": 1,
+   "dialogs": 0
+  },
+  {
+   "id": "018",
+   "vp": "desktop",
+   "label": "Answer on Reality.eth!",
+   "trigger": "click: button \"Answer on Reality.eth!\" on /markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "url": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2/",
+   "title": "Seer | Will the National Rally’s candidate win the next French presidential election?",
+   "shots": [
+    "018-desktop-Answer-on-Reality-eth-s0.png",
+    "018-desktop-Answer-on-Reality-eth-s1.png",
+    "018-desktop-Answer-on-Reality-eth-s2.png"
+   ],
+   "text": "018-desktop-Answer-on-Reality-eth.txt",
+   "dom": "018-desktop-Answer-on-Reality-eth.json",
+   "interactive": 63,
+   "charts": 3,
+   "tables": 1,
+   "dialogs": 1
+  },
+  {
+   "id": "019",
+   "vp": "desktop",
+   "label": "Open interest and liquidity breakdown",
+   "trigger": "click: button \"Open interest and liquidity breakdown\" on /markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "url": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2/",
+   "title": "Seer | Will the National Rally’s candidate win the next French presidential election?",
+   "shots": [
+    "019-desktop-Open-interest-and-liquidity-breakdown-s0.png",
+    "019-desktop-Open-interest-and-liquidity-breakdown-s1.png",
+    "019-desktop-Open-interest-and-liquidity-breakdown-s2.png"
+   ],
+   "text": "019-desktop-Open-interest-and-liquidity-breakdown.txt",
+   "dom": "019-desktop-Open-interest-and-liquidity-breakdown.json",
+   "interactive": 58,
+   "charts": 3,
+   "tables": 1,
+   "dialogs": 1
+  },
+  {
+   "id": "020",
+   "vp": "desktop",
+   "label": "Custom",
+   "trigger": "click: button \"Custom\" on /markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "url": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2/",
+   "title": "Seer | Will the National Rally’s candidate win the next French presidential election?",
+   "shots": [
+    "020-desktop-Custom-s0.png",
+    "020-desktop-Custom-s1.png",
+    "020-desktop-Custom-s2.png"
+   ],
+   "text": "020-desktop-Custom.txt",
+   "dom": "020-desktop-Custom.json",
+   "interactive": 101,
+   "charts": 3,
+   "tables": 1,
+   "dialogs": 1
+  },
+  {
+   "id": "021",
+   "vp": "desktop",
+   "label": "Add Liquidity",
+   "trigger": "click: button \"Add Liquidity\" on /markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "url": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2/",
+   "title": "Seer | Will the National Rally’s candidate win the next French presidential election?",
+   "shots": [
+    "021-desktop-Add-Liquidity-s0.png",
+    "021-desktop-Add-Liquidity-s1.png",
+    "021-desktop-Add-Liquidity-s2.png"
+   ],
+   "text": "021-desktop-Add-Liquidity.txt",
+   "dom": "021-desktop-Add-Liquidity.json",
+   "interactive": 61,
+   "charts": 3,
+   "tables": 1,
+   "dialogs": 1
+  },
+  {
+   "id": "022",
+   "vp": "desktop",
+   "label": "View pool details",
+   "trigger": "click: button \"View pool details\" on /markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "url": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2/",
+   "title": "Seer | Will the National Rally’s candidate win the next French presidential election?",
+   "shots": [
+    "022-desktop-View-pool-details-s0.png",
+    "022-desktop-View-pool-details-s1.png",
+    "022-desktop-View-pool-details-s2.png"
+   ],
+   "text": "022-desktop-View-pool-details.txt",
+   "dom": "022-desktop-View-pool-details.json",
+   "interactive": 64,
+   "charts": 3,
+   "tables": 1,
+   "dialogs": 0
+  },
+  {
+   "id": "023",
+   "vp": "desktop",
+   "label": "/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "trigger": "page load",
+   "url": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc/",
+   "title": "Seer | What name will be adopted for the futarchy-run AI job board organization announced by Seer on 25 September 2026?",
+   "shots": [
+    "023-desktop-markets-100-what-name-will-be-adopted-for-the-futarchy-run-s0.png",
+    "023-desktop-markets-100-what-name-will-be-adopted-for-the-futarchy-run-s1.png",
+    "023-desktop-markets-100-what-name-will-be-adopted-for-the-futarchy-run-s2.png"
+   ],
+   "text": "023-desktop-markets-100-what-name-will-be-adopted-for-the-futarchy-run.txt",
+   "dom": "023-desktop-markets-100-what-name-will-be-adopted-for-the-futarchy-run.json",
+   "interactive": 442,
+   "charts": 3,
+   "tables": 1,
+   "dialogs": 0
+  },
+  {
+   "id": "024",
+   "vp": "desktop",
+   "label": "Policies",
+   "trigger": "click: button \"Policies\" on /markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "url": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc/",
+   "title": "Seer | What name will be adopted for the futarchy-run AI job board organization announced by Seer on 25 September 2026?",
+   "shots": [
+    "024-desktop-Policies-s0.png",
+    "024-desktop-Policies-s1.png",
+    "024-desktop-Policies-s2.png"
+   ],
+   "text": "024-desktop-Policies.txt",
+   "dom": "024-desktop-Policies.json",
+   "interactive": 445,
+   "charts": 3,
+   "tables": 1,
+   "dialogs": 0
+  },
+  {
+   "id": "025",
+   "vp": "desktop",
+   "label": "Policies hover chart",
+   "trigger": "hover chart",
+   "url": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc/",
+   "title": "Seer | What name will be adopted for the futarchy-run AI job board organization announced by Seer on 25 September 2026?",
+   "shots": [
+    "025-desktop-Policies-hover-chart-s0.png",
+    "025-desktop-Policies-hover-chart-s1.png",
+    "025-desktop-Policies-hover-chart-s2.png"
+   ],
+   "text": "025-desktop-Policies-hover-chart.txt",
+   "dom": "025-desktop-Policies-hover-chart.json",
+   "interactive": 445,
+   "charts": 3,
+   "tables": 1,
+   "dialogs": 0
+  },
+  {
+   "id": "026",
+   "vp": "mobile",
+   "label": "/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "trigger": "page load",
+   "url": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election/",
+   "title": "Seer | Will the National Rally’s candidate win the next French presidential election?",
+   "shots": [
+    "026-mobile-markets-100-will-the-national-rallys-candidate-win-the-next-s0.png",
+    "026-mobile-markets-100-will-the-national-rallys-candidate-win-the-next-s1.png",
+    "026-mobile-markets-100-will-the-national-rallys-candidate-win-the-next-s2.png"
+   ],
+   "text": "026-mobile-markets-100-will-the-national-rallys-candidate-win-the-next.txt",
+   "dom": "026-mobile-markets-100-will-the-national-rallys-candidate-win-the-next.json",
+   "interactive": 48,
+   "charts": 3,
+   "tables": 1,
+   "dialogs": 1
+  },
+  {
+   "id": "027",
+   "vp": "mobile",
+   "label": "Answer on Reality.eth!",
+   "trigger": "click: button \"Answer on Reality.eth!\" on /markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "url": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election/",
+   "title": "Seer | Will the National Rally’s candidate win the next French presidential election?",
+   "shots": [
+    "027-mobile-Answer-on-Reality-eth-s0.png",
+    "027-mobile-Answer-on-Reality-eth-s1.png",
+    "027-mobile-Answer-on-Reality-eth-s2.png"
+   ],
+   "text": "027-mobile-Answer-on-Reality-eth.txt",
+   "dom": "027-mobile-Answer-on-Reality-eth.json",
+   "interactive": 53,
+   "charts": 3,
+   "tables": 1,
+   "dialogs": 2
+  },
+  {
+   "id": "028",
+   "vp": "mobile",
+   "label": "Answer on Reality.eth! hover chart",
+   "trigger": "hover chart",
+   "url": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election/",
+   "title": "Seer | Will the National Rally’s candidate win the next French presidential election?",
+   "shots": [
+    "028-mobile-Answer-on-Reality-eth-hover-chart-s0.png",
+    "028-mobile-Answer-on-Reality-eth-hover-chart-s1.png",
+    "028-mobile-Answer-on-Reality-eth-hover-chart-s2.png"
+   ],
+   "text": "028-mobile-Answer-on-Reality-eth-hover-chart.txt",
+   "dom": "028-mobile-Answer-on-Reality-eth-hover-chart.json",
+   "interactive": 53,
+   "charts": 3,
+   "tables": 1,
+   "dialogs": 2
+  },
+  {
+   "id": "029",
+   "vp": "mobile",
+   "label": "Open interest and liquidity breakdown",
+   "trigger": "click: button \"Open interest and liquidity breakdown\" on /markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "url": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election/",
+   "title": "Seer | Will the National Rally’s candidate win the next French presidential election?",
+   "shots": [
+    "029-mobile-Open-interest-and-liquidity-breakdown-s0.png",
+    "029-mobile-Open-interest-and-liquidity-breakdown-s1.png",
+    "029-mobile-Open-interest-and-liquidity-breakdown-s2.png"
+   ],
+   "text": "029-mobile-Open-interest-and-liquidity-breakdown.txt",
+   "dom": "029-mobile-Open-interest-and-liquidity-breakdown.json",
+   "interactive": 48,
+   "charts": 3,
+   "tables": 1,
+   "dialogs": 2
+  },
+  {
+   "id": "030",
+   "vp": "mobile",
+   "label": "Custom",
+   "trigger": "click: button \"Custom\" on /markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "url": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election/",
+   "title": "Seer | Will the National Rally’s candidate win the next French presidential election?",
+   "shots": [
+    "030-mobile-Custom-s0.png",
+    "030-mobile-Custom-s1.png",
+    "030-mobile-Custom-s2.png"
+   ],
+   "text": "030-mobile-Custom.txt",
+   "dom": "030-mobile-Custom.json",
+   "interactive": 91,
+   "charts": 3,
+   "tables": 1,
+   "dialogs": 2
+  },
+  {
+   "id": "031",
+   "vp": "mobile",
+   "label": "Add Liquidity",
+   "trigger": "click: button \"Add Liquidity\" on /markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "url": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election/",
+   "title": "Seer | Will the National Rally’s candidate win the next French presidential election?",
+   "shots": [
+    "031-mobile-Add-Liquidity-s0.png",
+    "031-mobile-Add-Liquidity-s1.png",
+    "031-mobile-Add-Liquidity-s2.png"
+   ],
+   "text": "031-mobile-Add-Liquidity.txt",
+   "dom": "031-mobile-Add-Liquidity.json",
+   "interactive": 51,
+   "charts": 3,
+   "tables": 1,
+   "dialogs": 2
+  },
+  {
+   "id": "032",
+   "vp": "mobile",
+   "label": "View pool details",
+   "trigger": "click: button \"View pool details\" on /markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "url": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election/",
+   "title": "Seer | Will the National Rally’s candidate win the next French presidential election?",
+   "shots": [
+    "032-mobile-View-pool-details-s0.png",
+    "032-mobile-View-pool-details-s1.png",
+    "032-mobile-View-pool-details-s2.png"
+   ],
+   "text": "032-mobile-View-pool-details.txt",
+   "dom": "032-mobile-View-pool-details.json",
+   "interactive": 54,
+   "charts": 3,
+   "tables": 1,
+   "dialogs": 1
+  },
+  {
+   "id": "033",
+   "vp": "mobile",
+   "label": "Comments",
+   "trigger": "click: tab \"Comments\" on /markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "url": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election/",
+   "title": "Seer | Will the National Rally’s candidate win the next French presidential election?",
+   "shots": [
+    "033-mobile-Comments-s0.png",
+    "033-mobile-Comments-s1.png",
+    "033-mobile-Comments-s2.png"
+   ],
+   "text": "033-mobile-Comments.txt",
+   "dom": "033-mobile-Comments.json",
+   "interactive": 48,
+   "charts": 3,
+   "tables": 1,
+   "dialogs": 1
+  },
+  {
+   "id": "034",
+   "vp": "mobile",
+   "label": "Related Conditional Markets",
+   "trigger": "click: tab \"Related Conditional Markets\" on /markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "url": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election/",
+   "title": "Seer | Will the National Rally’s candidate win the next French presidential election?",
+   "shots": [
+    "034-mobile-Related-Conditional-Markets-s0.png",
+    "034-mobile-Related-Conditional-Markets-s1.png",
+    "034-mobile-Related-Conditional-Markets-s2.png"
+   ],
+   "text": "034-mobile-Related-Conditional-Markets.txt",
+   "dom": "034-mobile-Related-Conditional-Markets.json",
+   "interactive": 60,
+   "charts": 2,
+   "tables": 1,
+   "dialogs": 1
+  },
+  {
+   "id": "035",
+   "vp": "mobile",
+   "label": "Top Holders",
+   "trigger": "click: tab \"Top Holders\" on /markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "url": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election/",
+   "title": "Seer | Will the National Rally’s candidate win the next French presidential election?",
+   "shots": [
+    "035-mobile-Top-Holders-s0.png",
+    "035-mobile-Top-Holders-s1.png",
+    "035-mobile-Top-Holders-s2.png"
+   ],
+   "text": "035-mobile-Top-Holders.txt",
+   "dom": "035-mobile-Top-Holders.json",
+   "interactive": 82,
+   "charts": 2,
+   "tables": 4,
+   "dialogs": 1
+  },
+  {
+   "id": "036",
+   "vp": "mobile",
+   "label": "Activity",
+   "trigger": "click: tab \"Activity\" on /markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "url": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election/",
+   "title": "Seer | Will the National Rally’s candidate win the next French presidential election?",
+   "shots": [
+    "036-mobile-Activity-s0.png",
+    "036-mobile-Activity-s1.png",
+    "036-mobile-Activity-s2.png"
+   ],
+   "text": "036-mobile-Activity.txt",
+   "dom": "036-mobile-Activity.json",
+   "interactive": 417,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 1
+  },
+  {
+   "id": "037",
+   "vp": "mobile",
+   "label": "Connect to comment",
+   "trigger": "click: button \"Connect to comment\" on /markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "url": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election/",
+   "title": "Seer | Will the National Rally’s candidate win the next French presidential election?",
+   "shots": [
+    "037-mobile-Connect-to-comment-s0.png",
+    "037-mobile-Connect-to-comment-s1.png",
+    "037-mobile-Connect-to-comment-s2.png"
+   ],
+   "text": "037-mobile-Connect-to-comment.txt",
+   "dom": "037-mobile-Connect-to-comment.json",
+   "interactive": 50,
+   "charts": 3,
+   "tables": 1,
+   "dialogs": 1
+  },
+  {
+   "id": "038",
+   "vp": "mobile",
+   "label": "/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "trigger": "page load",
+   "url": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2/",
+   "title": "Seer | Will the National Rally’s candidate win the next French presidential election?",
+   "shots": [
+    "038-mobile-markets-100-will-the-national-rallys-candidate-win-the-next-s0.png",
+    "038-mobile-markets-100-will-the-national-rallys-candidate-win-the-next-s1.png",
+    "038-mobile-markets-100-will-the-national-rallys-candidate-win-the-next-s2.png"
+   ],
+   "text": "038-mobile-markets-100-will-the-national-rallys-candidate-win-the-next.txt",
+   "dom": "038-mobile-markets-100-will-the-national-rallys-candidate-win-the-next.json",
+   "interactive": 48,
+   "charts": 3,
+   "tables": 1,
+   "dialogs": 1
+  },
+  {
+   "id": "039",
+   "vp": "mobile",
+   "label": "Answer on Reality.eth!",
+   "trigger": "click: button \"Answer on Reality.eth!\" on /markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "url": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2/",
+   "title": "Seer | Will the National Rally’s candidate win the next French presidential election?",
+   "shots": [
+    "039-mobile-Answer-on-Reality-eth-s0.png",
+    "039-mobile-Answer-on-Reality-eth-s1.png",
+    "039-mobile-Answer-on-Reality-eth-s2.png"
+   ],
+   "text": "039-mobile-Answer-on-Reality-eth.txt",
+   "dom": "039-mobile-Answer-on-Reality-eth.json",
+   "interactive": 53,
+   "charts": 3,
+   "tables": 1,
+   "dialogs": 2
+  },
+  {
+   "id": "040",
+   "vp": "mobile",
+   "label": "Answer on Reality.eth! hover chart",
+   "trigger": "hover chart",
+   "url": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2/",
+   "title": "Seer | Will the National Rally’s candidate win the next French presidential election?",
+   "shots": [
+    "040-mobile-Answer-on-Reality-eth-hover-chart-s0.png",
+    "040-mobile-Answer-on-Reality-eth-hover-chart-s1.png",
+    "040-mobile-Answer-on-Reality-eth-hover-chart-s2.png"
+   ],
+   "text": "040-mobile-Answer-on-Reality-eth-hover-chart.txt",
+   "dom": "040-mobile-Answer-on-Reality-eth-hover-chart.json",
+   "interactive": 53,
+   "charts": 3,
+   "tables": 1,
+   "dialogs": 2
+  },
+  {
+   "id": "041",
+   "vp": "mobile",
+   "label": "Open interest and liquidity breakdown",
+   "trigger": "click: button \"Open interest and liquidity breakdown\" on /markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "url": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2/",
+   "title": "Seer | Will the National Rally’s candidate win the next French presidential election?",
+   "shots": [
+    "041-mobile-Open-interest-and-liquidity-breakdown-s0.png",
+    "041-mobile-Open-interest-and-liquidity-breakdown-s1.png",
+    "041-mobile-Open-interest-and-liquidity-breakdown-s2.png"
+   ],
+   "text": "041-mobile-Open-interest-and-liquidity-breakdown.txt",
+   "dom": "041-mobile-Open-interest-and-liquidity-breakdown.json",
+   "interactive": 48,
+   "charts": 3,
+   "tables": 1,
+   "dialogs": 2
+  },
+  {
+   "id": "042",
+   "vp": "mobile",
+   "label": "Custom",
+   "trigger": "click: button \"Custom\" on /markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "url": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2/",
+   "title": "Seer | Will the National Rally’s candidate win the next French presidential election?",
+   "shots": [
+    "042-mobile-Custom-s0.png",
+    "042-mobile-Custom-s1.png",
+    "042-mobile-Custom-s2.png"
+   ],
+   "text": "042-mobile-Custom.txt",
+   "dom": "042-mobile-Custom.json",
+   "interactive": 91,
+   "charts": 3,
+   "tables": 1,
+   "dialogs": 2
+  },
+  {
+   "id": "043",
+   "vp": "mobile",
+   "label": "Add Liquidity",
+   "trigger": "click: button \"Add Liquidity\" on /markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "url": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2/",
+   "title": "Seer | Will the National Rally’s candidate win the next French presidential election?",
+   "shots": [
+    "043-mobile-Add-Liquidity-s0.png",
+    "043-mobile-Add-Liquidity-s1.png",
+    "043-mobile-Add-Liquidity-s2.png"
+   ],
+   "text": "043-mobile-Add-Liquidity.txt",
+   "dom": "043-mobile-Add-Liquidity.json",
+   "interactive": 51,
+   "charts": 3,
+   "tables": 1,
+   "dialogs": 2
+  },
+  {
+   "id": "044",
+   "vp": "mobile",
+   "label": "View pool details",
+   "trigger": "click: button \"View pool details\" on /markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "url": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2/",
+   "title": "Seer | Will the National Rally’s candidate win the next French presidential election?",
+   "shots": [
+    "044-mobile-View-pool-details-s0.png",
+    "044-mobile-View-pool-details-s1.png",
+    "044-mobile-View-pool-details-s2.png"
+   ],
+   "text": "044-mobile-View-pool-details.txt",
+   "dom": "044-mobile-View-pool-details.json",
+   "interactive": 54,
+   "charts": 3,
+   "tables": 1,
+   "dialogs": 1
+  },
+  {
+   "id": "045",
+   "vp": "mobile",
+   "label": "Comments",
+   "trigger": "click: tab \"Comments\" on /markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "url": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2/",
+   "title": "Seer | Will the National Rally’s candidate win the next French presidential election?",
+   "shots": [
+    "045-mobile-Comments-s0.png",
+    "045-mobile-Comments-s1.png",
+    "045-mobile-Comments-s2.png"
+   ],
+   "text": "045-mobile-Comments.txt",
+   "dom": "045-mobile-Comments.json",
+   "interactive": 48,
+   "charts": 3,
+   "tables": 1,
+   "dialogs": 1
+  },
+  {
+   "id": "046",
+   "vp": "mobile",
+   "label": "Related Conditional Markets",
+   "trigger": "click: tab \"Related Conditional Markets\" on /markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "url": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2/",
+   "title": "Seer | Will the National Rally’s candidate win the next French presidential election?",
+   "shots": [
+    "046-mobile-Related-Conditional-Markets-s0.png",
+    "046-mobile-Related-Conditional-Markets-s1.png",
+    "046-mobile-Related-Conditional-Markets-s2.png"
+   ],
+   "text": "046-mobile-Related-Conditional-Markets.txt",
+   "dom": "046-mobile-Related-Conditional-Markets.json",
+   "interactive": 60,
+   "charts": 2,
+   "tables": 1,
+   "dialogs": 1
+  },
+  {
+   "id": "047",
+   "vp": "mobile",
+   "label": "Top Holders",
+   "trigger": "click: tab \"Top Holders\" on /markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "url": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2/",
+   "title": "Seer | Will the National Rally’s candidate win the next French presidential election?",
+   "shots": [
+    "047-mobile-Top-Holders-s0.png",
+    "047-mobile-Top-Holders-s1.png",
+    "047-mobile-Top-Holders-s2.png"
+   ],
+   "text": "047-mobile-Top-Holders.txt",
+   "dom": "047-mobile-Top-Holders.json",
+   "interactive": 78,
+   "charts": 2,
+   "tables": 4,
+   "dialogs": 1
+  },
+  {
+   "id": "048",
+   "vp": "mobile",
+   "label": "Activity",
+   "trigger": "click: tab \"Activity\" on /markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "url": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2/",
+   "title": "Seer | Will the National Rally’s candidate win the next French presidential election?",
+   "shots": [
+    "048-mobile-Activity-s0.png",
+    "048-mobile-Activity-s1.png",
+    "048-mobile-Activity-s2.png"
+   ],
+   "text": "048-mobile-Activity.txt",
+   "dom": "048-mobile-Activity.json",
+   "interactive": 147,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 1
+  },
+  {
+   "id": "049",
+   "vp": "mobile",
+   "label": "Connect to comment",
+   "trigger": "click: button \"Connect to comment\" on /markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "url": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2/",
+   "title": "Seer | Will the National Rally’s candidate win the next French presidential election?",
+   "shots": [
+    "049-mobile-Connect-to-comment-s0.png",
+    "049-mobile-Connect-to-comment-s1.png",
+    "049-mobile-Connect-to-comment-s2.png"
+   ],
+   "text": "049-mobile-Connect-to-comment.txt",
+   "dom": "049-mobile-Connect-to-comment.json",
+   "interactive": 50,
+   "charts": 3,
+   "tables": 1,
+   "dialogs": 1
+  }
+ ],
+ "transitions": [
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "via": "https://gnosisscan.io/address/0xbbf8f7e40a9234d965f59802c1b3720b21bcc32e",
+   "to": "https://gnosisscan.io/address/0xbbf8f7e40a9234d965f59802c1b3720b21bcc32e",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "via": "Verified",
+   "to": "https://curate.kleros.io/tcr/100/0x5aAF9E23A11440F8C1Ad6D2E2e5109C7e52CC672/0xafde7fcd37a405b74417b262930a032a37a08431fa18fb651476d96d4d7ceab0",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "via": "Charting by TradingView",
+   "to": "https://www.tradingview.com/?utm_medium=lwc-link&utm_campaign=lwc-chart&utm_source=app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election/",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "via": "https://gnosisscan.io/token/0x50c4fe51489ae29f370b61c332255f58fdd7323c",
+   "to": "https://gnosisscan.io/token/0x50c4fe51489ae29f370b61c332255f58fdd7323c",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "via": "https://gnosisscan.io/token/0x2d2e6877ccfcad73bdd21a49deda9e8e8ffb65d5",
+   "to": "https://gnosisscan.io/token/0x2d2e6877ccfcad73bdd21a49deda9e8e8ffb65d5",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "via": "https://gnosisscan.io/token/0x174cf4f917082ed619bf883f435b51cb6634ae71",
+   "to": "https://gnosisscan.io/token/0x174cf4f917082ed619bf883f435b51cb6634ae71",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "via": "Add Liquidity",
+   "to": "https://v3.swapr.eth.limo/#/add/0x053720357c72aea18963ec9712ed645d70b605f6/0x174cf4f917082ed619bf883f435b51cb6634ae71/enter-amounts",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "via": "https://kleros.io/",
+   "to": "https://kleros.io/",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "via": "https://discord.com/invite/rBEB4MYQwV",
+   "to": "https://discord.com/invite/rBEB4MYQwV",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "via": "https://t.me/Seerpredictionmarket",
+   "to": "https://t.me/Seerpredictionmarket",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "via": "https://x.com/seer_pm",
+   "to": "https://x.com/seer_pm",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "via": "https://github.com/seer-pm",
+   "to": "https://github.com/seer-pm",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "via": "button: Policies",
+   "to": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election/",
+   "newState": true,
+   "state": "002",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "via": "button: App",
+   "to": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election/",
+   "newState": true,
+   "state": "004",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "via": "button: 24.69 xDAI",
+   "to": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election/",
+   "newState": true,
+   "state": "005",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "via": "button: Switch to dark mode",
+   "to": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election/",
+   "newState": true,
+   "state": "006",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "via": "button: Answer on Reality.eth!",
+   "to": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election/",
+   "newState": true,
+   "state": "007",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "via": "button: Open interest and liquidity breakdown",
+   "to": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election/",
+   "newState": true,
+   "state": "008",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "via": "button: Custom",
+   "to": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election/",
+   "newState": true,
+   "state": "009",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "via": "button: Add Liquidity",
+   "to": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election/",
+   "newState": true,
+   "state": "010",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "via": "button: View pool details",
+   "to": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election/",
+   "newState": true,
+   "state": "011",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "via": "button: Add Liquidity",
+   "to": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election/",
+   "newState": false,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "via": "button: View pool details",
+   "to": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election/",
+   "newState": false,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "via": "button: View pool details",
+   "to": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election/",
+   "newState": false,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "via": "https://gnosisscan.io/address/0xfe414db77da686f2050877565b7223b7da4b7c36",
+   "to": "https://gnosisscan.io/address/0xfe414db77da686f2050877565b7223b7da4b7c36",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "via": "Verified",
+   "to": "https://curate.kleros.io/tcr/100/0x5aAF9E23A11440F8C1Ad6D2E2e5109C7e52CC672/0xc4ea39115346d3aa1e2184ee62a656cb2efd054fd0673eda3aa2d923645fdced",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "via": "Charting by TradingView",
+   "to": "https://www.tradingview.com/?utm_medium=lwc-link&utm_campaign=lwc-chart&utm_source=app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2/",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "via": "https://gnosisscan.io/token/0xd6783957dc1a88d7334a02a51ef317e20e34a982",
+   "to": "https://gnosisscan.io/token/0xd6783957dc1a88d7334a02a51ef317e20e34a982",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "via": "https://gnosisscan.io/token/0x43840db454c5fc020660818983bffd5506f9de16",
+   "to": "https://gnosisscan.io/token/0x43840db454c5fc020660818983bffd5506f9de16",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "via": "https://gnosisscan.io/token/0x5fe7ca169d039007ac628e54d34e7a6cda0f179f",
+   "to": "https://gnosisscan.io/token/0x5fe7ca169d039007ac628e54d34e7a6cda0f179f",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "via": "Add Liquidity",
+   "to": "https://v3.swapr.eth.limo/#/add/0x2beee027677241fa88cce318624c4417b8d1f484/0x5fe7ca169d039007ac628e54d34e7a6cda0f179f/enter-amounts",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "via": "https://kleros.io/",
+   "to": "https://kleros.io/",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "via": "https://discord.com/invite/rBEB4MYQwV",
+   "to": "https://discord.com/invite/rBEB4MYQwV",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "via": "https://t.me/Seerpredictionmarket",
+   "to": "https://t.me/Seerpredictionmarket",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "via": "https://x.com/seer_pm",
+   "to": "https://x.com/seer_pm",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "via": "https://github.com/seer-pm",
+   "to": "https://github.com/seer-pm",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "via": "button: Policies",
+   "to": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2/",
+   "newState": true,
+   "state": "013",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "via": "button: App",
+   "to": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2/",
+   "newState": true,
+   "state": "015",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "via": "button: 24.69 xDAI",
+   "to": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2/",
+   "newState": true,
+   "state": "016",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "via": "button: Switch to light mode",
+   "to": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2/",
+   "newState": true,
+   "state": "017",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "via": "button: Answer on Reality.eth!",
+   "to": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2/",
+   "newState": true,
+   "state": "018",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "via": "button: Open interest and liquidity breakdown",
+   "to": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2/",
+   "newState": true,
+   "state": "019",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "via": "button: Custom",
+   "to": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2/",
+   "newState": true,
+   "state": "020",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "via": "button: Add Liquidity",
+   "to": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2/",
+   "newState": true,
+   "state": "021",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "via": "button: View pool details",
+   "to": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2/",
+   "newState": true,
+   "state": "022",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "via": "button: Add Liquidity",
+   "to": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2/",
+   "newState": false,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "via": "button: View pool details",
+   "to": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2/",
+   "newState": false,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "via": "button: View pool details",
+   "to": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2/",
+   "newState": false,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/address/0x8b3c7f3f09f6a85353926d8ee0f12decc1c9a5e8",
+   "to": "https://gnosisscan.io/address/0x8b3c7f3f09f6a85353926d8ee0f12decc1c9a5e8",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "Charting by TradingView",
+   "to": "https://www.tradingview.com/?utm_medium=lwc-link&utm_campaign=lwc-chart&utm_source=app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc/",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0xd391e6a3fcd03fb4a712ca1da951f9982b77cfef",
+   "to": "https://gnosisscan.io/token/0xd391e6a3fcd03fb4a712ca1da951f9982b77cfef",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0xf4f9edeacdeef5994f57e9ee62411a98151f34ff",
+   "to": "https://gnosisscan.io/token/0xf4f9edeacdeef5994f57e9ee62411a98151f34ff",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0x2baa8aa45cebe6f9bd6277d5e6208d49aa9ed7e0",
+   "to": "https://gnosisscan.io/token/0x2baa8aa45cebe6f9bd6277d5e6208d49aa9ed7e0",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0xc5c1ab53b5e347610e1a20496669d5b6771e89be",
+   "to": "https://gnosisscan.io/token/0xc5c1ab53b5e347610e1a20496669d5b6771e89be",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0x4757e26a064601e2b3d25dd7977c8e017caf8f1b",
+   "to": "https://gnosisscan.io/token/0x4757e26a064601e2b3d25dd7977c8e017caf8f1b",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0x244d7bedff17dd1f0bbd4c88828f6ce61b9863de",
+   "to": "https://gnosisscan.io/token/0x244d7bedff17dd1f0bbd4c88828f6ce61b9863de",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0x8864533624e0aec7554fc1cb4e173d7c325d3f86",
+   "to": "https://gnosisscan.io/token/0x8864533624e0aec7554fc1cb4e173d7c325d3f86",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0x72f795fa9e1495b0761893f65f3b9424690e332a",
+   "to": "https://gnosisscan.io/token/0x72f795fa9e1495b0761893f65f3b9424690e332a",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0x812de08f32d51a713d6e5adf5e4ca2a90f17bccd",
+   "to": "https://gnosisscan.io/token/0x812de08f32d51a713d6e5adf5e4ca2a90f17bccd",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0x74ff0da3094c3f6098f4aeaf7c01f5328a7f8b6f",
+   "to": "https://gnosisscan.io/token/0x74ff0da3094c3f6098f4aeaf7c01f5328a7f8b6f",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0x838e8304ac5491cec03b0938174bef910017d2c6",
+   "to": "https://gnosisscan.io/token/0x838e8304ac5491cec03b0938174bef910017d2c6",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0x6ae9d61e923f7ece7d186c29052b43ecd4953db1",
+   "to": "https://gnosisscan.io/token/0x6ae9d61e923f7ece7d186c29052b43ecd4953db1",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0xb226e1a92e72c93c31c3520412fa668097a0cc21",
+   "to": "https://gnosisscan.io/token/0xb226e1a92e72c93c31c3520412fa668097a0cc21",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0xbe2c5c91fef088bccfbafd51a9cf9bc2991cb298",
+   "to": "https://gnosisscan.io/token/0xbe2c5c91fef088bccfbafd51a9cf9bc2991cb298",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0xb53c451c33a44c16073b595569fdf6414609ec0b",
+   "to": "https://gnosisscan.io/token/0xb53c451c33a44c16073b595569fdf6414609ec0b",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0x2559e9dde22f03f187096f5ac6a0c5eff29dc9ec",
+   "to": "https://gnosisscan.io/token/0x2559e9dde22f03f187096f5ac6a0c5eff29dc9ec",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0xc3ef43a67d268f64d426f897d2a3845358f2deaf",
+   "to": "https://gnosisscan.io/token/0xc3ef43a67d268f64d426f897d2a3845358f2deaf",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0x9828ab62957121b5ceeb958ad312fe2e3c7e1902",
+   "to": "https://gnosisscan.io/token/0x9828ab62957121b5ceeb958ad312fe2e3c7e1902",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0xa82e90d324481784ed251682a3fe6d181a517600",
+   "to": "https://gnosisscan.io/token/0xa82e90d324481784ed251682a3fe6d181a517600",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0x49a2b943ddd464630e58cb43762f4f15a068ebcb",
+   "to": "https://gnosisscan.io/token/0x49a2b943ddd464630e58cb43762f4f15a068ebcb",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0x39ef120690f959c42c501feb97268e2ab9fadc9a",
+   "to": "https://gnosisscan.io/token/0x39ef120690f959c42c501feb97268e2ab9fadc9a",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0x18e16b354917be0e152e24ff9b9f6acd86508ca9",
+   "to": "https://gnosisscan.io/token/0x18e16b354917be0e152e24ff9b9f6acd86508ca9",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0x7585e5efd9142eb9ebd4eed1942f5eb99a28f1a5",
+   "to": "https://gnosisscan.io/token/0x7585e5efd9142eb9ebd4eed1942f5eb99a28f1a5",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0xf001fd8e096bc2fde51747444ff6bcfc7c7de883",
+   "to": "https://gnosisscan.io/token/0xf001fd8e096bc2fde51747444ff6bcfc7c7de883",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0x1ac390a48e37bb63530087b95fac9b6d394f7751",
+   "to": "https://gnosisscan.io/token/0x1ac390a48e37bb63530087b95fac9b6d394f7751",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0x71ed52056ef314e05b37f9b379b19624a260c03e",
+   "to": "https://gnosisscan.io/token/0x71ed52056ef314e05b37f9b379b19624a260c03e",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0x561108e85a935510aeeb884a69e7ed37c906d2b8",
+   "to": "https://gnosisscan.io/token/0x561108e85a935510aeeb884a69e7ed37c906d2b8",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0xadb8d0fb9530be8481a67b274b25bf1bd61e6735",
+   "to": "https://gnosisscan.io/token/0xadb8d0fb9530be8481a67b274b25bf1bd61e6735",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0x5dccf9e2d6af057b24a520b96117b65135e0af7e",
+   "to": "https://gnosisscan.io/token/0x5dccf9e2d6af057b24a520b96117b65135e0af7e",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0x0e22cd79cd46b9ddff4ce860ce0bd309d3371730",
+   "to": "https://gnosisscan.io/token/0x0e22cd79cd46b9ddff4ce860ce0bd309d3371730",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0xdec899a15b95167bf23a3773b7677d847e1fbf8d",
+   "to": "https://gnosisscan.io/token/0xdec899a15b95167bf23a3773b7677d847e1fbf8d",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0x016ca1e8c38e50f0f0529e6ea13dae769c1b2c2c",
+   "to": "https://gnosisscan.io/token/0x016ca1e8c38e50f0f0529e6ea13dae769c1b2c2c",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0xf3c3610157eb77943436fcc56731d158cf6a630b",
+   "to": "https://gnosisscan.io/token/0xf3c3610157eb77943436fcc56731d158cf6a630b",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0xe55535a82a74660a1986215f75f7edd24d3dd1e7",
+   "to": "https://gnosisscan.io/token/0xe55535a82a74660a1986215f75f7edd24d3dd1e7",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0xaf88672aa123cb630c3c880524ec39d7c606b35f",
+   "to": "https://gnosisscan.io/token/0xaf88672aa123cb630c3c880524ec39d7c606b35f",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0x54042b5c84484e7043e09b7f275aa8b9e04b5ebb",
+   "to": "https://gnosisscan.io/token/0x54042b5c84484e7043e09b7f275aa8b9e04b5ebb",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0x016d852c38519a9af7b81968891749968ee2669c",
+   "to": "https://gnosisscan.io/token/0x016d852c38519a9af7b81968891749968ee2669c",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0xd208656d74e496a6ff77bb5fe94ea70630ed46bd",
+   "to": "https://gnosisscan.io/token/0xd208656d74e496a6ff77bb5fe94ea70630ed46bd",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0x7d8a0d809f235e41227025befcf7d66490b78611",
+   "to": "https://gnosisscan.io/token/0x7d8a0d809f235e41227025befcf7d66490b78611",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0x08a42ad24d1d757ed042a1ed5f99b68be4ee0cb9",
+   "to": "https://gnosisscan.io/token/0x08a42ad24d1d757ed042a1ed5f99b68be4ee0cb9",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0x7a54db4f77fdcc07bbcca7afae1b83c634b56ed8",
+   "to": "https://gnosisscan.io/token/0x7a54db4f77fdcc07bbcca7afae1b83c634b56ed8",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0x44156bf0fcb53a364f185e782fc8ea434c3cdaaf",
+   "to": "https://gnosisscan.io/token/0x44156bf0fcb53a364f185e782fc8ea434c3cdaaf",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0x2b34ef7fd0ee50c83c6b2e3a7d400ebac478af6f",
+   "to": "https://gnosisscan.io/token/0x2b34ef7fd0ee50c83c6b2e3a7d400ebac478af6f",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0x7f9e0e445271215af5c7b6a517a48d346522ebb1",
+   "to": "https://gnosisscan.io/token/0x7f9e0e445271215af5c7b6a517a48d346522ebb1",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0xbebb61c07b3cb5bb7148c31104acba96cc6065c8",
+   "to": "https://gnosisscan.io/token/0xbebb61c07b3cb5bb7148c31104acba96cc6065c8",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0xa5b6662a5cda58e561a4ef28aa0f17a9fe010870",
+   "to": "https://gnosisscan.io/token/0xa5b6662a5cda58e561a4ef28aa0f17a9fe010870",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0xc2f085be42f443dec6e0d7a4e8791dbcf57b4661",
+   "to": "https://gnosisscan.io/token/0xc2f085be42f443dec6e0d7a4e8791dbcf57b4661",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0x76fb534d4175140577ed6c2188589058e57837eb",
+   "to": "https://gnosisscan.io/token/0x76fb534d4175140577ed6c2188589058e57837eb",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0x17710984dea2ee4883d3b005e9f0da39041398b0",
+   "to": "https://gnosisscan.io/token/0x17710984dea2ee4883d3b005e9f0da39041398b0",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0xcc80c5f1c3deb36fbb45042ffd1260b370e8f62b",
+   "to": "https://gnosisscan.io/token/0xcc80c5f1c3deb36fbb45042ffd1260b370e8f62b",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0xd97351f6280b8cceaba78932f5611448e2300e0e",
+   "to": "https://gnosisscan.io/token/0xd97351f6280b8cceaba78932f5611448e2300e0e",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0x697de8e813ed11d4a75e3edf2ffcda6915da91b8",
+   "to": "https://gnosisscan.io/token/0x697de8e813ed11d4a75e3edf2ffcda6915da91b8",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0x77c6574f3ea627a9327bf84b4e692633d7e2946b",
+   "to": "https://gnosisscan.io/token/0x77c6574f3ea627a9327bf84b4e692633d7e2946b",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0x27b5dd98061fc5bcad6821d692ecb440a2a7d840",
+   "to": "https://gnosisscan.io/token/0x27b5dd98061fc5bcad6821d692ecb440a2a7d840",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0x93389307335b8420005ca761ca040527c17b03e7",
+   "to": "https://gnosisscan.io/token/0x93389307335b8420005ca761ca040527c17b03e7",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0x35530f9a2ebc84cac76f1c860b6ffaf7fa654085",
+   "to": "https://gnosisscan.io/token/0x35530f9a2ebc84cac76f1c860b6ffaf7fa654085",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0xa0d22b5cf942da3fb7544e3124ebd41d2ec8878d",
+   "to": "https://gnosisscan.io/token/0xa0d22b5cf942da3fb7544e3124ebd41d2ec8878d",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0x38ef612738d7b8b78b1b979b45db46b0cd1f1995",
+   "to": "https://gnosisscan.io/token/0x38ef612738d7b8b78b1b979b45db46b0cd1f1995",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0x8e6e7a6c2052e8d33f840c86266c788ac4d0f9f6",
+   "to": "https://gnosisscan.io/token/0x8e6e7a6c2052e8d33f840c86266c788ac4d0f9f6",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0x246c2f4a00d94b5d8ace86c874113e32d30fc18a",
+   "to": "https://gnosisscan.io/token/0x246c2f4a00d94b5d8ace86c874113e32d30fc18a",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0x98cc649500976eb8f070eefaacf3e71262d8a3ca",
+   "to": "https://gnosisscan.io/token/0x98cc649500976eb8f070eefaacf3e71262d8a3ca",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0xfd45bb7b611272d1b28fdded3a050320ef61ba87",
+   "to": "https://gnosisscan.io/token/0xfd45bb7b611272d1b28fdded3a050320ef61ba87",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0xd5d9eae6743119f33c8b57a94405ff78a6c1fc77",
+   "to": "https://gnosisscan.io/token/0xd5d9eae6743119f33c8b57a94405ff78a6c1fc77",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0x1adca402e427cb30d896efca8dab8a6769562337",
+   "to": "https://gnosisscan.io/token/0x1adca402e427cb30d896efca8dab8a6769562337",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0x58239b4c5a4ee7aec35b2989e9e00ce9f2751bcd",
+   "to": "https://gnosisscan.io/token/0x58239b4c5a4ee7aec35b2989e9e00ce9f2751bcd",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0x23de0650c9686d4e5cf82a883062addfd68f4622",
+   "to": "https://gnosisscan.io/token/0x23de0650c9686d4e5cf82a883062addfd68f4622",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0x8fdfed8a429d42e495189f4f774d9a27fbf2bcf3",
+   "to": "https://gnosisscan.io/token/0x8fdfed8a429d42e495189f4f774d9a27fbf2bcf3",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0xc80e5d3f737d3cd2dcbabe56dac3b54139719aae",
+   "to": "https://gnosisscan.io/token/0xc80e5d3f737d3cd2dcbabe56dac3b54139719aae",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0x167fe09a72bd987371aa10bcd6c6f2399004c311",
+   "to": "https://gnosisscan.io/token/0x167fe09a72bd987371aa10bcd6c6f2399004c311",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0x793842e6d5c4574fba7da5832ce7d960512e284a",
+   "to": "https://gnosisscan.io/token/0x793842e6d5c4574fba7da5832ce7d960512e284a",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0xf60c708226d30e81b17f0684b216f171a4f54ab0",
+   "to": "https://gnosisscan.io/token/0xf60c708226d30e81b17f0684b216f171a4f54ab0",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0x0e191c05d13a8bb3ed6349b0646b3637f9bdb975",
+   "to": "https://gnosisscan.io/token/0x0e191c05d13a8bb3ed6349b0646b3637f9bdb975",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0xcf2a11a2f00aa637b86bda46cd9a6b9dd84ea1b0",
+   "to": "https://gnosisscan.io/token/0xcf2a11a2f00aa637b86bda46cd9a6b9dd84ea1b0",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0x075d72a340ad979adaaf3512c39402b85d6464cf",
+   "to": "https://gnosisscan.io/token/0x075d72a340ad979adaaf3512c39402b85d6464cf",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0x9a4c13dd743e596d9cb4b492502ab5061b01f9a3",
+   "to": "https://gnosisscan.io/token/0x9a4c13dd743e596d9cb4b492502ab5061b01f9a3",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0xabd1448e2173bb089ea940cc87bdeae08579fc50",
+   "to": "https://gnosisscan.io/token/0xabd1448e2173bb089ea940cc87bdeae08579fc50",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0x74a05b774f614102b975f7601835c892ff591740",
+   "to": "https://gnosisscan.io/token/0x74a05b774f614102b975f7601835c892ff591740",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0xe8c2b4f7aefc9e4489616ee5f2e9767bafa819df",
+   "to": "https://gnosisscan.io/token/0xe8c2b4f7aefc9e4489616ee5f2e9767bafa819df",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0xe77c1beb4c7a393bbed9c46eb9ccf35cc50d208f",
+   "to": "https://gnosisscan.io/token/0xe77c1beb4c7a393bbed9c46eb9ccf35cc50d208f",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "Add Liquidity",
+   "to": "https://v3.swapr.eth.limo/#/add/0xaf204776c7245bf4147c2612bf6e5972ee483701/0xe77c1beb4c7a393bbed9c46eb9ccf35cc50d208f/enter-amounts",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://gnosisscan.io/token/0xa9acd3b86882fdf8dffe2d06c919a57669fc1267",
+   "to": "https://gnosisscan.io/token/0xa9acd3b86882fdf8dffe2d06c919a57669fc1267",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "Add Liquidity",
+   "to": "https://v3.swapr.eth.limo/#/add/0xa9acd3b86882fdf8dffe2d06c919a57669fc1267/0xaf204776c7245bf4147c2612bf6e5972ee483701/enter-amounts",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://kleros.io/",
+   "to": "https://kleros.io/",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://discord.com/invite/rBEB4MYQwV",
+   "to": "https://discord.com/invite/rBEB4MYQwV",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://t.me/Seerpredictionmarket",
+   "to": "https://t.me/Seerpredictionmarket",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://x.com/seer_pm",
+   "to": "https://x.com/seer_pm",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "https://github.com/seer-pm",
+   "to": "https://github.com/seer-pm",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "via": "button: Policies",
+   "to": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc/",
+   "newState": true,
+   "state": "024",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "via": "https://gnosisscan.io/address/0xbbf8f7e40a9234d965f59802c1b3720b21bcc32e",
+   "to": "https://gnosisscan.io/address/0xbbf8f7e40a9234d965f59802c1b3720b21bcc32e",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "via": "https://curate.kleros.io/tcr/100/0x5aAF9E23A11440F8C1Ad6D2E2e5109C7e52CC672/0xafde7fcd37a405b74417b262930a032a37a08431fa18fb651476d96d4d7ceab0",
+   "to": "https://curate.kleros.io/tcr/100/0x5aAF9E23A11440F8C1Ad6D2E2e5109C7e52CC672/0xafde7fcd37a405b74417b262930a032a37a08431fa18fb651476d96d4d7ceab0",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "via": "Charting by TradingView",
+   "to": "https://www.tradingview.com/?utm_medium=lwc-link&utm_campaign=lwc-chart&utm_source=app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election/",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "via": "https://gnosisscan.io/token/0x50c4fe51489ae29f370b61c332255f58fdd7323c",
+   "to": "https://gnosisscan.io/token/0x50c4fe51489ae29f370b61c332255f58fdd7323c",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "via": "https://gnosisscan.io/token/0x2d2e6877ccfcad73bdd21a49deda9e8e8ffb65d5",
+   "to": "https://gnosisscan.io/token/0x2d2e6877ccfcad73bdd21a49deda9e8e8ffb65d5",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "via": "https://gnosisscan.io/token/0x174cf4f917082ed619bf883f435b51cb6634ae71",
+   "to": "https://gnosisscan.io/token/0x174cf4f917082ed619bf883f435b51cb6634ae71",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "via": "Add Liquidity",
+   "to": "https://v3.swapr.eth.limo/#/add/0x053720357c72aea18963ec9712ed645d70b605f6/0x174cf4f917082ed619bf883f435b51cb6634ae71/enter-amounts",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "via": "https://kleros.io/",
+   "to": "https://kleros.io/",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "via": "https://discord.com/invite/rBEB4MYQwV",
+   "to": "https://discord.com/invite/rBEB4MYQwV",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "via": "https://t.me/Seerpredictionmarket",
+   "to": "https://t.me/Seerpredictionmarket",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "via": "https://x.com/seer_pm",
+   "to": "https://x.com/seer_pm",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "via": "https://github.com/seer-pm",
+   "to": "https://github.com/seer-pm",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "via": "button: Answer on Reality.eth!",
+   "to": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election/",
+   "newState": true,
+   "state": "027",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "via": "button: Open interest and liquidity breakdown",
+   "to": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election/",
+   "newState": true,
+   "state": "029",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "via": "button: Custom",
+   "to": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election/",
+   "newState": true,
+   "state": "030",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "via": "button: Add Liquidity",
+   "to": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election/",
+   "newState": true,
+   "state": "031",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "via": "button: View pool details",
+   "to": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election/",
+   "newState": true,
+   "state": "032",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "via": "button: Add Liquidity",
+   "to": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election/",
+   "newState": false,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "via": "button: View pool details",
+   "to": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election/",
+   "newState": false,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "via": "button: View pool details",
+   "to": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election/",
+   "newState": false,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "via": "tab: Comments",
+   "to": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election/",
+   "newState": true,
+   "state": "033",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "via": "tab: Related Conditional Markets",
+   "to": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election/",
+   "newState": true,
+   "state": "034",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "via": "tab: Top Holders",
+   "to": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election/",
+   "newState": true,
+   "state": "035",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "via": "tab: Activity",
+   "to": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election/",
+   "newState": true,
+   "state": "036",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "via": "button: Connect to comment",
+   "to": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election/",
+   "newState": true,
+   "state": "037",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "via": "https://gnosisscan.io/address/0xfe414db77da686f2050877565b7223b7da4b7c36",
+   "to": "https://gnosisscan.io/address/0xfe414db77da686f2050877565b7223b7da4b7c36",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "via": "https://curate.kleros.io/tcr/100/0x5aAF9E23A11440F8C1Ad6D2E2e5109C7e52CC672/0xc4ea39115346d3aa1e2184ee62a656cb2efd054fd0673eda3aa2d923645fdced",
+   "to": "https://curate.kleros.io/tcr/100/0x5aAF9E23A11440F8C1Ad6D2E2e5109C7e52CC672/0xc4ea39115346d3aa1e2184ee62a656cb2efd054fd0673eda3aa2d923645fdced",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "via": "Charting by TradingView",
+   "to": "https://www.tradingview.com/?utm_medium=lwc-link&utm_campaign=lwc-chart&utm_source=app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2/",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "via": "https://gnosisscan.io/token/0xd6783957dc1a88d7334a02a51ef317e20e34a982",
+   "to": "https://gnosisscan.io/token/0xd6783957dc1a88d7334a02a51ef317e20e34a982",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "via": "https://gnosisscan.io/token/0x43840db454c5fc020660818983bffd5506f9de16",
+   "to": "https://gnosisscan.io/token/0x43840db454c5fc020660818983bffd5506f9de16",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "via": "https://gnosisscan.io/token/0x5fe7ca169d039007ac628e54d34e7a6cda0f179f",
+   "to": "https://gnosisscan.io/token/0x5fe7ca169d039007ac628e54d34e7a6cda0f179f",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "via": "Add Liquidity",
+   "to": "https://v3.swapr.eth.limo/#/add/0x2beee027677241fa88cce318624c4417b8d1f484/0x5fe7ca169d039007ac628e54d34e7a6cda0f179f/enter-amounts",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "via": "https://kleros.io/",
+   "to": "https://kleros.io/",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "via": "https://discord.com/invite/rBEB4MYQwV",
+   "to": "https://discord.com/invite/rBEB4MYQwV",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "via": "https://t.me/Seerpredictionmarket",
+   "to": "https://t.me/Seerpredictionmarket",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "via": "https://x.com/seer_pm",
+   "to": "https://x.com/seer_pm",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "via": "https://github.com/seer-pm",
+   "to": "https://github.com/seer-pm",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "via": "button: Answer on Reality.eth!",
+   "to": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2/",
+   "newState": true,
+   "state": "039",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "via": "button: Open interest and liquidity breakdown",
+   "to": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2/",
+   "newState": true,
+   "state": "041",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "via": "button: Custom",
+   "to": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2/",
+   "newState": true,
+   "state": "042",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "via": "button: Add Liquidity",
+   "to": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2/",
+   "newState": true,
+   "state": "043",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "via": "button: View pool details",
+   "to": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2/",
+   "newState": true,
+   "state": "044",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "via": "button: Add Liquidity",
+   "to": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2/",
+   "newState": false,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "via": "button: View pool details",
+   "to": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2/",
+   "newState": false,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "via": "button: View pool details",
+   "to": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2/",
+   "newState": false,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "via": "tab: Comments",
+   "to": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2/",
+   "newState": true,
+   "state": "045",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "via": "tab: Related Conditional Markets",
+   "to": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2/",
+   "newState": true,
+   "state": "046",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "via": "tab: Top Holders",
+   "to": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2/",
+   "newState": true,
+   "state": "047",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "via": "tab: Activity",
+   "to": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2/",
+   "newState": true,
+   "state": "048",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "via": "button: Connect to comment",
+   "to": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2/",
+   "newState": true,
+   "state": "049",
+   "vp": "mobile"
+  }
+ ],
+ "consoleErrors": [
+  "[1440] Failed to load resource: the server responded with a status of 404 ()",
+  "[390] Failed to load resource: the server responded with a status of 404 ()"
+ ]
+}

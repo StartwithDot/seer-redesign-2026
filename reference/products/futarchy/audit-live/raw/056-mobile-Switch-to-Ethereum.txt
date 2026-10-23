@@ -1,0 +1,254 @@
+Wrong Network
+
+Switch to the correct network to continue interacting with this market.
+
+CURRENT NETWORK
+
+Gnosis
+
+REQUIRED NETWORK
+
+Ethereum
+
+This proposal runs on Ethereum. Switch networks in your wallet to trade, add liquidity, or manage collateral for this market.
+
+Switching networks…
+Go back to companies
+Futarchy
+What will the impact on ETH price be if EIP-8363 is Scheduled for Inclusion in Hegotá?
+<0.01%
+Impact (spot)
+Active
+Status
+2.62M
+ⓘ
+Volume (Total; USDS)
+230.85K
+ⓘ
+TVL
+6d 6h 24m
+Remaining Time
+Active
+Resolve Question
+Add Liquidity
+
+Will Ethereum's core developers schedule EIP-8363 (Tapered Issuance Burn) for the Hegotá upgrade by Oct 24, 2026? The YES and NO pools price ETH in USDS under each outcome — the gap between them is the market's live estimate of the EIP's impact on ETH. Binding resolution text lives in the Reality.eth question (Resolve Question link).
+
+TWAP Complete
+
+5-day TWAP of conditional ETH prices (YES vs NO), Oct 9 12:00 - Oct 14 12:00 UTC, ending before ACDC #189 (Oct 15) so the market recommendation is available ahead of the Scheduled-for-Inclusion decision. Recommendation: include if YES > NO by more than 1%, exclude if NO > YES by more than 1%, neutral within the band.
+
+FINAL TWAP WINDOW
+
+call revert exception [ See: https://links.ethers.org/v5-errors-CALL_EXCEPTION ] (method="getTimepoints(uint32[])", data="0x", errorArgs=null, errorName=null, errorSignature=null, reason=null, code=CALL_EXCEPTION, version=abi/5.7.0)
+
+Trading Pair
+WETH/USDS
+Yes Price
+2401.44 USDS
+No Price
+2401.44 USDS
+Spot Price
+2403.08 USDS
+Impact (spot)
+<0.01%
+	
+	
+
+	
+	
+Recent Activity
+My Trades
+Position
+Last 30 trades
+Last 60 trades
+Last 90 trades
+NO
+buy
+10/17 22:23
+0.1373 NO_WETH→329.82 NO_USDS
+2401.8195
+YES
+buy
+10/17 22:23
+0.1373 YES_WETH→329.82 YES_USDS
+2401.8197
+NO
+buy
+10/17 22:00
+0.1371 NO_WETH→329.83 NO_USDS
+2404.9813
+YES
+buy
+10/17 22:00
+0.1371 YES_WETH→329.83 YES_USDS
+2404.9865
+NO
+buy
+10/17 21:49
+0.09686 NO_WETH→233.21 NO_USDS
+2407.6819
+YES
+buy
+10/17 21:49
+0.09686 YES_WETH→233.21 YES_USDS
+2407.6912
+NO
+sell
+10/17 21:31
+316.48 NO_USDS→0.1313 NO_WETH
+2409.6921
+YES
+sell
+10/17 21:31
+316.48 YES_USDS→0.1313 YES_WETH
+2409.7009
+NO
+buy
+10/17 21:24
+0.1370 NO_WETH→329.76 NO_USDS
+2407.3475
+YES
+buy
+10/17 21:24
+0.1370 YES_WETH→329.76 YES_USDS
+2407.3563
+NO
+buy
+10/17 21:20
+0.1368 NO_WETH→329.77 NO_USDS
+2410.5124
+YES
+buy
+10/17 21:20
+0.1368 YES_WETH→329.77 YES_USDS
+2410.5262
+NO
+buy
+10/17 20:58
+0.1413 NO_WETH→341.05 NO_USDS
+2413.7336
+YES
+buy
+10/17 20:58
+0.1413 YES_WETH→341.05 YES_USDS
+2413.7525
+NO
+buy
+10/17 20:50
+0.1930 NO_WETH→466.68 NO_USDS
+2417.6149
+YES
+buy
+10/17 20:50
+0.1930 YES_WETH→466.68 YES_USDS
+2417.6398
+NO
+buy
+10/17 20:49
+0.1267 NO_WETH→306.72 NO_USDS
+2421.3347
+YES
+buy
+10/17 20:49
+0.1267 YES_WETH→306.73 YES_USDS
+2421.3655
+NO
+sell
+10/17 20:22
+232.94 NO_USDS→0.09609 NO_WETH
+2424.1139
+YES
+sell
+10/17 20:22
+232.94 YES_USDS→0.09609 YES_WETH
+2424.1452
+NO
+buy
+10/17 18:38
+0.1641 NO_WETH→397.51 NO_USDS
+2422.4825
+YES
+buy
+10/17 18:38
+0.1641 YES_WETH→397.52 YES_USDS
+2422.5151
+NO
+buy
+10/17 18:17
+0.09608 NO_WETH→233.05 NO_USDS
+2425.5182
+YES
+buy
+10/17 18:17
+0.09608 YES_WETH→233.06 YES_USDS
+2425.5555
+NO
+buy
+10/17 17:51
+0.1137 NO_WETH→276.02 NO_USDS
+2427.9701
+YES
+buy
+10/17 17:51
+0.1137 YES_WETH→276.03 YES_USDS
+2428.0113
+NO
+buy
+10/17 17:43
+0.09589 NO_WETH→233.05 NO_USDS
+2430.4233
+YES
+buy
+10/17 17:43
+0.09589 YES_WETH→233.05 YES_USDS
+2430.4684
+NO
+buy
+10/17 17:18
+0.1143 NO_WETH→278.20 NO_USDS
+2432.8882
+YES
+buy
+10/17 17:18
+0.1143 YES_WETH→278.21 YES_USDS
+2432.9371
+If Yes
+If No
+Buy
+Sell
+Amount (USDS)
+Max
+Available
+3.6144 USDS
+Outcomes
+More info
+If Yes
+0.0004162 WETH
+Receive
+If No
+1.00 USDS
+Recover
+Confirm Swap
+Your view on EIP-8363
+	If YES	If NO
+Bullish	BUY	SELL
+Bearish	SELL	BUY
+Balance
+USDS
+0 USDS
+mergeable
+YES 0 · NO 0
+Wallet:
+3.6144 USDS
+WETH
+0 WETH
+mergeable
+YES 0 · NO 0
+Wallet:
+280.4597 WETH
+Split Collateral
+Merge Collateral
+Futarchy
+Market-based evaluation of governance decisions and milestones
+Social

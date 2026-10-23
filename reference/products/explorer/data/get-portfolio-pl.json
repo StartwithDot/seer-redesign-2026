@@ -1,0 +1,28 @@
+{
+ "_endpoint": "GET https://app.seer.pm/.netlify/functions/get-portfolio-pl?account=0x000000000000000000000000000000000000dEaD&chainId=100&period=all&collateralProfile=default&marketId=0x31cb54c49479243333594eb7343d31f6bd1ddfd3",
+ "_hits": 134,
+ "_complete_json": true,
+ "data": {
+  "account": "0x000000000000000000000000000000000000dead",
+  "chainId": 100,
+  "period": "all",
+  "marketIds": [
+   "0x31cb54c49479243333594eb7343d31f6bd1ddfd3"
+  ],
+  "startTime": 1784505599,
+  "endTime": 1792337187,
+  "valueStart": 0,
+  "valueEnd": 0,
+  "tradingCollateralNetOut": 0,
+  "lpCollateralNetOut": 0,
+  "volume": 0,
+  "marketCount": 0,
+  "capitalDeployed": 0,
+  "collateralValueStart": 0,
+  "collateralValueEnd": 0,
+  "routerPrimaryCollateralNetInWindow": 0,
+  "events": [],
+  "pnl": 0,
+  "computed": true
+ }
+}

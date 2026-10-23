@@ -1,0 +1,4951 @@
+{
+ "title": "Seer · Opportunity Markets",
+ "url": "https://opportunity.seer.pm/markets/100/0xe7850b0d928aa40ab8732bd323fa4f6ef3c24b8a?outcome=9",
+ "scrollHeight": 6041,
+ "headings": [
+  "h1: Seer Rebrand Contest",
+  "h2: Designs",
+  "h2: Outcomes",
+  "h3: Electric Foundation",
+  "h3: Convergent",
+  "h3: Constellation Oracle",
+  "h3: Prism",
+  "h3: Civic Signal",
+  "h3: Your only base layer for decision infrastructure.",
+  "h3: Geometric + Initial",
+  "h3: Signal Dark",
+  "h3: Datum",
+  "h3: Resolution Mark",
+  "h3: Crow Minimal",
+  "h3: Converge",
+  "h3: Sleek for Seer",
+  "h3: Signal Convergence",
+  "h3: Purple Horizon",
+  "h3: The Composable Identity",
+  "h3: Invalid",
+  "h2: PRICE HISTORY",
+  "h2: DISCUSSION",
+  "h2: Market finalized",
+  "h1: 0x0000••••dEaD"
+ ],
+ "interactive": [
+  {
+   "i": 0,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Seer Opportunity Markets home",
+   "href": "/",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    85,
+    17,
+    133,
+    32
+   ]
+  },
+  {
+   "i": 1,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "The pilot",
+   "href": "/#pilot",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1062,
+    23,
+    54,
+    20
+   ]
+  },
+  {
+   "i": 2,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "The protocol",
+   "href": "/#protocol",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1136,
+    23,
+    78,
+    20
+   ]
+  },
+  {
+   "i": 3,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "0x0000...dEaD",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1238,
+    16,
+    117,
+    34
+   ]
+  },
+  {
+   "i": 4,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "← BACK TO ARCHIVE",
+   "href": "/archive",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    85,
+    107,
+    136,
+    16
+   ]
+  },
+  {
+   "i": 5,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "0xe785...4b8a",
+   "href": "https://gnosisscan.io/address/0xe7850b0d928aa40ab8732bd323fa4f6ef3c24b8a",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    197,
+    493,
+    85,
+    17
+   ]
+  },
+  {
+   "i": 6,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "View on Seer ↗",
+   "href": "https://app.seer.pm/markets/100/which-of-the-following-submissions-will-win-the-seer-rebrand-contest",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    302,
+    493,
+    95,
+    17
+   ]
+  },
+  {
+   "i": 7,
+   "tag": "ul",
+   "role": "",
+   "type": "",
+   "text": "Design submissions",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    85,
+    617,
+    836,
+    347
+   ]
+  },
+  {
+   "i": 8,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Electric Foundation",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    85,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 9,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Electric Foundation",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    361,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 10,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Electric Foundation",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    637,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 11,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Electric Foundation",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    913,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 12,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Electric Foundation",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    1189,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 13,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Electric Foundation",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    1465,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 14,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Electric Foundation",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    1741,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 15,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Electric Foundation",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    2017,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 16,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Electric Foundation",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    2293,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 17,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Electric Foundation",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    2569,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 18,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Electric Foundation",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    2845,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 19,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Electric Foundation",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    3121,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 20,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Electric Foundation",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    3397,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 21,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Electric Foundation",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    3673,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 22,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Electric Foundation",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    3949,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 23,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Electric Foundation",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    4225,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 24,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Convergent",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    4501,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 25,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Convergent",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    4777,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 26,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Convergent",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    5053,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 27,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Convergent",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    5329,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 28,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Convergent",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    5605,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 29,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Convergent",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    5881,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 30,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Convergent",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    6157,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 31,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Constellation Oracle",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    6433,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 32,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Constellation Oracle",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    6709,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 33,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Constellation Oracle",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    6985,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 34,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Constellation Oracle",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    7261,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 35,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Constellation Oracle",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    7537,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 36,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Constellation Oracle",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    7813,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 37,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Prism",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    8089,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 38,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Prism",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    8365,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 39,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Prism",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    8641,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 40,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Prism",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    8917,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 41,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Prism",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    9193,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 42,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Civic Signal",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    9469,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 43,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Civic Signal",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    9745,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 44,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Civic Signal",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    10021,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 45,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Civic Signal",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    10297,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 46,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Civic Signal",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    10573,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 47,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Civic Signal",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    10849,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 48,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Your only base layer for decision infrastructure.",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    11125,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 49,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Your only base layer for decision infrastructure.",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    11401,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 50,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Your only base layer for decision infrastructure.",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    11677,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 51,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Your only base layer for decision infrastructure.",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    11953,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 52,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Your only base layer for decision infrastructure.",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    12229,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 53,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Geometric + Initial",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    12505,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 54,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Geometric + Initial",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    12781,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 55,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Geometric + Initial",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    13057,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 56,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Geometric + Initial",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    13333,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 57,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Geometric + Initial",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    13609,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 58,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Geometric + Initial",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    13885,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 59,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Geometric + Initial",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    14161,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 60,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Geometric + Initial",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    14437,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 61,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Geometric + Initial",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    14713,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 62,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Geometric + Initial",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    14989,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 63,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Geometric + Initial",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    15265,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 64,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Geometric + Initial",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    15541,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 65,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Geometric + Initial",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    15817,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 66,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Geometric + Initial",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    16093,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 67,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Geometric + Initial",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    16369,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 68,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Geometric + Initial",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    16645,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 69,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Geometric + Initial",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    16921,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 70,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Geometric + Initial",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    17197,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 71,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Geometric + Initial",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    17473,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 72,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Signal Dark",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    17749,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 73,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Signal Dark",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    18025,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 74,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Signal Dark",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    18301,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 75,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Signal Dark",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    18577,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 76,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Signal Dark",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    18853,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 77,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Signal Dark",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    19129,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 78,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Signal Dark",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    19405,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 79,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Datum",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    19681,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 80,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Datum",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    19957,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 81,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Datum",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    20233,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 82,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Datum",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    20509,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 83,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Datum",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    20785,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 84,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Datum",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    21061,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 85,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Datum",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    21337,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 86,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Datum",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    21613,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 87,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Datum",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    21889,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 88,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Datum",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    22165,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 89,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Datum",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    22441,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 90,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Datum",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    22717,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 91,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Datum",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    22993,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 92,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Datum",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    23269,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 93,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Datum",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    23545,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 94,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Resolution Mark",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    23821,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 95,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Resolution Mark",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    24097,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 96,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Resolution Mark",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    24373,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 97,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Resolution Mark",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    24649,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 98,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Resolution Mark",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    24925,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 99,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Resolution Mark",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    25201,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 100,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Resolution Mark",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    25477,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 101,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Resolution Mark",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    25753,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 102,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Resolution Mark",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    26029,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 103,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Resolution Mark",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    26305,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 104,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Crow Minimal",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    26581,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 105,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Converge",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    26857,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 106,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Converge",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    27133,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 107,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Converge",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    27409,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 108,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Converge",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    27685,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 109,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Sleek for Seer",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    27961,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 110,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Sleek for Seer",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    28237,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 111,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Sleek for Seer",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    28513,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 112,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Sleek for Seer",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    28789,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 113,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Sleek for Seer",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    29065,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 114,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Sleek for Seer",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    29341,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 115,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Sleek for Seer",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    29617,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 116,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Sleek for Seer",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    29893,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 117,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Sleek for Seer",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    30169,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 118,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Sleek for Seer",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    30445,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 119,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Signal Convergence",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    30721,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 120,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Signal Convergence",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    30997,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 121,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Signal Convergence",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    31273,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 122,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Signal Convergence",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    31549,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 123,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Signal Convergence",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    31825,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 124,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Signal Convergence",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    32101,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 125,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Signal Convergence",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    32377,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 126,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Signal Convergence",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    32653,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 127,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Signal Convergence",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    32929,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 128,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Purple Horizon",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    33205,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 129,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Purple Horizon",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    33481,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 130,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Purple Horizon",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    33757,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 131,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Purple Horizon",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    34033,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 132,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Purple Horizon",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    34309,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 133,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Purple Horizon",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    34585,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 134,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Purple Horizon",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    34861,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 135,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Purple Horizon",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    35137,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 136,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Purple Horizon",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    35413,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 137,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Purple Horizon",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    35689,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 138,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome The Composable Identity",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    35965,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 139,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome The Composable Identity",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    36241,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 140,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome The Composable Identity",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    36517,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 141,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome The Composable Identity",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    36793,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 142,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome The Composable Identity",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    37069,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 143,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome The Composable Identity",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    37345,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 144,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome The Composable Identity",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    37621,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 145,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome The Composable Identity",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    37897,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 146,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome The Composable Identity",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    38173,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 147,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome The Composable Identity",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    38449,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 148,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome The Composable Identity",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    38725,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 149,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome The Composable Identity",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    39001,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 150,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome The Composable Identity",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    39277,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 151,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome The Composable Identity",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    39553,
+    617,
+    264,
+    343
+   ]
+  },
+  {
+   "i": 152,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Next designs",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    885,
+    772,
+    36,
+    36
+   ]
+  },
+  {
+   "i": 153,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "VIEW PORTFOLIO ↗",
+   "href": "https://www.behance.net/gallery/252825507/Seer-Brand-Identity-App-Redesign",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    139,
+    1085,
+    123,
+    16
+   ]
+  },
+  {
+   "i": 154,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "VIEW IMAGES",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    274,
+    1085,
+    103,
+    16
+   ]
+  },
+  {
+   "i": 155,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "VIEW PROPOSAL ↗",
+   "href": "https://cdn.kleros.link/ipfs/Qmdi2fr7X1B191LFQ4ZcW8Ap15HhwnPczMVcLxLN5iz9zw",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    139,
+    1176,
+    118,
+    16
+   ]
+  },
+  {
+   "i": 156,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "VIEW IMAGES",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    269,
+    1176,
+    103,
+    16
+   ]
+  },
+  {
+   "i": 157,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "VIEW PROPOSAL",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    139,
+    1267,
+    120,
+    16
+   ]
+  },
+  {
+   "i": 158,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "VIEW PROPOSAL",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    139,
+    1358,
+    120,
+    16
+   ]
+  },
+  {
+   "i": 159,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "VIEW PORTFOLIO ↗",
+   "href": "https://seercivicsignal.netlify.app",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    139,
+    1449,
+    123,
+    16
+   ]
+  },
+  {
+   "i": 160,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "VIEW IMAGES",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    274,
+    1449,
+    103,
+    16
+   ]
+  },
+  {
+   "i": 161,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "VIEW PORTFOLIO ↗",
+   "href": "https://www.behance.net/gallery/253579443/Seer-Rebrand",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    139,
+    1540,
+    123,
+    16
+   ]
+  },
+  {
+   "i": 162,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "VIEW IMAGES",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    274,
+    1540,
+    103,
+    16
+   ]
+  },
+  {
+   "i": 163,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "VIEW PORTFOLIO ↗",
+   "href": "https://www.behance.net/gallery/253587035/_",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    139,
+    1631,
+    123,
+    16
+   ]
+  },
+  {
+   "i": 164,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "VIEW IMAGES",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    274,
+    1631,
+    103,
+    16
+   ]
+  },
+  {
+   "i": 165,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "VIEW PORTFOLIO ↗",
+   "href": "https://seer-app--chiomashura400.replit.app",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    139,
+    1722,
+    123,
+    16
+   ]
+  },
+  {
+   "i": 166,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "VIEW IMAGES",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    274,
+    1722,
+    103,
+    16
+   ]
+  },
+  {
+   "i": 167,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "VIEW PROPOSAL",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    139,
+    1813,
+    120,
+    16
+   ]
+  },
+  {
+   "i": 168,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "VIEW PROPOSAL",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    139,
+    1904,
+    120,
+    16
+   ]
+  },
+  {
+   "i": 169,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "VIEW PROPOSAL ↗",
+   "href": "https://cdn.kleros.link/ipfs/QmSKJnFmBgjDNYtLic9kRQr1AKbkF39BdBaAc2barGv42w",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    139,
+    1995,
+    118,
+    16
+   ]
+  },
+  {
+   "i": 170,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "VIEW IMAGES",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    269,
+    1995,
+    103,
+    16
+   ]
+  },
+  {
+   "i": 171,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "VIEW PROPOSAL ↗",
+   "href": "https://cdn.kleros.link/ipfs/Qma4sKFCgaLR96wyWEX6k824GEXZpcJH7YvUqv8Hch8xLX",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    139,
+    2086,
+    118,
+    16
+   ]
+  },
+  {
+   "i": 172,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "VIEW IMAGES",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    269,
+    2086,
+    103,
+    16
+   ]
+  },
+  {
+   "i": 173,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "VIEW PORTFOLIO ↗",
+   "href": "https://www.behance.net/gallery/253606531/Seer-Brand-Identity",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    139,
+    2177,
+    123,
+    16
+   ]
+  },
+  {
+   "i": 174,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "VIEW IMAGES",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    274,
+    2177,
+    103,
+    16
+   ]
+  },
+  {
+   "i": 175,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "VIEW PROPOSAL",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    139,
+    2268,
+    120,
+    16
+   ]
+  },
+  {
+   "i": 176,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "VIEW PROPOSAL",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    139,
+    2359,
+    120,
+    16
+   ]
+  },
+  {
+   "i": 177,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "VIEW PROPOSAL ↗",
+   "href": "https://cdn.kleros.link/ipfs/QmeGsJCFLMSimSrfyPtc6n6vEsTui1d2nAUzknYC93anPP",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    139,
+    2450,
+    118,
+    16
+   ]
+  },
+  {
+   "i": 178,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "VIEW IMAGES",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    269,
+    2450,
+    103,
+    16
+   ]
+  },
+  {
+   "i": 179,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Electric Foundation 80.1%",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    110,
+    2677,
+    167,
+    24
+   ]
+  },
+  {
+   "i": 180,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Signal Convergence 10.3%",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    285,
+    2677,
+    173,
+    24
+   ]
+  },
+  {
+   "i": 181,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Signal Dark 2.9%",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    467,
+    2677,
+    124,
+    24
+   ]
+  },
+  {
+   "i": 182,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Convergent 1%",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    599,
+    2677,
+    114,
+    24
+   ]
+  },
+  {
+   "i": 183,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Purple Horizon 0.9%",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    721,
+    2677,
+    140,
+    24
+   ]
+  },
+  {
+   "i": 184,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Civic Signal 0.8%",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    869,
+    2677,
+    125,
+    24
+   ]
+  },
+  {
+   "i": 185,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Geometric + Initial 0.8%",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1002,
+    2677,
+    161,
+    24
+   ]
+  },
+  {
+   "i": 186,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Datum 0.8%",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1171,
+    2677,
+    101,
+    24
+   ]
+  },
+  {
+   "i": 187,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Crow Minimal 0.8%",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1279,
+    2677,
+    137,
+    24
+   ]
+  },
+  {
+   "i": 188,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Sleek for Seer 0.8%",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1425,
+    2677,
+    139,
+    24
+   ]
+  },
+  {
+   "i": 189,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "The Composable Identity 0.8%",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1572,
+    2677,
+    198,
+    24
+   ]
+  },
+  {
+   "i": 190,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Prism 0.7%",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1778,
+    2677,
+    93,
+    24
+   ]
+  },
+  {
+   "i": 191,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Your only base layer for decision infrastructure. 0.7%",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1879,
+    2677,
+    265,
+    24
+   ]
+  },
+  {
+   "i": 192,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Converge 0.7%",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    2152,
+    2677,
+    116,
+    24
+   ]
+  },
+  {
+   "i": 193,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Constellation Oracle 0.6%",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    2276,
+    2677,
+    171,
+    24
+   ]
+  },
+  {
+   "i": 194,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Resolution Mark 0.5%",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    2454,
+    2677,
+    148,
+    24
+   ]
+  },
+  {
+   "i": 195,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Scroll legend left",
+   "href": "",
+   "disabled": true,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    844,
+    2677,
+    24,
+    24
+   ]
+  },
+  {
+   "i": 196,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Scroll legend right",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    872,
+    2677,
+    24,
+    24
+   ]
+  },
+  {
+   "i": 197,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Charting by TradingView",
+   "href": "https://www.tradingview.com/?utm_medium=lwc-link&utm_campaign=lwc-chart&utm_source=opportunity.seer.pm/markets/100/0xe7850b0d928aa40ab8732bd323fa4f6ef3c24b8a",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    120,
+    2944,
+    35,
+    19
+   ]
+  },
+  {
+   "i": 198,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "CONNECT TO COMMENT",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    671,
+    3190,
+    188,
+    32
+   ]
+  },
+  {
+   "i": 199,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "View toji profile",
+   "href": "https://app.seer.pm/portfolio/@toji",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    134,
+    3284,
+    44,
+    44
+   ]
+  },
+  {
+   "i": 200,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "@toji",
+   "href": "https://app.seer.pm/portfolio/@toji",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    190,
+    3284,
+    33,
+    23
+   ]
+  },
+  {
+   "i": 201,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Reply",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    190,
+    3376,
+    71,
+    44
+   ]
+  },
+  {
+   "i": 202,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Like, 1 likes",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    265,
+    3376,
+    71,
+    44
+   ]
+  },
+  {
+   "i": 203,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "View physical-rich-salmon profile",
+   "href": "https://app.seer.pm/portfolio/0xfc0721a0defd73d51b16cdf210f2e61f39add2df",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    174,
+    3448,
+    44,
+    44
+   ]
+  },
+  {
+   "i": 204,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "physical-rich-salmon",
+   "href": "https://app.seer.pm/portfolio/0xfc0721a0defd73d51b16cdf210f2e61f39add2df",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    230,
+    3448,
+    138,
+    23
+   ]
+  },
+  {
+   "i": 205,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Reply",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    230,
+    3496,
+    71,
+    44
+   ]
+  },
+  {
+   "i": 206,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Like, 0 likes",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    305,
+    3496,
+    64,
+    44
+   ]
+  },
+  {
+   "i": 207,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "View ad714 profile",
+   "href": "https://app.seer.pm/portfolio/@ad714",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    134,
+    3568,
+    44,
+    44
+   ]
+  },
+  {
+   "i": 208,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "@ad714",
+   "href": "https://app.seer.pm/portfolio/@ad714",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    190,
+    3568,
+    52,
+    23
+   ]
+  },
+  {
+   "i": 209,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Reply",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    190,
+    3616,
+    71,
+    44
+   ]
+  },
+  {
+   "i": 210,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Like, 0 likes",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    265,
+    3616,
+    64,
+    44
+   ]
+  },
+  {
+   "i": 211,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "View sick-vast-boar profile",
+   "href": "https://app.seer.pm/portfolio/0x81dab0955809a8c5bd79d5cfffadc51d40ee58df",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    134,
+    3688,
+    44,
+    44
+   ]
+  },
+  {
+   "i": 212,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "sick-vast-boar",
+   "href": "https://app.seer.pm/portfolio/0x81dab0955809a8c5bd79d5cfffadc51d40ee58df",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    190,
+    3688,
+    97,
+    23
+   ]
+  },
+  {
+   "i": 213,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Reply",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    190,
+    3758,
+    71,
+    44
+   ]
+  },
+  {
+   "i": 214,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Like, 1 likes",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    265,
+    3758,
+    71,
+    44
+   ]
+  },
+  {
+   "i": 215,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "View sick-vast-boar profile",
+   "href": "https://app.seer.pm/portfolio/0x81dab0955809a8c5bd79d5cfffadc51d40ee58df",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    174,
+    3830,
+    44,
+    44
+   ]
+  },
+  {
+   "i": 216,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "sick-vast-boar",
+   "href": "https://app.seer.pm/portfolio/0x81dab0955809a8c5bd79d5cfffadc51d40ee58df",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    230,
+    3830,
+    97,
+    23
+   ]
+  },
+  {
+   "i": 217,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "https://x.com/off_Vercibal",
+   "href": "https://x.com/off_Vercibal",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    230,
+    3854,
+    173,
+    18
+   ]
+  },
+  {
+   "i": 218,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Reply",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    230,
+    3878,
+    71,
+    44
+   ]
+  },
+  {
+   "i": 219,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Like, 0 likes",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    305,
+    3878,
+    64,
+    44
+   ]
+  },
+  {
+   "i": 220,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "View strategic-well-raven profile",
+   "href": "https://app.seer.pm/portfolio/0xe28c5e8cc6c44ae364b13a250e75ce35ecb3d3aa",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    134,
+    3950,
+    44,
+    44
+   ]
+  },
+  {
+   "i": 221,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "strategic-well-raven",
+   "href": "https://app.seer.pm/portfolio/0xe28c5e8cc6c44ae364b13a250e75ce35ecb3d3aa",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    190,
+    3950,
+    135,
+    23
+   ]
+  },
+  {
+   "i": 222,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "https://www.the-internet-knows.com",
+   "href": "https://www.the-internet-knows.com",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    190,
+    3996,
+    244,
+    18
+   ]
+  },
+  {
+   "i": 223,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Reply",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    190,
+    4020,
+    71,
+    44
+   ]
+  },
+  {
+   "i": 224,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Like, 0 likes",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    265,
+    4020,
+    64,
+    44
+   ]
+  },
+  {
+   "i": 225,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "View ugliest-intelligent-tyrannosaurus profile",
+   "href": "https://app.seer.pm/portfolio/0x67772c7581e5321ab19455424134d63da3131c51",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    134,
+    4092,
+    44,
+    44
+   ]
+  },
+  {
+   "i": 226,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "ugliest-intelligent-tyrannosaurus",
+   "href": "https://app.seer.pm/portfolio/0x67772c7581e5321ab19455424134d63da3131c51",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    190,
+    4092,
+    213,
+    23
+   ]
+  },
+  {
+   "i": 227,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Reply",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    190,
+    4141,
+    71,
+    44
+   ]
+  },
+  {
+   "i": 228,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Like, 4 likes",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    265,
+    4141,
+    75,
+    44
+   ]
+  },
+  {
+   "i": 229,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "View comprehensive-relative-cicada profile",
+   "href": "https://app.seer.pm/portfolio/0x4f87eaca688423f35783c5be2b4ff7c05263245b",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    134,
+    4213,
+    44,
+    44
+   ]
+  },
+  {
+   "i": 230,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "comprehensive-relative-cicada",
+   "href": "https://app.seer.pm/portfolio/0x4f87eaca688423f35783c5be2b4ff7c05263245b",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    190,
+    4213,
+    207,
+    23
+   ]
+  },
+  {
+   "i": 231,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Reply",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    190,
+    4261,
+    71,
+    44
+   ]
+  },
+  {
+   "i": 232,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Like, 1 likes",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    265,
+    4261,
+    71,
+    44
+   ]
+  },
+  {
+   "i": 233,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "View voluminous-worldwide-boar profile",
+   "href": "https://app.seer.pm/portfolio/0x03cb2a2d800bf93a736c48ef2eed6e00378e6a78",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    134,
+    4333,
+    44,
+    44
+   ]
+  },
+  {
+   "i": 234,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "voluminous-worldwide-boar",
+   "href": "https://app.seer.pm/portfolio/0x03cb2a2d800bf93a736c48ef2eed6e00378e6a78",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    190,
+    4333,
+    188,
+    23
+   ]
+  },
+  {
+   "i": 235,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Reply",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    190,
+    4381,
+    71,
+    44
+   ]
+  },
+  {
+   "i": 236,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Like, 1 likes",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    265,
+    4381,
+    71,
+    44
+   ]
+  },
+  {
+   "i": 237,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "View satisfactory-liquid-sloth profile",
+   "href": "https://app.seer.pm/portfolio/0x0ea26051f7657d59418da186137141cea90d0652",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    134,
+    4453,
+    44,
+    44
+   ]
+  },
+  {
+   "i": 238,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "satisfactory-liquid-sloth",
+   "href": "https://app.seer.pm/portfolio/0x0ea26051f7657d59418da186137141cea90d0652",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    190,
+    4453,
+    156,
+    23
+   ]
+  },
+  {
+   "i": 239,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Reply",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    190,
+    4501,
+    71,
+    44
+   ]
+  },
+  {
+   "i": 240,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Like, 0 likes",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    265,
+    4501,
+    64,
+    44
+   ]
+  },
+  {
+   "i": 241,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "View voluminous-worldwide-boar profile",
+   "href": "https://app.seer.pm/portfolio/0x03cb2a2d800bf93a736c48ef2eed6e00378e6a78",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    134,
+    4573,
+    44,
+    44
+   ]
+  },
+  {
+   "i": 242,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "voluminous-worldwide-boar",
+   "href": "https://app.seer.pm/portfolio/0x03cb2a2d800bf93a736c48ef2eed6e00378e6a78",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    190,
+    4573,
+    188,
+    23
+   ]
+  },
+  {
+   "i": 243,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Reply",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    190,
+    4622,
+    71,
+    44
+   ]
+  },
+  {
+   "i": 244,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Like, 1 likes",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    265,
+    4622,
+    71,
+    44
+   ]
+  },
+  {
+   "i": 245,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "View ugliest-intelligent-tyrannosaurus profile",
+   "href": "https://app.seer.pm/portfolio/0x67772c7581e5321ab19455424134d63da3131c51",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    174,
+    4694,
+    44,
+    44
+   ]
+  },
+  {
+   "i": 246,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "ugliest-intelligent-tyrannosaurus",
+   "href": "https://app.seer.pm/portfolio/0x67772c7581e5321ab19455424134d63da3131c51",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    230,
+    4694,
+    213,
+    23
+   ]
+  },
+  {
+   "i": 247,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Reply",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    230,
+    4742,
+    71,
+    44
+   ]
+  },
+  {
+   "i": 248,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Like, 0 likes",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    305,
+    4742,
+    64,
+    44
+   ]
+  },
+  {
+   "i": 249,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "View total-electronic-snake profile",
+   "href": "https://app.seer.pm/portfolio/0xec5bd911f01cf1ea038700096edf347cc2b68887",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    134,
+    4814,
+    44,
+    44
+   ]
+  },
+  {
+   "i": 250,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "total-electronic-snake",
+   "href": "https://app.seer.pm/portfolio/0xec5bd911f01cf1ea038700096edf347cc2b68887",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    190,
+    4814,
+    146,
+    23
+   ]
+  },
+  {
+   "i": 251,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Reply",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    190,
+    4884,
+    71,
+    44
+   ]
+  },
+  {
+   "i": 252,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Like, 4 likes",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    265,
+    4884,
+    75,
+    44
+   ]
+  },
+  {
+   "i": 253,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "View mr-froggert profile",
+   "href": "https://app.seer.pm/portfolio/@mr-froggert",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    174,
+    4956,
+    44,
+    44
+   ]
+  },
+  {
+   "i": 254,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "@mr-froggert",
+   "href": "https://app.seer.pm/portfolio/@mr-froggert",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    230,
+    4956,
+    94,
+    23
+   ]
+  },
+  {
+   "i": 255,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Multiple positions: Electric Foundation: <0.001 shares, Constellation Oracle: 30",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    338,
+    4956,
+    100,
+    22
+   ]
+  },
+  {
+   "i": 256,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Reply",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    230,
+    5004,
+    71,
+    44
+   ]
+  },
+  {
+   "i": 257,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Like, 0 likes",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    305,
+    5004,
+    64,
+    44
+   ]
+  },
+  {
+   "i": 258,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "View primary-complicated-clam profile",
+   "href": "https://app.seer.pm/portfolio/0xab07c88e2aab4bffe8bfae10043ba2bbdd82a809",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    174,
+    5076,
+    44,
+    44
+   ]
+  },
+  {
+   "i": 259,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "primary-complicated-clam",
+   "href": "https://app.seer.pm/portfolio/0xab07c88e2aab4bffe8bfae10043ba2bbdd82a809",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    230,
+    5076,
+    181,
+    23
+   ]
+  },
+  {
+   "i": 260,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Reply",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    230,
+    5124,
+    71,
+    44
+   ]
+  },
+  {
+   "i": 261,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Like, 1 likes",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    305,
+    5124,
+    71,
+    44
+   ]
+  },
+  {
+   "i": 262,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "View total-electronic-snake profile",
+   "href": "https://app.seer.pm/portfolio/0xec5bd911f01cf1ea038700096edf347cc2b68887",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    214,
+    5196,
+    44,
+    44
+   ]
+  },
+  {
+   "i": 263,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "total-electronic-snake",
+   "href": "https://app.seer.pm/portfolio/0xec5bd911f01cf1ea038700096edf347cc2b68887",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    270,
+    5196,
+    146,
+    23
+   ]
+  },
+  {
+   "i": 264,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Reply",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    270,
+    5245,
+    71,
+    44
+   ]
+  },
+  {
+   "i": 265,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Like, 1 likes",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    345,
+    5245,
+    71,
+    44
+   ]
+  },
+  {
+   "i": 266,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "View disgusted-visiting-dog profile",
+   "href": "https://app.seer.pm/portfolio/0x86ebd082f5554d1137ed3410164746c442d5f16f",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    134,
+    5317,
+    44,
+    44
+   ]
+  },
+  {
+   "i": 267,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "disgusted-visiting-dog",
+   "href": "https://app.seer.pm/portfolio/0x86ebd082f5554d1137ed3410164746c442d5f16f",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    190,
+    5317,
+    149,
+    23
+   ]
+  },
+  {
+   "i": 268,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Reply",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    190,
+    5365,
+    71,
+    44
+   ]
+  },
+  {
+   "i": 269,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Like, 3 likes",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    265,
+    5365,
+    74,
+    44
+   ]
+  },
+  {
+   "i": 270,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "View mr-froggert profile",
+   "href": "https://app.seer.pm/portfolio/@mr-froggert",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    134,
+    5437,
+    44,
+    44
+   ]
+  },
+  {
+   "i": 271,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "@mr-froggert",
+   "href": "https://app.seer.pm/portfolio/@mr-froggert",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    190,
+    5437,
+    94,
+    23
+   ]
+  },
+  {
+   "i": 272,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Multiple positions: Electric Foundation: <0.001 shares, Constellation Oracle: 30",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    298,
+    5437,
+    100,
+    22
+   ]
+  },
+  {
+   "i": 273,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Reply",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    190,
+    5507,
+    71,
+    44
+   ]
+  },
+  {
+   "i": 274,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Like, 3 likes",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    265,
+    5507,
+    74,
+    44
+   ]
+  },
+  {
+   "i": 275,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "View disgusted-visiting-dog profile",
+   "href": "https://app.seer.pm/portfolio/0x86ebd082f5554d1137ed3410164746c442d5f16f",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    174,
+    5579,
+    44,
+    44
+   ]
+  },
+  {
+   "i": 276,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "disgusted-visiting-dog",
+   "href": "https://app.seer.pm/portfolio/0x86ebd082f5554d1137ed3410164746c442d5f16f",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    230,
+    5579,
+    149,
+    23
+   ]
+  },
+  {
+   "i": 277,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Reply",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    230,
+    5627,
+    71,
+    44
+   ]
+  },
+  {
+   "i": 278,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Like, 1 likes",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    305,
+    5627,
+    71,
+    44
+   ]
+  },
+  {
+   "i": 279,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "View physical-rich-salmon profile",
+   "href": "https://app.seer.pm/portfolio/0xfc0721a0defd73d51b16cdf210f2e61f39add2df",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    134,
+    5699,
+    44,
+    44
+   ]
+  },
+  {
+   "i": 280,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "physical-rich-salmon",
+   "href": "https://app.seer.pm/portfolio/0xfc0721a0defd73d51b16cdf210f2e61f39add2df",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    190,
+    5699,
+    138,
+    23
+   ]
+  },
+  {
+   "i": 281,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Reply",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    190,
+    5747,
+    71,
+    44
+   ]
+  },
+  {
+   "i": 282,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Like, 0 likes",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    265,
+    5747,
+    64,
+    44
+   ]
+  },
+  {
+   "i": 283,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Seer",
+   "href": "https://seer.pm",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    85,
+    5957,
+    78,
+    36
+   ]
+  },
+  {
+   "i": 284,
+   "tag": "button",
+   "role": "",
+   "type": "",
+   "text": "Close",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    843,
+    285,
+    32,
+    32
+   ]
+  },
+  {
+   "i": 285,
+   "tag": "button",
+   "role": "",
+   "type": "",
+   "text": "Switch Networks",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    732,
+    424,
+    52,
+    30
+   ]
+  },
+  {
+   "i": 286,
+   "tag": "button",
+   "role": "",
+   "type": "",
+   "text": "Disconnect",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    573,
+    566,
+    295,
+    48
+   ]
+  }
+ ],
+ "charts": [
+  {
+   "tag": "canvas",
+   "box": [
+    110,
+    2701,
+    726,
+    272
+   ],
+   "texts": [],
+   "paths": 0
+  },
+  {
+   "tag": "canvas",
+   "box": [
+    110,
+    2701,
+    726,
+    272
+   ],
+   "texts": [],
+   "paths": 0
+  }
+ ],
+ "tables": [
+  {
+   "rows": 2,
+   "head": []
+  }
+ ],
+ "fonts": [
+  "Urbanist",
+  "JetBrains Mono"
+ ],
+ "colors": {
+  "bg": "rgb(10, 8, 20)",
+  "text": "rgb(236, 232, 245)"
+ },
+ "dialogs": 1
+}

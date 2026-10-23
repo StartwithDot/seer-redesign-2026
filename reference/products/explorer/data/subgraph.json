@@ -1,0 +1,147 @@
+{
+ "_endpoint": "POST https://app.seer.pm/subgraph?_subgraph=algebra&_chainId=100",
+ "_hits": 1500,
+ "_complete_json": true,
+ "data": {
+  "data": {
+   "pools": [
+    {
+     "id": "0xa73a12017019438021e5c0dd125da9ce90dd202d",
+     "fee": "13061",
+     "liquidity": "618333564270361050050",
+     "tickSpacing": "60",
+     "sqrtPrice": "7628817672412549722557802700",
+     "tick": "-46811",
+     "token0": {
+      "id": "0x3f5c509aea95a082e49ff67fc079b135bfdc6c81",
+      "symbol": "OTHERS",
+      "name": "OTHERS",
+      "decimals": "18",
+      "__typename": "Token"
+     },
+     "token1": {
+      "id": "0xaf204776c7245bf4147c2612bf6e5972ee483701",
+      "symbol": "sDAI",
+      "name": "Savings xDAI",
+      "decimals": "18",
+      "__typename": "Token"
+     },
+     "token0Price": "107.8560960598097206087429976766482",
+     "token1Price": "0.009271613163575542425475913926932028",
+     "volumeToken0": "3920.302396153001623553",
+     "volumeToken1": "28.660923438740138999",
+     "volumeUSD": "0",
+     "txCount": "123",
+     "totalValueLockedToken0": "5403.34337008967489082",
+     "totalValueLockedToken1": "15.871578104134117158",
+     "totalValueLockedUSD": "0",
+     "untrackedVolumeUSD": "0",
+     "feesUSD": "0",
+     "__typename": "Pool"
+    },
+    {
+     "id": "0x4904f40c7d8dd1f2664b0a200594ff3d265d4297",
+     "fee": "104",
+     "liquidity": "451601886404246226891",
+     "tickSpacing": "60",
+     "sqrtPrice": "5603908562452063666922133899",
+     "tick": "-52980",
+     "token0": {
+      "id": "0x1caebe3ce8228801789642bc86e4037b5c70cd2c",
+      "symbol": "TOGETHER_AL",
+      "name": "TOGETHER_AL",
+      "decimals": "18",
+      "__typename": "Token"
+     },
+     "token1": {
+      "id": "0xaf204776c7245bf4147c2612bf6e5972ee483701",
+      "symbol": "sDAI",
+      "name": "Savings xDAI",
+      "decimals": "18",
+      "__typename": "Token"
+     },
+     "token0Price": "199.8835650174369164451658514114827",
+     "token1Price": "0.005002912570189373155972768258066071",
+     "volumeToken0": "318.832791499520885233",
+     "volumeToken1": "2.207404615203788172",
+     "volumeUSD": "0",
+     "txCount": "115",
+     "totalValueLockedToken0": "5529.59185100335665252",
+     "totalValueLockedToken1": "0.00001448574892621",
+     "totalValueLockedUSD": "0",
+     "untrackedVolumeUSD": "0",
+     "feesUSD": "0",
+     "__typename": "Pool"
+    },
+    {
+     "id": "0x2b9c671fd1b4f4fabad16b2d49bc29be3fc4a9a8",
+     "fee": "1653",
+     "liquidity": "8804724239260538786591",
+     "tickSpacing": "60",
+     "sqrtPrice": "128288234571176380184701712127",
+     "tick": "9639",
+     "token0": {
+      "id": "0xaf204776c7245bf4147c2612bf6e5972ee483701",
+      "symbol": "sDAI",
+      "name": "Savings xDAI",
+      "decimals": "18",
+      "__typename": "Token"
+     },
+     "token1": {
+      "id": "0xd7f2b7c1dca8e7de2dca5af0eb2372f0fd7caab4",
+      "symbol": "LIKUD",
+      "name": "LIKUD",
+      "decimals": "18",
+      "__typename": "Token"
+     },
+     "token0Price": "0.3814042342437306719607857439218394",
+     "token1Price": "2.621890137069020988070129487444",
+     "volumeToken0": "1599.201650217533450667",
+     "volumeToken1": "3649.292919483995785571",
+     "volumeUSD": "0",
+     "txCount": "131",
+     "totalValueLockedToken0": "4653.019880401392437416",
+     "totalValueLockedToken1": "5454.408441860431909513",
+     "totalValueLockedUSD": "0",
+     "untrackedVolumeUSD": "0",
+     "feesUSD": "0",
+     "__typename": "Pool"
+    },
+    {
+     "id": "0x0c763af4af708fbbbdb5e2c3fcb2f4495d22a214",
+     "fee": "1550",
+     "liquidity": "17464159346046644715912",
+     "tickSpacing": "60",
+     "sqrtPrice": "61759644504565829188604147202",
+     "tick": "-4982",
+     "token0": {
+      "id": "0x4de2dddb5ae643e58a4274860a293ad4cd5c889e",
+      "symbol": "YASHAR",
+      "name": "YASHAR",
+      "decimals": "18",
+      "__typename": "Token"
+     },
+     "token1": {
+      "id": "0xaf204776c7245bf4147c2612bf6e5972ee483701",
+      "symbol": "sDAI",
+      "name": "Savings xDAI",
+      "decimals": "18",
+      "__typename": "Token"
+     },
+     "token0Price": "1.645695920265000567899613504291526",
+     "token1Price": "0.6076456699479291121910648440351805",
+     "volumeToken0": "4382.747677877147803807",
+     "volumeToken1": "2411.531579166460944164",
+     "volumeUSD": "0",
+     "txCount": "133",
+     "totalValueLockedToken0": "4940.834977702079378316",
+     "totalValueLockedToken1": "12149.285075381428340872",
+     "totalValueLockedUSD": "0",
+     "untrackedVolumeUSD": "0",
+     "feesUSD": "0",
+     "__typename": "Pool"
+    }
+   ]
+  }
+ }
+}

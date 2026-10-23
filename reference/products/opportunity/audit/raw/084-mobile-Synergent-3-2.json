@@ -1,0 +1,629 @@
+{
+ "title": "Seer · Opportunity Markets",
+ "url": "https://opportunity.seer.pm/markets/100/0x8b3C7f3f09f6A85353926D8ee0f12decc1C9A5e8",
+ "scrollHeight": 4115,
+ "headings": [
+  "h1: Seer AI Job Board Name",
+  "h2: Outcomes",
+  "h3: SAI",
+  "h3: delegateyourjob.ai",
+  "h3: Zetsu.AI",
+  "h3: Wageware",
+  "h3: Workmesh",
+  "h3: CW",
+  "h3: Foreguild",
+  "h3: Synergent",
+  "h3: Auspex",
+  "h3: WorkX",
+  "h3: Agentarchy",
+  "h3: AgenticGigs",
+  "h3: Vantage",
+  "h3: Seek",
+  "h3: Agora",
+  "h3: Symbiont",
+  "h2: PRICE HISTORY",
+  "h2: DISCUSSION"
+ ],
+ "interactive": [
+  {
+   "i": 0,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Seer Opportunity Markets home",
+   "href": "/",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    24,
+    2133,
+    133,
+    32
+   ]
+  },
+  {
+   "i": 1,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "0x0000...dEaD",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    249,
+    2132,
+    117,
+    34
+   ]
+  },
+  {
+   "i": 2,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "← BACK TO OPPORTUNITIES",
+   "href": "/",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    24,
+    116,
+    181,
+    16
+   ]
+  },
+  {
+   "i": 3,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "JUMP TO TRADE",
+   "href": "#trade",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    238,
+    107,
+    128,
+    34
+   ]
+  },
+  {
+   "i": 4,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "0x8b3c...a5e8",
+   "href": "https://gnosisscan.io/address/0x8b3c7f3f09f6a85353926d8ee0f12decc1c9a5e8",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    128,
+    771,
+    84,
+    17
+   ]
+  },
+  {
+   "i": 5,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "View on Seer ↗",
+   "href": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    232,
+    771,
+    95,
+    17
+   ]
+  },
+  {
+   "i": 6,
+   "tag": "input",
+   "role": "",
+   "type": "search",
+   "text": "Search outcomes",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    24,
+    891,
+    342,
+    46
+   ]
+  },
+  {
+   "i": 7,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "SHOW ALL 235 OUTCOMES",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    24,
+    2418,
+    170,
+    16
+   ]
+  },
+  {
+   "i": 8,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "SAI 6%",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    -603,
+    2526,
+    73,
+    24
+   ]
+  },
+  {
+   "i": 9,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "delegateyourjob.ai 5.9%",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    -522,
+    2526,
+    162,
+    24
+   ]
+  },
+  {
+   "i": 10,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Zetsu.AI 4.1%",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    -353,
+    2526,
+    104,
+    24
+   ]
+  },
+  {
+   "i": 11,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Wageware 3.6%",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    -241,
+    2526,
+    120,
+    24
+   ]
+  },
+  {
+   "i": 12,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Workmesh 3.5%",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    -112,
+    2526,
+    119,
+    24
+   ]
+  },
+  {
+   "i": 13,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "CW 3.3%",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    15,
+    2526,
+    82,
+    24
+   ]
+  },
+  {
+   "i": 14,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Synergent 3.2%",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    105,
+    2526,
+    118,
+    24
+   ]
+  },
+  {
+   "i": 15,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Foreguild 3.1%",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    230,
+    2526,
+    108,
+    24
+   ]
+  },
+  {
+   "i": 16,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Auspex 3.1%",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    347,
+    2526,
+    100,
+    24
+   ]
+  },
+  {
+   "i": 17,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "WorkX 2.8%",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    454,
+    2526,
+    98,
+    24
+   ]
+  },
+  {
+   "i": 18,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Scroll legend left",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    289,
+    2526,
+    24,
+    24
+   ]
+  },
+  {
+   "i": 19,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Scroll legend right",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    317,
+    2526,
+    24,
+    24
+   ]
+  },
+  {
+   "i": 20,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Charting by TradingView",
+   "href": "https://www.tradingview.com/?utm_medium=lwc-link&utm_campaign=lwc-chart&utm_source=opportunity.seer.pm/markets/100/0x8b3C7f3f09f6A85353926D8ee0f12decc1C9A5e8",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    59,
+    2793,
+    35,
+    19
+   ]
+  },
+  {
+   "i": 21,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "CONNECT TO COMMENT",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    116,
+    3058,
+    188,
+    32
+   ]
+  },
+  {
+   "i": 22,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "BUY",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    49,
+    3351,
+    58,
+    30
+   ]
+  },
+  {
+   "i": 23,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "SELL",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    107,
+    3351,
+    62,
+    30
+   ]
+  },
+  {
+   "i": 24,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "SYMBIONT",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "false",
+   "box": [
+    49,
+    3425,
+    292,
+    46
+   ]
+  },
+  {
+   "i": 25,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "SDAI",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "false",
+   "box": [
+    49,
+    3515,
+    292,
+    46
+   ]
+  },
+  {
+   "i": 26,
+   "tag": "input",
+   "role": "",
+   "type": "number",
+   "text": "0.00",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    66,
+    3618,
+    216,
+    28
+   ]
+  },
+  {
+   "i": 27,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "+1",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    49,
+    3667,
+    67,
+    34
+   ]
+  },
+  {
+   "i": 28,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "+5",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    124,
+    3667,
+    67,
+    34
+   ]
+  },
+  {
+   "i": 29,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "+10",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    199,
+    3667,
+    67,
+    34
+   ]
+  },
+  {
+   "i": 30,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "+100",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    274,
+    3667,
+    67,
+    34
+   ]
+  },
+  {
+   "i": 31,
+   "tag": "button",
+   "role": "",
+   "type": "submit",
+   "text": "ENTER AN AMOUNT",
+   "href": "",
+   "disabled": true,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    49,
+    3838,
+    292,
+    44
+   ]
+  },
+  {
+   "i": 32,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Seer",
+   "href": "https://seer.pm",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    24,
+    3996,
+    32,
+    32
+   ]
+  }
+ ],
+ "charts": [
+  {
+   "tag": "canvas",
+   "box": [
+    49,
+    2550,
+    238,
+    272
+   ],
+   "texts": [],
+   "paths": 0
+  },
+  {
+   "tag": "canvas",
+   "box": [
+    49,
+    2550,
+    238,
+    272
+   ],
+   "texts": [],
+   "paths": 0
+  }
+ ],
+ "tables": [
+  {
+   "rows": 2,
+   "head": []
+  }
+ ],
+ "fonts": [
+  "Urbanist",
+  "JetBrains Mono"
+ ],
+ "colors": {
+  "bg": "rgb(10, 8, 20)",
+  "text": "rgb(236, 232, 245)"
+ },
+ "dialogs": 0
+}

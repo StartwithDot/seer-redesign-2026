@@ -1,0 +1,431 @@
+{
+ "url": "https://app.seer.pm/leaderboard",
+ "title": "Seer | A Next Generation Prediction Marketplace",
+ "controls": [
+  {
+   "tag": "button",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "How it works",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "1D",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "1W",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "1M",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "ALL",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Filters · Gnosis",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Your Rank",
+   "disabled": false
+  },
+  {
+   "tag": "input",
+   "text": "Search leaderboard by username or address",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Search",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "All",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Foresight",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Opportunity Markets",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "All",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Ethereum",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "OP Mainnet",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Gnosis",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Base",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Score, descending. Activate to sort ascending.",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "What the Trader Score means and how it is calculated",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Profit/Loss, not sorted. Activate to sort descending.",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Volume, not sorted. Activate to sort descending.",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "ROI, not sorted. Activate to sort descending.",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Traded Markets, not sorted. Activate to sort descending.",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "total-electronic-snake",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Trader score 87.5 of 100, Elite. Show score breakdown.",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "@mr-froggert",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "outforarip.eth",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Trader score 83.5 of 100, Great. Show score breakdown.",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "0xjean.eth",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Trader score 80.7 of 100, Great. Show score breakdown.",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "stormy-dull-puffin",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Trader score 78.0 of 100, Great. Show score breakdown.",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "scientific-decisive-toucan",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Trader score 77.6 of 100, Great. Show score breakdown.",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "intensive-impressive-cheetah",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Trader score 75.6 of 100, Great. Show score breakdown.",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "unfair-assistant-hedgehog",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Trader score 73.3 of 100, Great. Show score breakdown.",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "@seerious",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Trader score 73.0 of 100, Great. Show score breakdown.",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "top-conscious-mongoose",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Trader score 72.3 of 100, Great. Show score breakdown.",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "public-interested-parakeet",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Trader score 71.9 of 100, Great. Show score breakdown.",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "tense-individual-impala",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Trader score 70.8 of 100, Great. Show score breakdown.",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "confidential-stupid-yak",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Trader score 70.1 of 100, Great. Show score breakdown.",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "stormy-dull-puffin",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Trader score 69.7 of 100, Good. Show score breakdown.",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "prime-indirect-crow",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Trader score 69.1 of 100, Good. Show score breakdown.",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "shotaro.eth",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Trader score 68.5 of 100, Good. Show score breakdown.",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "payable-unlikely-earwig",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Trader score 68.4 of 100, Good. Show score breakdown.",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "compatible-convincing-meadowlark",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Trader score 68.1 of 100, Good. Show score breakdown.",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "verbal-yummy-flamingo",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Trader score 67.3 of 100, Good. Show score breakdown.",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "strategic-well-raven",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Trader score 67.2 of 100, Good. Show score breakdown.",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "specific-creepy-guan",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Trader score 64.9 of 100, Good. Show score breakdown.",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "top-conscious-mongoose",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Trader score 64.0 of 100, Good. Show score breakdown.",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "socialist-ambitious-ladybug",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Trader score 62.5 of 100, Good. Show score breakdown.",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "juicy-zesty-marmot",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Trader score 61.0 of 100, Good. Show score breakdown.",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "stormy-dull-puffin",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Trader score 60.2 of 100, Good. Show score breakdown.",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "precise-plastic-gibbon",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Trader score 59.3 of 100, Good. Show score breakdown.",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Prev",
+   "disabled": true
+  },
+  {
+   "tag": "button",
+   "text": "Next",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  }
+ ]
+}

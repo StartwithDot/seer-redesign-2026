@@ -1,0 +1,20 @@
+You are building apps/explorer (Seer Explorer redesign). Read, in order:
+products/explorer/DIRECTION.md, products/explorer/design.md (this spec; follow it literally),
+docs/ui-quality-rules.md, docs/coding-rules.md. Copy proven pieces from apps/futarchy/src/components
+(HoverMenu, Tooltip, RollingNumber, Segmented, CommandPalette, GuidedTour, ThemeToggle, Avatar) and adapt
+styling; do not import across apps. Stack: React 19 + TS strict + plain CSS + tokens (@seer/ef) + motion +
+d3-scale/shape/array/time. No new deps. Components < 150 lines; pure math in src/math with formula comments.
+Use ONLY strings from design.md §8 allowed list or data labels/units. Real data only (src/data/*.json and
+src/data/fixtures/*.json). Do not edit other apps or packages/ef/tokens.css. Do not commit.
+You cannot run e2e (no ports). End with the tail of: npm run build -w apps/explorer && npx tsc --noEmit -p apps/explorer
+IGNORE any e2e_last.txt at the repo root: it belongs to another product. Implement ALL files listed below in full; do not stop with "no changes".
+
+Also read products/explorer/design.md sections referenced below. Do not run any dev server.
+
+Files: e2e/{run.mjs,quality.mjs,parity.mjs,parity.json,deadControls.mjs,navigation.mjs,flows.mjs,card.mjs,chart.mjs,
+data.mjs,shots.mjs}; fix-only edits in src/** for failures listed in e2e_last.txt.
+Do: generate parity.json from design.md §9.10 (ID, test name, route, assertion); implement every test name in §9.9 at
+1440 and 390 (+ widths listed); dead-control enumerator with disabled+aria-describedby rule; console allowlist G-16;
+perf test (600 cards, live fixture pages); never weaken a test. Polish only what failing tests point at.
+Acceptance: Claude runs `npm run e2e -w apps/explorer > e2e_last.txt 2>&1` → 0 failures; shots.mjs captures at
+1440/1920/390 viewed by Claude; build+tsc pass.

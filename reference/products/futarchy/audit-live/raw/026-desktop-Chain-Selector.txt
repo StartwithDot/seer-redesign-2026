@@ -1,0 +1,111 @@
+Futarchy
+Gnosis
+👾
+0x00…dEaD
+What will the impact on PNK price be if KIP-90 is approved?
+—
+Impact (spot)
+Resolved
+Status
+3.95K
+ⓘ
+Volume (Total; sDAI)
+121.46K
+ⓘ
+TVL
+7/20/2026
+Resolution Date
+Resolved: YES
+Resolution Question
+Snapshot Vote
+Add Liquidity
+Final Result
+APPROVED
+
+Will KIP-90 (Cooperative Spending Disclosure) be approved ('For') or rejected ('Against') by Kleros Governance? If the proposal is not approved by the end of the Snapshot vote, resolves as ('Against'). Snapshot: https://snapshot.org/#/s:kleros.eth/proposal/0xba2749a4f1283da9d1ca925d9f17bf712fa06a23e6a07d759c54340277820932
+
+TWAP Complete
+(TWAP impact -0.98%)
+
+The Futarchy Recommendation is based on the time-weighted average price (TWAP) of the "pass" (yes) outcome over a 24 hour period. If the difference is positive, the recommendation is to approve. Otherwise, the recommendation is to reject.
+
+FINAL TWAP WINDOW
+UPDATED 10:52:20 PM
+
+YES TWAP
+
+0.006730
+
+NO TWAP
+
+0.006796
+
+NO outcome is ahead on TWAP.
+
+Trading Pair
+PNK/sDAI
+Yes Price
+0.0067 sDAI
+No Price
+0.0068 sDAI
+Status
+Resolved
+Impact (spot)
+—
+	
+	
+
+	
+	
+Redeem Tokens
+WINNING OUTCOME: YES
+
+No redeemable tokens found
+
+You don't have any YES outcome tokens to redeem.
+
+Resolved: YES
+If Yes
+If No
+Buy
+Sell
+Amount (sDAI)
+Max
+Available
+-
+Outcomes
+More info
+If Yes
+151.47 PNK
+Receive
+If No
+1.00 sDAI
+Recover
+Insufficient balance
+Your view on KIP-90
+	If YES	If NO
+Bullish	BUY	SELL
+Bearish	SELL	BUY
+Balance
+sDAI
+0 sDAI
+mergeable
+YES 0 · NO 0
+Wallet:
+0 sDAI
+PNK
+0 PNK
+mergeable
+YES 0 · NO 0
+Wallet:
+0 PNK
+Split Collateral
+Merge Collateral
+Futarchy
+Market-based evaluation of governance decisions and milestones
+Social
+
+Switch Networks
+Ethereum
+Gnosis
+Connected

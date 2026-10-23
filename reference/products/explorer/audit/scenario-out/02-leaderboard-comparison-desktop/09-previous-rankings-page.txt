@@ -1,0 +1,207 @@
+Note that this is a Beta version and can still be unstable
+Markets
+Leaderboard
+Create Market
+Policies
+App
+0x0000...dEaD
+
+24.69 xDAI
+
+/
+Leaderboard
+Profit & Loss Leaderboard
+
+Rankings of wallets by trading P/L in USD. All covers every Seer market on a chain (including markets not assigned to an app). App filters scope to that app's configured markets; Deepfunding and Foresight also offer per-market boards.
+
+Trader Score rates each wallet 0–100 on returns, profit factor, hit rate edge, loss burn and breadth across the markets it traded, shrunk toward the middle when it traded few of them. How it works.
+
+Time period
+1D
+1W
+1M
+ALL
+Filters · Gnosis
+Your Rank
+Search
+App
+All
+Foresight
+Opportunity Markets
+Chain
+All
+Ethereum
+OP Mainnet
+Gnosis
+Base
+
+Sorted by Score, high to low. N/A means the wallet has too little history to score.
+
+#	Account	
+Score
+	
+Profit/Loss
+	
+Volume
+	
+ROI
+	
+Traded Markets
+
+1	
+total-electronic-snake
+	
+87.5
+ELITE
+	+$51,783.39	$177,160.27	+40.0%	110
+2	
+@mr-froggert
+·
+outforarip.eth
+	
+83.5
+GREAT
+	+$24,469.70	$102,016.45	+29.5%	76
+3	
+0xjean.eth
+	
+80.7
+GREAT
+	+$1,108.08	$1,786.09	+60.1%	32
+4	
+stormy-dull-puffin
+	
+78.0
+GREAT
+	+$4,988.15	$277,707.98	+10.5%	123
+5	
+scientific-decisive-toucan
+	
+77.6
+GREAT
+	+$219,854.31	$1,229,522.30	+30.1%	53
+6	
+intensive-impressive-cheetah
+	
+75.6
+GREAT
+	+$35,414.85	$80,412.90	+42.6%	25
+7	
+unfair-assistant-hedgehog
+	
+73.3
+GREAT
+	+$75,302.98	$123,730.16	+120.8%	14
+8	
+@seerious
+	
+73.0
+GREAT
+	+$763.47	$4,417.78	+23.7%	41
+9	
+top-conscious-mongoose
+	
+72.3
+GREAT
+	+$584.51	$194.41	+191.6%	14
+10	
+public-interested-parakeet
+	
+71.9
+GREAT
+	+$33,783.26	$377,479.87	+4.4%	22
+11	
+tense-individual-impala
+	
+70.8
+GREAT
+	+$125.87	$6,027.90	+1.7%	48
+12	
+confidential-stupid-yak
+	
+70.1
+GREAT
+	+$359.97	$3,406.63	+28.7%	30
+13	
+stormy-dull-puffin
+	
+69.7
+GOOD
+	+$934.18	$2,384.40	+33.3%	72
+14	
+prime-indirect-crow
+	
+69.1
+GOOD
+	+$70.66	$4,009.91	+8.7%	67
+15	
+shotaro.eth
+	
+68.5
+GOOD
+	+$43,244.64	$315,492.20	+8.2%	36
+16	
+payable-unlikely-earwig
+	
+68.4
+GOOD
+	+$763.96	$1,562.67	+35.5%	12
+17	
+compatible-convincing-meadowlark
+	
+68.1
+GOOD
+	+$20.98	$282.07	+7.4%	24
+18	
+verbal-yummy-flamingo
+	
+67.3
+GOOD
+	+$2,179.32	$12,659.96	+31.4%	9
+19	
+strategic-well-raven
+	
+67.2
+GOOD
+	+$27,537.96	$55,418.97	+45.5%	8
+20	
+specific-creepy-guan
+	
+64.9
+GOOD
+	+$16.81	$3,499.08	+5.0%	9
+21	
+top-conscious-mongoose
+	
+64.0
+GOOD
+	+$980.19	$11,146.18	+13.6%	75
+22	
+socialist-ambitious-ladybug
+	
+62.5
+GOOD
+	+$243.84	$1,483.79	+28.8%	46
+23	
+juicy-zesty-marmot
+	
+61.0
+GOOD
+	+$649.63	$6,340.37	+15.7%	12
+24	
+stormy-dull-puffin
+	
+60.2
+GOOD
+	+$4,146.88	$2,714.11	+163.9%	3
+25	
+precise-plastic-gibbon
+	
+59.3
+GOOD
+	+$6.79	$201.25	+3.8%	15
+
+Page 1 of 159 · Updated 10/18/2026, 9:52:13 PM
+
+Prev
+Next

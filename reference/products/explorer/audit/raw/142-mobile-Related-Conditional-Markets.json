@@ -1,0 +1,1035 @@
+{
+ "title": "Seer | Will Marine Le Pen be the National Rally’s candidate in the next French presidential election?",
+ "url": "https://app.seer.pm/markets/100/will-marine-le-pen-be-the-national-rallys-candidate-in-the-next-french-president/",
+ "scrollHeight": 2482,
+ "headings": [
+  "h2: Major Events",
+  "h3: Reality.eth Resolution"
+ ],
+ "interactive": [
+  {
+   "i": 0,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    348,
+    11,
+    12,
+    12
+   ]
+  },
+  {
+   "i": 1,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "/",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    24,
+    43,
+    99,
+    46
+   ]
+  },
+  {
+   "i": 2,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    354,
+    54,
+    24,
+    24
+   ]
+  },
+  {
+   "i": 3,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "/",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    12,
+    141,
+    14,
+    15
+   ]
+  },
+  {
+   "i": 4,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0xe1793927eb763864967426fe7750ab0dc6f019f3",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    302,
+    195,
+    20,
+    20
+   ]
+  },
+  {
+   "i": 5,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Answer on Reality.eth!",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    114,
+    349,
+    167,
+    21
+   ]
+  },
+  {
+   "i": 6,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Open interest and liquidity breakdown",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "false",
+   "box": [
+    274,
+    409,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 7,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://curate.kleros.io/tcr/100/0x5aAF9E23A11440F8C1Ad6D2E2e5109C7e52CC672/0xe52983e87bcc720c2f26b970ccfdd73b658fbb0ae5af0eca6f3ea8e782d371b9",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    442,
+    410,
+    14,
+    14
+   ]
+  },
+  {
+   "i": 8,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Custom",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    32,
+    526,
+    86,
+    38
+   ]
+  },
+  {
+   "i": 9,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    338,
+    535,
+    20,
+    20
+   ]
+  },
+  {
+   "i": 10,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "",
+   "href": "",
+   "disabled": true,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    296,
+    588,
+    24,
+    24
+   ]
+  },
+  {
+   "i": 11,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "",
+   "href": "",
+   "disabled": true,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    324,
+    588,
+    24,
+    24
+   ]
+  },
+  {
+   "i": 12,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Charting by TradingView",
+   "href": "https://www.tradingview.com/?utm_medium=lwc-link&utm_campaign=lwc-chart&utm_source=app.seer.pm/markets/100/will-marine-le-pen-be-the-national-rallys-candidate-in-the-next-french-president/",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    52,
+    855,
+    35,
+    19
+   ]
+  },
+  {
+   "i": 13,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/token/0x053720357c72aea18963ec9712ed645d70b605f6",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    37,
+    1056,
+    12,
+    12
+   ]
+  },
+  {
+   "i": 14,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Add Liquidity",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    65,
+    1053,
+    73,
+    18
+   ]
+  },
+  {
+   "i": 15,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "View pool details",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    154,
+    1053,
+    94,
+    18
+   ]
+  },
+  {
+   "i": 16,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "New conditional market",
+   "href": "/create-market?parentMarket=0xe1793927eb763864967426fe7750ab0dc6f019f3&parentOutcome=Yes",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    37,
+    1079,
+    134,
+    18
+   ]
+  },
+  {
+   "i": 17,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/token/0x2beee027677241fa88cce318624c4417b8d1f484",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    37,
+    1170,
+    12,
+    12
+   ]
+  },
+  {
+   "i": 18,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Add Liquidity",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    65,
+    1167,
+    73,
+    18
+   ]
+  },
+  {
+   "i": 19,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "View pool details",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    154,
+    1167,
+    94,
+    18
+   ]
+  },
+  {
+   "i": 20,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "New conditional market",
+   "href": "/create-market?parentMarket=0xe1793927eb763864967426fe7750ab0dc6f019f3&parentOutcome=No",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    37,
+    1193,
+    134,
+    18
+   ]
+  },
+  {
+   "i": 21,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/token/0x55f3cb8d1f3bcf3512a76a7b2a5afbef6168485d",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    37,
+    1306,
+    12,
+    12
+   ]
+  },
+  {
+   "i": 22,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Add Liquidity",
+   "href": "https://v3.swapr.eth.limo/#/add/0x55f3cb8d1f3bcf3512a76a7b2a5afbef6168485d/0xaf204776c7245bf4147c2612bf6e5972ee483701/enter-amounts",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    65,
+    1303,
+    73,
+    18
+   ]
+  },
+  {
+   "i": 23,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "View pool details",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    154,
+    1303,
+    94,
+    18
+   ]
+  },
+  {
+   "i": 24,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "New conditional market",
+   "href": "/create-market?parentMarket=0xe1793927eb763864967426fe7750ab0dc6f019f3&parentOutcome=Invalid",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    37,
+    1329,
+    134,
+    18
+   ]
+  },
+  {
+   "i": 25,
+   "tag": "button",
+   "role": "tab",
+   "type": "button",
+   "text": "Comments",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    11,
+    1610,
+    116,
+    32
+   ]
+  },
+  {
+   "i": 26,
+   "tag": "button",
+   "role": "tab",
+   "type": "button",
+   "text": "Related Conditional Markets (2)",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    127,
+    1610,
+    275,
+    32
+   ]
+  },
+  {
+   "i": 27,
+   "tag": "button",
+   "role": "tab",
+   "type": "button",
+   "text": "Top Holders",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    402,
+    1610,
+    125,
+    32
+   ]
+  },
+  {
+   "i": 28,
+   "tag": "button",
+   "role": "tab",
+   "type": "button",
+   "text": "Activity",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    527,
+    1610,
+    89,
+    32
+   ]
+  },
+  {
+   "i": 29,
+   "tag": "input",
+   "role": "",
+   "type": "text",
+   "text": "Type outcome name...",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    155,
+    1678,
+    223,
+    48
+   ]
+  },
+  {
+   "i": 30,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0xbbf8f7e40a9234d965f59802c1b3720b21bcc32e",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    302,
+    1758,
+    20,
+    20
+   ]
+  },
+  {
+   "i": 31,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    37,
+    1812,
+    65,
+    65
+   ]
+  },
+  {
+   "i": 32,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Will the National Rally’s candidate win the next French presidential election?",
+   "href": "/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    114,
+    1813,
+    234,
+    70
+   ]
+  },
+  {
+   "i": 33,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "\"Will Marine Le Pen be the National Rally’s candidate in the next French preside",
+   "href": "/markets/100/will-marine-le-pen-be-the-national-rallys-candidate-in-the-next-french-president",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    114,
+    1893,
+    232,
+    82
+   ]
+  },
+  {
+   "i": 34,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "\"Yes\"",
+   "href": "/markets/100/will-marine-le-pen-be-the-national-rallys-candidate-in-the-next-french-president?outcome=Yes",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    222,
+    1956,
+    34,
+    19
+   ]
+  },
+  {
+   "i": 35,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Answer on Reality.eth!",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    114,
+    1984,
+    167,
+    21
+   ]
+  },
+  {
+   "i": 36,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0xfe414db77da686f2050877565b7223b7da4b7c36",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    302,
+    2058,
+    20,
+    20
+   ]
+  },
+  {
+   "i": 37,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    37,
+    2112,
+    65,
+    65
+   ]
+  },
+  {
+   "i": 38,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Will the National Rally’s candidate win the next French presidential election?",
+   "href": "/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election-2",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    114,
+    2113,
+    234,
+    70
+   ]
+  },
+  {
+   "i": 39,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "\"Will Marine Le Pen be the National Rally’s candidate in the next French preside",
+   "href": "/markets/100/will-marine-le-pen-be-the-national-rallys-candidate-in-the-next-french-president",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    114,
+    2193,
+    232,
+    82
+   ]
+  },
+  {
+   "i": 40,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "\"No\"",
+   "href": "/markets/100/will-marine-le-pen-be-the-national-rallys-candidate-in-the-next-french-president?outcome=No",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    222,
+    2256,
+    31,
+    19
+   ]
+  },
+  {
+   "i": 41,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Answer on Reality.eth!",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    114,
+    2284,
+    167,
+    21
+   ]
+  },
+  {
+   "i": 42,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Open trade drawer",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    376,
+    1705,
+    56,
+    56
+   ]
+  },
+  {
+   "i": 43,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://kleros.io/",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    106,
+    2394,
+    179,
+    24
+   ]
+  },
+  {
+   "i": 44,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://discord.com/invite/rBEB4MYQwV",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    138,
+    2442,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 45,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://t.me/Seerpredictionmarket",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    171,
+    2442,
+    16,
+    16
+   ]
+  },
+  {
+   "i": 46,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://x.com/seer_pm",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    203,
+    2442,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 47,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://github.com/seer-pm",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    236,
+    2442,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 48,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Close drawer",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    418,
+    1817,
+    14,
+    24
+   ]
+  },
+  {
+   "i": 49,
+   "tag": "button",
+   "role": "tab",
+   "type": "button",
+   "text": "Trade",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    24,
+    1849,
+    98,
+    32
+   ]
+  },
+  {
+   "i": 50,
+   "tag": "button",
+   "role": "tab",
+   "type": "button",
+   "text": "Mint",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    122,
+    1849,
+    90,
+    32
+   ]
+  },
+  {
+   "i": 51,
+   "tag": "button",
+   "role": "tab",
+   "type": "button",
+   "text": "Merge",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    212,
+    1849,
+    103,
+    32
+   ]
+  },
+  {
+   "i": 52,
+   "tag": "button",
+   "role": "tab",
+   "type": "button",
+   "text": "Redeem",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    315,
+    1849,
+    117,
+    32
+   ]
+  },
+  {
+   "i": 53,
+   "tag": "input",
+   "role": "",
+   "type": "number",
+   "text": "0",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    65,
+    2085,
+    209,
+    33
+   ]
+  },
+  {
+   "i": 54,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Max",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    348,
+    2127,
+    43,
+    31
+   ]
+  },
+  {
+   "i": 55,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    204,
+    2153,
+    48,
+    48
+   ]
+  },
+  {
+   "i": 56,
+   "tag": "input",
+   "role": "",
+   "type": "number",
+   "text": "0",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    64,
+    2225,
+    220,
+    33
+   ]
+  },
+  {
+   "i": 57,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Enter an amount",
+   "href": "",
+   "disabled": true,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    48,
+    2438,
+    360,
+    45
+   ]
+  }
+ ],
+ "charts": [
+  {
+   "tag": "canvas",
+   "box": [
+    42,
+    612,
+    246,
+    272
+   ],
+   "texts": [],
+   "paths": 0
+  },
+  {
+   "tag": "canvas",
+   "box": [
+    42,
+    612,
+    246,
+    272
+   ],
+   "texts": [],
+   "paths": 0
+  }
+ ],
+ "tables": [
+  {
+   "rows": 2,
+   "head": []
+  }
+ ],
+ "fonts": [
+  "Open Sans"
+ ],
+ "colors": {
+  "bg": "rgba(0, 0, 0, 0)",
+  "text": "oklch(0.278078 0.029596 256.848)"
+ },
+ "dialogs": 1
+}

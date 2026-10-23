@@ -1,0 +1,107 @@
+Note that this is a Beta version and can still be unstable
+/
+Market
+Reports open
+Will Marine Le Pen be the National Rally’s candidate in the next French presidential election?
+Answer on Reality.eth!
+Categorical
+7.16k
+49.68k
+0.00
+1D
+1W
+1M
+All
+Custom
+Yes
+84.2%
+No
+14.8%
+	
+	
+
+	
+	
+May 5, 2026 22:00
+Yes:
+22.20%
+No:
+78.00%
+Outcomes
+
+#1 Yes
+
+Add Liquidity
+View pool details
+New conditional market
+84.2%
+
+#2 No
+
+Add Liquidity
+View pool details
+New conditional market
+14.8%
+
+#3 Invalid
+
+210.85 SER-INVALID
+Add Liquidity
+View pool details
+New conditional market
+0%
+Major Events
+1 UPCOMING
+
+JAN 1, 2027 · 00:00 UTC
+
+Reality.eth Resolution
+
+Expected resolution date
+
+Comments
+Related Conditional Markets (2)
+Top Holders
+Activity
+Search by outcome:
+Reports open
+Will the National Rally’s candidate win the next French presidential election?
+
+Conditional on "Will Marine Le Pen be the National Rally’s candidate in the next French presidential election?" being "Yes"
+
+Answer on Reality.eth!
+Reports open
+Will the National Rally’s candidate win the next French presidential election?
+
+Conditional on "Will Marine Le Pen be the National Rally’s candidate in the next French presidential election?" being "No"
+
+Answer on Reality.eth!
+×
+Trade
+Mint
+Merge
+Redeem
+Yes
+Market
+
+You pay
+
+sDAI
+
+0 sDAI
+
+Max
+
+You will get
+
+Yes
+
+Avg price
+0 sDAI
+Potential return
+0.00 sDAI (0.00%)
+Parameters:
+
+Max slippage 1%
+
+Enter an amount

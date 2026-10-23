@@ -1,0 +1,219 @@
+Note that this is a Beta version and can still be unstable
+/
+Market
+Reports open
+How many Polymarket clarification notes published before January 1, 2027 will cause a market price move of at least 25 percentage points within 24 hours? [Note]
+Answer on Reality.eth!
+Market Estimate: 21.23 Note
+Scalar
+1.11k
+88.65
+1D
+1W
+1M
+All
+Custom
+Market Estimate
+21.2%
+	
+	
+
+	
+	
+Outcomes
+
+#1 DOWN [10,50]
+
+Add Liquidity
+View pool details
+New conditional market
+0.648
+
+#2 UP [10,50]
+
+Add Liquidity
+View pool details
+New conditional market
+0.295
+
+#3 Invalid
+
+Add Liquidity
+View pool details
+New conditional market
+0
+Comments
+Related Conditional Markets
+Top Holders
+Activity
+slimy-correct-hedgehog
+Bought
+<0.001
+DOWN
+	Oct 15, 2026 · 15:03
+
+interim-nutritious-primate
+Sold
+15.00
+DOWN
+	Oct 15, 2026 · 15:03
+
+interim-nutritious-primate
+Split
+15.00
+sDAI
+	Oct 15, 2026 · 15:03
+
+alive-rational-snipe
+Bought
+0.37
+DOWN
+	Oct 3, 2026 · 10:19
+
+horrible-controlled-fowl
+Bought
+0.00
+DOWN
+	Sep 24, 2026 · 17:56
+
+@seerious
+Sold
+0.99
+DOWN
+	Sep 11, 2026 · 20:51
+
+slimy-correct-hedgehog
+Bought
+<0.001
+DOWN
+	Sep 11, 2026 · 20:51
+
+@seerious
+Bought
+0.73
+DOWN
+	Sep 11, 2026 · 20:49
+
+@seerious
+Bought
+1.47
+DOWN
+	Sep 11, 2026 · 20:48
+
+homeless-mighty-basilisk
+Sold
+11.57
+DOWN
+	Jul 26, 2026 · 03:41
+
+slimy-correct-hedgehog
+Bought
+0.00
+DOWN
+	Jul 26, 2026 · 03:41
+
+homeless-mighty-basilisk
+Bought
+11.57
+DOWN
+	Jul 26, 2026 · 03:39
+
+zeroth-disturbed-lemming
+Bought
+0.01
+UP
+	Jul 24, 2026 · 08:26
+
+slimy-correct-hedgehog
+Bought
+0.00
+DOWN
+	Jul 23, 2026 · 12:26
+
+grubby-conventional-shark
+Sold
+11.20
+DOWN
+	Jul 23, 2026 · 12:26
+
+colourful-naked-shrew
+Split
+10.00
+sDAI
+	Jul 23, 2026 · 11:54
+
+grubby-conventional-shark
+Bought
+11.20
+DOWN
+	Jul 23, 2026 · 11:50
+
+interim-nutritious-primate
+Sold
+11.24
+DOWN
+	Jul 5, 2026 · 04:50
+
+slimy-correct-hedgehog
+Bought
+<0.001
+DOWN
+	Jul 5, 2026 · 04:50
+
+interim-nutritious-primate
+Bought
+11.24
+DOWN
+	Jul 5, 2026 · 04:49
+
+stale-integrated-ox
+Added liquidity
+500.00
+UP
+	Jun 29, 2026 · 17:57
+
+stale-integrated-ox
+Added liquidity
+93.99
+DOWN
+	Jun 29, 2026 · 17:55
+
+stale-integrated-ox
+Split
+500.00
+sDAI
+	Jun 29, 2026 · 17:53
+
+silly-voiceless-loon
+Split
+0.02
+sDAI
+	Jun 22, 2026 · 16:30
+×
+Trade
+Mint
+Merge
+Redeem
+DOWN
+Market
+
+You pay
+
+sDAI
+
+0 sDAI
+
+Max
+
+You will get
+
+DOWN
+
+Avg price
+0 sDAI
+Calculate your potential return
+Parameters:
+
+Max slippage 1%
+
+Enter an amount

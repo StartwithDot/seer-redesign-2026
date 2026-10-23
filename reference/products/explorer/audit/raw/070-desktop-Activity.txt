@@ -1,0 +1,847 @@
+Note that this is a Beta version and can still be unstable
+Markets
+Leaderboard
+Create Market
+Policies
+App
+0x0000...dEaD
+
+24.69 xDAI
+
+/
+Market
+Conditional Market
+This market is conditional on the resolution of "Will Marine Le Pen be the National Rally’s candidate in the next French presidential election?" being "Yes".
+If the main market resolves to a different outcome, the tokens of this market will be worthless.
+Reports open
+Will the National Rally’s candidate win the next French presidential election?
+Answer on Reality.eth!
+Categorical
+Liquidity:
+7.54k
+Volume:
+11.75k
+Verified
+1D
+1W
+1M
+All
+Custom
+No
+74.5%
+Yes
+35.3%
+	
+	
+
+	
+	
+Outcomes
+
+#1 No
+
+Add Liquidity
+View pool details
+New conditional market
+74.5%
+
+#2 Yes
+
+Add Liquidity
+View pool details
+New conditional market
+35.3%
+
+#3 Invalid
+
+Add Liquidity
+View pool details
+New conditional market
+0%
+No
+Market
+
+You pay
+
+LEPEN_NRYES
+
+0 LEPEN_NRYES
+
+Max
+
+You will get
+
+No
+
+Avg price
+0 LEPEN_NRYES
+Potential return
+0.00 LEPEN_NRYES (0.00%)
+Parameters:
+
+Max slippage 1%
+
+Enter an amount
+
+More
+
+Mint
+Mint
+Merge
+Redeem
+Amount
+Max
+Balance:
+0 LEPEN_NRYES
+Mint
+Major Events
+1 UPCOMING
+
+MAY 31, 2027 · 00:00 UTC
+
+Reality.eth Resolution
+
+Expected resolution date
+
+Comments
+Related Conditional Markets
+Top Holders
+Activity
+My activity
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Oct 7, 2026 · 02:04
+
+tense-individual-impala
+Sold
+0.17
+No
+	Oct 7, 2026 · 02:04
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Oct 7, 2026 · 02:04
+
+tense-individual-impala
+Sold
+0.17
+Yes
+	Oct 7, 2026 · 02:04
+
+tense-individual-impala
+Sold
+0.69
+Yes
+	Oct 7, 2026 · 02:03
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Oct 7, 2026 · 02:03
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Oct 7, 2026 · 02:03
+
+tense-individual-impala
+Sold
+0.69
+No
+	Oct 7, 2026 · 02:03
+
+tense-individual-impala
+Sold
+0.30
+Yes
+	Oct 7, 2026 · 02:03
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Oct 7, 2026 · 02:03
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Oct 7, 2026 · 02:03
+
+tense-individual-impala
+Sold
+0.30
+No
+	Oct 7, 2026 · 02:03
+
+adequate-bitter-lemur
+Bought
+1.06
+No
+	Oct 7, 2026 · 02:03
+
+total-electronic-snake
+Bought
+472.78
+Yes
+	Oct 6, 2026 · 21:54
+
+tense-individual-impala
+Sold
+0.61
+No
+	Sep 21, 2026 · 01:16
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Sep 21, 2026 · 01:16
+
+tense-individual-impala
+Sold
+0.61
+Yes
+	Sep 21, 2026 · 01:16
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Sep 21, 2026 · 01:16
+
+respectable-scientific-otter
+Bought
+0.40
+No
+	Sep 21, 2026 · 01:16
+
+total-electronic-snake
+Sold
+120.00
+Yes
+	Sep 3, 2026 · 01:57
+
+slimy-correct-hedgehog
+Bought
+0.02
+Yes
+	Sep 3, 2026 · 01:57
+
+total-electronic-snake
+Bought
+120.00
+Yes
+	Sep 3, 2026 · 01:55
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Sep 1, 2026 · 03:54
+
+tense-individual-impala
+Sold
+2.13
+No
+	Sep 1, 2026 · 03:54
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Sep 1, 2026 · 03:54
+
+tense-individual-impala
+Sold
+2.13
+Yes
+	Sep 1, 2026 · 03:54
+
+tense-individual-impala
+Sold
+7.34
+Yes
+	Sep 1, 2026 · 03:54
+
+slimy-correct-hedgehog
+Bought
+0.00
+Yes
+	Sep 1, 2026 · 03:54
+
+slimy-correct-hedgehog
+Bought
+0.00
+No
+	Sep 1, 2026 · 03:54
+
+tense-individual-impala
+Sold
+7.34
+No
+	Sep 1, 2026 · 03:54
+
+tense-individual-impala
+Sold
+25.30
+No
+	Sep 1, 2026 · 03:53
+
+tense-individual-impala
+Sold
+25.30
+Yes
+	Sep 1, 2026 · 03:53
+
+slimy-correct-hedgehog
+Bought
+0.01
+Yes
+	Sep 1, 2026 · 03:53
+
+slimy-correct-hedgehog
+Bought
+0.00
+No
+	Sep 1, 2026 · 03:53
+
+ripotche.eth
+Bought
+33.77
+No
+	Sep 1, 2026 · 03:53
+
+total-electronic-snake
+Bought
+250.00
+Yes
+	Jul 20, 2026 · 03:55
+
+total-electronic-snake
+Bought
+192.00
+Yes
+	Jul 18, 2026 · 02:42
+
+total-electronic-snake
+Sold
+528.00
+No
+	Jul 18, 2026 · 02:40
+
+slimy-correct-hedgehog
+Bought
+0.08
+No
+	Jul 18, 2026 · 02:40
+
+total-electronic-snake
+Bought
+110.00
+Yes
+	Jul 14, 2026 · 12:18
+
+slimy-correct-hedgehog
+Bought
+0.05
+No
+	Jul 14, 2026 · 12:17
+
+total-electronic-snake
+Sold
+350.00
+No
+	Jul 14, 2026 · 12:17
+
+total-electronic-snake
+Bought
+115.00
+Yes
+	Jul 13, 2026 · 13:23
+
+total-electronic-snake
+Sold
+345.00
+No
+	Jul 13, 2026 · 13:22
+
+slimy-correct-hedgehog
+Bought
+0.05
+No
+	Jul 13, 2026 · 13:22
+
+total-electronic-snake
+Bought
+220.00
+Yes
+	Jul 10, 2026 · 02:24
+
+total-electronic-snake
+Sold
+650.00
+No
+	Jul 10, 2026 · 02:23
+
+slimy-correct-hedgehog
+Bought
+0.11
+No
+	Jul 10, 2026 · 02:23
+
+total-electronic-snake
+Bought
+1.00k
+Yes
+	Jul 9, 2026 · 23:00
+
+slimy-correct-hedgehog
+Bought
+0.01
+No
+	Jul 9, 2026 · 22:59
+
+total-electronic-snake
+Sold
+1.50k
+No
+	Jul 9, 2026 · 22:59
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	May 29, 2026 · 15:56
+
+required-ill-angelfish
+Sold
+14.13
+Yes
+	May 29, 2026 · 15:56
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	May 29, 2026 · 15:56
+
+required-ill-angelfish
+Sold
+2.69
+No
+	May 29, 2026 · 15:56
+
+required-ill-angelfish
+Removed liquidity
+2.45
+No
+	Jan 20, 2026 · 21:35
+
+required-ill-angelfish
+Removed liquidity
+51.10
+Yes
+	Jan 20, 2026 · 21:34
+
+required-ill-angelfish
+Removed liquidity
+102.62
+No
+	Jan 20, 2026 · 21:12
+
+required-ill-angelfish
+Removed liquidity
+162.98
+Yes
+	Jan 20, 2026 · 21:12
+
+required-ill-angelfish
+Removed liquidity
+0.05
+Yes
+	Jan 20, 2026 · 21:11
+
+required-ill-angelfish
+Removed liquidity
+0.01
+No
+	Jan 20, 2026 · 21:11
+
+@mr-froggert
+Added liquidity
+10.00
+Yes
+	Jun 27, 2025 · 21:56
+
+@mr-froggert
+Added liquidity
+10.00
+No
+	Jun 27, 2025 · 21:42
+
+stormy-dull-puffin
+Bought
+50.00
+No
+	Jun 15, 2025 · 04:29
+
+stormy-dull-puffin
+Bought
+50.00
+Yes
+	Jun 15, 2025 · 04:29
+
+stormy-dull-puffin
+Bought
+50.00
+No
+	Jun 15, 2025 · 04:27
+
+stormy-dull-puffin
+Bought
+50.00
+Yes
+	Jun 15, 2025 · 04:27
+
+stormy-dull-puffin
+Bought
+60.00
+No
+	Jun 12, 2025 · 17:35
+
+stormy-dull-puffin
+Bought
+60.00
+Yes
+	Jun 12, 2025 · 17:35
+
+stormy-dull-puffin
+Bought
+200.00
+No
+	Jun 12, 2025 · 17:32
+
+stormy-dull-puffin
+Bought
+200.00
+Yes
+	Jun 12, 2025 · 17:32
+
+stormy-dull-puffin
+Bought
+200.00
+No
+	Jun 12, 2025 · 17:26
+
+stormy-dull-puffin
+Bought
+200.00
+Yes
+	Jun 12, 2025 · 17:26
+
+slimy-correct-hedgehog
+Bought
+0.01
+Yes
+	Jun 12, 2025 · 15:16
+
+shotaro.eth
+Sold
+543.12
+Yes
+	Jun 12, 2025 · 15:16
+
+shotaro.eth
+Sold
+780.17
+No
+	Jun 12, 2025 · 15:15
+
+slimy-correct-hedgehog
+Bought
+0.01
+No
+	Jun 12, 2025 · 15:15
+
+shotaro.eth
+Removed liquidity
+780.17
+No
+	Jun 12, 2025 · 15:12
+
+shotaro.eth
+Removed liquidity
+543.12
+Yes
+	Jun 12, 2025 · 15:12
+
+shotaro.eth
+Added liquidity
+543.12
+Yes
+	Jun 9, 2025 · 21:12
+
+shotaro.eth
+Added liquidity
+780.17
+No
+	Jun 9, 2025 · 21:01
+
+shotaro.eth
+Removed liquidity
+543.12
+Yes
+	Jun 9, 2025 · 20:17
+
+shotaro.eth
+Removed liquidity
+524.24
+No
+	Jun 9, 2025 · 20:17
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	May 28, 2025 · 19:39
+
+stormy-dull-puffin
+Sold
+80.00
+No
+	May 28, 2025 · 19:39
+
+stormy-dull-puffin
+Sold
+80.00
+Yes
+	May 28, 2025 · 19:39
+
+slimy-correct-hedgehog
+Bought
+0.01
+Yes
+	May 28, 2025 · 19:39
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	May 28, 2025 · 19:38
+
+stormy-dull-puffin
+Sold
+80.00
+No
+	May 28, 2025 · 19:38
+
+slimy-correct-hedgehog
+Bought
+0.01
+Yes
+	May 28, 2025 · 19:38
+
+stormy-dull-puffin
+Sold
+80.00
+Yes
+	May 28, 2025 · 19:38
+
+slimy-correct-hedgehog
+Bought
+0.00
+No
+	May 22, 2025 · 23:54
+
+stormy-dull-puffin
+Sold
+100.00
+No
+	May 22, 2025 · 23:54
+
+stormy-dull-puffin
+Sold
+100.00
+Yes
+	May 22, 2025 · 23:53
+
+slimy-correct-hedgehog
+Bought
+0.02
+Yes
+	May 22, 2025 · 23:53
+
+stormy-dull-puffin
+Sold
+100.00
+No
+	May 22, 2025 · 23:53
+
+slimy-correct-hedgehog
+Bought
+0.00
+No
+	May 22, 2025 · 23:53
+
+stormy-dull-puffin
+Sold
+100.00
+Yes
+	May 22, 2025 · 23:53
+
+slimy-correct-hedgehog
+Bought
+0.02
+Yes
+	May 22, 2025 · 23:53
+
+stormy-dull-puffin
+Sold
+100.00
+No
+	May 22, 2025 · 23:52
+
+slimy-correct-hedgehog
+Bought
+0.00
+No
+	May 22, 2025 · 23:52
+
+slimy-correct-hedgehog
+Bought
+0.02
+Yes
+	May 22, 2025 · 23:52
+
+stormy-dull-puffin
+Sold
+100.00
+Yes
+	May 22, 2025 · 23:52
+
+stormy-dull-puffin
+Sold
+100.00
+No
+	May 22, 2025 · 23:51
+
+slimy-correct-hedgehog
+Bought
+0.00
+No
+	May 22, 2025 · 23:51
+
+stormy-dull-puffin
+Sold
+100.00
+Yes
+	May 22, 2025 · 23:51
+
+slimy-correct-hedgehog
+Bought
+0.02
+Yes
+	May 22, 2025 · 23:51
+
+stormy-dull-puffin
+Sold
+100.00
+No
+	May 22, 2025 · 23:50
+
+slimy-correct-hedgehog
+Bought
+0.00
+No
+	May 22, 2025 · 23:50
+
+slimy-correct-hedgehog
+Bought
+0.02
+Yes
+	May 22, 2025 · 23:50
+
+stormy-dull-puffin
+Sold
+100.00
+Yes
+	May 22, 2025 · 23:50
+
+shotaro.eth
+Added liquidity
+50.59
+No
+	May 18, 2025 · 19:58
+
+slimy-correct-hedgehog
+Bought
+0.04
+No
+	May 18, 2025 · 19:58
+
+shotaro.eth
+Sold
+3.00k
+No
+	May 18, 2025 · 19:58
+
+shotaro.eth
+Bought
+3.31k
+No
+	May 18, 2025 · 19:53
+
+shotaro.eth
+Added liquidity
+105.14
+Yes
+	May 18, 2025 · 19:39
+
+shotaro.eth
+Bought
+105.14
+Yes
+	May 18, 2025 · 19:37
+
+voluminous-worldwide-boar
+Added liquidity
+3.70k
+Yes
+	May 18, 2025 · 06:09
+
+voluminous-worldwide-boar
+Added liquidity
+3.70k
+No
+	May 18, 2025 · 06:07
+
+required-ill-angelfish
+Added liquidity
+50.00
+Yes
+	May 16, 2025 · 06:02
+
+required-ill-angelfish
+Removed liquidity
+2.39
+No
+	May 16, 2025 · 05:58
+
+required-ill-angelfish
+Added liquidity
+4.78
+No
+	May 16, 2025 · 05:52
+
+required-ill-angelfish
+Added liquidity
+150.00
+Yes
+	Apr 9, 2025 · 21:11

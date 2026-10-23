@@ -1,0 +1,283 @@
+{
+ "startUrl": "https://opportunity.seer.pm/markets/100/0x8b3C7f3f09f6A85353926D8ee0f12decc1C9A5e8",
+ "states": [
+  {
+   "id": "001",
+   "vp": "desktop",
+   "label": "/markets/100/0x8b3C7f3f09f6A85353926D8ee0f12decc1C9A5e8",
+   "trigger": "page load",
+   "url": "https://opportunity.seer.pm/markets/100/0x8b3C7f3f09f6A85353926D8ee0f12decc1C9A5e8",
+   "title": "Seer · Opportunity Markets",
+   "shots": [
+    "001-desktop-markets-100-0x8b3C7f3f09f6A85353926D8ee0f12decc1C9A5e8-s0.png",
+    "001-desktop-markets-100-0x8b3C7f3f09f6A85353926D8ee0f12decc1C9A5e8-s1.png",
+    "001-desktop-markets-100-0x8b3C7f3f09f6A85353926D8ee0f12decc1C9A5e8-s2.png",
+    "001-desktop-markets-100-0x8b3C7f3f09f6A85353926D8ee0f12decc1C9A5e8-s3.png",
+    "001-desktop-markets-100-0x8b3C7f3f09f6A85353926D8ee0f12decc1C9A5e8-s4.png"
+   ],
+   "text": "001-desktop-markets-100-0x8b3C7f3f09f6A85353926D8ee0f12decc1C9A5e8.txt",
+   "dom": "001-desktop-markets-100-0x8b3C7f3f09f6A85353926D8ee0f12decc1C9A5e8.json",
+   "interactive": 34,
+   "charts": 3,
+   "tables": 1,
+   "dialogs": 0
+  },
+  {
+   "id": "002",
+   "vp": "desktop",
+   "label": "0x0000...dEaD",
+   "trigger": "click: button \"0x0000...dEaD\" on /markets/100/0x8b3C7f3f09f6A85353926D8ee0f12decc1C9A5e8",
+   "url": "https://opportunity.seer.pm/markets/100/0x8b3C7f3f09f6A85353926D8ee0f12decc1C9A5e8",
+   "title": "Seer · Opportunity Markets",
+   "shots": [
+    "002-desktop-0x0000-dEaD-s0.png",
+    "002-desktop-0x0000-dEaD-s1.png",
+    "002-desktop-0x0000-dEaD-s2.png",
+    "002-desktop-0x0000-dEaD-s3.png",
+    "002-desktop-0x0000-dEaD-s4.png"
+   ],
+   "text": "002-desktop-0x0000-dEaD.txt",
+   "dom": "002-desktop-0x0000-dEaD.json",
+   "interactive": 37,
+   "charts": 3,
+   "tables": 1,
+   "dialogs": 1
+  },
+  {
+   "id": "003",
+   "vp": "desktop",
+   "label": "SHOW ALL 235 OUTCOMES",
+   "trigger": "click: button \"SHOW ALL 235 OUTCOMES\" on /markets/100/0x8b3C7f3f09f6A85353926D8ee0f12decc1C9A5e8",
+   "url": "https://opportunity.seer.pm/markets/100/0x8b3C7f3f09f6A85353926D8ee0f12decc1C9A5e8",
+   "title": "Seer · Opportunity Markets",
+   "shots": [
+    "003-desktop-SHOW-ALL-235-OUTCOMES-s0.png",
+    "003-desktop-SHOW-ALL-235-OUTCOMES-s1.png",
+    "003-desktop-SHOW-ALL-235-OUTCOMES-s2.png",
+    "003-desktop-SHOW-ALL-235-OUTCOMES-s3.png",
+    "003-desktop-SHOW-ALL-235-OUTCOMES-s4.png",
+    "003-desktop-SHOW-ALL-235-OUTCOMES-s5.png"
+   ],
+   "text": "003-desktop-SHOW-ALL-235-OUTCOMES.txt",
+   "dom": "003-desktop-SHOW-ALL-235-OUTCOMES.json",
+   "interactive": 34,
+   "charts": 3,
+   "tables": 1,
+   "dialogs": 0
+  },
+  {
+   "id": "004",
+   "vp": "desktop",
+   "label": "search e",
+   "trigger": "type \"e\" into search on /markets/100/0x8b3C7f3f09f6A85353926D8ee0f12decc1C9A5e8",
+   "url": "https://opportunity.seer.pm/markets/100/0x8b3C7f3f09f6A85353926D8ee0f12decc1C9A5e8",
+   "title": "Seer · Opportunity Markets",
+   "shots": [
+    "004-desktop-search-e-s0.png",
+    "004-desktop-search-e-s1.png",
+    "004-desktop-search-e-s2.png",
+    "004-desktop-search-e-s3.png",
+    "004-desktop-search-e-s4.png",
+    "004-desktop-search-e-s5.png"
+   ],
+   "text": "004-desktop-search-e.txt",
+   "dom": "004-desktop-search-e.json",
+   "interactive": 33,
+   "charts": 3,
+   "tables": 1,
+   "dialogs": 0
+  },
+  {
+   "id": "005",
+   "vp": "desktop",
+   "label": "/",
+   "trigger": "page load",
+   "url": "https://opportunity.seer.pm/",
+   "title": "Seer · Opportunity Markets",
+   "shots": [
+    "005-desktop--s0.png",
+    "005-desktop--s1.png",
+    "005-desktop--s2.png"
+   ],
+   "text": "005-desktop-.txt",
+   "dom": "005-desktop-.json",
+   "interactive": 10,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "006",
+   "vp": "desktop",
+   "label": "0x0000...dEaD",
+   "trigger": "click: button \"0x0000...dEaD\" on /",
+   "url": "https://opportunity.seer.pm/",
+   "title": "Seer · Opportunity Markets",
+   "shots": [
+    "006-desktop-0x0000-dEaD-s0.png",
+    "006-desktop-0x0000-dEaD-s1.png",
+    "006-desktop-0x0000-dEaD-s2.png"
+   ],
+   "text": "006-desktop-0x0000-dEaD.txt",
+   "dom": "006-desktop-0x0000-dEaD.json",
+   "interactive": 13,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 1
+  },
+  {
+   "id": "007",
+   "vp": "desktop",
+   "label": "/#pilot",
+   "trigger": "page load",
+   "url": "https://opportunity.seer.pm/#pilot",
+   "title": "Seer · Opportunity Markets",
+   "shots": [
+    "007-desktop-pilot-s0.png",
+    "007-desktop-pilot-s1.png",
+    "007-desktop-pilot-s2.png"
+   ],
+   "text": "007-desktop-pilot.txt",
+   "dom": "007-desktop-pilot.json",
+   "interactive": 13,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 1
+  },
+  {
+   "id": "008",
+   "vp": "desktop",
+   "label": "Close",
+   "trigger": "click: button \"Close\" on /",
+   "url": "https://opportunity.seer.pm/#pilot",
+   "title": "Seer · Opportunity Markets",
+   "shots": [
+    "008-desktop-Close-s0.png",
+    "008-desktop-Close-s1.png",
+    "008-desktop-Close-s2.png"
+   ],
+   "text": "008-desktop-Close.txt",
+   "dom": "008-desktop-Close.json",
+   "interactive": 10,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  }
+ ],
+ "transitions": [
+  {
+   "from": "https://opportunity.seer.pm/markets/100/0x8b3C7f3f09f6A85353926D8ee0f12decc1C9A5e8",
+   "via": "0x8b3c...a5e8",
+   "to": "https://gnosisscan.io/address/0x8b3c7f3f09f6a85353926d8ee0f12decc1c9a5e8",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://opportunity.seer.pm/markets/100/0x8b3C7f3f09f6A85353926D8ee0f12decc1C9A5e8",
+   "via": "View on Seer ↗",
+   "to": "https://app.seer.pm/markets/100/what-name-will-be-adopted-for-the-futarchy-run-ai-job-board-organization-announc",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://opportunity.seer.pm/markets/100/0x8b3C7f3f09f6A85353926D8ee0f12decc1C9A5e8",
+   "via": "Charting by TradingView",
+   "to": "https://www.tradingview.com/?utm_medium=lwc-link&utm_campaign=lwc-chart&utm_source=opportunity.seer.pm/markets/100/0x8b3C7f3f09f6A85353926D8ee0f12decc1C9A5e8",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://opportunity.seer.pm/markets/100/0x8b3C7f3f09f6A85353926D8ee0f12decc1C9A5e8",
+   "via": "Seer",
+   "to": "https://seer.pm",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://opportunity.seer.pm/markets/100/0x8b3C7f3f09f6A85353926D8ee0f12decc1C9A5e8",
+   "via": "button: 0x0000...dEaD",
+   "to": "https://opportunity.seer.pm/markets/100/0x8b3C7f3f09f6A85353926D8ee0f12decc1C9A5e8",
+   "newState": true,
+   "state": "002",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://opportunity.seer.pm/markets/100/0x8b3C7f3f09f6A85353926D8ee0f12decc1C9A5e8",
+   "via": "button: SHOW ALL 235 OUTCOMES",
+   "to": "https://opportunity.seer.pm/markets/100/0x8b3C7f3f09f6A85353926D8ee0f12decc1C9A5e8",
+   "newState": true,
+   "state": "003",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://opportunity.seer.pm/markets/100/0x8b3C7f3f09f6A85353926D8ee0f12decc1C9A5e8",
+   "via": "button: SAI 6%",
+   "to": "https://opportunity.seer.pm/markets/100/0x8b3C7f3f09f6A85353926D8ee0f12decc1C9A5e8",
+   "newState": false,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://opportunity.seer.pm/markets/100/0x8b3C7f3f09f6A85353926D8ee0f12decc1C9A5e8",
+   "via": "button: delegateyourjob.ai 5.9%",
+   "to": "https://opportunity.seer.pm/markets/100/0x8b3C7f3f09f6A85353926D8ee0f12decc1C9A5e8",
+   "newState": false,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://opportunity.seer.pm/markets/100/0x8b3C7f3f09f6A85353926D8ee0f12decc1C9A5e8",
+   "via": "button: Zetsu.AI 4.1%",
+   "to": "https://opportunity.seer.pm/markets/100/0x8b3C7f3f09f6A85353926D8ee0f12decc1C9A5e8",
+   "newState": false,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://opportunity.seer.pm/markets/100/0x8b3C7f3f09f6A85353926D8ee0f12decc1C9A5e8",
+   "via": "button: Wageware 3.6%",
+   "to": "https://opportunity.seer.pm/markets/100/0x8b3C7f3f09f6A85353926D8ee0f12decc1C9A5e8",
+   "newState": false,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://opportunity.seer.pm/markets/100/0x8b3C7f3f09f6A85353926D8ee0f12decc1C9A5e8",
+   "via": "search input: e",
+   "to": "https://opportunity.seer.pm/markets/100/0x8b3C7f3f09f6A85353926D8ee0f12decc1C9A5e8",
+   "newState": true,
+   "state": "004",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://opportunity.seer.pm/",
+   "via": "Seer",
+   "to": "https://seer.pm",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://opportunity.seer.pm/",
+   "via": "button: 0x0000...dEaD",
+   "to": "https://opportunity.seer.pm/",
+   "newState": true,
+   "state": "006",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://opportunity.seer.pm/#pilot",
+   "via": "Seer",
+   "to": "https://seer.pm",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://opportunity.seer.pm/#pilot",
+   "via": "button: Close",
+   "to": "https://opportunity.seer.pm/#pilot",
+   "newState": true,
+   "state": "008",
+   "vp": "desktop"
+  }
+ ],
+ "consoleErrors": [
+  "[1440] Access to fetch at 'https://eth.merkle.io/' from origin 'https://opportunity.seer.pm' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Contr",
+  "[1440] Failed to load resource: net::ERR_FAILED"
+ ]
+}

@@ -1,0 +1,312 @@
+{
+ "startUrl": "https://opportunity.seer.pm/markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683",
+ "states": [
+  {
+   "id": "001",
+   "vp": "desktop",
+   "label": "/markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683",
+   "trigger": "page load",
+   "url": "https://opportunity.seer.pm/markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683",
+   "title": "Seer · Opportunity Markets",
+   "shots": [
+    "001-desktop-markets-100-0xc2b8e25675db9977ad14bca62b655e4aa6b36683-s0.png",
+    "001-desktop-markets-100-0xc2b8e25675db9977ad14bca62b655e4aa6b36683-s1.png",
+    "001-desktop-markets-100-0xc2b8e25675db9977ad14bca62b655e4aa6b36683-s2.png",
+    "001-desktop-markets-100-0xc2b8e25675db9977ad14bca62b655e4aa6b36683-s3.png",
+    "001-desktop-markets-100-0xc2b8e25675db9977ad14bca62b655e4aa6b36683-s4.png"
+   ],
+   "text": "001-desktop-markets-100-0xc2b8e25675db9977ad14bca62b655e4aa6b36683.txt",
+   "dom": "001-desktop-markets-100-0xc2b8e25675db9977ad14bca62b655e4aa6b36683.json",
+   "interactive": 68,
+   "charts": 3,
+   "tables": 1,
+   "dialogs": 0
+  },
+  {
+   "id": "002",
+   "vp": "desktop",
+   "label": "Select outcome Proof of Belonging Tshirt",
+   "trigger": "click: button \"Select outcome Proof of Belonging Tshirt\" on /markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683",
+   "url": "https://opportunity.seer.pm/markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683?outcome=1",
+   "title": "Seer · Opportunity Markets",
+   "shots": [
+    "002-desktop-Select-outcome-Proof-of-Belonging-Tshirt-s0.png",
+    "002-desktop-Select-outcome-Proof-of-Belonging-Tshirt-s1.png",
+    "002-desktop-Select-outcome-Proof-of-Belonging-Tshirt-s2.png",
+    "002-desktop-Select-outcome-Proof-of-Belonging-Tshirt-s3.png",
+    "002-desktop-Select-outcome-Proof-of-Belonging-Tshirt-s4.png"
+   ],
+   "text": "002-desktop-Select-outcome-Proof-of-Belonging-Tshirt.txt",
+   "dom": "002-desktop-Select-outcome-Proof-of-Belonging-Tshirt.json",
+   "interactive": 68,
+   "charts": 3,
+   "tables": 1,
+   "dialogs": 0
+  },
+  {
+   "id": "003",
+   "vp": "desktop",
+   "label": "Select outcome See What The Market Believes T shirt",
+   "trigger": "click: button \"Select outcome See What The Market Believes T shirt\" on /markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683",
+   "url": "https://opportunity.seer.pm/markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683?outcome=2",
+   "title": "Seer · Opportunity Markets",
+   "shots": [
+    "003-desktop-Select-outcome-See-What-The-Market-Believes-T-shirt-s0.png",
+    "003-desktop-Select-outcome-See-What-The-Market-Believes-T-shirt-s1.png",
+    "003-desktop-Select-outcome-See-What-The-Market-Believes-T-shirt-s2.png",
+    "003-desktop-Select-outcome-See-What-The-Market-Believes-T-shirt-s3.png",
+    "003-desktop-Select-outcome-See-What-The-Market-Believes-T-shirt-s4.png"
+   ],
+   "text": "003-desktop-Select-outcome-See-What-The-Market-Believes-T-shirt.txt",
+   "dom": "003-desktop-Select-outcome-See-What-The-Market-Believes-T-shirt.json",
+   "interactive": 68,
+   "charts": 3,
+   "tables": 1,
+   "dialogs": 0
+  },
+  {
+   "id": "004",
+   "vp": "desktop",
+   "label": "Select outcome Seer Apparel Purple Set : Hoodie+hat",
+   "trigger": "click: button \"Select outcome Seer Apparel Purple Set : Hoodie+hat\" on /markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683",
+   "url": "https://opportunity.seer.pm/markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683?outcome=3",
+   "title": "Seer · Opportunity Markets",
+   "shots": [
+    "004-desktop-Select-outcome-Seer-Apparel-Purple-Set-Hoodie-hat-s0.png",
+    "004-desktop-Select-outcome-Seer-Apparel-Purple-Set-Hoodie-hat-s1.png",
+    "004-desktop-Select-outcome-Seer-Apparel-Purple-Set-Hoodie-hat-s2.png",
+    "004-desktop-Select-outcome-Seer-Apparel-Purple-Set-Hoodie-hat-s3.png",
+    "004-desktop-Select-outcome-Seer-Apparel-Purple-Set-Hoodie-hat-s4.png"
+   ],
+   "text": "004-desktop-Select-outcome-Seer-Apparel-Purple-Set-Hoodie-hat.txt",
+   "dom": "004-desktop-Select-outcome-Seer-Apparel-Purple-Set-Hoodie-hat.json",
+   "interactive": 69,
+   "charts": 3,
+   "tables": 1,
+   "dialogs": 0
+  },
+  {
+   "id": "005",
+   "vp": "mobile",
+   "label": "/markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683",
+   "trigger": "page load",
+   "url": "https://opportunity.seer.pm/markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683",
+   "title": "Seer · Opportunity Markets",
+   "shots": [
+    "005-mobile-markets-100-0xc2b8e25675db9977ad14bca62b655e4aa6b36683-s0.png",
+    "005-mobile-markets-100-0xc2b8e25675db9977ad14bca62b655e4aa6b36683-s1.png",
+    "005-mobile-markets-100-0xc2b8e25675db9977ad14bca62b655e4aa6b36683-s2.png",
+    "005-mobile-markets-100-0xc2b8e25675db9977ad14bca62b655e4aa6b36683-s3.png",
+    "005-mobile-markets-100-0xc2b8e25675db9977ad14bca62b655e4aa6b36683-s4.png",
+    "005-mobile-markets-100-0xc2b8e25675db9977ad14bca62b655e4aa6b36683-s5.png"
+   ],
+   "text": "005-mobile-markets-100-0xc2b8e25675db9977ad14bca62b655e4aa6b36683.txt",
+   "dom": "005-mobile-markets-100-0xc2b8e25675db9977ad14bca62b655e4aa6b36683.json",
+   "interactive": 66,
+   "charts": 2,
+   "tables": 1,
+   "dialogs": 0
+  },
+  {
+   "id": "006",
+   "vp": "mobile",
+   "label": "Select outcome Proof of Belonging Tshirt",
+   "trigger": "click: button \"Select outcome Proof of Belonging Tshirt\" on /markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683",
+   "url": "https://opportunity.seer.pm/markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683?outcome=1",
+   "title": "Seer · Opportunity Markets",
+   "shots": [
+    "006-mobile-Select-outcome-Proof-of-Belonging-Tshirt-s0.png",
+    "006-mobile-Select-outcome-Proof-of-Belonging-Tshirt-s1.png",
+    "006-mobile-Select-outcome-Proof-of-Belonging-Tshirt-s2.png",
+    "006-mobile-Select-outcome-Proof-of-Belonging-Tshirt-s3.png",
+    "006-mobile-Select-outcome-Proof-of-Belonging-Tshirt-s4.png",
+    "006-mobile-Select-outcome-Proof-of-Belonging-Tshirt-s5.png"
+   ],
+   "text": "006-mobile-Select-outcome-Proof-of-Belonging-Tshirt.txt",
+   "dom": "006-mobile-Select-outcome-Proof-of-Belonging-Tshirt.json",
+   "interactive": 66,
+   "charts": 2,
+   "tables": 1,
+   "dialogs": 0
+  },
+  {
+   "id": "007",
+   "vp": "mobile",
+   "label": "Select outcome See What The Market Believes T shirt",
+   "trigger": "click: button \"Select outcome See What The Market Believes T shirt\" on /markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683",
+   "url": "https://opportunity.seer.pm/markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683?outcome=2",
+   "title": "Seer · Opportunity Markets",
+   "shots": [
+    "007-mobile-Select-outcome-See-What-The-Market-Believes-T-shirt-s0.png",
+    "007-mobile-Select-outcome-See-What-The-Market-Believes-T-shirt-s1.png",
+    "007-mobile-Select-outcome-See-What-The-Market-Believes-T-shirt-s2.png",
+    "007-mobile-Select-outcome-See-What-The-Market-Believes-T-shirt-s3.png",
+    "007-mobile-Select-outcome-See-What-The-Market-Believes-T-shirt-s4.png",
+    "007-mobile-Select-outcome-See-What-The-Market-Believes-T-shirt-s5.png"
+   ],
+   "text": "007-mobile-Select-outcome-See-What-The-Market-Believes-T-shirt.txt",
+   "dom": "007-mobile-Select-outcome-See-What-The-Market-Believes-T-shirt.json",
+   "interactive": 66,
+   "charts": 2,
+   "tables": 1,
+   "dialogs": 0
+  },
+  {
+   "id": "008",
+   "vp": "mobile",
+   "label": "Select outcome Seer Apparel Purple Set : Hoodie+hat",
+   "trigger": "click: button \"Select outcome Seer Apparel Purple Set : Hoodie+hat\" on /markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683",
+   "url": "https://opportunity.seer.pm/markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683?outcome=3",
+   "title": "Seer · Opportunity Markets",
+   "shots": [
+    "008-mobile-Select-outcome-Seer-Apparel-Purple-Set-Hoodie-hat-s0.png",
+    "008-mobile-Select-outcome-Seer-Apparel-Purple-Set-Hoodie-hat-s1.png",
+    "008-mobile-Select-outcome-Seer-Apparel-Purple-Set-Hoodie-hat-s2.png",
+    "008-mobile-Select-outcome-Seer-Apparel-Purple-Set-Hoodie-hat-s3.png",
+    "008-mobile-Select-outcome-Seer-Apparel-Purple-Set-Hoodie-hat-s4.png",
+    "008-mobile-Select-outcome-Seer-Apparel-Purple-Set-Hoodie-hat-s5.png"
+   ],
+   "text": "008-mobile-Select-outcome-Seer-Apparel-Purple-Set-Hoodie-hat.txt",
+   "dom": "008-mobile-Select-outcome-Seer-Apparel-Purple-Set-Hoodie-hat.json",
+   "interactive": 66,
+   "charts": 2,
+   "tables": 1,
+   "dialogs": 0
+  }
+ ],
+ "transitions": [
+  {
+   "from": "https://opportunity.seer.pm/markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683",
+   "via": "0xc2b8...6683",
+   "to": "https://gnosisscan.io/address/0xc2b8e25675db9977ad14bca62b655e4aa6b36683",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://opportunity.seer.pm/markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683",
+   "via": "View on Seer ↗",
+   "to": "https://app.seer.pm/markets/100/which-of-the-following-designs-will-be-picked-for-seers-2026-devcon-mumbai-merch-2",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://opportunity.seer.pm/markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683",
+   "via": "VIEW PROPOSAL ↗",
+   "to": "https://cdn.kleros.link/ipfs/QmVMuib7W35vxdJKeRB1KvNsLbgVK3qC2PeeyFnnUbSTMR",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://opportunity.seer.pm/markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683",
+   "via": "VIEW PROPOSAL ↗",
+   "to": "https://cdn.kleros.link/ipfs/QmfUiHgDYQEbz4yJqoCEorkGwgkTFnZ24qGdwapX2ZmSch",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://opportunity.seer.pm/markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683",
+   "via": "Charting by TradingView",
+   "to": "https://www.tradingview.com/?utm_medium=lwc-link&utm_campaign=lwc-chart&utm_source=opportunity.seer.pm/markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://opportunity.seer.pm/markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683",
+   "via": "Seer",
+   "to": "https://seer.pm",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://opportunity.seer.pm/markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683",
+   "via": "button: Select outcome Proof of Belonging Tshirt",
+   "to": "https://opportunity.seer.pm/markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683?outcome=1",
+   "newState": true,
+   "state": "002",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://opportunity.seer.pm/markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683",
+   "via": "button: Select outcome See What The Market Believes T shirt",
+   "to": "https://opportunity.seer.pm/markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683?outcome=2",
+   "newState": true,
+   "state": "003",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://opportunity.seer.pm/markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683",
+   "via": "button: Select outcome Seer Apparel Purple Set : Hoodie+hat",
+   "to": "https://opportunity.seer.pm/markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683?outcome=3",
+   "newState": true,
+   "state": "004",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://opportunity.seer.pm/markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683",
+   "via": "0xc2b8...6683",
+   "to": "https://gnosisscan.io/address/0xc2b8e25675db9977ad14bca62b655e4aa6b36683",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://opportunity.seer.pm/markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683",
+   "via": "View on Seer ↗",
+   "to": "https://app.seer.pm/markets/100/which-of-the-following-designs-will-be-picked-for-seers-2026-devcon-mumbai-merch-2",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://opportunity.seer.pm/markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683",
+   "via": "VIEW PROPOSAL ↗",
+   "to": "https://cdn.kleros.link/ipfs/QmVMuib7W35vxdJKeRB1KvNsLbgVK3qC2PeeyFnnUbSTMR",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://opportunity.seer.pm/markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683",
+   "via": "VIEW PROPOSAL ↗",
+   "to": "https://cdn.kleros.link/ipfs/QmfUiHgDYQEbz4yJqoCEorkGwgkTFnZ24qGdwapX2ZmSch",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://opportunity.seer.pm/markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683",
+   "via": "Charting by TradingView",
+   "to": "https://www.tradingview.com/?utm_medium=lwc-link&utm_campaign=lwc-chart&utm_source=opportunity.seer.pm/markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://opportunity.seer.pm/markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683",
+   "via": "Seer",
+   "to": "https://seer.pm",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://opportunity.seer.pm/markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683",
+   "via": "button: Select outcome Proof of Belonging Tshirt",
+   "to": "https://opportunity.seer.pm/markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683?outcome=1",
+   "newState": true,
+   "state": "006",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://opportunity.seer.pm/markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683",
+   "via": "button: Select outcome See What The Market Believes T shirt",
+   "to": "https://opportunity.seer.pm/markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683?outcome=2",
+   "newState": true,
+   "state": "007",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://opportunity.seer.pm/markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683",
+   "via": "button: Select outcome Seer Apparel Purple Set : Hoodie+hat",
+   "to": "https://opportunity.seer.pm/markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683?outcome=3",
+   "newState": true,
+   "state": "008",
+   "vp": "mobile"
+  }
+ ],
+ "consoleErrors": []
+}

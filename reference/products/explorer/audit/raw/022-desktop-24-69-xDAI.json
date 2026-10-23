@@ -1,0 +1,426 @@
+{
+ "title": "Seer | A Next Generation Prediction Marketplace",
+ "url": "https://app.seer.pm/create-market",
+ "scrollHeight": 900,
+ "headings": [],
+ "interactive": [
+  {
+   "i": 0,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    873,
+    11,
+    12,
+    12
+   ]
+  },
+  {
+   "i": 1,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "/",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    32,
+    43,
+    99,
+    46
+   ]
+  },
+  {
+   "i": 2,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Markets",
+   "href": "/",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    474,
+    42,
+    61,
+    48
+   ]
+  },
+  {
+   "i": 3,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Leaderboard",
+   "href": "/leaderboard",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    558,
+    42,
+    96,
+    48
+   ]
+  },
+  {
+   "i": 4,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Create Market",
+   "href": "/create-market",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    679,
+    42,
+    106,
+    48
+   ]
+  },
+  {
+   "i": 5,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Policies",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    809,
+    42,
+    80,
+    48
+   ]
+  },
+  {
+   "i": 6,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "App",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    912,
+    42,
+    54,
+    48
+   ]
+  },
+  {
+   "i": 7,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "24.69 xDAI",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1285,
+    45,
+    50,
+    43
+   ]
+  },
+  {
+   "i": 8,
+   "tag": "ul",
+   "role": "",
+   "type": "",
+   "text": "Account Deposit Portfolio Market Collections Trade Collateral Use smart account",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1087,
+    88,
+    248,
+    321
+   ]
+  },
+  {
+   "i": 9,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Account",
+   "href": "/profile",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1087,
+    88,
+    248,
+    53
+   ]
+  },
+  {
+   "i": 10,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Deposit",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1087,
+    141,
+    248,
+    53
+   ]
+  },
+  {
+   "i": 11,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Portfolio",
+   "href": "/portfolio",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1087,
+    194,
+    248,
+    53
+   ]
+  },
+  {
+   "i": 12,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Market Collections",
+   "href": "/collections/default",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1087,
+    247,
+    248,
+    53
+   ]
+  },
+  {
+   "i": 13,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Trade Collateral",
+   "href": "/trade-collateral",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1087,
+    300,
+    248,
+    53
+   ]
+  },
+  {
+   "i": 14,
+   "tag": "input",
+   "role": "",
+   "type": "checkbox",
+   "text": "on",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1271,
+    369,
+    48,
+    24
+   ]
+  },
+  {
+   "i": 15,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1343,
+    46,
+    25,
+    40
+   ]
+  },
+  {
+   "i": 16,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Switch to light mode",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1376,
+    50,
+    32,
+    32
+   ]
+  },
+  {
+   "i": 17,
+   "tag": "select",
+   "role": "",
+   "type": "",
+   "text": "Categorical Scalar Multi Categorical Multi Scalar",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    412,
+    367,
+    616,
+    48
+   ]
+  },
+  {
+   "i": 18,
+   "tag": "button",
+   "role": "",
+   "type": "submit",
+   "text": "Next",
+   "href": "",
+   "disabled": true,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    650,
+    447,
+    140,
+    45
+   ]
+  },
+  {
+   "i": 19,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://kleros.io/",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    32,
+    856,
+    179,
+    24
+   ]
+  },
+  {
+   "i": 20,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://discord.com/invite/rBEB4MYQwV",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1293,
+    860,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 21,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://t.me/Seerpredictionmarket",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1326,
+    860,
+    16,
+    16
+   ]
+  },
+  {
+   "i": 22,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://x.com/seer_pm",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1358,
+    860,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 23,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://github.com/seer-pm",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1391,
+    860,
+    17,
+    16
+   ]
+  }
+ ],
+ "charts": [],
+ "tables": [],
+ "fonts": [
+  "Open Sans"
+ ],
+ "colors": {
+  "bg": "rgba(0, 0, 0, 0)",
+  "text": "oklch(1 0 0)"
+ },
+ "dialogs": 0
+}

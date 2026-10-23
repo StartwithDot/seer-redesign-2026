@@ -1,0 +1,1760 @@
+{
+ "title": "Seer | Will Polymarket publicly release a fix for the negative-risk mint/merge share cost basis accounting issue before January 1, 2027?",
+ "url": "https://app.seer.pm/markets/100/will-polymarket-publicly-release-a-fix-for-the-negative-risk-mintmerge-share-cos/",
+ "scrollHeight": 1879,
+ "headings": [
+  "h2: October 2026"
+ ],
+ "interactive": [
+  {
+   "i": 0,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    873,
+    11,
+    12,
+    12
+   ]
+  },
+  {
+   "i": 1,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "/",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    32,
+    43,
+    99,
+    46
+   ]
+  },
+  {
+   "i": 2,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Markets",
+   "href": "/",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    474,
+    42,
+    61,
+    48
+   ]
+  },
+  {
+   "i": 3,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Leaderboard",
+   "href": "/leaderboard",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    558,
+    42,
+    96,
+    48
+   ]
+  },
+  {
+   "i": 4,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Create Market",
+   "href": "/create-market",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    679,
+    42,
+    106,
+    48
+   ]
+  },
+  {
+   "i": 5,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Policies",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    809,
+    42,
+    80,
+    48
+   ]
+  },
+  {
+   "i": 6,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "App",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    912,
+    42,
+    54,
+    48
+   ]
+  },
+  {
+   "i": 7,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "24.69 xDAI",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1285,
+    45,
+    50,
+    43
+   ]
+  },
+  {
+   "i": 8,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1343,
+    46,
+    25,
+    40
+   ]
+  },
+  {
+   "i": 9,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Switch to dark mode",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1376,
+    50,
+    32,
+    32
+   ]
+  },
+  {
+   "i": 10,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "/",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    32,
+    141,
+    14,
+    15
+   ]
+  },
+  {
+   "i": 11,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0xfe8abb3b55acca31e74243349573801c379507b3",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1332,
+    195,
+    20,
+    20
+   ]
+  },
+  {
+   "i": 12,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Answer on Reality.eth!",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    134,
+    325,
+    167,
+    21
+   ]
+  },
+  {
+   "i": 13,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Open interest and liquidity breakdown",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "false",
+   "box": [
+    353,
+    385,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 14,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Verified",
+   "href": "https://curate.kleros.io/tcr/100/0x5aAF9E23A11440F8C1Ad6D2E2e5109C7e52CC672/0xe5364edfc5170d6bc2770bd06a374c6f8c82c7e5789e57a1449e4b07ece40ec2",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1310,
+    383,
+    72,
+    21
+   ]
+  },
+  {
+   "i": 15,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Custom",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    304,
+    456,
+    86,
+    38
+   ]
+  },
+  {
+   "i": 16,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Today",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    305,
+    517,
+    101,
+    44
+   ]
+  },
+  {
+   "i": 17,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Last Week",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    305,
+    561,
+    101,
+    44
+   ]
+  },
+  {
+   "i": 18,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Last Month",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    305,
+    605,
+    101,
+    44
+   ]
+  },
+  {
+   "i": 19,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "All",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    305,
+    649,
+    101,
+    44
+   ]
+  },
+  {
+   "i": 20,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Previous Month",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    409,
+    533,
+    32,
+    32
+   ]
+  },
+  {
+   "i": 21,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Next Month",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    648,
+    533,
+    32,
+    32
+   ]
+  },
+  {
+   "i": 22,
+   "tag": "div",
+   "role": "option",
+   "type": "",
+   "text": "Choose Sunday, September 27th, 2026",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    434,
+    628,
+    27,
+    27
+   ]
+  },
+  {
+   "i": 23,
+   "tag": "div",
+   "role": "option",
+   "type": "",
+   "text": "Choose Monday, September 28th, 2026",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    466,
+    628,
+    27,
+    27
+   ]
+  },
+  {
+   "i": 24,
+   "tag": "div",
+   "role": "option",
+   "type": "",
+   "text": "Choose Tuesday, September 29th, 2026",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    499,
+    628,
+    27,
+    27
+   ]
+  },
+  {
+   "i": 25,
+   "tag": "div",
+   "role": "option",
+   "type": "",
+   "text": "Choose Wednesday, September 30th, 2026",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    531,
+    628,
+    27,
+    27
+   ]
+  },
+  {
+   "i": 26,
+   "tag": "div",
+   "role": "option",
+   "type": "",
+   "text": "Choose Thursday, October 1st, 2026",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    564,
+    628,
+    27,
+    27
+   ]
+  },
+  {
+   "i": 27,
+   "tag": "div",
+   "role": "option",
+   "type": "",
+   "text": "Choose Friday, October 2nd, 2026",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    596,
+    628,
+    27,
+    27
+   ]
+  },
+  {
+   "i": 28,
+   "tag": "div",
+   "role": "option",
+   "type": "",
+   "text": "Choose Saturday, October 3rd, 2026",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    629,
+    628,
+    27,
+    27
+   ]
+  },
+  {
+   "i": 29,
+   "tag": "div",
+   "role": "option",
+   "type": "",
+   "text": "Choose Sunday, October 4th, 2026",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    434,
+    660,
+    27,
+    27
+   ]
+  },
+  {
+   "i": 30,
+   "tag": "div",
+   "role": "option",
+   "type": "",
+   "text": "Choose Monday, October 5th, 2026",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    466,
+    660,
+    27,
+    27
+   ]
+  },
+  {
+   "i": 31,
+   "tag": "div",
+   "role": "option",
+   "type": "",
+   "text": "Choose Tuesday, October 6th, 2026",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    499,
+    660,
+    27,
+    27
+   ]
+  },
+  {
+   "i": 32,
+   "tag": "div",
+   "role": "option",
+   "type": "",
+   "text": "Choose Wednesday, October 7th, 2026",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    531,
+    660,
+    27,
+    27
+   ]
+  },
+  {
+   "i": 33,
+   "tag": "div",
+   "role": "option",
+   "type": "",
+   "text": "Choose Thursday, October 8th, 2026",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    564,
+    660,
+    27,
+    27
+   ]
+  },
+  {
+   "i": 34,
+   "tag": "div",
+   "role": "option",
+   "type": "",
+   "text": "Choose Friday, October 9th, 2026",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    596,
+    660,
+    27,
+    27
+   ]
+  },
+  {
+   "i": 35,
+   "tag": "div",
+   "role": "option",
+   "type": "",
+   "text": "Choose Saturday, October 10th, 2026",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    629,
+    660,
+    27,
+    27
+   ]
+  },
+  {
+   "i": 36,
+   "tag": "div",
+   "role": "option",
+   "type": "",
+   "text": "Choose Sunday, October 11th, 2026",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    434,
+    692,
+    27,
+    27
+   ]
+  },
+  {
+   "i": 37,
+   "tag": "div",
+   "role": "option",
+   "type": "",
+   "text": "Choose Monday, October 12th, 2026",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    466,
+    692,
+    27,
+    27
+   ]
+  },
+  {
+   "i": 38,
+   "tag": "div",
+   "role": "option",
+   "type": "",
+   "text": "Choose Tuesday, October 13th, 2026",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    499,
+    692,
+    27,
+    27
+   ]
+  },
+  {
+   "i": 39,
+   "tag": "div",
+   "role": "option",
+   "type": "",
+   "text": "Choose Wednesday, October 14th, 2026",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    531,
+    692,
+    27,
+    27
+   ]
+  },
+  {
+   "i": 40,
+   "tag": "div",
+   "role": "option",
+   "type": "",
+   "text": "Choose Thursday, October 15th, 2026",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    564,
+    692,
+    27,
+    27
+   ]
+  },
+  {
+   "i": 41,
+   "tag": "div",
+   "role": "option",
+   "type": "",
+   "text": "Choose Friday, October 16th, 2026",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    596,
+    692,
+    27,
+    27
+   ]
+  },
+  {
+   "i": 42,
+   "tag": "div",
+   "role": "option",
+   "type": "",
+   "text": "Choose Saturday, October 17th, 2026",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    629,
+    692,
+    27,
+    27
+   ]
+  },
+  {
+   "i": 43,
+   "tag": "div",
+   "role": "option",
+   "type": "",
+   "text": "Choose Sunday, October 18th, 2026",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    434,
+    725,
+    27,
+    27
+   ]
+  },
+  {
+   "i": 44,
+   "tag": "div",
+   "role": "option",
+   "type": "",
+   "text": "Choose Monday, October 19th, 2026",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    466,
+    725,
+    27,
+    27
+   ]
+  },
+  {
+   "i": 45,
+   "tag": "div",
+   "role": "option",
+   "type": "",
+   "text": "Choose Tuesday, October 20th, 2026",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    499,
+    725,
+    27,
+    27
+   ]
+  },
+  {
+   "i": 46,
+   "tag": "div",
+   "role": "option",
+   "type": "",
+   "text": "Choose Wednesday, October 21st, 2026",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    531,
+    725,
+    27,
+    27
+   ]
+  },
+  {
+   "i": 47,
+   "tag": "div",
+   "role": "option",
+   "type": "",
+   "text": "Choose Thursday, October 22nd, 2026",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    564,
+    725,
+    27,
+    27
+   ]
+  },
+  {
+   "i": 48,
+   "tag": "div",
+   "role": "option",
+   "type": "",
+   "text": "Choose Friday, October 23rd, 2026",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    596,
+    725,
+    27,
+    27
+   ]
+  },
+  {
+   "i": 49,
+   "tag": "div",
+   "role": "option",
+   "type": "",
+   "text": "Choose Saturday, October 24th, 2026",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    629,
+    725,
+    27,
+    27
+   ]
+  },
+  {
+   "i": 50,
+   "tag": "div",
+   "role": "option",
+   "type": "",
+   "text": "Choose Sunday, October 25th, 2026",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    434,
+    757,
+    27,
+    27
+   ]
+  },
+  {
+   "i": 51,
+   "tag": "div",
+   "role": "option",
+   "type": "",
+   "text": "Choose Monday, October 26th, 2026",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    466,
+    757,
+    27,
+    27
+   ]
+  },
+  {
+   "i": 52,
+   "tag": "div",
+   "role": "option",
+   "type": "",
+   "text": "Choose Tuesday, October 27th, 2026",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    499,
+    757,
+    27,
+    27
+   ]
+  },
+  {
+   "i": 53,
+   "tag": "div",
+   "role": "option",
+   "type": "",
+   "text": "Choose Wednesday, October 28th, 2026",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    531,
+    757,
+    27,
+    27
+   ]
+  },
+  {
+   "i": 54,
+   "tag": "div",
+   "role": "option",
+   "type": "",
+   "text": "Choose Thursday, October 29th, 2026",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    564,
+    757,
+    27,
+    27
+   ]
+  },
+  {
+   "i": 55,
+   "tag": "div",
+   "role": "option",
+   "type": "",
+   "text": "Choose Friday, October 30th, 2026",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    596,
+    757,
+    27,
+    27
+   ]
+  },
+  {
+   "i": 56,
+   "tag": "div",
+   "role": "option",
+   "type": "",
+   "text": "Choose Saturday, October 31st, 2026",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    629,
+    757,
+    27,
+    27
+   ]
+  },
+  {
+   "i": 57,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Cancel",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    444,
+    808,
+    117,
+    45
+   ]
+  },
+  {
+   "i": 58,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Save",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    570,
+    808,
+    102,
+    45
+   ]
+  },
+  {
+   "i": 59,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    904,
+    465,
+    20,
+    20
+   ]
+  },
+  {
+   "i": 60,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "",
+   "href": "",
+   "disabled": true,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    862,
+    518,
+    24,
+    24
+   ]
+  },
+  {
+   "i": 61,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "",
+   "href": "",
+   "disabled": true,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    890,
+    518,
+    24,
+    24
+   ]
+  },
+  {
+   "i": 62,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Charting by TradingView",
+   "href": "https://www.tradingview.com/?utm_medium=lwc-link&utm_campaign=lwc-chart&utm_source=app.seer.pm/markets/100/will-polymarket-publicly-release-a-fix-for-the-negative-risk-mintmerge-share-cos/",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    72,
+    785,
+    35,
+    19
+   ]
+  },
+  {
+   "i": 63,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/token/0x05df83da43ad057144b04cee048b1209c9cb4456",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    117,
+    998,
+    12,
+    12
+   ]
+  },
+  {
+   "i": 64,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Add Liquidity",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    145,
+    995,
+    73,
+    18
+   ]
+  },
+  {
+   "i": 65,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "View pool details",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    234,
+    995,
+    94,
+    18
+   ]
+  },
+  {
+   "i": 66,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "New conditional market",
+   "href": "/create-market?parentMarket=0xfe8abb3b55acca31e74243349573801c379507b3&parentOutcome=No%20",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    344,
+    995,
+    134,
+    18
+   ]
+  },
+  {
+   "i": 67,
+   "tag": "input",
+   "role": "",
+   "type": "radio",
+   "text": "on",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    895,
+    980,
+    24,
+    24
+   ]
+  },
+  {
+   "i": 68,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/token/0x76587bd7a7f19ff09d10ecc87dc0c721f6b81a07",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    117,
+    1110,
+    12,
+    12
+   ]
+  },
+  {
+   "i": 69,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Add Liquidity",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    145,
+    1107,
+    73,
+    18
+   ]
+  },
+  {
+   "i": 70,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "View pool details",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    234,
+    1107,
+    94,
+    18
+   ]
+  },
+  {
+   "i": 71,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "New conditional market",
+   "href": "/create-market?parentMarket=0xfe8abb3b55acca31e74243349573801c379507b3&parentOutcome=Yes",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    344,
+    1107,
+    134,
+    18
+   ]
+  },
+  {
+   "i": 72,
+   "tag": "input",
+   "role": "",
+   "type": "radio",
+   "text": "on",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    895,
+    1092,
+    24,
+    24
+   ]
+  },
+  {
+   "i": 73,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/token/0x6e1d884c3537cf520125aee249968e9556344e2e",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    117,
+    1244,
+    12,
+    12
+   ]
+  },
+  {
+   "i": 74,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Add Liquidity",
+   "href": "https://v3.swapr.eth.limo/#/add/0x6e1d884c3537cf520125aee249968e9556344e2e/0xaf204776c7245bf4147c2612bf6e5972ee483701/enter-amounts",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    145,
+    1241,
+    73,
+    18
+   ]
+  },
+  {
+   "i": 75,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "View pool details",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    234,
+    1241,
+    94,
+    18
+   ]
+  },
+  {
+   "i": 76,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "New conditional market",
+   "href": "/create-market?parentMarket=0xfe8abb3b55acca31e74243349573801c379507b3&parentOutcome=Invalid",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    344,
+    1241,
+    134,
+    18
+   ]
+  },
+  {
+   "i": 77,
+   "tag": "input",
+   "role": "",
+   "type": "radio",
+   "text": "on",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    895,
+    1215,
+    24,
+    24
+   ]
+  },
+  {
+   "i": 78,
+   "tag": "input",
+   "role": "",
+   "type": "number",
+   "text": "0",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1001,
+    621,
+    249,
+    33
+   ]
+  },
+  {
+   "i": 79,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Max",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1324,
+    663,
+    43,
+    31
+   ]
+  },
+  {
+   "i": 80,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1160,
+    689,
+    48,
+    48
+   ]
+  },
+  {
+   "i": 81,
+   "tag": "input",
+   "role": "",
+   "type": "number",
+   "text": "0",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1000,
+    761,
+    264,
+    33
+   ]
+  },
+  {
+   "i": 82,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Enter an amount",
+   "href": "",
+   "disabled": true,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    984,
+    974,
+    400,
+    45
+   ]
+  },
+  {
+   "i": 83,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "More",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    961,
+    1064,
+    446,
+    40
+   ]
+  },
+  {
+   "i": 84,
+   "tag": "button",
+   "role": "tab",
+   "type": "button",
+   "text": "Mint",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    985,
+    1194,
+    121,
+    32
+   ]
+  },
+  {
+   "i": 85,
+   "tag": "button",
+   "role": "tab",
+   "type": "button",
+   "text": "Merge",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1106,
+    1194,
+    132,
+    32
+   ]
+  },
+  {
+   "i": 86,
+   "tag": "button",
+   "role": "tab",
+   "type": "button",
+   "text": "Redeem",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1238,
+    1194,
+    145,
+    32
+   ]
+  },
+  {
+   "i": 87,
+   "tag": "input",
+   "role": "",
+   "type": "number",
+   "text": "",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    985,
+    1312,
+    398,
+    48
+   ]
+  },
+  {
+   "i": 88,
+   "tag": "input",
+   "role": "",
+   "type": "checkbox",
+   "text": "on",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1027,
+    1380,
+    48,
+    24
+   ]
+  },
+  {
+   "i": 89,
+   "tag": "button",
+   "role": "",
+   "type": "submit",
+   "text": "Mint",
+   "href": "",
+   "disabled": true,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    985,
+    1424,
+    140,
+    45
+   ]
+  },
+  {
+   "i": 90,
+   "tag": "button",
+   "role": "tab",
+   "type": "button",
+   "text": "Comments",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    32,
+    1328,
+    199,
+    32
+   ]
+  },
+  {
+   "i": 91,
+   "tag": "button",
+   "role": "tab",
+   "type": "button",
+   "text": "Related Conditional Markets",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    231,
+    1328,
+    334,
+    32
+   ]
+  },
+  {
+   "i": 92,
+   "tag": "button",
+   "role": "tab",
+   "type": "button",
+   "text": "Top Holders",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    565,
+    1328,
+    208,
+    32
+   ]
+  },
+  {
+   "i": 93,
+   "tag": "button",
+   "role": "tab",
+   "type": "button",
+   "text": "Activity",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    772,
+    1328,
+    172,
+    32
+   ]
+  },
+  {
+   "i": 94,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Connect to comment",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    715,
+    1471,
+    192,
+    32
+   ]
+  },
+  {
+   "i": 95,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://kleros.io/",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    32,
+    1835,
+    179,
+    24
+   ]
+  },
+  {
+   "i": 96,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://discord.com/invite/rBEB4MYQwV",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1293,
+    1839,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 97,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://t.me/Seerpredictionmarket",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1326,
+    1839,
+    16,
+    16
+   ]
+  },
+  {
+   "i": 98,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://x.com/seer_pm",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1358,
+    1839,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 99,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://github.com/seer-pm",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1391,
+    1839,
+    17,
+    16
+   ]
+  }
+ ],
+ "charts": [
+  {
+   "tag": "canvas",
+   "box": [
+    62,
+    542,
+    798,
+    272
+   ],
+   "texts": [],
+   "paths": 0
+  },
+  {
+   "tag": "canvas",
+   "box": [
+    62,
+    542,
+    798,
+    272
+   ],
+   "texts": [],
+   "paths": 0
+  },
+  {
+   "tag": "svg",
+   "box": [
+    348,
+    1604,
+    280,
+    139
+   ],
+   "texts": [],
+   "paths": 12
+  }
+ ],
+ "tables": [
+  {
+   "rows": 2,
+   "head": []
+  }
+ ],
+ "fonts": [
+  "Open Sans",
+  "Helvetica Neue"
+ ],
+ "colors": {
+  "bg": "rgba(0, 0, 0, 0)",
+  "text": "oklch(0.278078 0.029596 256.848)"
+ },
+ "dialogs": 1
+}

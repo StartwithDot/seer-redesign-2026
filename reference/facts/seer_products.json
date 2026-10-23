@@ -1,0 +1,177 @@
+[
+ {
+  "fact": "Seer is described as a next generation prediction marketplace.",
+  "quote": "Seer, a next generation prediction marketplace",
+  "url": "https://seer.pm"
+ },
+ {
+  "fact": "Users can create, trade, and farm predictions.",
+  "quote": "Create, trade, and farm predictions like never before",
+  "url": "https://seer.pm"
+ },
+ {
+  "fact": "Users can design custom prediction markets on topics ranging from sports outcomes to political events.",
+  "quote": "Design custom prediction markets on anything from sports outcomes to political events.",
+  "url": "https://seer.pm"
+ },
+ {
+  "fact": "Seer allows users to create four different types of Market.",
+  "quote": "Seer allows you to create four different types of Market covering a wide range of possibilities.",
+  "url": "https://seer.pm"
+ },
+ {
+  "fact": "Trading involves buying and selling shares, monitoring real-time data, and making informed decisions.",
+  "quote": "Buy and sell shares with ease, monitor real-time data, and make informed decisions seamlessly.",
+  "url": "https://seer.pm"
+ },
+ {
+  "fact": "Seer employs the Conditional Tokens framework to create and manage outcome tokens efficiently.",
+  "quote": "Seer employs the Conditional Tokens framework to create and manage outcome tokens efficiently.",
+  "url": "https://seer.pm"
+ },
+ {
+  "fact": "Seer wraps ERC1155 outcome tokens into ERC20 tokens for smoother trading and DeFi integration.",
+  "quote": "Seer wraps these ERC1155 outcome tokens into user-friendly ERC20 tokens, facilitating smoother trading and integration with existing DeFi protocols.",
+  "url": "https://seer.pm"
+ },
+ {
+  "fact": "Seer uses Kleros to resolve disputes that may arise when answering Reality.eth questions.",
+  "quote": "Seer uses Kleros to resolve disputes that may arise when answering Reality.eth questions.",
+  "url": "https://seer.pm"
+ },
+ {
+  "fact": "Kleros functions as a decentralized arbiter that determines correct answers by applying rules to questions.",
+  "quote": "It functions as a decentralized arbiter capable of determining the correct answer by applying a set of rules to questions ranging from simple to highly complex.",
+  "url": "https://seer.pm"
+ },
+ {
+  "fact": "Seer market categories include elections, sports, political forecasting, financial market predictions, event outcomes, crowdsourced intelligence, disaster and risk management, and insurance underwriting.",
+  "quote": "Elections Sports Political Forecasting Financial Market Predictions Event Outcomes Crowdsourced Intelligence Disaster and Risk Management Insurance Underwriting",
+  "url": "https://seer.pm"
+ },
+ {
+  "fact": "Categorical markets allow selecting one out of multiple outcomes.",
+  "quote": "Categorical Select one out of multiple outcomes.",
+  "url": "https://seer.pm"
+ },
+ {
+  "fact": "Multi Categorical markets are similar to categorical markets but allow selection of multiple outcomes.",
+  "quote": "Multi Categorical Similar to categorical market but allowing selection of multiple outcomes.",
+  "url": "https://seer.pm"
+ },
+ {
+  "fact": "Scalar markets involve a numeric outcome within a specified range.",
+  "quote": "Scalar Numeric outcome within a specified range.",
+  "url": "https://seer.pm"
+ },
+ {
+  "fact": "Multi Scalar markets involve a numeric outcome within a specified range.",
+  "quote": "Multi Scalar Numeric outcome within a specified range.",
+  "url": "https://seer.pm"
+ },
+ {
+  "fact": "UI/footer navigation includes links to Seer App, Blog, Community, Docs, Documentation, and Images & Branding.",
+  "quote": "Seer App Blog Community Docs Documentation Images & Branding",
+  "url": "https://seer.pm"
+ },
+ {
+  "fact": "Seer is live on mainnet at seer.pm.",
+  "quote": "Seer is live on mainnet at seer.pm .",
+  "url": "https://docs.seer.pm"
+ },
+ {
+  "fact": "The Introduction section is an extract of the Seer whitepaper explaining the reasoning behind the protocol.",
+  "quote": "This section is an extract of the Seer whitepaper: the reasoning behind the protocol.",
+  "url": "https://docs.seer.pm"
+ },
+ {
+  "fact": "The docs separate how to use the app from how to build on it.",
+  "quote": "For how to use the app, see What is Seer ; for how to build on it, see the Developers tab.",
+  "url": "https://docs.seer.pm"
+ },
+ {
+  "fact": "A prediction market is a market where participants can buy shares of future outcomes.",
+  "quote": "A prediction market is a market where participants can buy shares of future outcomes.",
+  "url": "https://docs.seer.pm"
+ },
+ {
+  "fact": "Shares can be redeemed for $1 if the event happens and $0 otherwise.",
+  "quote": "A share can be redeemed for 1$ if the event happens (so after the election, a share of \u00ab Joe Biden \u00bb will be worth 1$ if Biden is re-elected, 0$ otherwise).",
+  "url": "https://docs.seer.pm"
+ },
+ {
+  "fact": "Shares are tradable, for example as ERC20 tokens.",
+  "quote": "Shares are tradable (for example in the form of ERC20 tokens)",
+  "url": "https://docs.seer.pm"
+ },
+ {
+  "fact": "Looking at the price of a share can indicate the likelihood of an event happening.",
+  "quote": "by looking at the price of a share we can know the likelihood of some event happening",
+  "url": "https://docs.seer.pm"
+ },
+ {
+  "fact": "If Joe Biden shares trade at 0.60$, that implies a 60% probability of Biden being reelected.",
+  "quote": "if \u00ab Joe Biden \u00bb shares trades at 0.60$, we can assign a 60% probability of Joe Biden being reelected",
+  "url": "https://docs.seer.pm"
+ },
+ {
+  "fact": "Prediction markets can produce results equivalent or better than expert opinion or aggregation of estimates.",
+  "quote": "prediction markets have been shown to produce results equivalent or better than alternatives like expert opinion or aggregation of estimates from multiple individuals",
+  "url": "https://docs.seer.pm"
+ },
+ {
+  "fact": "Seer's goal includes creating a prediction market ecosystem to solve previous failures.",
+  "quote": "How can we create a prediction market ecosystem solving those issues?",
+  "url": "https://docs.seer.pm"
+ },
+ {
+  "fact": "App features include depositing collateral, creating markets, trading outcome tokens, and providing liquidity.",
+  "quote": "Deposit collateral, create markets, trade outcome tokens and provide liquidity.",
+  "url": "https://docs.seer.pm"
+ },
+ {
+  "fact": "Developers can build on Seer using Contracts, subgraph, HTTP API, and viem examples.",
+  "quote": "Build on Seer Contracts, subgraph and the HTTP API, with viem examples for every flow.",
+  "url": "https://docs.seer.pm"
+ },
+ {
+  "fact": "Documentation navigation includes Seer, Introduction to Seer, Whitepaper, Documentation, Developers.",
+  "quote": "Navigation Seer Introduction to Seer Whitepaper Documentation Developers",
+  "url": "https://docs.seer.pm"
+ },
+ {
+  "fact": "Documentation UI includes a search box with \u2318 K, GitHub link, and Open app buttons.",
+  "quote": "Search... \u2318 K GitHub Open app Open app",
+  "url": "https://docs.seer.pm"
+ },
+ {
+  "fact": "The documentation is built and hosted on Mintlify.",
+  "quote": "This documentation is built and hosted on Mintlify, a developer documentation platform",
+  "url": "https://docs.seer.pm"
+ },
+ {
+  "fact": "The tagline is 'Markets Know Better Than Experts'.",
+  "quote": "Markets Know Better Than Experts",
+  "url": "https://futarchy.seer.pm"
+ },
+ {
+  "fact": "The purpose is described as 'Market-based evaluation of governance decisions and milestones'.",
+  "quote": "Market-based evaluation of governance decisions and milestones",
+  "url": "https://futarchy.seer.pm"
+ },
+ {
+  "fact": "A list or table includes an 'Active Proposals' field.",
+  "quote": "Active Proposals",
+  "url": "https://futarchy.seer.pm"
+ },
+ {
+  "fact": "An empty state message says 'No organizations found'.",
+  "quote": "No organizations found",
+  "url": "https://futarchy.seer.pm"
+ },
+ {
+  "fact": "An empty state message says 'No companies available.'",
+  "quote": "No companies available.",
+  "url": "https://futarchy.seer.pm"
+ }
+]

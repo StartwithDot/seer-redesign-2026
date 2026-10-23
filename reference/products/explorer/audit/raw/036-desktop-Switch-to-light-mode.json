@@ -1,0 +1,290 @@
+{
+ "title": "Seer Collection | Nvm Collection 2",
+ "url": "https://app.seer.pm/collections/default",
+ "scrollHeight": 900,
+ "headings": [],
+ "interactive": [
+  {
+   "i": 0,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    873,
+    11,
+    12,
+    12
+   ]
+  },
+  {
+   "i": 1,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "/",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    32,
+    43,
+    99,
+    46
+   ]
+  },
+  {
+   "i": 2,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Markets",
+   "href": "/",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    474,
+    42,
+    61,
+    48
+   ]
+  },
+  {
+   "i": 3,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Leaderboard",
+   "href": "/leaderboard",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    558,
+    42,
+    96,
+    48
+   ]
+  },
+  {
+   "i": 4,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Create Market",
+   "href": "/create-market",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    679,
+    42,
+    106,
+    48
+   ]
+  },
+  {
+   "i": 5,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Policies",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    809,
+    42,
+    80,
+    48
+   ]
+  },
+  {
+   "i": 6,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "App",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    912,
+    42,
+    54,
+    48
+   ]
+  },
+  {
+   "i": 7,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "24.69 xDAI",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1285,
+    45,
+    50,
+    43
+   ]
+  },
+  {
+   "i": 8,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1343,
+    46,
+    25,
+    40
+   ]
+  },
+  {
+   "i": 9,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Switch to dark mode",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1376,
+    50,
+    32,
+    32
+   ]
+  },
+  {
+   "i": 10,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Sign in to view and manage your market collections",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    64,
+    122,
+    382,
+    24
+   ]
+  },
+  {
+   "i": 11,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://kleros.io/",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    32,
+    856,
+    179,
+    24
+   ]
+  },
+  {
+   "i": 12,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://discord.com/invite/rBEB4MYQwV",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1293,
+    860,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 13,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://t.me/Seerpredictionmarket",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1326,
+    860,
+    16,
+    16
+   ]
+  },
+  {
+   "i": 14,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://x.com/seer_pm",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1358,
+    860,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 15,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://github.com/seer-pm",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1391,
+    860,
+    17,
+    16
+   ]
+  }
+ ],
+ "charts": [],
+ "tables": [],
+ "fonts": [
+  "Open Sans"
+ ],
+ "colors": {
+  "bg": "rgba(0, 0, 0, 0)",
+  "text": "oklch(0.278078 0.029596 256.848)"
+ },
+ "dialogs": 0
+}

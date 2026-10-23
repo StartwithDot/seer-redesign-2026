@@ -1,0 +1,1359 @@
+{
+ "title": "Seer | Will Polymarket publicly release a fix for the negative-risk mint/merge share cost basis accounting issue before January 1, 2027?",
+ "url": "https://app.seer.pm/markets/100/will-polymarket-publicly-release-a-fix-for-the-negative-risk-mintmerge-share-cos/",
+ "scrollHeight": 2634,
+ "headings": [],
+ "interactive": [
+  {
+   "i": 0,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    348,
+    11,
+    12,
+    12
+   ]
+  },
+  {
+   "i": 1,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "/",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    24,
+    43,
+    99,
+    46
+   ]
+  },
+  {
+   "i": 2,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    354,
+    54,
+    24,
+    24
+   ]
+  },
+  {
+   "i": 3,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "/",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    12,
+    141,
+    14,
+    15
+   ]
+  },
+  {
+   "i": 4,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0xfe8abb3b55acca31e74243349573801c379507b3",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    302,
+    195,
+    20,
+    20
+   ]
+  },
+  {
+   "i": 5,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Answer on Reality.eth!",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    114,
+    373,
+    167,
+    21
+   ]
+  },
+  {
+   "i": 6,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Open interest and liquidity breakdown",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "false",
+   "box": [
+    274,
+    433,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 7,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://curate.kleros.io/tcr/100/0x5aAF9E23A11440F8C1Ad6D2E2e5109C7e52CC672/0xe5364edfc5170d6bc2770bd06a374c6f8c82c7e5789e57a1449e4b07ece40ec2",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    434,
+    434,
+    14,
+    14
+   ]
+  },
+  {
+   "i": 8,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Custom",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    32,
+    550,
+    86,
+    38
+   ]
+  },
+  {
+   "i": 9,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    338,
+    559,
+    20,
+    20
+   ]
+  },
+  {
+   "i": 10,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "",
+   "href": "",
+   "disabled": true,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    296,
+    612,
+    24,
+    24
+   ]
+  },
+  {
+   "i": 11,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "",
+   "href": "",
+   "disabled": true,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    324,
+    612,
+    24,
+    24
+   ]
+  },
+  {
+   "i": 12,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Charting by TradingView",
+   "href": "https://www.tradingview.com/?utm_medium=lwc-link&utm_campaign=lwc-chart&utm_source=app.seer.pm/markets/100/will-polymarket-publicly-release-a-fix-for-the-negative-risk-mintmerge-share-cos/",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    52,
+    879,
+    35,
+    19
+   ]
+  },
+  {
+   "i": 13,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/token/0x05df83da43ad057144b04cee048b1209c9cb4456",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    37,
+    1080,
+    12,
+    12
+   ]
+  },
+  {
+   "i": 14,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Add Liquidity",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    65,
+    1077,
+    73,
+    18
+   ]
+  },
+  {
+   "i": 15,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "View pool details",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    154,
+    1077,
+    94,
+    18
+   ]
+  },
+  {
+   "i": 16,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "New conditional market",
+   "href": "/create-market?parentMarket=0xfe8abb3b55acca31e74243349573801c379507b3&parentOutcome=No%20",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    37,
+    1103,
+    134,
+    18
+   ]
+  },
+  {
+   "i": 17,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/token/0x76587bd7a7f19ff09d10ecc87dc0c721f6b81a07",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    37,
+    1194,
+    12,
+    12
+   ]
+  },
+  {
+   "i": 18,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Add Liquidity",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    65,
+    1191,
+    73,
+    18
+   ]
+  },
+  {
+   "i": 19,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "View pool details",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    154,
+    1191,
+    94,
+    18
+   ]
+  },
+  {
+   "i": 20,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "New conditional market",
+   "href": "/create-market?parentMarket=0xfe8abb3b55acca31e74243349573801c379507b3&parentOutcome=Yes",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    37,
+    1217,
+    134,
+    18
+   ]
+  },
+  {
+   "i": 21,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/token/0x6e1d884c3537cf520125aee249968e9556344e2e",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    37,
+    1330,
+    12,
+    12
+   ]
+  },
+  {
+   "i": 22,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Add Liquidity",
+   "href": "https://v3.swapr.eth.limo/#/add/0x6e1d884c3537cf520125aee249968e9556344e2e/0xaf204776c7245bf4147c2612bf6e5972ee483701/enter-amounts",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    65,
+    1327,
+    73,
+    18
+   ]
+  },
+  {
+   "i": 23,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "View pool details",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    154,
+    1327,
+    94,
+    18
+   ]
+  },
+  {
+   "i": 24,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "New conditional market",
+   "href": "/create-market?parentMarket=0xfe8abb3b55acca31e74243349573801c379507b3&parentOutcome=Invalid",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    37,
+    1353,
+    134,
+    18
+   ]
+  },
+  {
+   "i": 25,
+   "tag": "button",
+   "role": "tab",
+   "type": "button",
+   "text": "Comments",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    -114,
+    1468,
+    116,
+    32
+   ]
+  },
+  {
+   "i": 26,
+   "tag": "button",
+   "role": "tab",
+   "type": "button",
+   "text": "Related Conditional Markets",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    2,
+    1468,
+    251,
+    32
+   ]
+  },
+  {
+   "i": 27,
+   "tag": "button",
+   "role": "tab",
+   "type": "button",
+   "text": "Top Holders",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    253,
+    1468,
+    125,
+    32
+   ]
+  },
+  {
+   "i": 28,
+   "tag": "button",
+   "role": "tab",
+   "type": "button",
+   "text": "Activity",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    378,
+    1468,
+    89,
+    32
+   ]
+  },
+  {
+   "i": 29,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Yes",
+   "href": "https://gnosisscan.io/address/0x76587bd7a7f19ff09d10ecc87dc0c721f6b81a07",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    45,
+    1566,
+    22,
+    19
+   ]
+  },
+  {
+   "i": 30,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "stale-integrated-ox",
+   "href": "/portfolio/0xcf989b69aba2ede83fa11baf9bfc3a426a1326ce",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    45,
+    1613,
+    123,
+    20
+   ]
+  },
+  {
+   "i": 31,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0xcf989b69aba2ede83fa11baf9bfc3a426a1326ce",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    176,
+    1615,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 32,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "alive-rational-snipe",
+   "href": "/portfolio/0x76ace6dbc72945977d3aaaee5a0113a31491853e",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    45,
+    1662,
+    124,
+    20
+   ]
+  },
+  {
+   "i": 33,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0x76ace6dbc72945977d3aaaee5a0113a31491853e",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    177,
+    1664,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 34,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "cuddly-famous-vole",
+   "href": "/portfolio/0xc378d5a19b2cd694bf760ea0766670d6b7f12e55",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    45,
+    1711,
+    128,
+    20
+   ]
+  },
+  {
+   "i": 35,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0xc378d5a19b2cd694bf760ea0766670d6b7f12e55",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    181,
+    1713,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 36,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "silly-voiceless-loon",
+   "href": "/portfolio/0x031778c7a1c08787aba7a2e0b5149feb5decabd7",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    45,
+    1760,
+    121,
+    20
+   ]
+  },
+  {
+   "i": 37,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0x031778c7a1c08787aba7a2e0b5149feb5decabd7",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    174,
+    1762,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 38,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "slimy-correct-hedgehog",
+   "href": "/portfolio/0x187e0966046da5b110fdc986c9b94bd8416837af",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    45,
+    1809,
+    154,
+    20
+   ]
+  },
+  {
+   "i": 39,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0x187e0966046da5b110fdc986c9b94bd8416837af",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    207,
+    1811,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 40,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "No",
+   "href": "https://gnosisscan.io/address/0x05df83da43ad057144b04cee048b1209c9cb4456",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    45,
+    1889,
+    19,
+    19
+   ]
+  },
+  {
+   "i": 41,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "stale-integrated-ox",
+   "href": "/portfolio/0xcf989b69aba2ede83fa11baf9bfc3a426a1326ce",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    45,
+    1936,
+    123,
+    20
+   ]
+  },
+  {
+   "i": 42,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0xcf989b69aba2ede83fa11baf9bfc3a426a1326ce",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    176,
+    1938,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 43,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "@iambatman",
+   "href": "/portfolio/@iambatman",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    45,
+    1985,
+    88,
+    20
+   ]
+  },
+  {
+   "i": 44,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0xb7e0a57975c886cf5a3f5fb44e538724d63ad5b0",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    141,
+    1987,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 45,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "cruel-aggregate-scorpion",
+   "href": "/portfolio/0x01748a04fa9a7396965047256b168b15ed2b9be2",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    45,
+    2034,
+    163,
+    20
+   ]
+  },
+  {
+   "i": 46,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0x01748a04fa9a7396965047256b168b15ed2b9be2",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    216,
+    2036,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 47,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "silly-voiceless-loon",
+   "href": "/portfolio/0x031778c7a1c08787aba7a2e0b5149feb5decabd7",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    45,
+    2083,
+    121,
+    20
+   ]
+  },
+  {
+   "i": 48,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0x031778c7a1c08787aba7a2e0b5149feb5decabd7",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    174,
+    2085,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 49,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "slimy-correct-hedgehog",
+   "href": "/portfolio/0x187e0966046da5b110fdc986c9b94bd8416837af",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    45,
+    2132,
+    154,
+    20
+   ]
+  },
+  {
+   "i": 50,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0x187e0966046da5b110fdc986c9b94bd8416837af",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    207,
+    2134,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 51,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Invalid",
+   "href": "https://gnosisscan.io/address/0x6e1d884c3537cf520125aee249968e9556344e2e",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    45,
+    2212,
+    43,
+    19
+   ]
+  },
+  {
+   "i": 52,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "stale-integrated-ox",
+   "href": "/portfolio/0xcf989b69aba2ede83fa11baf9bfc3a426a1326ce",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    45,
+    2259,
+    123,
+    20
+   ]
+  },
+  {
+   "i": 53,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0xcf989b69aba2ede83fa11baf9bfc3a426a1326ce",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    176,
+    2261,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 54,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "squealing-violent-haddock",
+   "href": "/portfolio/0x000000000000000000000000000000000000dead",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    45,
+    2308,
+    172,
+    20
+   ]
+  },
+  {
+   "i": 55,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0x000000000000000000000000000000000000dead",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    225,
+    2310,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 56,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "tense-individual-impala",
+   "href": "/portfolio/0xe622793f3d7bc200cefa177a39f9737f8852afea",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    45,
+    2357,
+    152,
+    20
+   ]
+  },
+  {
+   "i": 57,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0xe622793f3d7bc200cefa177a39f9737f8852afea",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    205,
+    2359,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 58,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "silly-voiceless-loon",
+   "href": "/portfolio/0x031778c7a1c08787aba7a2e0b5149feb5decabd7",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    45,
+    2406,
+    121,
+    20
+   ]
+  },
+  {
+   "i": 59,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0x031778c7a1c08787aba7a2e0b5149feb5decabd7",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    174,
+    2408,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 60,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Open trade drawer",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    368,
+    1546,
+    56,
+    56
+   ]
+  },
+  {
+   "i": 61,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://kleros.io/",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    106,
+    2546,
+    179,
+    24
+   ]
+  },
+  {
+   "i": 62,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://discord.com/invite/rBEB4MYQwV",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    138,
+    2594,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 63,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://t.me/Seerpredictionmarket",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    171,
+    2594,
+    16,
+    16
+   ]
+  },
+  {
+   "i": 64,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://x.com/seer_pm",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    203,
+    2594,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 65,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://github.com/seer-pm",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    236,
+    2594,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 66,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Close drawer",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    410,
+    1658,
+    14,
+    24
+   ]
+  },
+  {
+   "i": 67,
+   "tag": "button",
+   "role": "tab",
+   "type": "button",
+   "text": "Trade",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    24,
+    1690,
+    96,
+    32
+   ]
+  },
+  {
+   "i": 68,
+   "tag": "button",
+   "role": "tab",
+   "type": "button",
+   "text": "Mint",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    120,
+    1690,
+    88,
+    32
+   ]
+  },
+  {
+   "i": 69,
+   "tag": "button",
+   "role": "tab",
+   "type": "button",
+   "text": "Merge",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    208,
+    1690,
+    101,
+    32
+   ]
+  },
+  {
+   "i": 70,
+   "tag": "button",
+   "role": "tab",
+   "type": "button",
+   "text": "Redeem",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    309,
+    1690,
+    115,
+    32
+   ]
+  },
+  {
+   "i": 71,
+   "tag": "input",
+   "role": "",
+   "type": "number",
+   "text": "0",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    65,
+    1926,
+    201,
+    33
+   ]
+  },
+  {
+   "i": 72,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Max",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    340,
+    1968,
+    43,
+    31
+   ]
+  },
+  {
+   "i": 73,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    200,
+    1994,
+    48,
+    48
+   ]
+  },
+  {
+   "i": 74,
+   "tag": "input",
+   "role": "",
+   "type": "number",
+   "text": "0",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    64,
+    2066,
+    216,
+    33
+   ]
+  },
+  {
+   "i": 75,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Enter an amount",
+   "href": "",
+   "disabled": true,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    48,
+    2279,
+    352,
+    45
+   ]
+  }
+ ],
+ "charts": [
+  {
+   "tag": "canvas",
+   "box": [
+    42,
+    636,
+    252,
+    272
+   ],
+   "texts": [],
+   "paths": 0
+  },
+  {
+   "tag": "canvas",
+   "box": [
+    42,
+    636,
+    252,
+    272
+   ],
+   "texts": [],
+   "paths": 0
+  }
+ ],
+ "tables": [
+  {
+   "rows": 2,
+   "head": []
+  },
+  {
+   "rows": 6,
+   "head": [
+    "Yes",
+    "Balance"
+   ]
+  },
+  {
+   "rows": 6,
+   "head": [
+    "No",
+    "Balance"
+   ]
+  },
+  {
+   "rows": 5,
+   "head": [
+    "Invalid",
+    "Balance"
+   ]
+  }
+ ],
+ "fonts": [
+  "Open Sans"
+ ],
+ "colors": {
+  "bg": "rgba(0, 0, 0, 0)",
+  "text": "oklch(0.278078 0.029596 256.848)"
+ },
+ "dialogs": 1
+}

@@ -1,0 +1,142 @@
+[
+ {
+  "fact": "Etherscan identifies itself as a block explorer and analytics platform for Ethereum and smart contracts.",
+  "quote": "Etherscan is a Block Explorer and Analytics Platform for Ethereum, a decentralized smart contracts platform.",
+  "url": "https://etherscan.io"
+ },
+ {
+  "fact": "The homepage search bar can filter by addresses, tokens, name tags, domain names, labels, and websites.",
+  "quote": "All Filters Addresses Tokens Name Tags Domain Names Labels Websites Search",
+  "url": "https://etherscan.io"
+ },
+ {
+  "fact": "The explorer supports switching among Ethereum Mainnet, Sepolia Testnet, and Hoodi Testnet.",
+  "quote": "Ethereum Mainnet Sepolia Testnet Hoodi Testnet",
+  "url": "https://etherscan.io"
+ },
+ {
+  "fact": "Appearance settings offer Light, Dim, Dark, and Auto (System) modes.",
+  "quote": "Appearance Light Dim Dark Auto (System)",
+  "url": "https://etherscan.io"
+ },
+ {
+  "fact": "Primary navigation groups Blockchain, Transactions, Pending Transactions, Contract Internal Transactions, Cross-Chain Transactions, Beacon Deposits, Beacon Withdrawals, View Blobs, AA Transactions, and EIP-7702 Authorizations Beta.",
+  "quote": "Home Blockchain Transactions Pending Transactions Contract Internal Transactions Cross-Chain Transactions Beacon Deposits Beacon Withdrawals View Blobs AA Transactions EIP-7702 Authorizations Beta",
+  "url": "https://etherscan.io"
+ },
+ {
+  "fact": "The Latest Blocks card is customizable and lists block number, age, fee recipient, transaction count, and ETH reward.",
+  "quote": "Latest Blocks Customize Block 26208382 12 secs ago Fee Recipient BuilderNet 203 txns in 12 secs 0 . 00589 Eth 0 . 00589 Eth",
+  "url": "https://etherscan.io"
+ },
+ {
+  "fact": "The Latest Transactions card is customizable and lists transaction hash, age, from/to parties, and ETH value.",
+  "quote": "Latest Transactions Customize TX# 0x83045960a70debf6242aef7f5ef7e180b77a05e031a31b19938bb19da974b0cb 12 secs ago From BuilderNet To Titan Relay: Forwarder 0 . 00439 Eth 0 . 00439 Eth",
+  "url": "https://etherscan.io"
+ },
+ {
+  "fact": "Homepage cards can be customized by selecting from available card options.",
+  "quote": "Custom Card Customize this card by selecting one of the options below.",
+  "url": "https://etherscan.io"
+ },
+ {
+  "fact": "Advanced filtering supports saved filters and presets for Latest Blocks, Latest Transactions, Hot Contracts, and Top Guzzlers.",
+  "quote": "ADVANCED FILTER Saved Filters PRESET Latest Blocks Latest Transactions Hot Contracts Top Guzzlers Close Save changes",
+  "url": "https://etherscan.io"
+ },
+ {
+  "fact": "Users can assign private name tags to addresses for easier identification.",
+  "quote": "My Address - Private Name Tag or Note My Name Tag: Private Name Tags (up to 35 characters) can be used for easy identification of addresses",
+  "url": "https://etherscan.io"
+ },
+ {
+  "fact": "Transaction private notes are limited to 100 characters and support transaction tracking.",
+  "quote": "A private note (up to 100 characters) can be saved and is useful for transaction tracking.",
+  "url": "https://etherscan.io"
+ },
+ {
+  "fact": "The interface warns users not to store passwords or private keys in private notes.",
+  "quote": "Please DO NOT store any passwords or private keys here.",
+  "url": "https://etherscan.io"
+ },
+ {
+  "fact": "The homepage displays transaction throughput updated every 5 minutes, TPS, and median gas price.",
+  "quote": "Transactions (Updated every 5 mins)'> 3,796.06 M ( 18.9 TPS) Med Gas Price Priority Fee: 0.001 Gwei'> 0.073 Gwei",
+  "url": "https://etherscan.io"
+ },
+ {
+  "fact": "The explorer shows last finalized block and last safe block heights.",
+  "quote": "Last Finalized Block 26208309 Last Safe Block 26208341",
+  "url": "https://etherscan.io"
+ },
+ {
+  "fact": "Footer/resource navigation includes Charts And Stats, Top Statistics, Leaderboard, Directory, Newsletter, Knowledge Base, and API documentation.",
+  "quote": "Charts And Stats Top Statistics Leaderboard Directory Newsletter Knowledge Base API Etherscan API API Pricing API Documentation",
+  "url": "https://etherscan.io"
+ },
+ {
+  "fact": "Manifold Markets is a trading platform that gives new users a starting balance to trade with.",
+  "quote": "Get 1,000 to start trading!",
+  "url": "https://manifold.markets"
+ },
+ {
+  "fact": "The value proposition for signing up is receiving 1,000 units of currency to begin trading.",
+  "quote": "Sign up Get 1,000 to start trading!",
+  "url": "https://manifold.markets"
+ },
+ {
+  "fact": "The site header brand wordmark is rendered in all caps as MANIFOLD.",
+  "quote": "MANIFOLD Browse Election Predictle About App Sign up Get 1,000 to start trading!",
+  "url": "https://manifold.markets"
+ },
+ {
+  "fact": "The top navigation menu contains the entries Browse, Election, Predictle, About, and App.",
+  "quote": "Browse Election Predictle About App",
+  "url": "https://manifold.markets"
+ },
+ {
+  "fact": "The page includes a skip link for skipping to main content.",
+  "quote": "Skip to main content",
+  "url": "https://manifold.markets"
+ },
+ {
+  "fact": "The site exposes an 'Open options' control alongside a 'More' menu.",
+  "quote": "Open options More",
+  "url": "https://manifold.markets"
+ },
+ {
+  "fact": "The footer carries a copyright notice for Manifold Markets, Inc.",
+  "quote": "\u00a9 Manifold Markets, Inc.",
+  "url": "https://manifold.markets"
+ },
+ {
+  "fact": "The brand wordmark MANIFOLD is repeated in the footer area.",
+  "quote": "More MANIFOLD \u00a9 Manifold Markets, Inc.",
+  "url": "https://manifold.markets"
+ },
+ {
+  "fact": "For signed-out visitors, the footer shows Browse, About, and Sign in links.",
+  "quote": "Browse About Sign in",
+  "url": "https://manifold.markets"
+ },
+ {
+  "fact": "The About section is referenced repeatedly in both header and footer navigation.",
+  "quote": "Browse About Sign in",
+  "url": "https://manifold.markets"
+ },
+ {
+  "fact": "The product surface includes an 'Election' area, likely prediction market categories for elections.",
+  "quote": "Browse Election Predictle About App Sign up",
+  "url": "https://manifold.markets"
+ },
+ {
+  "fact": "The product surface includes a feature labeled 'Predictle'.",
+  "quote": "Election Predictle About App Sign up Get 1,000",
+  "url": "https://manifold.markets"
+ },
+ {
+  "fact": "The rendered document ends with a minimal footer containing the brand, legal links, and sign-in entry point.",
+  "quote": "\u00a9 Manifold Markets, Inc. \u2022 Terms \u2022 Privacy Browse About Sign in",
+  "url": "https://manifold.markets"
+ }
+]

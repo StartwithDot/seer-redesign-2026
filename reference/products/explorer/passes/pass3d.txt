@@ -1,0 +1,23 @@
+You are building apps/explorer (Seer Explorer redesign). Read, in order:
+products/explorer/DIRECTION.md, products/explorer/design.md (this spec; follow it literally),
+docs/ui-quality-rules.md, docs/coding-rules.md. Copy proven pieces from apps/futarchy/src/components
+(HoverMenu, Tooltip, RollingNumber, Segmented, CommandPalette, GuidedTour, ThemeToggle, Avatar) and adapt
+styling; do not import across apps. Stack: React 19 + TS strict + plain CSS + tokens (@seer/ef) + motion +
+d3-scale/shape/array/time. No new deps. Components < 150 lines; pure math in src/math with formula comments.
+Use ONLY strings from design.md §8 allowed list or data labels/units. Real data only (src/data/*.json and
+src/data/fixtures/*.json). Do not edit other apps or packages/ef/tokens.css. Do not commit.
+You cannot run e2e (no ports). End with the tail of: npm run build -w apps/explorer && npx tsc --noEmit -p apps/explorer
+If e2e_last.txt exists at repo root, read it first and fix only the failures listed.
+
+Also read products/explorer/design.md sections referenced below. Do not run any dev server.
+
+Files: src/home/** and home css only. FIX LIST from a real 1440x900 screenshot of the redone home page (keep the calm look; fix only these):
+1. Card question text is violet (link colour). Make it var(--text) white-grey, no underline; the whole card stays a link via a stretched overlay.
+2. MULTI-OUTCOME cards (Knesset, France Assembly) are broken: outcome NAME is missing, only '60.8% Buy' floats with a stray violet dash. Each outcome row must be: name (13px, single line, ellipsis, tooltip with full name) on the left, percent 14px weight 500 right-aligned, ghost 'Buy' 28px at the far right, and a 3px bar underneath spanning the row (leader violet, others #2a2a31). Row height 44px, gap 12px.
+3. Filter area is duplicated/messy: remove the tags row that shows 'Liquidity v x  Clear filters' above the sidebar (sort is not a filter tag), and the second 'Clear filters' inside the sidebar header. Keep ONE 'Clear filters' text button in the sidebar header only when filters are applied. Active-filter tags (chips) appear only for real filters (state/verification/chain/conditional/rewards/futarchy/min liquidity), placed in a single row directly above the grid, aligned with the grid's left edge.
+4. Alignment: sidebar top must align with the top of the trending line; the grid, trending line and toolbar share the same left and right edges (toolbar right edge = grid right edge). The sidebar and grid start at the same y.
+5. The sort control and 'Filters (1)' in the toolbar: 'Filters (n)' should show n = number of non-default filter groups, 0 shows just 'Filters'; both open/focus the sidebar (below 1440px: sheet). Sort dropdown must not have a native-looking caret offset; align baseline with the other toolbar text.
+6. Binary percent numerals: leader white 20px, loser muted; labels 'Yes'/'No' 13px muted above. Keep as is. Cards in the same row should align their first row of content (use min-height of the question block equal to 4 lines? NO: keep natural heights but masonry columns are fine).
+7. The trending line: remove the 5 grey dots at far right (clutter) and show a tiny '1 / 5' counter instead; the text must be one line with ellipsis.
+8. Add 8px extra space above the card footer and make footer icons (tick, star, chevron) evenly spaced 12px, 16px size, vertically centred with the volume text.
+Acceptance: build+tsc pass; then also grep that no CSS rule outside primary buttons sets background to a violet variable on cards.

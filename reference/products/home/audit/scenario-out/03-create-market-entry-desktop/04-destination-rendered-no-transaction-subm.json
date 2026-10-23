@@ -1,0 +1,131 @@
+{
+ "url": "https://app.seer.pm/create-market",
+ "title": "Seer | A Next Generation Prediction Marketplace",
+ "controls": [
+  {
+   "tag": "button",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "Markets",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "Leaderboard",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "Create Market",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Policies",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "App",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Connect",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Switch to dark mode",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  }
+ ]
+}

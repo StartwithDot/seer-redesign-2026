@@ -1,0 +1,118 @@
+Note that this is a Beta version and can still be unstable
+Markets
+Leaderboard
+Create Market
+Policies
+App
+Futarchy
+Deepfunding
+Foresight
+Opportunity Markets
+0x0000...dEaD
+
+24.69 xDAI
+
+/
+Market
+Trading Open
+What will be the average Ethereum BASEFEE (in gwei) for the period 1–31 January 2027 (UTC), as calculated from Ethereum block data on Dune Analytics? [gwei]
+Resolution opening at February 1 2027, 08:50 UTC
+Market Estimate: 9.092 gwei
+Scalar
+Liquidity:
+827.30
+Volume:
+142.91
+P&L:
+0.00
+Verified
+1D
+1W
+1M
+All
+Custom
+Market Estimate
+9.1%
+	
+	
+
+	
+	
+Outcomes
+
+#1 DOWN [0.1,120]
+
+Add Liquidity
+View pool details
+New conditional market
+0.923
+
+#2 UP [0.1,120]
+
+Add Liquidity
+View pool details
+New conditional market
+0.075
+
+#3 Invalid
+
+Add Liquidity
+View pool details
+New conditional market
+0
+DOWN
+Market
+
+You pay
+
+sDAI
+
+0 sDAI
+
+Max
+
+You will get
+
+DOWN
+
+Avg price
+0 sDAI
+Calculate your potential return
+Parameters:
+
+Max slippage 1%
+
+Enter an amount
+
+More
+
+Mint
+Mint
+Merge
+Redeem
+Amount
+Max
+Balance:
+0 sDAI
+sDAI
+xDAI
+Mint
+Major Events
+1 UPCOMING
+
+FEB 1, 2027 · 00:00 UTC
+
+Reality.eth Resolution
+
+Expected resolution date
+
+Comments
+Related Conditional Markets
+Top Holders
+Activity
+
+Connect your wallet to share your take
+
+Connect to comment
+
+No takes yet. Share the first one.

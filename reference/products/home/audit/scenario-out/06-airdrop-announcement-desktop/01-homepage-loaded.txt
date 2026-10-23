@@ -1,0 +1,100 @@
+Announcing the Seer Initial Airdrop Distribution: Learn More
+Documentation
+Blog
+Launch App
+
+Seer, a next generation
+prediction marketplace
+
+Create, trade, and farm
+predictions like never before
+
+Start Now
+
+Learn More
+
+Available on:
+
+"Seer, who will win Round 2 of the 2025 Ecuadorian presidential election?"
+
+Prediction markets estimate a 53.1% chance that Daniel Noboa will win.
+
+Ask Seer
+
+Create Unique Markets
+
+Bring your ideas to life! Design custom prediction markets on anything from sports outcomes to political events. Set your rules and engage with a vibrant community eager to join in. Seer allows you to create four different types of Market covering a wide range of possibilities.
+
+Create A Market
+
+Trade with Ease
+
+Buy and sell shares with ease, monitor real-time data, and make informed decisions seamlessly. Seer employs the Conditional Tokens framework to create and manage outcome tokens efficiently. Enhancing usability, Seer wraps these ERC1155 outcome tokens into user-friendly ERC20 tokens, facilitating smoother trading and integration with existing DeFi protocols.
+
+Start Trading
+
+Seer uses Kleros to resolve disputes that may arise when answering Reality.eth questions. It functions as a decentralized arbiter capable of determining the correct answer by applying a set of rules to questions ranging from simple to highly complex.
+
+A world of opportunities
+
+Elections
+Sports
+Political Forecasting
+Financial Market Predictions
+Event Outcomes
+Crowdsourced Intelligence
+Disaster and Risk Management
+Insurance Underwriting
+Social Good and Charity
+Research and Development
+Entertainment and Media
+More
+
+Multiple Market Types
+
+On Seer, you'll find a diverse range of markets designed to cater to various interests and predictions.
+
+Categorical
+
+Select one out of multiple outcomes.
+
+View Example
+
+Multi Categorical
+
+Similar to categorical market but allowing selection of multiple outcomes.
+
+View Example
+
+Scalar
+
+Numeric outcome within a specified range.
+
+View Example
+
+Multi Scalar
+
+Numeric outcome within a specified range.
+
+View Example
+
+Are you ready to take your predictions to the next level?
+
+Start Now
+
+Get in Touch!
+
+Reach out to our team to start a conversation!
+
+info@seer.pm
+
+Seer
+
+Seer App
+Blog
+Community
+
+Docs
+
+Documentation
+Images & Branding

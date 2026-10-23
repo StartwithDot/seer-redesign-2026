@@ -1,0 +1,288 @@
+Note that this is a Beta version and can still be unstable
+/
+Market
+Conditional Market
+This market is conditional on the resolution of "Will Marine Le Pen be the National Rally’s candidate in the next French presidential election?" being "No".
+If the main market resolves to a different outcome, the tokens of this market will be worthless.
+Reports open
+Will the National Rally’s candidate win the next French presidential election?
+Answer on Reality.eth!
+Categorical
+1.24k
+8.16
+1D
+1W
+1M
+All
+Custom
+No
+74.1%
+Yes
+26%
+	
+	
+
+	
+	
+Outcomes
+
+#1 No
+
+Add Liquidity
+View pool details
+New conditional market
+74%
+
+#2 Yes
+
+Add Liquidity
+View pool details
+New conditional market
+26%
+
+#3 Invalid
+
+Add Liquidity
+View pool details
+New conditional market
+0%
+Major Events
+1 UPCOMING
+
+MAY 31, 2027 · 00:00 UTC
+
+Reality.eth Resolution
+
+Expected resolution date
+
+Comments
+Related Conditional Markets
+Top Holders
+Activity
+My activity
+@seerious
+Bought
+0.00
+No
+	Sep 11, 2026 · 19:05
+
+@seerious
+Bought
+0.01
+No
+	Sep 11, 2026 · 19:04
+
+@mr-froggert
+Removed liquidity
+9.22
+No
+	Sep 9, 2026 · 21:56
+
+tense-individual-impala
+Sold
+10.11
+No
+	Aug 22, 2026 · 08:52
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Aug 22, 2026 · 08:52
+
+tense-individual-impala
+Sold
+10.11
+Yes
+	Aug 22, 2026 · 08:52
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Aug 22, 2026 · 08:52
+
+glorious-zesty-skink
+Bought
+14.46
+No
+	Jun 16, 2026 · 07:50
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	May 15, 2026 · 14:09
+
+ill-sympathetic-crayfish
+Sold
+13.63
+No
+	May 15, 2026 · 14:09
+
+ill-sympathetic-crayfish
+Bought
+13.63
+No
+	May 15, 2026 · 14:08
+
+shy-neutral-caribou
+Bought
+3.47
+No
+	Apr 18, 2026 · 00:37
+
+required-ill-angelfish
+Removed liquidity
+99.76
+Yes
+	Jan 20, 2026 · 21:26
+
+required-ill-angelfish
+Removed liquidity
+8.81
+No
+	Jan 20, 2026 · 21:26
+
+required-ill-angelfish
+Removed liquidity
+150.00
+Yes
+	Jan 20, 2026 · 21:11
+
+required-ill-angelfish
+Removed liquidity
+150.00
+No
+	Jan 20, 2026 · 21:11
+
+@mr-froggert
+Added liquidity
+10.00
+No
+	Jun 30, 2025 · 21:25
+
+@mr-froggert
+Added liquidity
+10.00
+Yes
+	Jun 30, 2025 · 21:24
+
+shotaro.eth
+Removed liquidity
+70.00
+No
+	Jun 12, 2025 · 15:12
+
+shotaro.eth
+Removed liquidity
+70.00
+Yes
+	Jun 12, 2025 · 15:11
+
+shotaro.eth
+Added liquidity
+70.00
+Yes
+	Jun 9, 2025 · 21:20
+
+shotaro.eth
+Added liquidity
+70.00
+No
+	Jun 9, 2025 · 21:14
+
+shotaro.eth
+Removed liquidity
+65.79
+Yes
+	Jun 9, 2025 · 20:17
+
+shotaro.eth
+Removed liquidity
+28.82
+No
+	Jun 9, 2025 · 20:16
+
+shotaro.eth
+Added liquidity
+28.82
+No
+	May 18, 2025 · 20:04
+
+shotaro.eth
+Added liquidity
+65.79
+Yes
+	May 18, 2025 · 20:04
+
+voluminous-worldwide-boar
+Added liquidity
+3.41k
+Yes
+	May 18, 2025 · 06:02
+
+voluminous-worldwide-boar
+Added liquidity
+3.41k
+No
+	May 18, 2025 · 06:00
+
+required-ill-angelfish
+Added liquidity
+99.76
+Yes
+	May 16, 2025 · 06:18
+
+required-ill-angelfish
+Removed liquidity
+8.81
+No
+	May 16, 2025 · 06:16
+
+required-ill-angelfish
+Added liquidity
+17.62
+No
+	May 16, 2025 · 06:10
+
+required-ill-angelfish
+Added liquidity
+150.00
+Yes
+	Apr 9, 2025 · 20:48
+
+required-ill-angelfish
+Added liquidity
+150.00
+No
+	Apr 9, 2025 · 20:45
+×
+Trade
+Mint
+Merge
+Redeem
+No
+Market
+
+You pay
+
+LEPEN_NRNO
+
+0 LEPEN_NRNO
+
+Max
+
+You will get
+
+No
+
+Avg price
+0 LEPEN_NRNO
+Potential return
+0.00 LEPEN_NRNO (0.00%)
+Parameters:
+
+Max slippage 1%
+
+Enter an amount

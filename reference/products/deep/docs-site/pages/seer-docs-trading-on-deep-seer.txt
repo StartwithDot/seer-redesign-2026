@@ -1,0 +1,3 @@
+URL: https://deep-pm.gitbook.io/seer-docs/trading-on-deep-seer
+
+📊 Trading on Deep Seer | User Guide User Guide ⌘ Ctrl k User Guide 🧠 Deep Seer — User Guide 🚀 Getting Started 💰 Funding Your Account 📊 Trading on Deep Seer Market types Step-by-step guide Example: L2 Strategy ⚙️ Advanced Features Powered by GitBook On this page For the complete documentation index, see llms.txt . This page is also available as Markdown . Copy On this page 📊 Trading on Deep Seer Market types Step-by-step guide Example: L2 Strategy Previous 💰 Funding Your Account Next Market types Last updated 6 months ago

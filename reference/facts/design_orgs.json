@@ -1,0 +1,227 @@
+[
+ {
+  "fact": "The Linear Method is a set of practices for building quality software.",
+  "quote": "The Linear Method Practices for building There is a lost art of building true quality software.",
+  "url": "https://linear.app/method"
+ },
+ {
+  "fact": "The method aims to restore focus on building quality software by sharing foundational ideas Linear is built on.",
+  "quote": "To bring back the right focus, here are the foundational ideas Linear is built on.",
+  "url": "https://linear.app/method"
+ },
+ {
+  "fact": "The method is organized into Introduction, Principles, and Practices sections.",
+  "quote": "Introduction Principles Practices",
+  "url": "https://linear.app/method"
+ },
+ {
+  "fact": "The Practices section includes a Direction practice for setting the product direction.",
+  "quote": "1 . 1 Direction Set the product direction",
+  "url": "https://linear.app/method"
+ },
+ {
+  "fact": "The method advises setting useful goals.",
+  "quote": "2 . 1 Set useful goals",
+  "url": "https://linear.app/method"
+ },
+ {
+  "fact": "The method advises prioritizing enablers and blockers.",
+  "quote": "2 . 2 Prioritize enablers and blockers",
+  "url": "https://linear.app/method"
+ },
+ {
+  "fact": "The method advises scoping projects down.",
+  "quote": "2 . 3 Scope projects down",
+  "url": "https://linear.app/method"
+ },
+ {
+  "fact": "The Building practice includes generating momentum.",
+  "quote": "2 . 4 Building Generate momentum",
+  "url": "https://linear.app/method"
+ },
+ {
+  "fact": "The method recommends writing issues instead of user stories.",
+  "quote": "3 . 1 Write issues not user stories",
+  "url": "https://linear.app/method"
+ },
+ {
+  "fact": "Managing design projects is a named practice.",
+  "quote": "3 . 2 Manage design projects",
+  "url": "https://linear.app/method"
+ },
+ {
+  "fact": "Building with users is a named practice.",
+  "quote": "3 . 3 Build with users",
+  "url": "https://linear.app/method"
+ },
+ {
+  "fact": "Launching and continuing to launch is a named practice.",
+  "quote": "3 . 4 Launch and keep launching",
+  "url": "https://linear.app/method"
+ },
+ {
+  "fact": "Building in public is a named practice.",
+  "quote": "3 . 5 Build in public",
+  "url": "https://linear.app/method"
+ },
+ {
+  "fact": "The method includes a Product section with Intake and Plan topics.",
+  "quote": "3 . 6 Product Intake Plan",
+  "url": "https://linear.app/method"
+ },
+ {
+  "fact": "The page is labeled 'Linear Method \u2013 Practices for building'.",
+  "quote": "Linear Method \u2013 Practices for building",
+  "url": "https://linear.app/method"
+ },
+ {
+  "fact": "Laws of UX describes itself as a collection of best practices for designers building user interfaces.",
+  "quote": "Laws of UX is a collection of best practices that designers can consider when building user interfaces.",
+  "url": "https://lawsofux.com"
+ },
+ {
+  "fact": "The site offers an updated large-format index poster.",
+  "quote": "The updated Laws of UX large format index poster is now available!",
+  "url": "https://lawsofux.com"
+ },
+ {
+  "fact": "The poster additions include Paradox of the Active User, Selective Attention, Cognitive Bias, and more.",
+  "quote": "Additions include Paradox of the Active User, Selective Attention, Cognitive Bias, and more.",
+  "url": "https://lawsofux.com"
+ },
+ {
+  "fact": "The site provides light and dark mode UI options.",
+  "quote": "Dark Mode Light Mode",
+  "url": "https://lawsofux.com"
+ },
+ {
+  "fact": "The site provides multilingual UI options in English, Spanish, French, Arabic, and Persian.",
+  "quote": "English Espa\u00f1ol Francais \u0639\u0631\u0628\u064a \u0641\u0627\u0631\u0633\u06cc",
+  "url": "https://lawsofux.com"
+ },
+ {
+  "fact": "Main navigation includes Menu, Articles, Book, Cards, Info, and Store.",
+  "quote": "Menu Articles Book Cards Info Store",
+  "url": "https://lawsofux.com"
+ },
+ {
+  "fact": "Aesthetic-Usability Effect states that users perceive aesthetically pleasing design as more usable.",
+  "quote": "Users often perceive aesthetically pleasing design as design that\u2019s more usable.",
+  "url": "https://lawsofux.com"
+ },
+ {
+  "fact": "Choice Overload is the tendency to get overwhelmed by many options, often used interchangeably with paradox of choice.",
+  "quote": "The tendency for people to get overwhelmed when they are presented with a large number of options, often used interchangeably with the term paradox of choice.",
+  "url": "https://lawsofux.com"
+ },
+ {
+  "fact": "Chunking is breaking down information and grouping it into meaningful wholes.",
+  "quote": "A process by which individual pieces of an information set are broken down and then grouped together in a meaningful whole.",
+  "url": "https://lawsofux.com"
+ },
+ {
+  "fact": "Cognitive Bias is a systematic error of thinking or rationality in judgment affecting perception and decision-making.",
+  "quote": "A systematic error of thinking or rationality in judgment that influence our perception of the world and our decision-making ability.",
+  "url": "https://lawsofux.com"
+ },
+ {
+  "fact": "Cognitive Load is the amount of mental resources needed to understand and interact with an interface.",
+  "quote": "The amount of mental resources needed to understand and interact with an interface.",
+  "url": "https://lawsofux.com"
+ },
+ {
+  "fact": "Doherty Threshold says productivity soars when computer and user interact at a pace <400ms without waiting.",
+  "quote": "Productivity soars when a computer and its users interact at a pace (&lt;400ms) that ensures that neither has to wait on the other.",
+  "url": "https://lawsofux.com"
+ },
+ {
+  "fact": "Fitts\u2019s Law says the time to acquire a target depends on the distance to and size of the target.",
+  "quote": "The time to acquire a target is a function of the distance to and size of the target.",
+  "url": "https://lawsofux.com"
+ },
+ {
+  "fact": "Flow is a mental state of full immersion, energized focus, full involvement, and enjoyment in an activity.",
+  "quote": "The mental state in which a person performing some activity is fully immersed in a feeling of energized focus, full involvement, and enjoyment in the process of the activity.",
+  "url": "https://lawsofux.com"
+ },
+ {
+  "fact": "Goal-Gradient Effect is the tendency to approach a goal increases with proximity to the goal.",
+  "quote": "The tendency to approach a goal increases with proximity to the goal.",
+  "url": "https://lawsofux.com"
+ },
+ {
+  "fact": "Nielsen Norman Group is a UX training organization.",
+  "quote": "Nielsen Norman Group UX Training Courses",
+  "url": "https://www.nngroup.com/articles/ten-usability-heuristics/"
+ },
+ {
+  "fact": "It offers live online UX training courses.",
+  "quote": "Live Online All Live Online Courses Upcoming Live Online Training Train Your Team Group-Discount Pricing Private Team Training",
+  "url": "https://www.nngroup.com/articles/ten-usability-heuristics/"
+ },
+ {
+  "fact": "It offers self-paced courses.",
+  "quote": "Self-Paced Self-Paced Courses New Deciding Between Formats? Find the training option that fits your learning style.",
+  "url": "https://www.nngroup.com/articles/ten-usability-heuristics/"
+ },
+ {
+  "fact": "It offers UX Certification.",
+  "quote": "UX Certification",
+  "url": "https://www.nngroup.com/articles/ten-usability-heuristics/"
+ },
+ {
+  "fact": "It offers consulting services including customized research, expert review, intensive applied workshops, keynote speaking, user testing, and UX maturity assessment.",
+  "quote": "Consulting All Consulting Services Customized Research Expert Review Intensive Applied Workshops Keynote Speaking User Testing UX Maturity Assessment",
+  "url": "https://www.nngroup.com/articles/ten-usability-heuristics/"
+ },
+ {
+  "fact": "It provides articles, videos, reports, books, and a podcast.",
+  "quote": "Articles Resources Articles Videos Reports Books The NN/G UX Podcast",
+  "url": "https://www.nngroup.com/articles/ten-usability-heuristics/"
+ },
+ {
+  "fact": "It has an about section with people, clients, news, careers, FAQs, and contact information.",
+  "quote": "About Us About NNGroup People Clients News Careers FAQs Contact Us",
+  "url": "https://www.nngroup.com/articles/ten-usability-heuristics/"
+ },
+ {
+  "fact": "It offers a newsletter with weekly UX articles, videos, courses, and job openings.",
+  "quote": "Get weekly UX articles, videos, upcoming courses, and job openings straight to your inbox with our newsletter.",
+  "url": "https://www.nngroup.com/articles/ten-usability-heuristics/"
+ },
+ {
+  "fact": "The article is about Jakob Nielsen's 10 general principles for interaction design.",
+  "quote": "Jakob Nielsen&#x27;s 10 general principles for interaction design.",
+  "url": "https://www.nngroup.com/articles/ten-usability-heuristics/"
+ },
+ {
+  "fact": "The principles are called heuristics because they are broad rules of thumb, not specific usability guidelines.",
+  "quote": "They are called &quot;heuristics&quot; because they are broad rules of thumb and not specific usability guidelines.",
+  "url": "https://www.nngroup.com/articles/ten-usability-heuristics/"
+ },
+ {
+  "fact": "The heuristics were originally developed for heuristic evaluation in 1990.",
+  "quote": "I originally developed the heuristics for heuristic evaluation in collaboration with Rolf Molich in 1990",
+  "url": "https://www.nngroup.com/articles/ten-usability-heuristics/"
+ },
+ {
+  "fact": "The heuristics were refined based on a factor analysis of 249 usability problems.",
+  "quote": "I refined the heuristics based on a factor analysis of 249 usability problems",
+  "url": "https://www.nngroup.com/articles/ten-usability-heuristics/"
+ },
+ {
+  "fact": "The 10 heuristics have remained unchanged since 1994.",
+  "quote": "the 10 heuristics themselves have remained relevant and unchanged since 1994.",
+  "url": "https://www.nngroup.com/articles/ten-usability-heuristics/"
+ },
+ {
+  "fact": "The article includes free posters of the 10 usability heuristics.",
+  "quote": "Download a free summary poster or 10 detailed posters of the 10 Usability Heuristics, designed by Kelley Gordon , Kate Moran , and Feifei Liu .",
+  "url": "https://www.nngroup.com/articles/ten-usability-heuristics/"
+ },
+ {
+  "fact": "The article provides a full set of 2,397 UX design guidelines across multiple reports.",
+  "quote": "Guidelines Full set of 2,397 UX design guidelines (across multiple reports).",
+  "url": "https://www.nngroup.com/articles/ten-usability-heuristics/"
+ }
+]

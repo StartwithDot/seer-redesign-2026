@@ -1,0 +1,104 @@
+Futarchy
+Gnosis
+👾
+0x00…dEaD
+What will the impact on GNO price be if GIP-151 is passed?
+TWAP Complete
+(TWAP impact +0.01%)
+FINAL TWAP WINDOW
+UPDATED 11:00:11 PM
+
+YES TWAP
+
+84.4795
+
+NO TWAP
+
+84.4720
+
+YES outcome is ahead on TWAP.
+
+Trading Pair
+GNO/sDAI
+Yes Price
+84.20 sDAI
+No Price
+84.20 sDAI
+Status
+Resolved
+Impact (spot)
+—
+	
+	
+
+	
+	
+Redeem Tokens
+WINNING OUTCOME: YES
+
+No redeemable tokens found
+
+You don't have any YES outcome tokens to redeem.
+
+Resolved: YES
+If Yes
+If No
+Buy
+Sell
+Amount (sDAI)
+Max
+Available
+-
+Outcomes
+More info
+If Yes
+0.00000111 GNO
+Receive
+If No
+1.00 sDAI
+Recover
+Price impact 1082765.91%
+Price impact too high — pool depth insufficient for this size. Trade anyway.
+Insufficient balance
+Your view on GIP-151
+	If YES	If NO
+Bullish	BUY	SELL
+Bearish	SELL	BUY
+Balance
+sDAI
+0 sDAI
+mergeable
+YES 0 · NO 0
+Wallet:
+0 sDAI
+GNO
+0 GNO
+mergeable
+YES 0 · NO 0
+Wallet:
+0.0004 GNO
+Split Collateral
+Merge Collateral
+Merge Collateral
+sDAI
+GNO
+Connected Wallet
+0x0000...dEaD
+Max
+sDAI Available
+0 sDAI
+BUY sDAI
+xDAI Balance
+24.689107 xDAI
+Max Approval
+
+Will request exact allowance for this transaction.
+
+Collateral Information
+
+Only deposit funds you intend to use for interactions within this proposal. Your collateral remains yours and can be retrieved at any time when not actively used in ongoing trades.
+
+Merge Collateral
+Futarchy
+Market-based evaluation of governance decisions and milestones
+Social

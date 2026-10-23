@@ -1,0 +1,576 @@
+{
+ "title": "What will the impact on PNK price be if KIP-88 is approved? | Futarchy",
+ "url": "https://futarchy.seer.pm/markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+ "scrollHeight": 1552,
+ "headings": [
+  "h1: What will the impact on PNK price be if KIP-88 is approved?",
+  "h3: WINNING OUTCOME: YES",
+  "h3: Outcomes",
+  "h3: Your view on KIP-88",
+  "h3: Balance",
+  "h4: Collateral Information"
+ ],
+ "interactive": [
+  {
+   "i": 0,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Futarchy",
+   "href": "/",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    100,
+    677,
+    115,
+    28
+   ]
+  },
+  {
+   "i": 1,
+   "tag": "button",
+   "role": "",
+   "type": "",
+   "text": "Refresh RPC Connection",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    938,
+    674,
+    34,
+    34
+   ]
+  },
+  {
+   "i": 2,
+   "tag": "button",
+   "role": "",
+   "type": "",
+   "text": "Switch to dark mode",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    988,
+    673,
+    36,
+    36
+   ]
+  },
+  {
+   "i": 3,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Chain Selector",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1040,
+    671,
+    123,
+    40
+   ]
+  },
+  {
+   "i": 4,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "👾 0x00…dEaD",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1175,
+    671,
+    165,
+    40
+   ]
+  },
+  {
+   "i": 5,
+   "tag": "button",
+   "role": "",
+   "type": "",
+   "text": "TWAP Complete (TWAP impact +2.23%)",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    952,
+    753,
+    387,
+    40
+   ]
+  },
+  {
+   "i": 6,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Charting by TradingView",
+   "href": "https://www.tradingview.com/?utm_medium=lwc-link&utm_campaign=lwc-chart&utm_source=futarchy.seer.pm/markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    112,
+    811,
+    35,
+    19
+   ]
+  },
+  {
+   "i": 7,
+   "tag": "button",
+   "role": "",
+   "type": "",
+   "text": "Redeem Tokens",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    100,
+    902,
+    119,
+    34
+   ]
+  },
+  {
+   "i": 8,
+   "tag": "button",
+   "role": "",
+   "type": "",
+   "text": "If Yes",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    966,
+    372,
+    172,
+    48
+   ]
+  },
+  {
+   "i": 9,
+   "tag": "button",
+   "role": "",
+   "type": "",
+   "text": "If No",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1150,
+    372,
+    172,
+    48
+   ]
+  },
+  {
+   "i": 10,
+   "tag": "button",
+   "role": "",
+   "type": "",
+   "text": "Buy",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    966,
+    436,
+    172,
+    48
+   ]
+  },
+  {
+   "i": 11,
+   "tag": "button",
+   "role": "",
+   "type": "",
+   "text": "Sell",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1150,
+    436,
+    172,
+    48
+   ]
+  },
+  {
+   "i": 12,
+   "tag": "input",
+   "role": "",
+   "type": "text",
+   "text": "1",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    968,
+    518,
+    352,
+    44
+   ]
+  },
+  {
+   "i": 13,
+   "tag": "button",
+   "role": "",
+   "type": "",
+   "text": "Max",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1267,
+    528,
+    39,
+    24
+   ]
+  },
+  {
+   "i": 14,
+   "tag": "button",
+   "role": "",
+   "type": "",
+   "text": "More info",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1262,
+    605,
+    60,
+    15
+   ]
+  },
+  {
+   "i": 15,
+   "tag": "button",
+   "role": "",
+   "type": "",
+   "text": "Insufficient balance",
+   "href": "",
+   "disabled": true,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    966,
+    748,
+    356,
+    48
+   ]
+  },
+  {
+   "i": 16,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Wallet: 0 sDAI",
+   "href": "https://swap.cow.fi/#/100/swap/_/0xaf204776c7245bf4147c2612bf6e5972ee483701",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1007,
+    1198,
+    96,
+    16
+   ]
+  },
+  {
+   "i": 17,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Wallet: 0 PNK",
+   "href": "https://swap.cow.fi/#/100/swap/_/0x37b60f4e9a31a64ccc0024dce7d0fd07eaa0f7b3",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1185,
+    1198,
+    95,
+    16
+   ]
+  },
+  {
+   "i": 18,
+   "tag": "button",
+   "role": "",
+   "type": "",
+   "text": "Split Collateral",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    966,
+    1244,
+    172,
+    50
+   ]
+  },
+  {
+   "i": 19,
+   "tag": "button",
+   "role": "",
+   "type": "",
+   "text": "Merge Collateral",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1150,
+    1244,
+    172,
+    50
+   ]
+  },
+  {
+   "i": 20,
+   "tag": "button",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    869,
+    809,
+    24,
+    24
+   ]
+  },
+  {
+   "i": 21,
+   "tag": "button",
+   "role": "",
+   "type": "",
+   "text": "sDAI",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    565,
+    868,
+    61,
+    36
+   ]
+  },
+  {
+   "i": 22,
+   "tag": "button",
+   "role": "",
+   "type": "",
+   "text": "PNK",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    642,
+    868,
+    60,
+    36
+   ]
+  },
+  {
+   "i": 23,
+   "tag": "input",
+   "role": "",
+   "type": "text",
+   "text": "0.0",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    548,
+    1033,
+    345,
+    50
+   ]
+  },
+  {
+   "i": 24,
+   "tag": "button",
+   "role": "",
+   "type": "",
+   "text": "Max",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    833,
+    1044,
+    43,
+    28
+   ]
+  },
+  {
+   "i": 25,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "BUY sDAI",
+   "href": "https://swap.cow.fi/#/100/swap/_/0xaf204776c7245bf4147c2612bf6e5972ee483701",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    548,
+    1147,
+    90,
+    16
+   ]
+  },
+  {
+   "i": 26,
+   "tag": "input",
+   "role": "",
+   "type": "checkbox",
+   "text": "on",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    548,
+    1191,
+    16,
+    16
+   ]
+  },
+  {
+   "i": 27,
+   "tag": "button",
+   "role": "",
+   "type": "",
+   "text": "Split Collateral",
+   "href": "",
+   "disabled": true,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    548,
+    1387,
+    345,
+    48
+   ]
+  },
+  {
+   "i": 28,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://x.com/seer_pm",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1250,
+    1480,
+    40,
+    40
+   ]
+  },
+  {
+   "i": 29,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://github.com/seer-pm/futarchy",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1300,
+    1480,
+    40,
+    40
+   ]
+  }
+ ],
+ "charts": [
+  {
+   "tag": "canvas",
+   "box": [
+    102,
+    420,
+    754,
+    420
+   ],
+   "texts": [],
+   "paths": 0
+  },
+  {
+   "tag": "canvas",
+   "box": [
+    102,
+    420,
+    754,
+    420
+   ],
+   "texts": [],
+   "paths": 0
+  }
+ ],
+ "tables": [
+  {
+   "rows": 2,
+   "head": []
+  },
+  {
+   "rows": 3,
+   "head": [
+    "",
+    "If YES",
+    "If NO",
+    "Bullish",
+    "Bearish"
+   ]
+  }
+ ],
+ "fonts": [
+  "__Oxanium_5a9590",
+  "-apple-system",
+  "ui-monospace",
+  "ui-sans-serif"
+ ],
+ "colors": {
+  "bg": "rgba(0, 0, 0, 0)",
+  "text": "rgb(0, 0, 0)"
+ },
+ "dialogs": 0
+}

@@ -1,0 +1,266 @@
+{
+ "url": "https://deep.seer.pm/leaderboard",
+ "title": "AI Prediction Markets",
+ "controls": [
+  {
+   "tag": "button",
+   "text": "AI Prediction Markets",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Leaderboard",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Profile",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "0x0000…dEaD",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "1D",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "1W",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "1M",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "All",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "All deep markets",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Your rank",
+   "disabled": false
+  },
+  {
+   "tag": "input",
+   "text": "0x000000000000000000000000000000000000dEaD",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Search",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "PROFIT/LOSS",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "VOLUME",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "ROI",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "SCORE",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "aaaaaaaaaaaaaaaaaaaaaa.eth",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "0xf55c…94ff",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "The Omniacs",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "0x02da…1481",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "0x9e12…3d13",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "blockpundit.eth",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "0x1ad0…35fe",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "0xa966…f991",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "0x1c73…560a",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "0x6e82…cc9e",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "0xf1b2…30d9",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "omnianalytics.eth",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "0x6156…a6fe",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "0x6580…f1f7",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "0x469a…1669",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "0x232a…12a4",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "0x5700…2e38",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "0x0178…a858",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "0xdc65…edb7",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "0x9eb6…48c9",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "0x03bb…3a47",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "0x8d5e…7a6b",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "0x9c02…a9b3",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "devansh.voicedeck.eth",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "0x12e8…d8c1",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "Previous page",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "Page 1 is your current page",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "Page 2",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "Page 3",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "Page 4",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "Next page",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "Telegram",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "X",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "GitHub",
+   "disabled": false
+  }
+ ]
+}

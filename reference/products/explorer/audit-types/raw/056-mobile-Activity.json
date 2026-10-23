@@ -1,0 +1,2178 @@
+{
+ "title": "Seer | What will be the average Ethereum BASEFEE (in gwei) for the period 1–31 January 2027 (UTC), as calculated from Ethereum block data on Dune Analytics? [gwei]",
+ "url": "https://app.seer.pm/markets/100/what-will-be-the-average-ethereum-basefee-in-gwei-for-the-period-131-january-202-4/",
+ "scrollHeight": 3956,
+ "headings": [
+  "h2: Major Events",
+  "h3: Reality.eth Resolution"
+ ],
+ "interactive": [
+  {
+   "i": 0,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    348,
+    11,
+    12,
+    12
+   ]
+  },
+  {
+   "i": 1,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "/",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    24,
+    43,
+    99,
+    46
+   ]
+  },
+  {
+   "i": 2,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    354,
+    54,
+    24,
+    24
+   ]
+  },
+  {
+   "i": 3,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "/",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    12,
+    141,
+    14,
+    15
+   ]
+  },
+  {
+   "i": 4,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0x2324741962ff5b8331dbbdc88de8cf1c06fa5ca8",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    302,
+    195,
+    20,
+    20
+   ]
+  },
+  {
+   "i": 5,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Resolution opening at February 1 2027, 08:50 UTC",
+   "href": "https://reality.eth.limo/app/#!/network/100/question/0xE78996A233895bE74a66F451f1019cA9734205cc-0x97a1bb910fd54bb05e91a79db4227455c98c62685c4ec30053ff2bc4e4cca97f",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    132,
+    398,
+    216,
+    40
+   ]
+  },
+  {
+   "i": 6,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Open interest and liquidity breakdown",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "false",
+   "box": [
+    249,
+    535,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 7,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://curate.kleros.io/tcr/100/0x5aAF9E23A11440F8C1Ad6D2E2e5109C7e52CC672/0x195deca19155deee74a815f00b0f1a49dbef031fa821c4366f647cd7c7cc9113",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    417,
+    536,
+    14,
+    14
+   ]
+  },
+  {
+   "i": 8,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Custom",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    32,
+    652,
+    86,
+    38
+   ]
+  },
+  {
+   "i": 9,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    338,
+    661,
+    20,
+    20
+   ]
+  },
+  {
+   "i": 10,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "",
+   "href": "",
+   "disabled": true,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    296,
+    714,
+    24,
+    24
+   ]
+  },
+  {
+   "i": 11,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "",
+   "href": "",
+   "disabled": true,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    324,
+    714,
+    24,
+    24
+   ]
+  },
+  {
+   "i": 12,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Charting by TradingView",
+   "href": "https://www.tradingview.com/?utm_medium=lwc-link&utm_campaign=lwc-chart&utm_source=app.seer.pm/markets/100/what-will-be-the-average-ethereum-basefee-in-gwei-for-the-period-131-january-202-4/",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    52,
+    981,
+    35,
+    19
+   ]
+  },
+  {
+   "i": 13,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/token/0x18ae9974e979f6961706809ab4f06a541c4c4b0c",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    37,
+    1182,
+    12,
+    12
+   ]
+  },
+  {
+   "i": 14,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Add Liquidity",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    65,
+    1179,
+    73,
+    18
+   ]
+  },
+  {
+   "i": 15,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "View pool details",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    154,
+    1179,
+    94,
+    18
+   ]
+  },
+  {
+   "i": 16,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "New conditional market",
+   "href": "/create-market?parentMarket=0x2324741962ff5b8331dbbdc88de8cf1c06fa5ca8&parentOutcome=DOWN",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    37,
+    1205,
+    134,
+    18
+   ]
+  },
+  {
+   "i": 17,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/token/0xc91226c42523c6cf14e5586d91059f8ea05693a7",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    37,
+    1296,
+    12,
+    12
+   ]
+  },
+  {
+   "i": 18,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Add Liquidity",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    65,
+    1293,
+    73,
+    18
+   ]
+  },
+  {
+   "i": 19,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "View pool details",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    154,
+    1293,
+    94,
+    18
+   ]
+  },
+  {
+   "i": 20,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "New conditional market",
+   "href": "/create-market?parentMarket=0x2324741962ff5b8331dbbdc88de8cf1c06fa5ca8&parentOutcome=UP",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    37,
+    1319,
+    134,
+    18
+   ]
+  },
+  {
+   "i": 21,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/token/0x3c617efb6d9f19eb4f7165e76f8e9d9d562742c6",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    37,
+    1410,
+    12,
+    12
+   ]
+  },
+  {
+   "i": 22,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Add Liquidity",
+   "href": "https://v3.swapr.eth.limo/#/add/0x3c617efb6d9f19eb4f7165e76f8e9d9d562742c6/0xaf204776c7245bf4147c2612bf6e5972ee483701/enter-amounts",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    65,
+    1407,
+    73,
+    18
+   ]
+  },
+  {
+   "i": 23,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "View pool details",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    154,
+    1407,
+    94,
+    18
+   ]
+  },
+  {
+   "i": 24,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "New conditional market",
+   "href": "/create-market?parentMarket=0x2324741962ff5b8331dbbdc88de8cf1c06fa5ca8&parentOutcome=Invalid",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    37,
+    1433,
+    134,
+    18
+   ]
+  },
+  {
+   "i": 25,
+   "tag": "button",
+   "role": "tab",
+   "type": "button",
+   "text": "Comments",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    -204,
+    1714,
+    116,
+    32
+   ]
+  },
+  {
+   "i": 26,
+   "tag": "button",
+   "role": "tab",
+   "type": "button",
+   "text": "Related Conditional Markets",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    -88,
+    1714,
+    251,
+    32
+   ]
+  },
+  {
+   "i": 27,
+   "tag": "button",
+   "role": "tab",
+   "type": "button",
+   "text": "Top Holders",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    163,
+    1714,
+    125,
+    32
+   ]
+  },
+  {
+   "i": 28,
+   "tag": "button",
+   "role": "tab",
+   "type": "button",
+   "text": "Activity",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    288,
+    1714,
+    89,
+    32
+   ]
+  },
+  {
+   "i": 29,
+   "tag": "input",
+   "role": "",
+   "type": "checkbox",
+   "text": "on",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    266,
+    1801,
+    16,
+    16
+   ]
+  },
+  {
+   "i": 30,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "alive-rational-snipe",
+   "href": "/portfolio/0x76ace6dbc72945977d3aaaee5a0113a31491853e",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    45,
+    1847,
+    127,
+    20
+   ]
+  },
+  {
+   "i": 31,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0x76ace6dbc72945977d3aaaee5a0113a31491853e",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    180,
+    1849,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 32,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Oct 9, 2026 · 04:17",
+   "href": "https://gnosisscan.io/tx/0x7513ce4e7e00fe535e9536b635ba05d5c66bd2b8788249d3a3b261a0d8caf925",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    282,
+    1852,
+    63,
+    41
+   ]
+  },
+  {
+   "i": 33,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "slimy-correct-hedgehog",
+   "href": "/portfolio/0x187e0966046da5b110fdc986c9b94bd8416837af",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    45,
+    1920,
+    157,
+    20
+   ]
+  },
+  {
+   "i": 34,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0x187e0966046da5b110fdc986c9b94bd8416837af",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    210,
+    1922,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 35,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Sep 18, 2026 · 07:09",
+   "href": "https://gnosisscan.io/tx/0x110305e79b7ad544095d2556a39b508a2c6a5758049630d2d4d5f81de855c69a",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    278,
+    1925,
+    67,
+    41
+   ]
+  },
+  {
+   "i": 36,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "shotaro.eth",
+   "href": "/portfolio/0xe7f13052fe2ba7d038dac18de5e730542e3979bc",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    45,
+    1993,
+    93,
+    21
+   ]
+  },
+  {
+   "i": 37,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0xe7f13052fe2ba7d038dac18de5e730542e3979bc",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    146,
+    1996,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 38,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Sep 18, 2026 · 07:09",
+   "href": "https://gnosisscan.io/tx/0x110305e79b7ad544095d2556a39b508a2c6a5758049630d2d4d5f81de855c69a",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    278,
+    1999,
+    67,
+    41
+   ]
+  },
+  {
+   "i": 39,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "@seerious",
+   "href": "/portfolio/@seerious",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    45,
+    2067,
+    69,
+    20
+   ]
+  },
+  {
+   "i": 40,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0xd6a2a456b48836f38ace550c59c421ca24f1681a",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    122,
+    2069,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 41,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Jun 13, 2026 · 04:38",
+   "href": "https://gnosisscan.io/tx/0x2f2b10517c4fbc6d68e6f6f07b279ed8e417ca21181ae5e4e90027598d513d7e",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    278,
+    2072,
+    67,
+    41
+   ]
+  },
+  {
+   "i": 42,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "married-legislative-anglerfish",
+   "href": "/portfolio/0xcd776264f35054c5a0b69bce0562173f9eb6994a",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    45,
+    2140,
+    194,
+    20
+   ]
+  },
+  {
+   "i": 43,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0xcd776264f35054c5a0b69bce0562173f9eb6994a",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    247,
+    2142,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 44,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Jun 13, 2026 · 01:57",
+   "href": "https://gnosisscan.io/tx/0x0ec4de4f9a1b3b299684eafc75bd284637a9ff688aaafd76712da4902619e9bd",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    278,
+    2145,
+    67,
+    41
+   ]
+  },
+  {
+   "i": 45,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "@seerious",
+   "href": "/portfolio/@seerious",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    45,
+    2213,
+    69,
+    20
+   ]
+  },
+  {
+   "i": 46,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0xd6a2a456b48836f38ace550c59c421ca24f1681a",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    122,
+    2215,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 47,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Jun 13, 2026 · 01:56",
+   "href": "https://gnosisscan.io/tx/0xd6500b9446d92cd713faa10494317e15afe1b282054008eda1e872f8f90b6409",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    278,
+    2218,
+    67,
+    41
+   ]
+  },
+  {
+   "i": 48,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "@seerious",
+   "href": "/portfolio/@seerious",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    45,
+    2286,
+    69,
+    20
+   ]
+  },
+  {
+   "i": 49,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0xd6a2a456b48836f38ace550c59c421ca24f1681a",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    122,
+    2288,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 50,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Jun 12, 2026 · 19:27",
+   "href": "https://gnosisscan.io/tx/0xa69c9cf443578904fbf0e8e8e8f625a4ae4f9fb70530240a42d9810800e29547",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    278,
+    2291,
+    67,
+    41
+   ]
+  },
+  {
+   "i": 51,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "@seerious",
+   "href": "/portfolio/@seerious",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    45,
+    2359,
+    69,
+    20
+   ]
+  },
+  {
+   "i": 52,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0xd6a2a456b48836f38ace550c59c421ca24f1681a",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    122,
+    2361,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 53,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Jun 12, 2026 · 18:48",
+   "href": "https://gnosisscan.io/tx/0x396ae940c56d283cb55a909891ac123bdd4de7552726a0e2f6301de5d6521616",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    278,
+    2364,
+    67,
+    41
+   ]
+  },
+  {
+   "i": 54,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "@seerious",
+   "href": "/portfolio/@seerious",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    45,
+    2432,
+    69,
+    20
+   ]
+  },
+  {
+   "i": 55,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0xd6a2a456b48836f38ace550c59c421ca24f1681a",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    122,
+    2434,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 56,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Jun 12, 2026 · 04:30",
+   "href": "https://gnosisscan.io/tx/0x8a142d3f07d1329dbd2f18e1d2d3b8cd322878d363fc6c82a47d89332642810b",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    278,
+    2437,
+    67,
+    41
+   ]
+  },
+  {
+   "i": 57,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "zygomorphic-puzzled-turtle",
+   "href": "/portfolio/0xc982e15a6f6af191a6cddaed84e7af3ad89f4210",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    45,
+    2505,
+    182,
+    20
+   ]
+  },
+  {
+   "i": 58,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0xc982e15a6f6af191a6cddaed84e7af3ad89f4210",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    235,
+    2507,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 59,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Jun 7, 2026 · 23:11",
+   "href": "https://gnosisscan.io/tx/0xb880b7879f85b47d322d9ce6972658960e9a1a79fd67623378a3d93d411656b0",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    283,
+    2510,
+    62,
+    41
+   ]
+  },
+  {
+   "i": 60,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "slimy-correct-hedgehog",
+   "href": "/portfolio/0x187e0966046da5b110fdc986c9b94bd8416837af",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    45,
+    2578,
+    157,
+    20
+   ]
+  },
+  {
+   "i": 61,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0x187e0966046da5b110fdc986c9b94bd8416837af",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    210,
+    2580,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 62,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Jun 7, 2026 · 23:11",
+   "href": "https://gnosisscan.io/tx/0xb880b7879f85b47d322d9ce6972658960e9a1a79fd67623378a3d93d411656b0",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    283,
+    2583,
+    62,
+    41
+   ]
+  },
+  {
+   "i": 63,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "zygomorphic-puzzled-turtle",
+   "href": "/portfolio/0xc982e15a6f6af191a6cddaed84e7af3ad89f4210",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    45,
+    2651,
+    182,
+    20
+   ]
+  },
+  {
+   "i": 64,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0xc982e15a6f6af191a6cddaed84e7af3ad89f4210",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    235,
+    2653,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 65,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Jun 7, 2026 · 23:10",
+   "href": "https://gnosisscan.io/tx/0x5370db0360edc2ea1938dfb42ded006915e7d3c1088908b62d49d2a81d6eb46b",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    283,
+    2656,
+    62,
+    41
+   ]
+  },
+  {
+   "i": 66,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "slimy-correct-hedgehog",
+   "href": "/portfolio/0x187e0966046da5b110fdc986c9b94bd8416837af",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    45,
+    2724,
+    157,
+    20
+   ]
+  },
+  {
+   "i": 67,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0x187e0966046da5b110fdc986c9b94bd8416837af",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    210,
+    2726,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 68,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Jun 4, 2026 · 20:14",
+   "href": "https://gnosisscan.io/tx/0xda1b44661a80fb18c021674050de2d4b505df22e0dcb971a73320da0a72acb82",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    283,
+    2729,
+    62,
+    41
+   ]
+  },
+  {
+   "i": 69,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "related-lexical-pig",
+   "href": "/portfolio/0xb465a59f03be939cb08d508b25e136965488f10c",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    45,
+    2797,
+    118,
+    20
+   ]
+  },
+  {
+   "i": 70,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0xb465a59f03be939cb08d508b25e136965488f10c",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    171,
+    2799,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 71,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Jun 4, 2026 · 20:14",
+   "href": "https://gnosisscan.io/tx/0xda1b44661a80fb18c021674050de2d4b505df22e0dcb971a73320da0a72acb82",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    283,
+    2802,
+    62,
+    41
+   ]
+  },
+  {
+   "i": 72,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "related-lexical-pig",
+   "href": "/portfolio/0xb465a59f03be939cb08d508b25e136965488f10c",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    45,
+    2870,
+    118,
+    20
+   ]
+  },
+  {
+   "i": 73,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0xb465a59f03be939cb08d508b25e136965488f10c",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    171,
+    2872,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 74,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Jun 4, 2026 · 20:13",
+   "href": "https://gnosisscan.io/tx/0xc4ded48864466313819c30d4ddec5b96f5f7a1889bb7f738f3f785d618243389",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    283,
+    2875,
+    62,
+    41
+   ]
+  },
+  {
+   "i": 75,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "slimy-correct-hedgehog",
+   "href": "/portfolio/0x187e0966046da5b110fdc986c9b94bd8416837af",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    45,
+    2943,
+    157,
+    20
+   ]
+  },
+  {
+   "i": 76,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0x187e0966046da5b110fdc986c9b94bd8416837af",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    210,
+    2945,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 77,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Jun 4, 2026 · 14:53",
+   "href": "https://gnosisscan.io/tx/0x9523c9a81a7d503f622dd7ccc14b8a99e51537b91a53011e7ce79379d0a0dfb7",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    283,
+    2948,
+    62,
+    41
+   ]
+  },
+  {
+   "i": 78,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "light-superb-dinosaur",
+   "href": "/portfolio/0xa81eeb6ab8f7d5ce8cb18428731b59f6f7b564cd",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    45,
+    3016,
+    144,
+    20
+   ]
+  },
+  {
+   "i": 79,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0xa81eeb6ab8f7d5ce8cb18428731b59f6f7b564cd",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    197,
+    3018,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 80,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Jun 4, 2026 · 14:53",
+   "href": "https://gnosisscan.io/tx/0x9523c9a81a7d503f622dd7ccc14b8a99e51537b91a53011e7ce79379d0a0dfb7",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    283,
+    3021,
+    62,
+    41
+   ]
+  },
+  {
+   "i": 81,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "zeroth-growing-pigeon",
+   "href": "/portfolio/0xd6b79aa9b24fa60808b9237bc923780c50f59428",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    45,
+    3089,
+    151,
+    20
+   ]
+  },
+  {
+   "i": 82,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0xd6b79aa9b24fa60808b9237bc923780c50f59428",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    204,
+    3091,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 83,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Jun 4, 2026 · 14:33",
+   "href": "https://gnosisscan.io/tx/0x7bdf157105f30c9663d54c2bc833e17b28b12510444b9f5fd2d1bc14eed53873",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    283,
+    3094,
+    62,
+    41
+   ]
+  },
+  {
+   "i": 84,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "slimy-correct-hedgehog",
+   "href": "/portfolio/0x187e0966046da5b110fdc986c9b94bd8416837af",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    45,
+    3162,
+    157,
+    20
+   ]
+  },
+  {
+   "i": 85,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0x187e0966046da5b110fdc986c9b94bd8416837af",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    210,
+    3164,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 86,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Jun 4, 2026 · 14:33",
+   "href": "https://gnosisscan.io/tx/0x7bdf157105f30c9663d54c2bc833e17b28b12510444b9f5fd2d1bc14eed53873",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    283,
+    3167,
+    62,
+    41
+   ]
+  },
+  {
+   "i": 87,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "light-superb-dinosaur",
+   "href": "/portfolio/0xa81eeb6ab8f7d5ce8cb18428731b59f6f7b564cd",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    45,
+    3235,
+    144,
+    20
+   ]
+  },
+  {
+   "i": 88,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0xa81eeb6ab8f7d5ce8cb18428731b59f6f7b564cd",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    197,
+    3237,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 89,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Jun 3, 2026 · 21:06",
+   "href": "https://gnosisscan.io/tx/0x19d300a597c5c6b50703471bf414648bc25b8f98b341163fa6a2305618c62fcb",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    283,
+    3240,
+    62,
+    41
+   ]
+  },
+  {
+   "i": 90,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "zeroth-growing-pigeon",
+   "href": "/portfolio/0xd6b79aa9b24fa60808b9237bc923780c50f59428",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    45,
+    3308,
+    151,
+    20
+   ]
+  },
+  {
+   "i": 91,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0xd6b79aa9b24fa60808b9237bc923780c50f59428",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    204,
+    3310,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 92,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Jun 3, 2026 · 20:46",
+   "href": "https://gnosisscan.io/tx/0xe1db4d26d6edac76553a2983f09913c625c3d7f2e358ab359e2df170916f501b",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    283,
+    3313,
+    62,
+    41
+   ]
+  },
+  {
+   "i": 93,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "shotaro.eth",
+   "href": "/portfolio/0xe7f13052fe2ba7d038dac18de5e730542e3979bc",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    45,
+    3381,
+    93,
+    21
+   ]
+  },
+  {
+   "i": 94,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0xe7f13052fe2ba7d038dac18de5e730542e3979bc",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    146,
+    3384,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 95,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Jan 24, 2026 · 19:20",
+   "href": "https://gnosisscan.io/tx/0x22328e3530e250c933a01ff8b7925fd2b4eebea8ab697283dd6df879d21a77de",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    278,
+    3387,
+    67,
+    41
+   ]
+  },
+  {
+   "i": 96,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "embarrassed-sick-stork",
+   "href": "/portfolio/0xb5a6a9c6d779e7dd7815f94ae2ccfb153a21801c",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    45,
+    3455,
+    156,
+    20
+   ]
+  },
+  {
+   "i": 97,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0xb5a6a9c6d779e7dd7815f94ae2ccfb153a21801c",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    209,
+    3457,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 98,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Dec 12, 2025 · 14:38",
+   "href": "https://gnosisscan.io/tx/0xf6130be6a7c55474d16766eafe4841fb2dfb4d1f0478241c9c3d19d37f184bc7",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    278,
+    3460,
+    67,
+    41
+   ]
+  },
+  {
+   "i": 99,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "embarrassed-sick-stork",
+   "href": "/portfolio/0xb5a6a9c6d779e7dd7815f94ae2ccfb153a21801c",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    45,
+    3528,
+    156,
+    20
+   ]
+  },
+  {
+   "i": 100,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0xb5a6a9c6d779e7dd7815f94ae2ccfb153a21801c",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    209,
+    3530,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 101,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Dec 12, 2025 · 14:35",
+   "href": "https://gnosisscan.io/tx/0xd4b05eafc9287cb44dfc564edf1891e047c8b142404849e49c371ef2239e172d",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    278,
+    3547,
+    67,
+    41
+   ]
+  },
+  {
+   "i": 102,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "embarrassed-sick-stork",
+   "href": "/portfolio/0xb5a6a9c6d779e7dd7815f94ae2ccfb153a21801c",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    45,
+    3629,
+    156,
+    20
+   ]
+  },
+  {
+   "i": 103,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0xb5a6a9c6d779e7dd7815f94ae2ccfb153a21801c",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    209,
+    3631,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 104,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Dec 12, 2025 · 14:34",
+   "href": "https://gnosisscan.io/tx/0xdf94c0713ff9d59e0d27ec041f6a0b23b23bb6dd590c181ca7d9c576869b6696",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    278,
+    3634,
+    67,
+    41
+   ]
+  },
+  {
+   "i": 105,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "silly-voiceless-loon",
+   "href": "/portfolio/0x031778c7a1c08787aba7a2e0b5149feb5decabd7",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    45,
+    3702,
+    123,
+    20
+   ]
+  },
+  {
+   "i": 106,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0x031778c7a1c08787aba7a2e0b5149feb5decabd7",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    176,
+    3704,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 107,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Dec 12, 2025 · 14:24",
+   "href": "https://gnosisscan.io/tx/0xd6f0975591820d8d563acf9ca8f87a8481f6ce5bc13758b230bd0daa0aced4ad",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    278,
+    3707,
+    67,
+    41
+   ]
+  },
+  {
+   "i": 108,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Open trade drawer",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    351,
+    1755,
+    56,
+    56
+   ]
+  },
+  {
+   "i": 109,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://kleros.io/",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    106,
+    3868,
+    179,
+    24
+   ]
+  },
+  {
+   "i": 110,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://discord.com/invite/rBEB4MYQwV",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    138,
+    3916,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 111,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://t.me/Seerpredictionmarket",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    171,
+    3916,
+    16,
+    16
+   ]
+  },
+  {
+   "i": 112,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://x.com/seer_pm",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    203,
+    3916,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 113,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://github.com/seer-pm",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    236,
+    3916,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 114,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Close drawer",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    393,
+    1867,
+    14,
+    24
+   ]
+  },
+  {
+   "i": 115,
+   "tag": "button",
+   "role": "tab",
+   "type": "button",
+   "text": "Trade",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    24,
+    1899,
+    92,
+    32
+   ]
+  },
+  {
+   "i": 116,
+   "tag": "button",
+   "role": "tab",
+   "type": "button",
+   "text": "Mint",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    116,
+    1899,
+    83,
+    32
+   ]
+  },
+  {
+   "i": 117,
+   "tag": "button",
+   "role": "tab",
+   "type": "button",
+   "text": "Merge",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    200,
+    1899,
+    97,
+    32
+   ]
+  },
+  {
+   "i": 118,
+   "tag": "button",
+   "role": "tab",
+   "type": "button",
+   "text": "Redeem",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    296,
+    1899,
+    111,
+    32
+   ]
+  },
+  {
+   "i": 119,
+   "tag": "input",
+   "role": "",
+   "type": "number",
+   "text": "0",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    65,
+    2135,
+    184,
+    33
+   ]
+  },
+  {
+   "i": 120,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Max",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    323,
+    2177,
+    43,
+    31
+   ]
+  },
+  {
+   "i": 121,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    192,
+    2203,
+    48,
+    48
+   ]
+  },
+  {
+   "i": 122,
+   "tag": "input",
+   "role": "",
+   "type": "number",
+   "text": "0",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    64,
+    2275,
+    169,
+    33
+   ]
+  },
+  {
+   "i": 123,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Calculate your potential return",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    48,
+    2410,
+    335,
+    23
+   ]
+  },
+  {
+   "i": 124,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Enter an amount",
+   "href": "",
+   "disabled": true,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    48,
+    2491,
+    335,
+    45
+   ]
+  }
+ ],
+ "charts": [
+  {
+   "tag": "canvas",
+   "box": [
+    42,
+    738,
+    258,
+    272
+   ],
+   "texts": [],
+   "paths": 0
+  },
+  {
+   "tag": "canvas",
+   "box": [
+    42,
+    738,
+    258,
+    272
+   ],
+   "texts": [],
+   "paths": 0
+  }
+ ],
+ "tables": [
+  {
+   "rows": 2,
+   "head": []
+  },
+  {
+   "rows": 26,
+   "head": []
+  }
+ ],
+ "fonts": [
+  "Open Sans"
+ ],
+ "colors": {
+  "bg": "rgba(0, 0, 0, 0)",
+  "text": "oklch(0.278078 0.029596 256.848)"
+ },
+ "dialogs": 1
+}

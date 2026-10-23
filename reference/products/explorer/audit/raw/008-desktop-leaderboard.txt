@@ -1,0 +1,170 @@
+Note that this is a Beta version and can still be unstable
+Markets
+Leaderboard
+Create Market
+Policies
+App
+0x0000...dEaD
+
+24.69 xDAI
+
+/
+Leaderboard
+Profit & Loss Leaderboard
+
+Rankings of wallets by trading P/L in USD. All covers every Seer market on a chain (including markets not assigned to an app). App filters scope to that app's configured markets; Deepfunding and Foresight also offer per-market boards.
+
+Trader Score rates each wallet 0–100 on returns, profit factor, hit rate edge, loss burn and breadth across the markets it traded, shrunk toward the middle when it traded few of them. How it works.
+
+Time period
+1D
+1W
+1M
+ALL
+Filters
+Your Rank
+Search
+
+Sorted by Profit/Loss, high to low
+
+#	Account	
+Score
+	
+Profit/Loss
+	
+Volume
+	
+ROI
+	
+Traded Markets
+
+1	
+scientific-decisive-toucan
+	
+78.6
+GREAT
+	+$241,137.42	$1,428,800.23	+30.3%	55
+2	
+unfair-assistant-hedgehog
+	
+73.3
+GREAT
+	+$75,302.98	$123,730.16	+120.8%	14
+3	
+stingy-moral-carp
+	N/A	+$64,264.58	$172,025.06	+264.6%	1
+4	
+total-electronic-snake
+	
+87.5
+ELITE
+	+$51,775.80	$177,134.32	+40.0%	110
+5	
+shotaro.eth
+	
+68.7
+GOOD
+	+$43,237.97	$315,443.51	+8.2%	37
+6	
+intensive-impressive-cheetah
+	
+75.6
+GREAT
+	+$35,414.85	$80,412.90	+42.6%	25
+7	
+public-interested-parakeet
+	
+71.9
+GREAT
+	+$33,783.26	$377,479.87	+4.4%	22
+8	
+strategic-well-raven
+	
+67.2
+GOOD
+	+$27,533.63	$55,410.27	+45.5%	8
+9	
+@mr-froggert
+·
+outforarip.eth
+	
+83.5
+GREAT
+	+$24,474.29	$102,000.97	+29.5%	76
+10	
+horizontal-dead-wolverine
+	N/A	+$8,015.67	$80,228.90	+3.6%	2
+11	
+dependent-romantic-rook
+	N/A	+$5,356.02	$21,723.13	+70.1%	1
+12	
+stormy-dull-puffin
+	
+78.0
+GREAT
+	+$4,988.15	$277,707.98	+10.5%	123
+13	
+vulnerable-rigid-amphibian
+	
+56.0
+GOOD
+	+$4,609.46	$81,658.14	+7.5%	22
+14	
+literary-practical-tortoise
+	
+46.5
+AVERAGE
+	+$4,275.88	$377.00	+22.6%	327
+15	
+stormy-dull-puffin
+	
+60.2
+GOOD
+	+$4,146.21	$2,713.68	+163.9%	3
+16	
+indirect-mere-gibbon
+	N/A	+$3,583.79	$4,483.05	+79.9%	1
+17	
+ashamed-free-ocelot
+	N/A	+$2,873.20	$5,048.47	+56.9%	1
+18	
+aaaaaaaaaaaaaaaaaaaaaa.eth
+	
+72.6
+GREAT
+	+$2,291.89	$3,988.02	+39.2%	293
+19	
+indirect-mere-gibbon
+	N/A	+$2,194.29	$0.00	N/A	0
+20	
+verbal-yummy-flamingo
+	
+67.3
+GOOD
+	+$2,178.97	$12,657.94	+31.4%	9
+21	
+widespread-purring-cod
+	N/A	+$2,149.99	$1,867.82	+451.0%	1
+22	
+confidential-stupid-yak
+	N/A	+$2,035.77	$2,596.05	+363.3%	2
+23	
+electronic-round-cardinal
+	
+56.7
+GOOD
+	+$1,781.05	$5,180.52	+27.4%	180
+24	
+redundant-extended-wolverine
+	N/A	+$1,680.32	$0.00	+1,368,132.0%	0
+25	
+correct-mutual-nightingale
+	
+58.0
+GOOD
+	+$1,614.32	$3,741.36	+25.4%	180
+
+Page 1 of 166 · Updated 10/17/2026, 10:11:20 PM
+
+Prev
+Next

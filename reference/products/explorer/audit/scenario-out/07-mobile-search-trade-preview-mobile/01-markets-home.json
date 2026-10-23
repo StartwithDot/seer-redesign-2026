@@ -1,0 +1,706 @@
+{
+ "url": "https://app.seer.pm/",
+ "title": "Seer | A Next Generation Prediction Marketplace",
+ "controls": [
+  {
+   "tag": "button",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "input",
+   "text": "Search by market, outcome or collection",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Filters",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "Create New Market",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "Which party or joint electoral list will win the most seats ",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Open interest and liquidity breakdown",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "Will the National Rally’s candidate win the next French pres",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Open interest and liquidity breakdown",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "Will Marine Le Pen be the National Rally’s candidate in the ",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Open interest and liquidity breakdown",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "How many seats in France’s National Assembly will [party blo",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Open interest and liquidity breakdown",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "Will the National Rally’s candidate win the next French pres",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Open interest and liquidity breakdown",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "Will Polymarket publicly release a fix for the negative-risk",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Open interest and liquidity breakdown",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "Will Polymarket's API allow retrieval of fees paid data per ",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Open interest and liquidity breakdown",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "Will Polymarket use an oracle other than UMA to resolve at l",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Open interest and liquidity breakdown",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "Will Polymarket's public API provide a documented endpoint p",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Open interest and liquidity breakdown",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "Will any Kurdish militant group launch a confirmed armed att",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Open interest and liquidity breakdown",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "How many Polymarket clarification notes published before Jan",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Open interest and liquidity breakdown",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "Will a legally binding treaty or agreement transferring sove",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Open interest and liquidity breakdown",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "Will the United States enter into armed hostilities with a N",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Open interest and liquidity breakdown",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "Will a court rule against Polymarket in a lawsuit over an in",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Open interest and liquidity breakdown",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "Will Polymarket distribute a transferable Polymarket cryptoc",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Open interest and liquidity breakdown",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "Will the Digital Asset Market Clarity Act be approved by the",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Open interest and liquidity breakdown",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "What will be the average Ethereum BASEFEE (in gwei) for the ",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Open interest and liquidity breakdown",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "Will Donald Trump issue an official presidential pardon for ",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Open interest and liquidity breakdown",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "Will the U.S. Securities and Exchange Commission initiate a ",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Open interest and liquidity breakdown",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "Who will win the 2026 South Sudanese presidential election?",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Open interest and liquidity breakdown",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "Will GTA 6 achieve the highest first-day unit sales of any G",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Open interest and liquidity breakdown",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "Which party will win the most seats in the United States Sen",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Open interest and liquidity breakdown",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "Will Sam Bankman-Fried receive a U.S. presidential pardon in",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Open interest and liquidity breakdown",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "Which blockchain will have the highest total value locked (T",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Open interest and liquidity breakdown",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "Previous page",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "Page 1 is your current page",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "Page 2",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "Page 3",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "Jump forward",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "Page 103",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "Page 104",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "Page 105",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "Next page",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  }
+ ]
+}

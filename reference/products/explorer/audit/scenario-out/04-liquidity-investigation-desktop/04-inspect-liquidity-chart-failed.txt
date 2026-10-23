@@ -1,0 +1,287 @@
+Note that this is a Beta version and can still be unstable
+Markets
+Leaderboard
+Create Market
+Policies
+App
+0x0000...dEaD
+
+24.69 xDAI
+
+/
+Market
+Reports open
+Will Marine Le Pen be the National Rally’s candidate in the next French presidential election?
+Answer on Reality.eth!
+Categorical
+Liquidity:
+7.16k
+Volume:
+49.69k
+P&L:
+0.00
+Verified
+1D
+1W
+1M
+All
+Custom
+Yes
+84.2%
+No
+14.8%
+	
+	
+
+	
+	
+Sep 11, 2025 13:30
+Yes:
+31.50%
+No:
+67.10%
+Outcomes
+
+#1 Yes
+
+Add Liquidity
+Hide pool details
+New conditional market
+84.2%
+Liquidity
+Chart
+
+Pool Id:
+
+0xb328...30b1
+
+Pool Balances:
+
+6.58k LEPEN_NRYES / 126.10 sDAI
+
+SHARES
+TOTAL
+
+0.9881
+
+96.59
+2773.39
+
+0.9822
+
+96.88
+2676.80
+
+0.9763
+
+97.17
+2579.92
+
+0.9704
+
+97.46
+2482.76
+
+0.9646
+
+97.75
+2385.29
+
+0.9589
+
+98.05
+2287.54
+
+0.9531
+
+98.34
+2189.49
+
+0.9474
+
+98.64
+2091.15
+
+0.9418
+
+98.93
+1992.51
+
+0.9361
+
+99.23
+1893.58
+
+0.9305
+
+99.53
+1794.35
+
+0.9250
+
+99.83
+1694.82
+
+0.9194
+
+100.13
+1594.99
+
+0.9139
+
+100.43
+1494.86
+
+0.9085
+
+100.73
+1394.43
+
+0.9030
+
+101.03
+1293.70
+
+0.8976
+
+101.34
+1192.67
+
+0.8923
+
+101.64
+1091.33
+
+0.8869
+
+101.95
+989.69
+
+0.8816
+
+102.25
+887.74
+
+0.8763
+
+102.56
+785.49
+
+0.8711
+
+102.87
+682.93
+
+0.8659
+
+103.18
+580.06
+
+0.8607
+
+103.49
+476.88
+
+0.8556
+
+103.80
+373.39
+
+0.8504
+
+104.11
+269.59
+
+0.8454
+
+104.42
+165.48
+
+0.8424
+
+61.06
+61.06
+
+Last: 0.8424
+
+0.8403
+
+43.68
+43.68
+
+0.8353
+
+105.05
+148.73
+
+#2 No
+
+Add Liquidity
+View pool details
+New conditional market
+14.8%
+
+#3 Invalid
+
+210.85 SER-INVALID
+Add Liquidity
+View pool details
+New conditional market
+0%
+Yes
+Market
+
+You pay
+
+sDAI
+
+0 sDAI
+
+Max
+
+You will get
+
+Yes
+
+Avg price
+0 sDAI
+Potential return
+0.00 sDAI (0.00%)
+Parameters:
+
+Max slippage 1%
+
+Enter an amount
+
+More
+
+Mint
+Mint
+Merge
+Redeem
+Amount
+Max
+Balance:
+0 sDAI
+sDAI
+xDAI
+Mint
+Major Events
+1 UPCOMING
+
+JAN 1, 2027 · 00:00 UTC
+
+Reality.eth Resolution
+
+Expected resolution date
+
+Comments
+Related Conditional Markets
+Top Holders
+Activity
+
+Connect your wallet to share your take
+
+Connect to comment
+
+No takes yet. Share the first one.

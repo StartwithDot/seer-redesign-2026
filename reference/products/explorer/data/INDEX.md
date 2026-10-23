@@ -1,0 +1,12 @@
+# Saved API fixtures (real responses captured by the crawler; lists trimmed to 60 items)
+
+- POST https://app.seer.pm/.netlify/functions/markets-search -> data/markets-search.json (truncated raw)
+- POST https://app.seer.pm/.netlify/functions/get-market -> data/get-market.json (ok)
+- GET https://app.seer.pm/.netlify/functions/markets-charts?ids=0x612f809c9a09c2cd64aaa37fa9e858391707bc1e,0x21e5fc9 -> data/markets-charts.json (truncated raw)
+- POST https://app.seer.pm/subgraph?_subgraph=algebra&_chainId=100 -> data/subgraph.json (ok)
+- GET https://app.seer.pm/.netlify/functions/get-pnl-leaderboard?app=all&chainId=all&period=all&sort=pnl&dir=desc&li -> data/get-pnl-leaderboard.json (ok)
+- GET https://app.seer.pm/.netlify/functions/market-chart?marketId=0x31cb54c49479243333594eb7343d31f6bd1ddfd3&chainI -> data/market-chart.json (truncated raw)
+- GET https://app.seer.pm/.netlify/functions/get-market-events?chainId=100&marketId=0x31cb54c49479243333594eb7343d31 -> data/get-market-events.json (ok)
+- GET https://app.seer.pm/.netlify/functions/market-comments?market_id=0x31cb54c49479243333594eb7343d31f6bd1ddfd3&ch -> data/market-comments.json (ok)
+- GET https://app.seer.pm/.netlify/functions/get-token-transactions?chainId=100&marketId=0x31cb54c49479243333594eb73 -> data/get-token-transactions.json (truncated raw)
+- GET https://app.seer.pm/.netlify/functions/get-portfolio-pl?account=0x000000000000000000000000000000000000dEaD&cha -> data/get-portfolio-pl.json (ok)

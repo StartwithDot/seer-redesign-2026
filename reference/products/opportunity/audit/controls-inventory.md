@@ -1,0 +1,453 @@
+# Interactive controls seen (tag | role | text | href | where)
+- a |  | Seer Opportunity Markets home | / | 001d, 002d, 003d, 004d, 005d, 006d, 007d, 008d
+- a |  | The pilot | #pilot | 001d, 002d, 029d, 030d, 031d, 032d
+- a |  | The protocol | #protocol | 001d, 002d, 029d, 030d, 031d, 032d
+- button |  | 0x0000...dEaD |  | 001d, 002d, 003d, 004d, 005d, 006d, 007d, 008d
+- a |  | Name Seer's AI Job Board | /markets/100/0x8b3C7f3f09f6A85353926D8ee0f12decc1C9A5e8 | 001d, 002d, 029d, 030d, 031d, 032d, 072m, 073m
+- a |  | Where this goes | #pilot | 001d, 002d, 029d, 030d, 031d, 032d, 072m, 073m
+- a |  | Open opportunity: Seer AI Job Board Name | /markets/100/0x8b3c7f3f09f6a85353926d8ee0f12decc1c9a5e8 | 001d, 002d, 029d, 030d, 031d, 032d, 072m, 073m
+- a |  | LEADING · SAI 6% OPEN OPPORTUNITY → | /markets/100/0x8b3c7f3f09f6a85353926d8ee0f12decc1c9a5e8 | 001d, 002d, 029d, 030d, 031d, 032d, 072m, 073m
+- a |  | VIEW ARCHIVED MARKETS (2) → | /archive | 001d, 002d, 029d, 030d, 031d, 032d, 072m, 073m
+- a |  | Seer | https://seer.pm | 001d, 002d, 003d, 004d, 005d, 006d, 007d, 008d
+- button |  | Close |  | 002d, 004d, 005d, 027d, 030d, 031d, 034d, 035d
+- button |  | Switch Networks |  | 002d, 004d, 005d, 027d, 030d, 031d, 034d, 035d
+- button |  | Disconnect |  | 002d, 004d, 005d, 027d, 030d, 031d, 034d, 035d
+- a |  | The pilot | /#pilot | 003d, 004d, 005d, 006d, 007d, 008d, 009d, 010d
+- a |  | The protocol | /#protocol | 003d, 004d, 005d, 006d, 007d, 008d, 009d, 010d
+- a |  | ← BACK TO OPPORTUNITIES | / | 003d, 004d, 005d, 006d, 007d, 008d, 009d, 010d
+- a |  | 0x8b3c...a5e8 | https://gnosisscan.io/address/0x8b3c7f3f09f6a85353926d8ee0f1 | 003d, 004d, 005d, 006d, 007d, 008d, 009d, 010d
+- a |  | View on Seer ↗ | https://app.seer.pm/markets/100/what-name-will-be-adopted-fo | 003d, 004d, 005d, 006d, 007d, 008d, 009d, 010d
+- input |  | Search outcomes |  | 003d, 004d, 005d, 006d, 007d, 008d, 009d, 010d
+- button |  | SHOW ALL 235 OUTCOMES |  | 003d, 004d, 005d, 007d, 008d, 009d, 010d, 011d
+- button |  | SAI 6% |  | 003d, 004d, 005d, 006d, 007d, 008d, 009d, 010d
+- button |  | delegateyourjob.ai 5.9% |  | 003d, 004d, 005d, 006d, 007d, 008d, 009d, 010d
+- button |  | Zetsu.AI 4.1% |  | 003d, 004d, 005d, 006d, 007d, 008d, 009d, 010d
+- button |  | Wageware 3.6% |  | 003d, 004d, 005d, 006d, 007d, 008d, 009d, 010d
+- button |  | Workmesh 3.5% |  | 003d, 004d, 005d, 006d, 007d, 008d, 009d, 010d
+- button |  | CW 3.3% |  | 003d, 004d, 005d, 006d, 007d, 008d, 009d, 010d
+- button |  | Synergent 3.2% |  | 003d, 004d, 005d, 006d, 007d, 008d, 009d, 010d
+- button |  | Foreguild 3.1% |  | 003d, 004d, 005d, 006d, 007d, 008d, 009d, 010d
+- button |  | Auspex 3.1% |  | 003d, 004d, 005d, 006d, 007d, 008d, 009d, 010d
+- button |  | WorkX 2.8% |  | 003d, 004d, 005d, 006d, 007d, 008d, 009d, 010d
+- button |  | Scroll legend left |  | 003d, 004d, 005d, 006d, 007d, 008d, 009d, 010d | DISABLED
+- button |  | Scroll legend right |  | 003d, 004d, 005d, 006d, 007d, 008d, 009d, 010d
+- a |  | Charting by TradingView | https://www.tradingview.com/?utm_medium=lwc-link&utm_campaig | 003d, 004d, 005d, 006d, 007d, 008d, 009d, 010d
+- button |  | CONNECT TO COMMENT |  | 003d, 004d, 005d, 006d, 007d, 008d, 009d, 010d
+- button |  | BUY |  | 003d, 004d, 005d, 006d, 007d, 008d, 009d, 010d
+- button |  | SELL |  | 003d, 004d, 005d, 006d, 007d, 008d, 009d, 010d
+- button |  | SYMBIONT |  | 003d, 004d, 005d, 006d, 007d, 008d, 009d, 010d
+- button |  | SDAI |  | 003d, 004d, 005d, 006d, 007d, 008d, 009d, 010d
+- input |  | 0.00 |  | 003d, 004d, 005d, 006d, 007d, 008d, 009d, 010d
+- button |  | +1 |  | 003d, 004d, 005d, 006d, 007d, 008d, 009d, 010d
+- button |  | +5 |  | 003d, 004d, 005d, 006d, 007d, 008d, 009d, 010d
+- button |  | +10 |  | 003d, 004d, 005d, 006d, 007d, 008d, 009d, 010d
+- button |  | +100 |  | 003d, 004d, 005d, 006d, 007d, 008d, 009d, 010d
+- button |  | ENTER AN AMOUNT |  | 003d, 004d, 005d, 006d, 007d, 008d, 009d, 010d | DISABLED
+- button |  | SHOW TOP OUTCOMES |  | 006d, 077m
+- div | alert | User rejected the request. |  | 018d, 089m
+- button |  | close |  | 018d, 089m
+- div | alert | Signing in... |  | 018d, 089m
+- input |  | Search options |  | 019d, 090m
+- button | option | SYMBIONT |  | 019d, 090m
+- button | option | AGENTARCHY |  | 019d, 090m
+- button | option | AGENTICJOBS |  | 019d, 090m
+- button | option | AGENTICGIGS |  | 019d, 090m
+- button | option | DELEGATEYOURJOB.AI |  | 019d, 090m
+- button | option | DELEGATOBS.AI |  | 019d, 090m
+- button | option | TASKPAYAI |  | 019d, 090m
+- button | option | WORKHERE AGENT |  | 019d, 090m
+- button | option | JOBHERE AGENT |  | 019d, 090m
+- button | option | VANTAGE |  | 019d, 090m
+- button | option | PIECEWORK |  | 019d, 090m
+- button | option | SYNERGET |  | 019d, 090m
+- button | option | QUEST-BOARD |  | 019d, 090m
+- button | option | FOREGUILD |  | 019d, 090m
+- button | option | BOUNTYMESH |  | 019d, 090m
+- button | option | SYNERGENT |  | 019d, 090m
+- button | option | TASKMESH |  | 019d, 090m
+- button | option | CO-EXIST |  | 019d, 090m
+- button | option | SWARMBOUNTY |  | 019d, 090m
+- button | option | TASKARCHY |  | 019d, 090m
+- button | option | AUSPEX |  | 019d, 090m
+- button | option | 0XWORK |  | 019d, 090m
+- button | option | TASKASKAI |  | 019d, 090m
+- button | option | TASKORA |  | 019d, 090m
+- button | option | AGENTRA |  | 019d, 090m
+- button | option | WORKMESH |  | 019d, 090m
+- button | option | CRYPTOAGENTS |  | 019d, 090m
+- button | option | SEER KNOWS |  | 019d, 090m
+- button | option | BORGCORP |  | 019d, 090m
+- button | option | PREDFUPAY |  | 019d, 090m
+- button | option | HORIZANCE |  | 019d, 090m
+- button | option | WORKLUME |  | 019d, 090m
+- button | option | TASKWEAVE |  | 019d, 090m
+- button | option | TASK-GPT |  | 019d, 090m
+- button | option | AGENTLIER |  | 019d, 090m
+- button | option | GIGARCHY |  | 019d, 090m
+- button | option | SEERVANT |  | 019d, 090m
+- button | option | AIGENSEER |  | 019d, 090m
+- button | option | TASKORAMA |  | 019d, 090m
+- button | option | ZETSU.AI |  | 019d, 090m
+- button | option | PRAXIS |  | 019d, 090m
+- button | option | FORESEER |  | 019d, 090m
+- button | option | AGENTBOUNTY |  | 019d, 090m
+- button | option | TASKSEER |  | 019d, 090m
+- button | option | FUTASK |  | 019d, 090m
+- button | option | SEEK |  | 019d, 090m
+- button | option | LABORACLE |  | 019d, 090m
+- button | option | TASKNET |  | 019d, 090m
+- button | option | AETHERWORK |  | 019d, 090m
+- button | option | TASKIT |  | 019d, 090m
+- button | option | KORRA |  | 019d, 090m
+- button | option | MINTELLECT |  | 019d, 090m
+- button | option | AGENTVERSEER |  | 019d, 090m
+- button | option | HIVE |  | 019d, 090m
+- button | option | ERRAND |  | 019d, 090m
+- button | option | FLEET |  | 019d, 090m
+- button | option | DREXSEER |  | 019d, 090m
+- button | option | AGENTGEMINI |  | 019d, 090m
+- button | option | SEERAAI |  | 019d, 090m
+- button | option | SEERA |  | 019d, 090m
+- button | option | AGENTSEERX |  | 019d, 090m
+- button | option | AETHER |  | 019d, 090m
+- button | option | SEERAGENTFI |  | 019d, 090m
+- button | option | NEMESIS |  | 019d, 090m
+- button | option | ZETHRO |  | 019d, 090m
+- button | option | AGENTFUTARCHY |  | 019d, 090m
+- button | option | ORACLEBOARD |  | 019d, 090m
+- button | option | AIORA |  | 019d, 090m
+- button | option | AGENTSENT |  | 019d, 090m
+- button | option | PRONOA |  | 019d, 090m
+- button | option | PHRONEX |  | 019d, 090m
+- button | option | AEVUM |  | 019d, 090m
+- button | option | SYNTHLABOR |  | 019d, 090m
+- button | option | SKYNET |  | 019d, 090m
+- button | option | SEERCHY |  | 019d, 090m
+- button | option | SEERARCHY |  | 019d, 090m
+- button | option | AGORA |  | 019d, 090m
+- button | option | WORKLOOP |  | 019d, 090m
+- button | option | SEERMARKET |  | 019d, 090m
+- button | option | PAYAGENTS |  | 019d, 090m
+- button | option | AGENTMARKET |  | 019d, 090m
+- button | option | TASKFORGE |  | 019d, 090m
+- button | option | SEERGENT |  | 019d, 090m
+- button | option | GOVERMANCE |  | 019d, 090m
+- button | option | AEER |  | 019d, 090m
+- button | option | SEERTRA |  | 019d, 090m
+- button | option | BOUNTARA |  | 019d, 090m
+- button | option | GARCON |  | 019d, 090m
+- button | option | CONSIGLIERE |  | 019d, 090m
+- button | option | AGENTBAZAAR |  | 019d, 090m
+- button | option | KUYWORK |  | 019d, 090m
+- button | option | TASKCHAIN |  | 019d, 090m
+- button | option | VERSATILE AGENT |  | 019d, 090m
+- button | option | YUMARI |  | 019d, 090m
+- button | option | MARIUM |  | 019d, 090m
+- button | option | AETHEL |  | 019d, 090m
+- button | option | ETHERGIG |  | 019d, 090m
+- button | option | ZORVI |  | 019d, 090m
+- button | option | ZUNO |  | 019d, 090m
+- button | option | SEVIA |  | 019d, 090m
+- button | option | SEEGENCY |  | 019d, 090m
+- button | option | SEERGENCY |  | 019d, 090m
+- button | option | TASKWARE |  | 019d, 090m
+- button | option | MACHGIG |  | 019d, 090m
+- button | option | WORKWARE |  | 019d, 090m
+- button | option | COGTRACT |  | 019d, 090m
+- button | option | JOBENCY |  | 019d, 090m
+- button | option | AGENTSFORCE |  | 019d, 090m
+- button | option | LUNO |  | 019d, 090m
+- button | option | TELEMETRY |  | 019d, 090m
+- button | option | VIORA |  | 019d, 090m
+- button | option | JASMINE |  | 019d, 090m
+- button | option | JUNA |  | 019d, 090m
+- button | option | SEERAGENT |  | 019d, 090m
+- button | option | QUIVORA |  | 019d, 090m
+- button | option | ORVYN |  | 019d, 090m
+- button | option | ZETA7 |  | 019d, 090m
+- button | option | LUM62 |  | 019d, 090m
+- button | option | ZEN40 |  | 019d, 090m
+- button | option | QX62 |  | 019d, 090m
+- button | option | ABC |  | 019d, 090m
+- button | option | VIOLA |  | 019d, 090m
+- button | option | AGAYABAB |  | 019d, 090m
+- button | option | AGENT 99 |  | 019d, 090m
+- button | option | 2PUTRI |  | 019d, 090m
+- button | option | FLUFFY |  | 019d, 090m
+- button | option | TAZZ |  | 019d, 090m
+- button | option | OURA |  | 019d, 090m
+- button | option | TASKFORGE AI |  | 019d, 090m
+- button | option | CLAYY |  | 019d, 090m
+- button | option | ALEXX |  | 019d, 090m
+- button | option | CW |  | 019d, 090m
+- button | option | KELRA |  | 019d, 090m
+- button | option | ARAN |  | 019d, 090m
+- button | option | MORENO |  | 019d, 090m
+- button | option | R7 |  | 019d, 090m
+- button | option | LJ |  | 019d, 090m
+- button | option | BOTBOARD |  | 019d, 090m
+- button | option | SEERNET |  | 019d, 090m
+- button | option | SYNAPSEGIGS |  | 019d, 090m
+- button | option | FUTURAWORK |  | 019d, 090m
+- button | option | AGORAI |  | 019d, 090m
+- button | option | SEERMESH |  | 019d, 090m
+- button | option | FUTARK |  | 019d, 090m
+- button | option | SYNTASK |  | 019d, 090m
+- button | option | GIGAI |  | 019d, 090m
+- button | option | PROMPTPAY |  | 019d, 090m
+- button | option | OPERATIVE |  | 019d, 090m
+- button | option | ACTORA |  | 019d, 090m
+- button | option | AGENZIA |  | 019d, 090m
+- button | option | SAI |  | 019d, 090m
+- button | option | ERGON |  | 019d, 090m
+- button | option | AIDRA |  | 019d, 090m
+- button | option | YESEER |  | 019d, 090m
+- button | option | SEERMETA.AI |  | 019d, 090m
+- button | option | XANAX |  | 019d, 090m
+- button | option | HA COLLECTIVE |  | 019d, 090m
+- button | option | SEER402 |  | 019d, 090m
+- button | option | APISEER.COM |  | 019d, 090m
+- button | option | CONEX |  | 019d, 090m
+- button | option | TRIOJAN |  | 019d, 090m
+- button | option | ODYSEER |  | 019d, 090m
+- button | option | SEERTASK |  | 019d, 090m
+- button | option | AGENTFORGE |  | 019d, 090m
+- button | option | WORKMINT |  | 019d, 090m
+- button | option | AI_LAND |  | 019d, 090m
+- button | option | AIZON |  | 019d, 090m
+- button | option | HUMAI |  | 019d, 090m
+- button | option | STACKYARD |  | 019d, 090m
+- button | option | QUANTSEER |  | 019d, 090m
+- button | option | BOTLANCER |  | 019d, 090m
+- button | option | SYNTHEX |  | 019d, 090m
+- button | option | VEKTARCHY |  | 019d, 090m
+- button | option | SYNTHWORK |  | 019d, 090m
+- button | option | AUTONOMA |  | 019d, 090m
+- button | option | STOCHAST |  | 019d, 090m
+- button | option | MONARD |  | 019d, 090m
+- button | option | BOUNTY |  | 019d, 090m
+- button | option | FUTAIRCHY |  | 019d, 090m
+- button | option | SATOIN |  | 019d, 090m
+- button | option | PREDICTASK |  | 019d, 090m
+- button | option | FUTURAGENT |  | 019d, 090m
+- button | option | AIDENS |  | 019d, 090m
+- button | option | NEXORA |  | 019d, 090m
+- button | option | WORKCHAIN |  | 019d, 090m
+- button | option | SPECULAI |  | 019d, 090m
+- button | option | TASKORACLE |  | 019d, 090m
+- button | option | TOPICKTEA |  | 019d, 090m
+- button | option | SEERPANTS |  | 019d, 090m
+- button | option | TASKMINT |  | 019d, 090m
+- button | option | GENZTASK |  | 019d, 090m
+- button | option | ZENWORK |  | 019d, 090m
+- button | option | WORKSEER |  | 019d, 090m
+- button | option | SERANA |  | 019d, 090m
+- button | option | VIBRAZ |  | 019d, 090m
+- button | option | AGENTWPRK |  | 019d, 090m
+- button | option | HOODSEER |  | 019d, 090m
+- button | option | AIPREDISEER |  | 019d, 090m
+- button | option | PREDIAISEER |  | 019d, 090m
+- button | option | TASKNEST |  | 019d, 090m
+- button | option | HANDSON |  | 019d, 090m
+- button | option | TASKPROTOCOL |  | 019d, 090m
+- button | option | BOUNTYAGENT |  | 019d, 090m
+- button | option | WORKORACLE |  | 019d, 090m
+- button | option | WORKX |  | 019d, 090m
+- button | option | WORKSYNDICATE |  | 019d, 090m
+- button | option | PLAYVEDA |  | 019d, 090m
+- button | option | PROOFWORK |  | 019d, 090m
+- button | option | ARTSEER |  | 019d, 090m
+- button | option | ARTASK |  | 019d, 090m
+- button | option | LABOROS |  | 019d, 090m
+- button | option | WORKFORGE |  | 019d, 090m
+- button | option | MAJESTIC |  | 019d, 090m
+- button | option | INTERSECT |  | 019d, 090m
+- button | option | AETHERFORGE |  | 019d, 090m
+- button | option | PREDIWORK |  | 019d, 090m
+- button | option | CRYPTOLABOR |  | 019d, 090m
+- button | option | AGENTLOOM |  | 019d, 090m
+- button | option | GIGVERSE |  | 019d, 090m
+- button | option | PREDIGIG |  | 019d, 090m
+- button | option | FUTARCHAI |  | 019d, 090m
+- button | option | HIRELOOP |  | 019d, 090m
+- button | option | ERGORA |  | 019d, 090m
+- button | option | BIDLOOM |  | 019d, 090m
+- button | option | PRESYZE |  | 019d, 090m
+- button | option | AUGURY |  | 019d, 090m
+- button | option | EARNODE |  | 019d, 090m
+- button | option | AGENTGUILD |  | 019d, 090m
+- button | option | AGENTHUB |  | 019d, 090m
+- button | option | MERITMESH |  | 019d, 090m
+- button | option | AGENTMINT |  | 019d, 090m
+- button | option | WAGEWARE |  | 019d, 090m
+- button | option | TASKONOMY |  | 019d, 090m
+- button | option | AGENTFOUNDRY |  | 019d, 090m
+- button | option | NONE OF THE LISTED NAMES |  | 019d, 090m
+- button | option | SDAI |  | 020d, 091m
+- button | option | XDAI |  | 020d, 091m
+- button | option | WXDAI |  | 020d, 091m
+- button | option | OPPORTUNITY_CREDITS |  | 020d, 091m
+- input |  | 1 |  | 021d, 092m
+- button |  | GETTING QUOTE… |  | 021d, 022d, 023d, 024d, 092m, 093m, 094m, 095m | DISABLED
+- input |  | 5 |  | 022d, 093m
+- input |  | 10 |  | 023d, 094m
+- input |  | 100 |  | 024d, 095m
+- a |  | Open opportunity: Seer Rebrand Contest | /markets/100/0xe7850b0d928aa40ab8732bd323fa4f6ef3c24b8a | 026d, 027d, 028d, 097m
+- ul |  | Design submissions |  | 026d, 027d, 028d, 033d, 034d, 035d, 036d, 037d
+- a |  | Open Electric Foundation on this market | /markets/100/0xe7850b0d928aa40ab8732bd323fa4f6ef3c24b8a?outc | 026d, 027d, 028d, 097m
+- a |  | Open Convergent on this market | /markets/100/0xe7850b0d928aa40ab8732bd323fa4f6ef3c24b8a?outc | 026d, 027d, 028d, 097m
+- a |  | Open Constellation Oracle on this market | /markets/100/0xe7850b0d928aa40ab8732bd323fa4f6ef3c24b8a?outc | 026d, 027d, 028d, 097m
+- a |  | Open Prism on this market | /markets/100/0xe7850b0d928aa40ab8732bd323fa4f6ef3c24b8a?outc | 026d, 027d, 028d, 097m
+- a |  | Open Civic Signal on this market | /markets/100/0xe7850b0d928aa40ab8732bd323fa4f6ef3c24b8a?outc | 026d, 027d, 028d, 097m
+- a |  | Open Your only base layer for decision infrastructure. on this market | /markets/100/0xe7850b0d928aa40ab8732bd323fa4f6ef3c24b8a?outc | 026d, 027d, 028d, 097m
+- a |  | Open Geometric + Initial on this market | /markets/100/0xe7850b0d928aa40ab8732bd323fa4f6ef3c24b8a?outc | 026d, 027d, 028d, 097m
+- a |  | Open Signal Dark on this market | /markets/100/0xe7850b0d928aa40ab8732bd323fa4f6ef3c24b8a?outc | 026d, 027d, 028d, 097m
+- a |  | Open Datum on this market | /markets/100/0xe7850b0d928aa40ab8732bd323fa4f6ef3c24b8a?outc | 026d, 027d, 028d, 097m
+- a |  | Open Resolution Mark on this market | /markets/100/0xe7850b0d928aa40ab8732bd323fa4f6ef3c24b8a?outc | 026d, 027d, 028d, 097m
+- a |  | Open Crow Minimal on this market | /markets/100/0xe7850b0d928aa40ab8732bd323fa4f6ef3c24b8a?outc | 026d, 027d, 028d, 097m
+- a |  | Open Converge on this market | /markets/100/0xe7850b0d928aa40ab8732bd323fa4f6ef3c24b8a?outc | 026d, 027d, 028d, 097m
+- a |  | Open Sleek for Seer on this market | /markets/100/0xe7850b0d928aa40ab8732bd323fa4f6ef3c24b8a?outc | 026d, 027d, 028d, 097m
+- a |  | Open Signal Convergence on this market | /markets/100/0xe7850b0d928aa40ab8732bd323fa4f6ef3c24b8a?outc | 026d, 027d, 028d, 097m
+- a |  | Open Purple Horizon on this market | /markets/100/0xe7850b0d928aa40ab8732bd323fa4f6ef3c24b8a?outc | 026d, 027d, 028d, 097m
+- a |  | Open The Composable Identity on this market | /markets/100/0xe7850b0d928aa40ab8732bd323fa4f6ef3c24b8a?outc | 026d, 027d, 028d, 097m
+- button |  | Next designs |  | 026d, 027d, 028d, 033d, 034d, 035d, 036d, 037d
+- a |  | LEADING ODDS — OPEN OPPORTUNITY → | /markets/100/0xe7850b0d928aa40ab8732bd323fa4f6ef3c24b8a | 026d, 027d, 028d, 097m
+- a |  | Open opportunity: Seer Merch for Devcon Mumbai | /markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683 | 026d, 027d, 028d, 097m
+- a |  | Open Purple Seer Apparel Set :Tshirt+hat on this market | /markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683?outc | 026d, 027d, 028d, 097m
+- a |  | Open Proof of Belonging Tshirt on this market | /markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683?outc | 026d, 027d, 028d, 097m
+- a |  | Open See What The Market Believes T shirt on this market | /markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683?outc | 026d, 027d, 028d, 097m
+- a |  | Open Seer Apparel Purple Set : Hoodie+hat on this market | /markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683?outc | 026d, 027d, 028d, 097m
+- a |  | Open Seer Polo : Predict Everything. See Tomorrow. on this market | /markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683?outc | 026d, 027d, 028d, 097m
+- a |  | Open Seer Falcon Hoodie on this market | /markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683?outc | 026d, 027d, 028d, 097m
+- a |  | Open Seer prediction chart Tshirt on this market | /markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683?outc | 026d, 027d, 028d, 097m
+- a |  | Open The Future, In Sight Seer Tshirt on this market | /markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683?outc | 026d, 027d, 028d, 097m
+- a |  | Open Minimal purple-on-lavender eye graphic Seer Merch set: tote bag +tshirt on  | /markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683?outc | 026d, 027d, 028d, 097m
+- a |  | Open White and Cyan Seer mersh set: Hoodie +tshirt on this market | /markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683?outc | 026d, 027d, 028d, 097m
+- a |  | Open Minimalist Seer Mersh set: Hoodies+ tote bag+ cap on this market | /markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683?outc | 026d, 027d, 028d, 097m
+- a |  | Open Minimalist purple Seer hoodie on this market | /markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683?outc | 026d, 027d, 028d, 097m
+- a |  | Open Seer prediction Journal on this market | /markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683?outc | 026d, 027d, 028d, 097m
+- a |  | Open Minimalist black Seer hoodie on this market | /markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683?outc | 026d, 027d, 028d, 097m
+- a |  | Open Seer Compass Shirt on this market | /markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683?outc | 026d, 027d, 028d, 097m
+- a |  | Open The Seer eye Oversized T shirt on this market | /markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683?outc | 026d, 027d, 028d, 097m
+- a |  | LEADING ODDS — OPEN OPPORTUNITY → | /markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683 | 026d, 027d, 028d, 097m
+- button |  | Previous designs |  | 028d, 038d, 039d, 040d, 041d
+- a |  | ← BACK TO ARCHIVE | /archive | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- a |  | 0xe785...4b8a | https://gnosisscan.io/address/0xe7850b0d928aa40ab8732bd323fa | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- a |  | View on Seer ↗ | https://app.seer.pm/markets/100/which-of-the-following-submi | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- button |  | Select outcome Electric Foundation |  | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- button |  | Select outcome Convergent |  | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- button |  | Select outcome Constellation Oracle |  | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- button |  | Select outcome Prism |  | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- button |  | Select outcome Civic Signal |  | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- button |  | Select outcome Your only base layer for decision infrastructure. |  | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- button |  | Select outcome Geometric + Initial |  | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- button |  | Select outcome Signal Dark |  | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- button |  | Select outcome Datum |  | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- button |  | Select outcome Resolution Mark |  | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- button |  | Select outcome Crow Minimal |  | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- button |  | Select outcome Converge |  | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- button |  | Select outcome Sleek for Seer |  | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- button |  | Select outcome Signal Convergence |  | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- button |  | Select outcome Purple Horizon |  | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- button |  | Select outcome The Composable Identity |  | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- a |  | VIEW PORTFOLIO ↗ | https://www.behance.net/gallery/252825507/Seer-Brand-Identit | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- button |  | VIEW IMAGES |  | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- a |  | VIEW PROPOSAL ↗ | https://cdn.kleros.link/ipfs/Qmdi2fr7X1B191LFQ4ZcW8Ap15HhwnP | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- button |  | VIEW PROPOSAL |  | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- a |  | VIEW PORTFOLIO ↗ | https://seercivicsignal.netlify.app | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- a |  | VIEW PORTFOLIO ↗ | https://www.behance.net/gallery/253579443/Seer-Rebrand | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- a |  | VIEW PORTFOLIO ↗ | https://www.behance.net/gallery/253587035/_ | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- a |  | VIEW PORTFOLIO ↗ | https://seer-app--chiomashura400.replit.app | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- a |  | VIEW PROPOSAL ↗ | https://cdn.kleros.link/ipfs/QmSKJnFmBgjDNYtLic9kRQr1AKbkF39 | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- a |  | VIEW PROPOSAL ↗ | https://cdn.kleros.link/ipfs/Qma4sKFCgaLR96wyWEX6k824GEXZpcJ | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- a |  | VIEW PORTFOLIO ↗ | https://www.behance.net/gallery/253606531/Seer-Brand-Identit | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- a |  | VIEW PROPOSAL ↗ | https://cdn.kleros.link/ipfs/QmeGsJCFLMSimSrfyPtc6n6vEsTui1d | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- button |  | Electric Foundation 80.1% |  | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- button |  | Signal Convergence 10.3% |  | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- button |  | Signal Dark 2.9% |  | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- button |  | Convergent 1% |  | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- button |  | Purple Horizon 0.9% |  | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- button |  | Civic Signal 0.8% |  | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- button |  | Geometric + Initial 0.8% |  | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- button |  | Datum 0.8% |  | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- button |  | Crow Minimal 0.8% |  | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- button |  | Sleek for Seer 0.8% |  | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- button |  | The Composable Identity 0.8% |  | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- button |  | Prism 0.7% |  | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- button |  | Your only base layer for decision infrastructure. 0.7% |  | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- button |  | Converge 0.7% |  | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- button |  | Constellation Oracle 0.6% |  | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- button |  | Resolution Mark 0.5% |  | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- a |  | View toji profile | https://app.seer.pm/portfolio/@toji | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- a |  | @toji | https://app.seer.pm/portfolio/@toji | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- button |  | Reply |  | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- button |  | Like, 1 likes |  | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- a |  | View physical-rich-salmon profile | https://app.seer.pm/portfolio/0xfc0721a0defd73d51b16cdf210f2 | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- a |  | physical-rich-salmon | https://app.seer.pm/portfolio/0xfc0721a0defd73d51b16cdf210f2 | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- button |  | Like, 0 likes |  | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- a |  | View ad714 profile | https://app.seer.pm/portfolio/@ad714 | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- a |  | @ad714 | https://app.seer.pm/portfolio/@ad714 | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- a |  | View sick-vast-boar profile | https://app.seer.pm/portfolio/0x81dab0955809a8c5bd79d5cfffad | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- a |  | sick-vast-boar | https://app.seer.pm/portfolio/0x81dab0955809a8c5bd79d5cfffad | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- a |  | https://x.com/off_Vercibal | https://x.com/off_Vercibal | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- a |  | View strategic-well-raven profile | https://app.seer.pm/portfolio/0xe28c5e8cc6c44ae364b13a250e75 | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- a |  | strategic-well-raven | https://app.seer.pm/portfolio/0xe28c5e8cc6c44ae364b13a250e75 | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- a |  | https://www.the-internet-knows.com | https://www.the-internet-knows.com | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- a |  | View ugliest-intelligent-tyrannosaurus profile | https://app.seer.pm/portfolio/0x67772c7581e5321ab19455424134 | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- a |  | ugliest-intelligent-tyrannosaurus | https://app.seer.pm/portfolio/0x67772c7581e5321ab19455424134 | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- button |  | Like, 4 likes |  | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- a |  | View comprehensive-relative-cicada profile | https://app.seer.pm/portfolio/0x4f87eaca688423f35783c5be2b4f | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- a |  | comprehensive-relative-cicada | https://app.seer.pm/portfolio/0x4f87eaca688423f35783c5be2b4f | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- a |  | View voluminous-worldwide-boar profile | https://app.seer.pm/portfolio/0x03cb2a2d800bf93a736c48ef2eed | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- a |  | voluminous-worldwide-boar | https://app.seer.pm/portfolio/0x03cb2a2d800bf93a736c48ef2eed | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- a |  | View satisfactory-liquid-sloth profile | https://app.seer.pm/portfolio/0x0ea26051f7657d59418da1861371 | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- a |  | satisfactory-liquid-sloth | https://app.seer.pm/portfolio/0x0ea26051f7657d59418da1861371 | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- a |  | View total-electronic-snake profile | https://app.seer.pm/portfolio/0xec5bd911f01cf1ea038700096edf | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- a |  | total-electronic-snake | https://app.seer.pm/portfolio/0xec5bd911f01cf1ea038700096edf | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- a |  | View mr-froggert profile | https://app.seer.pm/portfolio/@mr-froggert | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- a |  | @mr-froggert | https://app.seer.pm/portfolio/@mr-froggert | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- button |  | Multiple positions: Electric Foundation: <0.001 shares, Constellation Oracle: 30 |  | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- a |  | View primary-complicated-clam profile | https://app.seer.pm/portfolio/0xab07c88e2aab4bffe8bfae10043b | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- a |  | primary-complicated-clam | https://app.seer.pm/portfolio/0xab07c88e2aab4bffe8bfae10043b | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- a |  | View disgusted-visiting-dog profile | https://app.seer.pm/portfolio/0x86ebd082f5554d1137ed34101647 | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- a |  | disgusted-visiting-dog | https://app.seer.pm/portfolio/0x86ebd082f5554d1137ed34101647 | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- button |  | Like, 3 likes |  | 033d, 034d, 035d, 036d, 037d, 038d, 039d, 040d
+- a |  | JUMP TO TRADE | #trade | 074m, 075m, 076m, 077m, 078m, 079m, 080m, 081m
+- a |  | JUMP TO REDEEM | #trade | 098m, 099m, 100m, 101m, 102m, 103m, 104m, 105m
+- a |  | 0xc2b8...6683 | https://gnosisscan.io/address/0xc2b8e25675db9977ad14bca62b65 | 108m
+- a |  | View on Seer ↗ | https://app.seer.pm/markets/100/which-of-the-following-desig | 108m
+- button |  | Select outcome Purple Seer Apparel Set :Tshirt+hat |  | 108m
+- button |  | Select outcome Proof of Belonging Tshirt |  | 108m
+- button |  | Select outcome See What The Market Believes T shirt |  | 108m
+- button |  | Select outcome Seer Apparel Purple Set : Hoodie+hat |  | 108m
+- button |  | Select outcome Seer Polo : Predict Everything. See Tomorrow. |  | 108m
+- button |  | Select outcome Seer Falcon Hoodie |  | 108m
+- button |  | Select outcome Seer prediction chart Tshirt |  | 108m
+- button |  | Select outcome The Future, In Sight Seer Tshirt |  | 108m
+- button |  | Select outcome Minimal purple-on-lavender eye graphic Seer Merch set: tote bag + |  | 108m
+- button |  | Select outcome White and Cyan Seer mersh set: Hoodie +tshirt |  | 108m
+- button |  | Select outcome Minimalist Seer Mersh set: Hoodies+ tote bag+ cap |  | 108m
+- button |  | Select outcome Minimalist purple Seer hoodie |  | 108m
+- button |  | Select outcome Seer prediction Journal |  | 108m
+- button |  | Select outcome Minimalist black Seer hoodie |  | 108m
+- button |  | Select outcome Seer Compass Shirt |  | 108m
+- button |  | Select outcome The Seer eye Oversized T shirt |  | 108m
+- a |  | VIEW PROPOSAL ↗ | https://cdn.kleros.link/ipfs/QmVMuib7W35vxdJKeRB1KvNsLbgVK3q | 108m
+- a |  | VIEW PROPOSAL ↗ | https://cdn.kleros.link/ipfs/QmfUiHgDYQEbz4yJqoCEorkGwgkTFnZ | 108m
+- button |  | Seer prediction Journal 16.7% |  | 108m
+- button |  | Seer Compass Shirt 12.6% |  | 108m
+- button |  | Purple Seer Apparel Set :Tshirt+hat 10.5% |  | 108m
+- button |  | See What The Market Believes T shirt 10.4% |  | 108m
+- button |  | Seer prediction chart Tshirt 5.7% |  | 108m
+- button |  | The Future, In Sight Seer Tshirt 5.5% |  | 108m
+- button |  | Seer Polo : Predict Everything. See Tomorrow. 4.7% |  | 108m
+- button |  | Proof of Belonging Tshirt 3.6% |  | 108m
+- button |  | Seer Falcon Hoodie 3.5% |  | 108m
+- button |  | Minimalist black Seer hoodie 3.3% |  | 108m
+- button |  | Seer merch full set: Tshirt, stickers and bottles 3.2% |  | 108m
+- button |  | Minimalist purple Seer hoodie 2.8% |  | 108m
+- button |  | Minimal purple-on-lavender eye graphic Seer Merch set: tote bag +tshirt 2.7% |  | 108m
+- button |  | White and Cyan Seer mersh set: Hoodie +tshirt 2.7% |  | 108m
+- button |  | Minimalist Seer Mersh set: Hoodies+ tote bag+ cap 2.6% |  | 108m
+- button |  | Seer Apparel Purple Set : Hoodie+hat 2.4% |  | 108m
+- button |  | The Seer eye Oversized T shirt 2.3% |  | 108m

@@ -1,0 +1,1165 @@
+{
+ "title": "Foresight | Kleros",
+ "url": "https://risk.seer.pm/",
+ "scrollHeight": 2310,
+ "headings": [
+  "h1: Risk Pricing Predictions",
+  "h2: Market Estimate Risk",
+  "h2: Participate",
+  "h3: Set estimates for the protocols below",
+  "h3: NO TO ALL",
+  "h3: Predict all the estimates above",
+  "h3: Advanced"
+ ],
+ "interactive": [
+  {
+   "i": 0,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Foresight home",
+   "href": "/",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    24,
+    12,
+    124,
+    40
+   ]
+  },
+  {
+   "i": 1,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Kleros",
+   "href": "https://kleros.io/",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    176,
+    24,
+    100,
+    16
+   ]
+  },
+  {
+   "i": 2,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Guide",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1023,
+    13,
+    72,
+    38
+   ]
+  },
+  {
+   "i": 3,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Account details",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "false",
+   "box": [
+    1155,
+    16,
+    157,
+    32
+   ]
+  },
+  {
+   "i": 4,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Email notifications",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1320,
+    16,
+    32,
+    32
+   ]
+  },
+  {
+   "i": 5,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Help",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1352,
+    16,
+    32,
+    32
+   ]
+  },
+  {
+   "i": 6,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Light Mode",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1384,
+    16,
+    32,
+    32
+   ]
+  },
+  {
+   "i": 7,
+   "tag": "div",
+   "role": "button",
+   "type": "",
+   "text": "Default (PD)",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    523,
+    259,
+    107,
+    25
+   ]
+  },
+  {
+   "i": 8,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Q3 2026",
+   "href": "",
+   "disabled": false,
+   "selected": "page",
+   "expanded": "",
+   "box": [
+    132,
+    358,
+    59,
+    30
+   ]
+  },
+  {
+   "i": 9,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Q4 2026 Coming soon",
+   "href": "",
+   "disabled": true,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    215,
+    358,
+    157,
+    30
+   ]
+  },
+  {
+   "i": 10,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Risk bars",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    397,
+    417,
+    110,
+    40
+   ]
+  },
+  {
+   "i": 11,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Over time",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    513,
+    417,
+    112,
+    40
+   ]
+  },
+  {
+   "i": 12,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "All 33",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    132,
+    486,
+    74,
+    40
+   ]
+  },
+  {
+   "i": 13,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "ETH Based 7",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    214,
+    486,
+    138,
+    40
+   ]
+  },
+  {
+   "i": 14,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "USD Based 13",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    360,
+    486,
+    146,
+    40
+   ]
+  },
+  {
+   "i": 15,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "BTC Based 6",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    514,
+    486,
+    140,
+    40
+   ]
+  },
+  {
+   "i": 16,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Funds Based 7",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    661,
+    486,
+    153,
+    40
+   ]
+  },
+  {
+   "i": 17,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "weETH",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    132,
+    542,
+    57,
+    26
+   ]
+  },
+  {
+   "i": 18,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "stETH",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    197,
+    542,
+    52,
+    26
+   ]
+  },
+  {
+   "i": 19,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "ETH+",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    258,
+    542,
+    48,
+    26
+   ]
+  },
+  {
+   "i": 20,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "bsdETH",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    313,
+    542,
+    62,
+    26
+   ]
+  },
+  {
+   "i": 21,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "rETH",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    383,
+    542,
+    46,
+    26
+   ]
+  },
+  {
+   "i": 22,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "pufETH",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    437,
+    542,
+    60,
+    26
+   ]
+  },
+  {
+   "i": 23,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "avETH",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    505,
+    542,
+    54,
+    26
+   ]
+  },
+  {
+   "i": 24,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "PYUSD",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    567,
+    542,
+    58,
+    26
+   ]
+  },
+  {
+   "i": 25,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "RLUSD",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    634,
+    542,
+    57,
+    26
+   ]
+  },
+  {
+   "i": 26,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "USDC",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    699,
+    542,
+    51,
+    26
+   ]
+  },
+  {
+   "i": 27,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "USD1",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    758,
+    542,
+    47,
+    26
+   ]
+  },
+  {
+   "i": 28,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "USDS",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    813,
+    542,
+    50,
+    26
+   ]
+  },
+  {
+   "i": 29,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "USDT",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    872,
+    542,
+    49,
+    26
+   ]
+  },
+  {
+   "i": 30,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "RUSD",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    929,
+    542,
+    51,
+    26
+   ]
+  },
+  {
+   "i": 31,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "USDF",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    988,
+    542,
+    49,
+    26
+   ]
+  },
+  {
+   "i": 32,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "avUSD",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1045,
+    542,
+    56,
+    26
+   ]
+  },
+  {
+   "i": 33,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "NUSD",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1109,
+    542,
+    51,
+    26
+   ]
+  },
+  {
+   "i": 34,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "iUSD",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1168,
+    542,
+    46,
+    26
+   ]
+  },
+  {
+   "i": 35,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "satUSD+",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    1222,
+    542,
+    67,
+    26
+   ]
+  },
+  {
+   "i": 36,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "USDO",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    132,
+    576,
+    52,
+    26
+   ]
+  },
+  {
+   "i": 37,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "BTCB",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    192,
+    576,
+    50,
+    26
+   ]
+  },
+  {
+   "i": 38,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "solvBTC",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    249,
+    576,
+    65,
+    26
+   ]
+  },
+  {
+   "i": 39,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "tBTC",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    322,
+    576,
+    47,
+    26
+   ]
+  },
+  {
+   "i": 40,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "cbBTC",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    377,
+    576,
+    55,
+    26
+   ]
+  },
+  {
+   "i": 41,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "LBTC",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    440,
+    576,
+    49,
+    26
+   ]
+  },
+  {
+   "i": 42,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "UBTC",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    497,
+    576,
+    50,
+    26
+   ]
+  },
+  {
+   "i": 43,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "GACLO-1",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    555,
+    576,
+    69,
+    26
+   ]
+  },
+  {
+   "i": 44,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "BUIDL-I",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    631,
+    576,
+    61,
+    26
+   ]
+  },
+  {
+   "i": 45,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "JAAA",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    701,
+    576,
+    50,
+    26
+   ]
+  },
+  {
+   "i": 46,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "JTRSY",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    759,
+    576,
+    56,
+    26
+   ]
+  },
+  {
+   "i": 47,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "mF-ONE",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    822,
+    576,
+    66,
+    26
+   ]
+  },
+  {
+   "i": 48,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "STAC",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    896,
+    576,
+    48,
+    26
+   ]
+  },
+  {
+   "i": 49,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "U",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    952,
+    576,
+    26,
+    26
+   ]
+  },
+  {
+   "i": 50,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Clear all",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    987,
+    576,
+    65,
+    26
+   ]
+  },
+  {
+   "i": 51,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Upload CSV Predictions",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1061,
+    1438,
+    247,
+    45
+   ]
+  },
+  {
+   "i": 52,
+   "tag": "div",
+   "role": "button",
+   "type": "",
+   "text": "",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    276,
+    1527,
+    22,
+    14
+   ]
+  },
+  {
+   "i": 53,
+   "tag": "input",
+   "role": "",
+   "type": "range",
+   "text": "46.5196",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    671,
+    1557,
+    129,
+    16
+   ]
+  },
+  {
+   "i": 54,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Expand all",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1229,
+    1645,
+    79,
+    20
+   ]
+  },
+  {
+   "i": 55,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "ETH Based 7",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "false",
+   "box": [
+    132,
+    1681,
+    1176,
+    54
+   ]
+  },
+  {
+   "i": 56,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "USD Based 13",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "false",
+   "box": [
+    132,
+    1751,
+    1176,
+    54
+   ]
+  },
+  {
+   "i": 57,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "BTC Based 6",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "false",
+   "box": [
+    132,
+    1821,
+    1176,
+    54
+   ]
+  },
+  {
+   "i": 58,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Funds Based 7",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "false",
+   "box": [
+    132,
+    1891,
+    1176,
+    54
+   ]
+  },
+  {
+   "i": 59,
+   "tag": "div",
+   "role": "button",
+   "type": "",
+   "text": "Predict Selected",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1059,
+    1985,
+    217,
+    45
+   ]
+  },
+  {
+   "i": 60,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Predict Selected",
+   "href": "",
+   "disabled": true,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1059,
+    1985,
+    217,
+    45
+   ]
+  },
+  {
+   "i": 61,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Check it out",
+   "href": "https://app.seer.pm/markets/100/0xc84786B06390F11dED0DD362E27Fc881B540e6F2",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    707,
+    2128,
+    102,
+    16
+   ]
+  },
+  {
+   "i": 62,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Download CSV",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    620,
+    2154,
+    120,
+    20
+   ]
+  },
+  {
+   "i": 63,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Secured by Kleros",
+   "href": "https://kleros.io",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    24,
+    2266,
+    187,
+    24
+   ]
+  },
+  {
+   "i": 64,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Telegram",
+   "href": "https://t.me/+HrYn_tzqTGFlYTc0",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1317,
+    2262,
+    33,
+    32
+   ]
+  },
+  {
+   "i": 65,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "X",
+   "href": "https://x.com/kleros_io",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1350,
+    2262,
+    33,
+    32
+   ]
+  },
+  {
+   "i": 66,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "GitHub",
+   "href": "https://github.com/kleros/futarchy-ui",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1383,
+    2262,
+    33,
+    32
+   ]
+  }
+ ],
+ "charts": [],
+ "tables": [],
+ "fonts": [
+  "__geistSans_1e4310"
+ ],
+ "colors": {
+  "bg": "rgb(27, 0, 63)",
+  "text": "rgb(237, 237, 237)"
+ },
+ "dialogs": 0
+}

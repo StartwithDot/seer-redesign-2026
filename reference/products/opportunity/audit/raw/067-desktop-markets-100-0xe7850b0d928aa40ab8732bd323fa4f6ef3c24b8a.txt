@@ -1,0 +1,686 @@
+Seer
+BETA
+The pilot
+The protocol
+0x0000...dEaD
+←
+BACK TO ARCHIVE
+FINALIZED
+Seer Rebrand Contest
+
+This market is used to choose which visual identity Seer will select for its rebrand.
+
+Every submission is listed as an outcome of this multi-scalar market. Traders buy shares in the direction they believe the team will pick. Final selection stays with the team, with market prices as the community signal.
+
+The winning entry receives $3,000. The top 5 submissions by price also receive Seer credits.
+
+CONTRACT
+0xe785...4b8a
+View on Seer ↗
+Designs
+
+144 IMAGES
+
+Electric Foundation
+
+Electric Foundation
+
+Electric Foundation
+
+Electric Foundation
+
+Electric Foundation
+
+Electric Foundation
+
+Electric Foundation
+
+Electric Foundation
+
+Electric Foundation
+
+Electric Foundation
+
+Electric Foundation
+
+Electric Foundation
+
+Electric Foundation
+
+Electric Foundation
+
+Electric Foundation
+
+Electric Foundation
+
+Convergent
+
+Convergent
+
+Convergent
+
+Convergent
+
+Convergent
+
+Convergent
+
+Convergent
+
+Constellation Oracle
+
+Constellation Oracle
+
+Constellation Oracle
+
+Constellation Oracle
+
+Constellation Oracle
+
+Constellation Oracle
+
+Prism
+
+Prism
+
+Prism
+
+Prism
+
+Prism
+
+Civic Signal
+
+Civic Signal
+
+Civic Signal
+
+Civic Signal
+
+Civic Signal
+
+Civic Signal
+
+Your only base layer for decision infrastructure.
+
+Your only base layer for decision infrastructure.
+
+Your only base layer for decision infrastructure.
+
+Your only base layer for decision infrastructure.
+
+Your only base layer for decision infrastructure.
+
+Geometric + Initial
+
+Geometric + Initial
+
+Geometric + Initial
+
+Geometric + Initial
+
+Geometric + Initial
+
+Geometric + Initial
+
+Geometric + Initial
+
+Geometric + Initial
+
+Geometric + Initial
+
+Geometric + Initial
+
+Geometric + Initial
+
+Geometric + Initial
+
+Geometric + Initial
+
+Geometric + Initial
+
+Geometric + Initial
+
+Geometric + Initial
+
+Geometric + Initial
+
+Geometric + Initial
+
+Geometric + Initial
+
+Signal Dark
+
+Signal Dark
+
+Signal Dark
+
+Signal Dark
+
+Signal Dark
+
+Signal Dark
+
+Signal Dark
+
+Datum
+
+Datum
+
+Datum
+
+Datum
+
+Datum
+
+Datum
+
+Datum
+
+Datum
+
+Datum
+
+Datum
+
+Datum
+
+Datum
+
+Datum
+
+Datum
+
+Datum
+
+Resolution Mark
+
+Resolution Mark
+
+Resolution Mark
+
+Resolution Mark
+
+Resolution Mark
+
+Resolution Mark
+
+Resolution Mark
+
+Resolution Mark
+
+Resolution Mark
+
+Resolution Mark
+
+Crow Minimal
+
+Converge
+
+Converge
+
+Converge
+
+Converge
+
+Sleek for Seer
+
+Sleek for Seer
+
+Sleek for Seer
+
+Sleek for Seer
+
+Sleek for Seer
+
+Sleek for Seer
+
+Sleek for Seer
+
+Sleek for Seer
+
+Sleek for Seer
+
+Sleek for Seer
+
+Signal Convergence
+
+Signal Convergence
+
+Signal Convergence
+
+Signal Convergence
+
+Signal Convergence
+
+Signal Convergence
+
+Signal Convergence
+
+Signal Convergence
+
+Signal Convergence
+
+Purple Horizon
+
+Purple Horizon
+
+Purple Horizon
+
+Purple Horizon
+
+Purple Horizon
+
+Purple Horizon
+
+Purple Horizon
+
+Purple Horizon
+
+Purple Horizon
+
+Purple Horizon
+
+The Composable Identity
+
+The Composable Identity
+
+The Composable Identity
+
+The Composable Identity
+
+The Composable Identity
+
+The Composable Identity
+
+The Composable Identity
+
+The Composable Identity
+
+The Composable Identity
+
+The Composable Identity
+
+The Composable Identity
+
+The Composable Identity
+
+The Composable Identity
+
+The Composable Identity
+
+Outcomes
+VOLUME
+$7,197
+LIQUIDITY
+$1,111
+01
+Electric Foundation
+VIEW PORTFOLIO ↗
+VIEW IMAGES
+
+POSITION: 0.00
+
+80.1%+
+
+$0.000
+
+02
+Convergent
+VIEW PROPOSAL ↗
+VIEW IMAGES
+
+POSITION: 0.00
+
+1%+
+
+$0.000
+
+03
+Constellation Oracle
+VIEW PROPOSAL
+
+POSITION: 0.00
+
+0.6%+
+
+$0.000
+
+04
+Prism
+VIEW PROPOSAL
+
+POSITION: 0.00
+
+0.7%+
+
+$0.000
+
+05
+Civic Signal
+VIEW PORTFOLIO ↗
+VIEW IMAGES
+
+POSITION: 0.00
+
+0.8%+
+
+$0.000
+
+06
+Your only base layer for decision infrastructure.
+VIEW PORTFOLIO ↗
+VIEW IMAGES
+
+POSITION: 0.00
+
+0.7%+
+
+$0.000
+
+07
+Geometric + Initial
+VIEW PORTFOLIO ↗
+VIEW IMAGES
+
+POSITION: 0.00
+
+0.8%+
+
+$0.000
+
+08
+Signal Dark
+VIEW PORTFOLIO ↗
+VIEW IMAGES
+
+POSITION: 0.00
+
+2.9%+
+
+$0.000
+
+09
+Datum
+VIEW PROPOSAL
+
+POSITION: 0.00
+
+0.8%+
+
+$0.000
+
+10
+Resolution Mark
+TRADING
+VIEW PROPOSAL
+
+POSITION: 0.00
+
+0.5%+
+
+$0.000
+
+11
+Crow Minimal
+VIEW PROPOSAL ↗
+VIEW IMAGES
+
+POSITION: 0.00
+
+0.8%+
+
+$0.000
+
+12
+Converge
+VIEW PROPOSAL ↗
+VIEW IMAGES
+
+POSITION: 0.00
+
+0.7%+
+
+$0.000
+
+13
+Sleek for Seer
+VIEW PORTFOLIO ↗
+VIEW IMAGES
+
+POSITION: 0.00
+
+0.8%+
+
+$0.000
+
+14
+Signal Convergence
+VIEW PROPOSAL
+
+POSITION: 0.00
+
+10.3%+
+
+$0.000
+
+15
+Purple Horizon
+VIEW PROPOSAL
+
+POSITION: 0.00
+
+0.9%+
+
+$0.000
+
+16
+The Composable Identity
+VIEW PROPOSAL ↗
+VIEW IMAGES
+
+POSITION: 0.00
+
+0.8%+
+
+$0.000
+
+17
+Invalid
+
+POSITION: 653.70
+
+0%
+
+$0.000
+
+PRICE HISTORY
+Electric Foundation
+80.1%
+Signal Convergence
+10.3%
+Signal Dark
+2.9%
+Convergent
+1%
+Purple Horizon
+0.9%
+Civic Signal
+0.8%
+Geometric + Initial
+0.8%
+Datum
+0.8%
+Crow Minimal
+0.8%
+Sleek for Seer
+0.8%
+The Composable Identity
+0.8%
+Prism
+0.7%
+Your only base layer for decision infrastructure.
+0.7%
+Converge
+0.7%
+Constellation Oracle
+0.6%
+Resolution Mark
+0.5%
+	
+	
+
+	
+	
+DISCUSSION
+
+Connect your wallet to share your take
+
+CONNECT TO COMMENT
+@toji
+last month
+Team took inspo again from Signal Dark on addresses claiming a username which can appear in comments or trading activity.
+W Team ❤️
+Reply
+Like
+1
+physical-rich-salmon
+last month
+Where's the username claim page on Signal Dark?
+Reply
+Like
+@ad714
+·
+Convergent 106.08
+last month
+Convergent looks sleeek
+Reply
+Like
+sick-vast-boar
+last month
+Signal Convergence either took his design from this profile that grok provided or he is the owner of the account
+Reply
+Like
+1
+sick-vast-boar
+last month
+https://x.com/off_Vercibal
+Reply
+Like
+strategic-well-raven
+last month
+Signal Dark is kinda copied 
+https://www.the-internet-knows.com
+Reply
+Like
+ugliest-intelligent-tyrannosaurus
+·
+Civic Signal 30.72
+last month
+Civic Signal really has the potential to win, he provided a real mock website for the team
+Reply
+Like
+4
+comprehensive-relative-cicada
+·
+Signal Dark <0.001
+last month
+Signal Dark has the motive to win fr's
+Reply
+Like
+1
+voluminous-worldwide-boar
+·
+Convergent 578.06
+last month
+most of the logos in privew box appears cropped
+Reply
+Like
+1
+satisfactory-liquid-sloth
+·
+Constellation Oracle <0.001
+2 months ago
+Starts are aligned
+Reply
+Like
+voluminous-worldwide-boar
+·
+Convergent 578.06
+2 months ago
+electric foundation seems similar toMyraid markets
+Reply
+Like
+1
+ugliest-intelligent-tyrannosaurus
+·
+Civic Signal 30.72
+last month
+Looks like a copy
+Reply
+Like
+total-electronic-snake
+2 months ago
+I see the team already taken the "Comment" inspo from the 'Signal Dark's submission. 
+W inspiration ✨
+Reply
+Like
+4
+@mr-froggert
+·
+Multiple Positions
+2 months ago
+Comments have existed on Seer for a very long time now, this is not new.
+Reply
+Like
+primary-complicated-clam
+2 months ago
+Perhaps both were created using AI... 👀
+Reply
+Like
+1
+total-electronic-snake
+2 months ago
+I believe this is a compliment to both the submission and the team
+Reply
+Like
+1
+disgusted-visiting-dog
+2 months ago
+Converge didn't really give anything to work with, just plain designs
+Reply
+Like
+3
+@mr-froggert
+·
+Multiple Positions
+3 months ago
+Note that the logo given by Electric Foundation is a near copy of the logo used by Myriad Markets (another prediction market)
+Reply
+Like
+3
+disgusted-visiting-dog
+2 months ago
+Yeah, just checked
+Reply
+Like
+1
+physical-rich-salmon
+3 months ago
+good job!
+Reply
+Like
+Market finalized
+
+Trading is closed. Winning shares can be redeemed for sDAI.
+
+WINNER
+Electric Foundation
+1.00 sDAI / share
+YOUR WINNINGS
+
+Nothing to redeem
+
+This wallet holds no winning shares in this market.
+
+Opportunity Markets on Seer.

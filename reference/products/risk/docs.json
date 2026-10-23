@@ -1,0 +1,167 @@
+[
+ {
+  "fact": "The product is presented as Foresight within Kleros Help.",
+  "quote": "Foresight | Kleros Help",
+  "url": "https://foresight.kleros.io"
+ },
+ {
+  "fact": "The Foresight brand line is 'See Further. Decide Smarter.'",
+  "quote": "See Further. Decide Smarter.",
+  "url": "https://foresight.kleros.io"
+ },
+ {
+  "fact": "The UI includes an 'EXPLORE AVAILABLE PREDICTIONS' section.",
+  "quote": "EXPLORE AVAILABLE PREDICTIONS",
+  "url": "https://foresight.kleros.io"
+ },
+ {
+  "fact": "Prediction titles can include event names and aspects, such as 'Live DevCon Side Event - Satisfaction'.",
+  "quote": "Live DevCon Side Event - Satisfaction",
+  "url": "https://foresight.kleros.io"
+ },
+ {
+  "fact": "Prediction titles can include event names and aspects, such as 'Live DevCon Side Event - Attendance'.",
+  "quote": "Live DevCon Side Event - Attendance",
+  "url": "https://foresight.kleros.io"
+ },
+ {
+  "fact": "Prediction questions can be conditional and ask for a 0-10 rating.",
+  "quote": "If held, what will the attendees\u2019 mean post-event rating be on a 0-10 scale?",
+  "url": "https://foresight.kleros.io"
+ },
+ {
+  "fact": "Prediction questions can be conditional and ask for a unique attendee count.",
+  "quote": "If held, how many unique non-staff attendees will enter?",
+  "url": "https://foresight.kleros.io"
+ },
+ {
+  "fact": "Prediction questions can be conditional and ask for a percentile score.",
+  "quote": "If watched, what percentile score would Cl\u00e9ment give to the movie?",
+  "url": "https://foresight.kleros.io"
+ },
+ {
+  "fact": "Foresight frames its purpose as predicting trends and informing decisions.",
+  "quote": "Predicting Trends. Informing Decisions. Anticipate Change. Act Early.",
+  "url": "https://foresight.kleros.io"
+ },
+ {
+  "fact": "The product is branded as Foresight | Kleros and includes Guide, Connect, Risk Pricing, and Predictions in its interface.",
+  "quote": "Foresight | Kleros Guide Connect Risk Pricing Predictions",
+  "url": "https://risk.seer.pm"
+ },
+ {
+  "fact": "It asks users to predict the yearly Probability of Default for DeFi assets during Q3 2026.",
+  "quote": "What is the yearly Probability of Default (PD) for the following DeFi assets during Q3 2026?",
+  "url": "https://risk.seer.pm"
+ },
+ {
+  "fact": "It asks users to estimate the risk level of listed protocols.",
+  "quote": "Estimate the risk level of the following protocols.",
+  "url": "https://risk.seer.pm"
+ },
+ {
+  "fact": "The trading period runs until Wednesday, 30 September 2026 at 23:59 UTC.",
+  "quote": "Trading Period: Until Wednesday, 30 September 2026 at 23:59 UTC",
+  "url": "https://risk.seer.pm"
+ },
+ {
+  "fact": "Q3 2026 is presented alongside Q4 2026, which is marked coming soon.",
+  "quote": "Q3 2026 Q4 2026 Coming soon",
+  "url": "https://risk.seer.pm"
+ },
+ {
+  "fact": "Users set estimates for the protocols displayed below.",
+  "quote": "Set estimates for the protocols below",
+  "url": "https://risk.seer.pm"
+ },
+ {
+  "fact": "Users can choose how many protocols they want to predict on.",
+  "quote": "You can choose how many protocols you want to predict.",
+  "url": "https://risk.seer.pm"
+ },
+ {
+  "fact": "The same capital can be used to predict on all protocols at once.",
+  "quote": "Note that the same capital can be used to predict on all protocols at once.",
+  "url": "https://risk.seer.pm"
+ },
+ {
+  "fact": "The interface includes CSV upload for predictions.",
+  "quote": "Upload CSV Predictions",
+  "url": "https://risk.seer.pm"
+ },
+ {
+  "fact": "There is an action to predict all entered estimates above.",
+  "quote": "Predict all the estimates above",
+  "url": "https://risk.seer.pm"
+ },
+ {
+  "fact": "The interface provides Connect To Predict and Advanced actions.",
+  "quote": "Connect To Predict Advanced",
+  "url": "https://risk.seer.pm"
+ },
+ {
+  "fact": "Users can check opportunities to LP or trade specific outcome tokens in Seer.",
+  "quote": "Check the opportunities if you want to LP or Trade specific outcome tokens in Seer.",
+  "url": "https://risk.seer.pm"
+ },
+ {
+  "fact": "Users can download the latest data, updated in the last 24 hours, in CSV format.",
+  "quote": "Download the latest data (updated in the last 24 hours) in CSV format.",
+  "url": "https://risk.seer.pm"
+ },
+ {
+  "fact": "Seer is a prediction market platform built on Reality.eth and the Conditional Tokens Framework.",
+  "quote": "Seer is a prediction market platform built on Reality.eth and the Conditional Tokens Framework.",
+  "url": "https://docs.seer.pm/llms.txt"
+ },
+ {
+  "fact": "Collateral is deposited per network and asset, including DAI and sDAI on Ethereum and xDAI or wxDAI/sDAI on Gnosis.",
+  "quote": "Deposit wxDAI or sDAI",
+  "url": "https://docs.seer.pm/llms.txt"
+ },
+ {
+  "fact": "Outcome tokens can be minted, merged, and redeemed as part of the position lifecycle.",
+  "quote": "Mint, merge, redeem outcome tokens",
+  "url": "https://docs.seer.pm/llms.txt"
+ },
+ {
+  "fact": "Trading is a distinct app flow for buying and selling outcome tokens.",
+  "quote": "Buy, sell outcome tokens",
+  "url": "https://docs.seer.pm/llms.txt"
+ },
+ {
+  "fact": "Liquidity provision is a first-class app function separate from trading.",
+  "quote": "Provide Liquidity",
+  "url": "https://docs.seer.pm/llms.txt"
+ },
+ {
+  "fact": "Seer supports specialized market types beyond standard markets, including conditional and futarchy markets.",
+  "quote": "Conditional Markets",
+  "url": "https://docs.seer.pm/llms.txt"
+ },
+ {
+  "fact": "The app includes a leaderboard and Trader Score for user performance tracking.",
+  "quote": "Leaderboard and Trader Score",
+  "url": "https://docs.seer.pm/llms.txt"
+ },
+ {
+  "fact": "The whitepaper attributes prior prediction market failures to causes including lack of liquidity and regulatory attacks.",
+  "quote": "Lack of Liquidity",
+  "url": "https://docs.seer.pm/llms.txt"
+ },
+ {
+  "fact": "Seer's proposed practical implementation combines an AMM with auctions.",
+  "quote": "Practical Implementation = AMM + Auctions",
+  "url": "https://docs.seer.pm/llms.txt"
+ },
+ {
+  "fact": "The Seer solution defines market roles and economics via prediction market actors, information seekers, token incentives, and safe liquidity provision.",
+  "quote": "Prediction Market Actors",
+  "url": "https://docs.seer.pm/llms.txt"
+ },
+ {
+  "fact": "Developer guides cover creating and resolving markets, split/merge/redeem, conditional and futarchy markets, trading outcome tokens, and multi-primary collateral profiles.",
+  "quote": "Collateral profiles (multi-primary)",
+  "url": "https://docs.seer.pm/llms.txt"
+ }
+]

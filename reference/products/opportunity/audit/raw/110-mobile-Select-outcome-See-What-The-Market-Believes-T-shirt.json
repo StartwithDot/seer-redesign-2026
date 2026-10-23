@@ -1,0 +1,1177 @@
+{
+ "title": "Seer · Opportunity Markets",
+ "url": "https://opportunity.seer.pm/markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683?outcome=2",
+ "scrollHeight": 5218,
+ "headings": [
+  "h1: Seer Merch for Devcon Mumbai",
+  "h2: Designs",
+  "h2: Outcomes",
+  "h3: Purple Seer Apparel Set :Tshirt+hat",
+  "h3: Proof of Belonging Tshirt",
+  "h3: See What The Market Believes T shirt",
+  "h3: Seer Apparel Purple Set : Hoodie+hat",
+  "h3: Seer Polo : Predict Everything. See Tomorrow.",
+  "h3: Seer Falcon Hoodie",
+  "h3: Seer merch full set: Tshirt, stickers and bottles",
+  "h3: Seer prediction chart Tshirt",
+  "h3: The Future, In Sight Seer Tshirt",
+  "h3: Minimal purple-on-lavender eye graphic Seer Merch set: tote bag +tshirt",
+  "h3: White and Cyan Seer mersh set: Hoodie +tshirt",
+  "h3: Minimalist Seer Mersh set: Hoodies+ tote bag+ cap",
+  "h3: Minimalist purple Seer hoodie",
+  "h3: Seer prediction Journal",
+  "h3: Minimalist black Seer hoodie",
+  "h3: Seer Compass Shirt",
+  "h3: The Seer eye Oversized T shirt",
+  "h3: Invalid",
+  "h2: PRICE HISTORY",
+  "h2: DISCUSSION",
+  "h2: Market finalized"
+ ],
+ "interactive": [
+  {
+   "i": 0,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Seer Opportunity Markets home",
+   "href": "/",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    24,
+    294,
+    133,
+    32
+   ]
+  },
+  {
+   "i": 1,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "0x0000...dEaD",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    249,
+    293,
+    117,
+    34
+   ]
+  },
+  {
+   "i": 2,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "← BACK TO ARCHIVE",
+   "href": "/archive",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    24,
+    116,
+    136,
+    16
+   ]
+  },
+  {
+   "i": 3,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "JUMP TO REDEEM",
+   "href": "#trade",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    228,
+    107,
+    138,
+    34
+   ]
+  },
+  {
+   "i": 4,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "0xc2b8...6683",
+   "href": "https://gnosisscan.io/address/0xc2b8e25675db9977ad14bca62b655e4aa6b36683",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    128,
+    667,
+    83,
+    17
+   ]
+  },
+  {
+   "i": 5,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "View on Seer ↗",
+   "href": "https://app.seer.pm/markets/100/which-of-the-following-designs-will-be-picked-for-seers-2026-devcon-mumbai-merch-2",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    231,
+    667,
+    95,
+    17
+   ]
+  },
+  {
+   "i": 6,
+   "tag": "ul",
+   "role": "",
+   "type": "",
+   "text": "Design submissions",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    24,
+    779,
+    342,
+    347
+   ]
+  },
+  {
+   "i": 7,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Purple Seer Apparel Set :Tshirt+hat",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    -576,
+    779,
+    288,
+    343
+   ]
+  },
+  {
+   "i": 8,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Proof of Belonging Tshirt",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    -276,
+    779,
+    288,
+    343
+   ]
+  },
+  {
+   "i": 9,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome See What The Market Believes T shirt",
+   "href": "",
+   "disabled": false,
+   "selected": "true",
+   "expanded": "",
+   "box": [
+    24,
+    779,
+    288,
+    343
+   ]
+  },
+  {
+   "i": 10,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Seer Apparel Purple Set : Hoodie+hat",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    324,
+    779,
+    288,
+    343
+   ]
+  },
+  {
+   "i": 11,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Seer Polo : Predict Everything. See Tomorrow.",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    624,
+    779,
+    288,
+    343
+   ]
+  },
+  {
+   "i": 12,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Seer Falcon Hoodie",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    924,
+    779,
+    288,
+    343
+   ]
+  },
+  {
+   "i": 13,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Seer prediction chart Tshirt",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    1224,
+    779,
+    288,
+    343
+   ]
+  },
+  {
+   "i": 14,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome The Future, In Sight Seer Tshirt",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    1524,
+    779,
+    288,
+    343
+   ]
+  },
+  {
+   "i": 15,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Minimal purple-on-lavender eye graphic Seer Merch set: tote bag +",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    1824,
+    779,
+    288,
+    343
+   ]
+  },
+  {
+   "i": 16,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome White and Cyan Seer mersh set: Hoodie +tshirt",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    2124,
+    779,
+    288,
+    343
+   ]
+  },
+  {
+   "i": 17,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Minimalist Seer Mersh set: Hoodies+ tote bag+ cap",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    2424,
+    779,
+    288,
+    343
+   ]
+  },
+  {
+   "i": 18,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Minimalist purple Seer hoodie",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    2724,
+    779,
+    288,
+    343
+   ]
+  },
+  {
+   "i": 19,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Seer prediction Journal",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    3024,
+    779,
+    288,
+    343
+   ]
+  },
+  {
+   "i": 20,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Seer prediction Journal",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    3324,
+    779,
+    288,
+    343
+   ]
+  },
+  {
+   "i": 21,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Seer prediction Journal",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    3624,
+    779,
+    288,
+    343
+   ]
+  },
+  {
+   "i": 22,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Minimalist black Seer hoodie",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    3924,
+    779,
+    288,
+    343
+   ]
+  },
+  {
+   "i": 23,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome Seer Compass Shirt",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    4224,
+    779,
+    288,
+    343
+   ]
+  },
+  {
+   "i": 24,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Select outcome The Seer eye Oversized T shirt",
+   "href": "",
+   "disabled": false,
+   "selected": "false",
+   "expanded": "",
+   "box": [
+    4524,
+    779,
+    288,
+    343
+   ]
+  },
+  {
+   "i": 25,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "VIEW PROPOSAL",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    78,
+    1268,
+    120,
+    16
+   ]
+  },
+  {
+   "i": 26,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "VIEW PROPOSAL",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    78,
+    1398,
+    120,
+    16
+   ]
+  },
+  {
+   "i": 27,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "VIEW PROPOSAL",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    78,
+    1548,
+    120,
+    16
+   ]
+  },
+  {
+   "i": 28,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "VIEW PROPOSAL",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    78,
+    1678,
+    120,
+    16
+   ]
+  },
+  {
+   "i": 29,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "VIEW PROPOSAL",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    78,
+    1831,
+    120,
+    16
+   ]
+  },
+  {
+   "i": 30,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "VIEW PROPOSAL",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    78,
+    1938,
+    120,
+    16
+   ]
+  },
+  {
+   "i": 31,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "VIEW PROPOSAL ↗",
+   "href": "https://cdn.kleros.link/ipfs/QmVMuib7W35vxdJKeRB1KvNsLbgVK3qC2PeeyFnnUbSTMR",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    78,
+    2091,
+    118,
+    16
+   ]
+  },
+  {
+   "i": 32,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "VIEW PROPOSAL",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    78,
+    2221,
+    120,
+    16
+   ]
+  },
+  {
+   "i": 33,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "VIEW PROPOSAL",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    78,
+    2351,
+    120,
+    16
+   ]
+  },
+  {
+   "i": 34,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "VIEW PROPOSAL",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    78,
+    2526,
+    120,
+    16
+   ]
+  },
+  {
+   "i": 35,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "VIEW PROPOSAL",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    78,
+    2678,
+    120,
+    16
+   ]
+  },
+  {
+   "i": 36,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "VIEW PROPOSAL",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    78,
+    2831,
+    120,
+    16
+   ]
+  },
+  {
+   "i": 37,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "VIEW PROPOSAL",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    78,
+    2961,
+    120,
+    16
+   ]
+  },
+  {
+   "i": 38,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "VIEW PROPOSAL ↗",
+   "href": "https://cdn.kleros.link/ipfs/QmfUiHgDYQEbz4yJqoCEorkGwgkTFnZ24qGdwapX2ZmSch",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    78,
+    3091,
+    118,
+    16
+   ]
+  },
+  {
+   "i": 39,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "VIEW IMAGES",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    78,
+    3111,
+    103,
+    16
+   ]
+  },
+  {
+   "i": 40,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "VIEW PROPOSAL",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    78,
+    3241,
+    120,
+    16
+   ]
+  },
+  {
+   "i": 41,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "VIEW PROPOSAL",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    78,
+    3348,
+    120,
+    16
+   ]
+  },
+  {
+   "i": 42,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "VIEW PROPOSAL",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    78,
+    3478,
+    120,
+    16
+   ]
+  },
+  {
+   "i": 43,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Seer prediction Journal 16.7%",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    49,
+    3723,
+    188,
+    24
+   ]
+  },
+  {
+   "i": 44,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Seer Compass Shirt 12.6%",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    245,
+    3723,
+    173,
+    24
+   ]
+  },
+  {
+   "i": 45,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Purple Seer Apparel Set :Tshirt+hat 10.5%",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    426,
+    3723,
+    253,
+    24
+   ]
+  },
+  {
+   "i": 46,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "See What The Market Believes T shirt 10.4%",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    687,
+    3723,
+    264,
+    24
+   ]
+  },
+  {
+   "i": 47,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Seer prediction chart Tshirt 5.7%",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    959,
+    3723,
+    207,
+    24
+   ]
+  },
+  {
+   "i": 48,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "The Future, In Sight Seer Tshirt 5.5%",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1174,
+    3723,
+    225,
+    24
+   ]
+  },
+  {
+   "i": 49,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Seer Polo : Predict Everything. See Tomorrow. 4.7%",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1407,
+    3723,
+    264,
+    24
+   ]
+  },
+  {
+   "i": 50,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Proof of Belonging Tshirt 3.6%",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1679,
+    3723,
+    190,
+    24
+   ]
+  },
+  {
+   "i": 51,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Seer Falcon Hoodie 3.5%",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1877,
+    3723,
+    165,
+    24
+   ]
+  },
+  {
+   "i": 52,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Minimalist black Seer hoodie 3.3%",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    2050,
+    3723,
+    213,
+    24
+   ]
+  },
+  {
+   "i": 53,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Seer merch full set: Tshirt, stickers and bottles 3.2%",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    2272,
+    3723,
+    264,
+    24
+   ]
+  },
+  {
+   "i": 54,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Minimalist purple Seer hoodie 2.8%",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    2544,
+    3723,
+    220,
+    24
+   ]
+  },
+  {
+   "i": 55,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Minimal purple-on-lavender eye graphic Seer Merch set: tote bag +tshirt 2.7%",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    2772,
+    3723,
+    264,
+    24
+   ]
+  },
+  {
+   "i": 56,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "White and Cyan Seer mersh set: Hoodie +tshirt 2.7%",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    3044,
+    3723,
+    264,
+    24
+   ]
+  },
+  {
+   "i": 57,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Minimalist Seer Mersh set: Hoodies+ tote bag+ cap 2.6%",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    3316,
+    3723,
+    264,
+    24
+   ]
+  },
+  {
+   "i": 58,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Seer Apparel Purple Set : Hoodie+hat 2.4%",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    3589,
+    3723,
+    260,
+    24
+   ]
+  },
+  {
+   "i": 59,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "The Seer eye Oversized T shirt 2.3%",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    3856,
+    3723,
+    225,
+    24
+   ]
+  },
+  {
+   "i": 60,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Scroll legend left",
+   "href": "",
+   "disabled": true,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    289,
+    3723,
+    24,
+    24
+   ]
+  },
+  {
+   "i": 61,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Scroll legend right",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    317,
+    3723,
+    24,
+    24
+   ]
+  },
+  {
+   "i": 62,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Charting by TradingView",
+   "href": "https://www.tradingview.com/?utm_medium=lwc-link&utm_campaign=lwc-chart&utm_source=opportunity.seer.pm/markets/100/0xc2b8e25675db9977ad14bca62b655e4aa6b36683",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    59,
+    3990,
+    35,
+    19
+   ]
+  },
+  {
+   "i": 63,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "CONNECT TO COMMENT",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    116,
+    4255,
+    188,
+    32
+   ]
+  },
+  {
+   "i": 64,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Seer",
+   "href": "https://seer.pm",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    24,
+    5099,
+    32,
+    32
+   ]
+  }
+ ],
+ "charts": [
+  {
+   "tag": "canvas",
+   "box": [
+    49,
+    3747,
+    238,
+    272
+   ],
+   "texts": [],
+   "paths": 0
+  },
+  {
+   "tag": "canvas",
+   "box": [
+    49,
+    3747,
+    238,
+    272
+   ],
+   "texts": [],
+   "paths": 0
+  }
+ ],
+ "tables": [
+  {
+   "rows": 2,
+   "head": []
+  }
+ ],
+ "fonts": [
+  "Urbanist",
+  "JetBrains Mono"
+ ],
+ "colors": {
+  "bg": "rgb(10, 8, 20)",
+  "text": "rgb(236, 232, 245)"
+ },
+ "dialogs": 0
+}

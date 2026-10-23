@@ -1,0 +1,3 @@
+URL: https://deep-pm.gitbook.io/seer-docs/sitemap-pages.xml
+
+https://deep-pm.gitbook.io/seer-docs 1 2026-04-16T11:36:03.006Z https://deep-pm.gitbook.io/seer-docs/getting-started 1 2026-04-16T11:38:14.312Z https://deep-pm.gitbook.io/seer-docs/funding-your-account 1 2026-04-16T11:44:05.293Z https://deep-pm.gitbook.io/seer-docs/trading-on-deep-seer 1 2026-04-16T11:47:17.731Z https://deep-pm.gitbook.io/seer-docs/trading-on-deep-seer/market-types 0.84 2026-04-16T11:47:17.706Z https://deep-pm.gitbook.io/seer-docs/trading-on-deep-seer/step-by-step-guide 0.84 2026-04-16T11:48:43.255Z https://deep-pm.gitbook.io/seer-docs/trading-on-deep-seer/example-l2-strategy 0.84 2026-04-16T11:50:19.104Z https://deep-pm.gitbook.io/seer-docs/advanced-features 1 2026-04-16T11:50:58.158Z

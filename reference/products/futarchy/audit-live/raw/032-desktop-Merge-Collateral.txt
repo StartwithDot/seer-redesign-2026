@@ -1,0 +1,102 @@
+Futarchy
+Gnosis
+👾
+0x00…dEaD
+What will the impact on PNK price be if KIP-90 is approved?
+TWAP Complete
+(TWAP impact -0.98%)
+FINAL TWAP WINDOW
+UPDATED 10:56:41 PM
+
+YES TWAP
+
+0.006730
+
+NO TWAP
+
+0.006796
+
+NO outcome is ahead on TWAP.
+
+Trading Pair
+PNK/sDAI
+Yes Price
+0.0067 sDAI
+No Price
+0.0068 sDAI
+Status
+Resolved
+Impact (spot)
+—
+	
+	
+
+	
+	
+Redeem Tokens
+WINNING OUTCOME: YES
+
+No redeemable tokens found
+
+You don't have any YES outcome tokens to redeem.
+
+Resolved: YES
+If Yes
+If No
+Buy
+Sell
+Amount (sDAI)
+Max
+Available
+-
+Outcomes
+More info
+If Yes
+151.47 PNK
+Receive
+If No
+1.00 sDAI
+Recover
+Insufficient balance
+Your view on KIP-90
+	If YES	If NO
+Bullish	BUY	SELL
+Bearish	SELL	BUY
+Balance
+sDAI
+0 sDAI
+mergeable
+YES 0 · NO 0
+Wallet:
+0 sDAI
+PNK
+0 PNK
+mergeable
+YES 0 · NO 0
+Wallet:
+0 PNK
+Split Collateral
+Merge Collateral
+Merge Collateral
+sDAI
+PNK
+Connected Wallet
+0x0000...dEaD
+Max
+sDAI Available
+0 sDAI
+BUY sDAI
+xDAI Balance
+24.689107 xDAI
+Max Approval
+
+Will request exact allowance for this transaction.
+
+Collateral Information
+
+Only deposit funds you intend to use for interactions within this proposal. Your collateral remains yours and can be retrieved at any time when not actively used in ongoing trades.
+
+Merge Collateral
+Futarchy
+Market-based evaluation of governance decisions and milestones
+Social

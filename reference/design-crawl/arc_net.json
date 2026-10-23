@@ -1,0 +1,55 @@
+{
+ "site": "arc.net",
+ "pageHeight": 6089,
+ "title": "A farewell to Arc",
+ "h1": "A farewell to Arc",
+ "h1Style": {
+  "fontSize": "78px",
+  "fontWeight": "600",
+  "letterSpacing": "-2.652px",
+  "lineHeight": "88.14px",
+  "color": "rgb(255, 255, 255)",
+  "family": "\"Exposure VAR\""
+ },
+ "bodyBg": "rgb(11, 11, 11)",
+ "bodyFont": "Marlin",
+ "bodySize": "16px",
+ "navLinks": [],
+ "ctas": [
+  "Read more"
+ ],
+ "heads": [
+  "We’ve decided to sunset Arc on December 22, 2026",
+  "Timeline",
+  "Moving to Dia is easy",
+  "Your Spaces are now Profiles",
+  "Keep your tabs in the Sidebar",
+  "Bring your Pinned Tabs and Favorites",
+  "Folders come along, too",
+  "Questions",
+  "When will I no longer be able to use Arc?",
+  "What is replacing Arc?",
+  "Can I import Arc data into Dia?",
+  "Can I export my tabs out of Arc?",
+  "What happens to my Arc data?",
+  "What about Arc Search on mobile?",
+  "I have a more specific question, where can I get help?",
+  "Why Dia?"
+ ],
+ "sections": 6,
+ "sticky": 0,
+ "sectionBgs": [
+  "rgb(11, 11, 11)",
+  "rgb(255, 255, 255)"
+ ],
+ "fonts": [
+  "Exposure VAR",
+  "ABC Oracle",
+  "ABC Favorit Mono",
+  "Arial"
+ ],
+ "libs": [],
+ "footerLinks": [
+  "Download Dia"
+ ]
+}

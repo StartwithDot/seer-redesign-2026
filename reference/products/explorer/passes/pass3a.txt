@@ -1,0 +1,24 @@
+You are building apps/explorer (Seer Explorer redesign). Read, in order:
+products/explorer/DIRECTION.md, products/explorer/design.md (this spec; follow it literally),
+docs/ui-quality-rules.md, docs/coding-rules.md. Copy proven pieces from apps/futarchy/src/components
+(HoverMenu, Tooltip, RollingNumber, Segmented, CommandPalette, GuidedTour, ThemeToggle, Avatar) and adapt
+styling; do not import across apps. Stack: React 19 + TS strict + plain CSS + tokens (@seer/ef) + motion +
+d3-scale/shape/array/time. No new deps. Components < 150 lines; pure math in src/math with formula comments.
+Use ONLY strings from design.md §8 allowed list or data labels/units. Real data only (src/data/*.json and
+src/data/fixtures/*.json). Do not edit other apps or packages/ef/tokens.css. Do not commit.
+You cannot run e2e (no ports). End with the tail of: npm run build -w apps/explorer && npx tsc --noEmit -p apps/explorer
+If e2e_last.txt exists at repo root, read it first and fix only the failures listed.
+
+Also read products/explorer/design.md sections referenced below. Do not run any dev server.
+
+Files: src/home/*, src/components/* (card, grid, drawer, quick-buy), src/home/home.css, src/home/MarketGrid.tsx.
+USER FEEDBACK ON THE REAL SCREENSHOT (binding, overrides design.md where they conflict; this pass is a REWORK of pass 2 visuals/behaviour):
+1. NO OVERLAPPING TEXT anywhere. Conditional line ('Conditional on ... being Yes') must have its own row inside the card; the card must never show a tooltip-like duplicate title over outcome rows (card 1 currently overlays the full question over 'Yashar/Likud'). Fix the cause, not the symptom.
+2. FULL QUESTION TEXT is always shown inside the cell (no ellipsis, no hover-to-read-full). Cards have a min-height, not a fixed height; the question wraps to as many lines as needed (max ~5 at 1440), avatar left.
+3. LAYOUT: replace the fixed-row CSS grid by MASONRY COLUMNS: N flex columns (5 at 1440, 6 at 1920, 2 at 390; markets assigned round-robin so order reads row-wise). Cards in a column stack with a gap.
+4. HOVER DRAWER IS IN-FLOW, NOT AN OVERLAY: on hover/focus/pin the card grows downward and the cards BELOW IT IN THE SAME COLUMN are pushed down with a smooth spring layout animation (motion `layout` on the card wrappers, layoutDependency on open state; ~220ms spring stiffness 420 damping 38; reduced motion = instant). The drawer must never cover the question, outcomes, percentages or Yes/No buttons; it only opens BELOW them. Neighbouring columns are untouched. Keep hover intent 120ms, leave 200ms, click pins, Esc closes, keyboard focus opens.
+5. FIGHT ANIMATION for odds: binary markets use a TUG-OF-WAR bar under the Yes/No buttons: two sides in outcome colours meeting at the current probability; on hover and whenever the odds change the boundary moves with a spring and the leading side 'shoves' the other (overshoot of 6px then settle, a 2-frame squash of the loser's end cap). For multi-outcome markets the ranked rows reorder with motion layout and the row that gains rank shoves the one it passes (translateX bump 4px + number roll). Use only `motion` (already installed) and CSS; no new dependencies. Honor prefers-reduced-motion (instant, no bump). Add a deterministic demo tick (test hook window.__explorerTest.tick(marketId, delta)) so e2e can verify rows reorder.
+6. QUICK-BUY WINDOW: keep the single custom amount input; ADD at its bottom a clear link/button 'Open trading page' (goes to #/markets/<chain>/<slug>?outcome=<i>&amount=<typed>) and an expand control '⤢ Full ticket' that goes to the same page. After Confirm in sample mode show the explicit 'Connect wallet to trade' state with the same link.
+7. Multi-scalar cards must not print '~0'; if not derivable show % only.
+8. Visual polish like a real shipped product: consistent 8px rhythm, card radius 16, tonal surfaces (no outlines except focus), outcome colours from the approved set, tick/verification marks with tooltips ('Verified market', etc.), volume text '$49.7K vol'.
+9. Do NOT change the data adapters except bugs. Update the e2e hooks only if needed. Acceptance: build+tsc pass; no text overlap at 1440 and 390 (add a quick script test that no two text boxes inside a card intersect).

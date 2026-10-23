@@ -1,0 +1,688 @@
+Note that this is a Beta version and can still be unstable
+Markets
+Leaderboard
+Create Market
+Policies
+App
+0x0000...dEaD
+
+24.69 xDAI
+
+/
+Market
+Pending execution
+How many seats in France’s National Assembly will [party bloc] win in the next French legislative election?
+Deadline:
+Hide questions
+Far Right (RN, UXD, REC, DSV, EXD, ...)
+|
+Answer: Answered too soon
+|
+Reopen question
+Right (LR, DVD, …)
+|
+Answer: Answered too soon
+|
+Reopen question
+Centre (ENS, REN, MDM, HOR, UDI, DVC, …)
+|
+Answer: Answered too soon
+|
+Reopen question
+Left (UG, LFI, SOC, COM, VEC, RDG, DVG, EXG, …)
+|
+Answer: Answered too soon
+|
+Reopen question
+Other (REG, ECO, DIV, …)
+|
+Answer: Answered too soon
+|
+Reopen question
+Multi Scalar
+Liquidity:
+6.45k
+Volume:
+1.32k
+P&L:
+0.00
+Verified
+1D
+1W
+1M
+All
+Custom
+Left (UG, LFI, SOC, COM, VEC, RDG, DVG, EXG, …)
+31.6%
+Centre (ENS, REN, MDM, HOR, UDI, DVC, …)
+29.1%
+Far Right (RN, UXD, REC, DSV, EXD, ...)
+24.9%
+Right (LR, DVD, …)
+7.6%
+Other (REG, ECO, DIV, …)
+6.6%
+	
+	
+
+	
+	
+Outcomes
+
+#1 Left (UG, LFI, SOC, COM, VEC, RDG, DVG, EXG, …)
+
+Add Liquidity
+Hide pool details
+New conditional market
+31.6%
+~ 182 seats
+Liquidity
+Chart
+
+Pool Id:
+
+0x56c3...d7d9
+
+Pool Balances:
+
+3.12k FRNALEFT / 636.89 sDAI
+
+SHARES
+TOTAL
+
+0.4584
+
+1.02
+3120.46
+
+0.4557
+
+1.02
+3119.44
+
+0.4530
+
+1.02
+3118.43
+
+0.4502
+
+1.03
+3117.40
+
+0.4476
+
+1.03
+3116.38
+
+0.4449
+
+1.03
+3115.35
+
+0.4422
+
+50.11
+3114.32
+
+0.4396
+
+50.26
+3064.21
+
+0.4369
+
+50.41
+3013.95
+
+0.4343
+
+50.56
+2963.53
+
+0.4317
+
+50.72
+2912.97
+
+0.4291
+
+50.87
+2862.26
+
+0.4266
+
+51.02
+2811.39
+
+0.4240
+
+51.17
+2760.37
+
+0.4215
+
+51.33
+2709.19
+
+0.4190
+
+51.48
+2657.87
+
+0.4165
+
+51.64
+2606.38
+
+0.4140
+
+51.79
+2554.75
+
+0.4115
+
+51.95
+2502.96
+
+0.4090
+
+52.10
+2451.01
+
+0.4066
+
+52.26
+2398.91
+
+0.4042
+
+52.42
+2346.65
+
+0.4017
+
+52.57
+2294.23
+
+0.3993
+
+52.73
+2241.66
+
+0.3969
+
+52.89
+2188.92
+
+0.3946
+
+53.05
+2136.03
+
+0.3922
+
+53.21
+2082.98
+
+0.3899
+
+53.37
+2029.77
+
+0.3875
+
+53.53
+1976.41
+
+0.3852
+
+53.69
+1922.88
+
+0.3829
+
+53.85
+1869.19
+
+0.3806
+
+54.01
+1815.33
+
+0.3783
+
+54.18
+1761.32
+
+0.3761
+
+54.34
+1707.15
+
+0.3738
+
+54.50
+1652.81
+
+0.3716
+
+54.67
+1598.31
+
+0.3694
+
+54.83
+1543.64
+
+0.3672
+
+54.99
+1488.81
+
+0.3650
+
+55.16
+1433.82
+
+0.3628
+
+55.32
+1378.66
+
+0.3606
+
+55.49
+1323.33
+
+0.3585
+
+55.66
+1267.84
+
+0.3563
+
+55.83
+1212.19
+
+0.3542
+
+55.99
+1156.36
+
+0.3521
+
+56.16
+1100.37
+
+0.3500
+
+56.33
+1044.21
+
+0.3479
+
+56.50
+987.88
+
+0.3458
+
+56.67
+931.38
+
+0.3437
+
+56.84
+874.71
+
+0.3417
+
+57.01
+817.87
+
+0.3396
+
+57.18
+760.86
+
+0.3376
+
+57.35
+703.68
+
+0.3356
+
+57.53
+646.33
+
+0.3336
+
+57.70
+588.80
+
+0.3316
+
+57.87
+531.10
+
+0.3296
+
+58.05
+473.23
+
+0.3276
+
+58.22
+415.19
+
+0.3256
+
+58.39
+356.97
+
+0.3237
+
+58.57
+298.57
+
+0.3218
+
+58.75
+240.00
+
+0.3198
+
+58.92
+181.26
+
+0.3179
+
+59.10
+122.33
+
+0.3160
+
+59.28
+63.24
+
+0.3159
+
+3.96
+3.96
+
+Last: 0.3159
+
+0.3141
+
+55.50
+55.50
+
+0.3123
+
+59.63
+115.13
+
+0.3104
+
+59.81
+174.94
+
+0.3085
+
+59.99
+234.94
+
+0.3067
+
+60.17
+295.11
+
+0.3048
+
+60.35
+355.46
+
+0.3030
+
+60.53
+416.00
+
+0.3012
+
+60.72
+476.71
+
+0.2994
+
+60.90
+537.61
+
+0.2976
+
+61.08
+598.70
+
+0.2958
+
+61.27
+659.96
+
+0.2941
+
+61.45
+721.41
+
+0.2923
+
+61.63
+783.04
+
+0.2906
+
+61.82
+844.86
+
+0.2888
+
+62.01
+906.87
+
+0.2871
+
+62.19
+969.06
+
+0.2854
+
+62.38
+1031.44
+
+0.2837
+
+62.57
+1094.01
+
+0.2820
+
+62.75
+1156.76
+
+0.2803
+
+62.94
+1219.70
+
+0.2786
+
+63.13
+1282.83
+
+0.2769
+
+63.32
+1346.15
+
+0.2753
+
+63.51
+1409.66
+
+0.2736
+
+63.70
+1473.37
+
+0.2720
+
+63.89
+1537.26
+
+0.2704
+
+64.09
+1601.35
+
+0.2688
+
+64.28
+1665.62
+
+0.2672
+
+64.47
+1730.09
+
+0.2656
+
+64.66
+1794.76
+
+0.2640
+
+64.86
+1859.62
+
+0.2624
+
+63.71
+1923.33
+
+0.2608
+
+63.90
+1987.23
+
+0.2593
+
+64.09
+2051.33
+
+0.2577
+
+64.29
+2115.61
+
+0.2562
+
+64.48
+2180.09
+
+0.2546
+
+64.67
+2244.77
+
+#2 Centre (ENS, REN, MDM, HOR, UDI, DVC, …)
+
+Add Liquidity
+View pool details
+New conditional market
+29.1%
+~ 168 seats
+
+#3 Far Right (RN, UXD, REC, DSV, EXD, ...)
+
+Add Liquidity
+View pool details
+New conditional market
+24.9%
+~ 144 seats
+
+#4 Right (LR, DVD, …)
+
+Add Liquidity
+View pool details
+New conditional market
+7.6%
+~ 44 seats
+
+#5 Other (REG, ECO, DIV, …)
+
+Add Liquidity
+View pool details
+New conditional market
+6.6%
+~ 38 seats
+
+#6 Invalid
+
+Add Liquidity
+View pool details
+New conditional market
+0%
+Left (UG, LFI, SOC, COM, VEC, RDG, DVG, EXG, …)
+Market
+
+You pay
+
+sDAI
+
+0 sDAI
+
+Max
+
+You will get
+
+Left (UG, LFI, SOC, COM, VEC, RDG, DVG, EXG, …)
+
+Avg price
+0 sDAI
+Calculate your potential return
+Parameters:
+
+Max slippage 1%
+
+Enter an amount
+
+More
+
+Mint
+Mint
+Merge
+Redeem
+Amount
+Max
+Balance:
+0 sDAI
+sDAI
+xDAI
+Mint
+Major Events
+1 UPCOMING
+
+OCT 1, 2029 · 00:00 UTC
+
+Reality.eth Resolution
+
+Expected resolution date
+
+Comments
+Related Conditional Markets
+Top Holders
+Activity
+
+Connect your wallet to share your take
+
+Connect to comment
+
+No takes yet. Share the first one.

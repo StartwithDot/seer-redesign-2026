@@ -1,0 +1,21 @@
+Note that this is a Beta version and can still be unstable
+Markets
+Leaderboard
+Create Market
+Policies
+App
+0x0000...dEaD
+
+24.69 xDAI
+
+Account
+Deposit
+Portfolio
+Market Collections
+Trade Collateral
+Use smart account
+Sign in to view and manage your market collections
+
+Default
+
+No markets in this collection.

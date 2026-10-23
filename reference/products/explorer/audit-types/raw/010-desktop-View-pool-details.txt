@@ -1,0 +1,257 @@
+Note that this is a Beta version and can still be unstable
+Markets
+Leaderboard
+Create Market
+Policies
+App
+0x0000...dEaD
+
+24.69 xDAI
+
+/
+Market
+Trading Open
+What will be the average Ethereum BASEFEE (in gwei) for the period 1–31 January 2027 (UTC), as calculated from Ethereum block data on Dune Analytics? [gwei]
+Resolution opening at February 1 2027, 08:50 UTC
+Market Estimate: 9.092 gwei
+Scalar
+Liquidity:
+827.30
+Volume:
+142.91
+P&L:
+0.00
+Verified
+1D
+1W
+1M
+All
+Custom
+Market Estimate
+9.1%
+	
+	
+
+	
+	
+Outcomes
+
+#1 DOWN [0.1,120]
+
+Add Liquidity
+Hide pool details
+New conditional market
+0.923
+
+Pool Id:
+
+0xbaac...a91a
+
+Pool Balances:
+
+332.76 DOWN / 317.57 sDAI
+
+SHARES
+TOTAL
+
+0.9881
+
+26.62
+333.03
+
+0.9822
+
+26.70
+306.42
+
+0.9763
+
+26.78
+279.72
+
+0.9704
+
+26.86
+252.94
+
+0.9646
+
+26.94
+226.08
+
+0.9589
+
+27.02
+199.14
+
+0.9531
+
+27.10
+172.11
+
+0.9474
+
+27.18
+145.01
+
+0.9418
+
+27.27
+117.83
+
+0.9361
+
+27.35
+90.56
+
+0.9305
+
+27.43
+63.21
+
+0.9250
+
+27.51
+35.78
+
+0.9233
+
+8.27
+8.27
+
+Last: 0.9233
+
+0.9194
+
+19.33
+19.33
+
+0.9139
+
+27.68
+47.00
+
+0.9085
+
+27.76
+74.76
+
+0.9030
+
+27.84
+102.61
+
+0.8976
+
+27.93
+130.54
+
+0.8923
+
+28.01
+158.55
+
+0.8869
+
+28.10
+186.65
+
+0.8816
+
+28.18
+214.83
+
+0.8763
+
+28.27
+243.09
+
+0.8711
+
+28.35
+271.44
+
+0.8659
+
+28.44
+299.88
+
+0.8607
+
+28.52
+328.40
+
+0.8556
+
+28.61
+357.01
+
+#2 UP [0.1,120]
+
+Add Liquidity
+View pool details
+New conditional market
+0.075
+
+#3 Invalid
+
+Add Liquidity
+View pool details
+New conditional market
+0
+DOWN
+Market
+
+You pay
+
+sDAI
+
+0 sDAI
+
+Max
+
+You will get
+
+DOWN
+
+Avg price
+0 sDAI
+Calculate your potential return
+Parameters:
+
+Max slippage 1%
+
+Enter an amount
+
+More
+
+Mint
+Mint
+Merge
+Redeem
+Amount
+Max
+Balance:
+0 sDAI
+sDAI
+xDAI
+Mint
+Major Events
+1 UPCOMING
+
+FEB 1, 2027 · 00:00 UTC
+
+Reality.eth Resolution
+
+Expected resolution date
+
+Comments
+Related Conditional Markets
+Top Holders
+Activity
+
+Connect your wallet to share your take
+
+Connect to comment
+
+No takes yet. Share the first one.

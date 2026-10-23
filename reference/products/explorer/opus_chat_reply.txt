@@ -1,0 +1,33 @@
+I wrote `concepts.md` (three concepts, a decision and the full build spec), but it isn't in the project yet. Writing to `products/explorer/concepts.md` needs your permission, so it's saved here instead: `/private/tmp/claude-502/-Users-leo-Documents-POIDH/f89eb667-e0e2-4dc4-8971-d82c6ccb9510/scratchpad/concepts.md`. Approve the write, or copy it over.
+
+**The three concepts**
+1. **The Ledger of Odds (chosen).** An Etherscan-style index with 28px rows. Each row's main figure is an odds strip: a 0–100% track with every outcome marked. It sits next to a **Σ** column showing the sum of the outcome prices and a 7-day drift column on a log-odds scale. Filters stay open in a left column, an inspector on the right reuses the kit's card patterns, and view tabs switch between Ledger, Map and Cards. The market page docks the chart beside the ticket. The signature interaction is dragging across the chart to see the outcomes re-rank at that point in time.
+2. **The Field.** Every market as a dot, placed by how certain the crowd is and how soon it resolves. Conditional markets hang from their parent on visible lines. It lost because you can't sort, search or keyboard through 2,947 dots. Its ideas survive as the parent/child marker and the Map tab.
+3. **The Query Desk.** You type a query like `state:reports-open liq>1k`, and the results come back as a table plus odds charts. It lost because newcomers arriving from a link won't type queries, and there's nothing to read in the first 5 seconds. Its idea survives as the URL-encoded filter summary.
+
+**What I found in the real data**
+- **Odds don't add up to 100.** The Knesset market sums to 100.3% and the Le Pen conditional market to 109.8%, because each outcome is priced by its own pool. The live app hides this; the design shows the sum instead of quietly rescaling.
+- **The parity map is cut off at row T-18** (the More accordion onward). I covered More/Mint/Merge/Redeem, the Comments, Related, Holders and Activity tabs, scalar Up/Down and mobile from the draft map. Those rows still need checking against screenshots.
+
+**Fixes to the live product's problems**
+- The chart axis is fixed at 0–100% for categorical markets and at the market's bounds for scalar ones. Zooming in shows a badge saying the axis is zoomed.
+- End labels sit in a separate right margin, so they no longer cover the axis numbers.
+- Trade output shows 4 decimals ("1.1868 Yes"), with a button that reveals the exact value.
+- Conditional markets show the parent question and outcome, the parent token as payment, and a split bar of parent × child odds.
+- Unverified markets get an amber banner plus a warning mark in the list and the ticket.
+- Every step the audit couldn't observe (signing, approval, steps 2+ of market creation, disputes, Portfolio and similar pages) opens an explicit "not observed" screen, so nothing is made up.
+
+**Assumptions to confirm with the product team before the build**
+- A-1: a non-zero `incentive` field means the market has rewards.
+- A-2: the sample data has no futarchy flag, so the Futarchy filter can only show "not determinable" offline.
+- A-3: what a collection shows after sign-in (I assumed starred markets).
+- A-4: how the status labels are derived from the question data.
+- A-5: where the sDAI-to-$ conversion rate comes from.
+
+Two other caveats:
+- I looked at 4 of the 13 inspiration sheets directly and relied on your notes for the rest.
+- My script to count the JSON was blocked, so the sample counts came from text searches and the audit. These were 25 scalar, 74 categorical, 1 multi-categorical, 88 verified, 99 Gnosis + 1 Ethereum, and 17 conditional (that last one from the audit summary). The per-filter counts in the wireframes are illustrative.
+
+Per the handoff, this file was meant to come from `pipeline/ask_opus.sh`, and I wrote it directly. I haven't run `gate_check.py explorer D`.
+
+Do you approve Concept 1, or do you want a different one?

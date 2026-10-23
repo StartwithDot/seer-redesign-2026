@@ -1,0 +1,231 @@
+Seer
+BETA
+The pilot
+The protocol
+0x0000...dEaD
+←
+BACK TO OPPORTUNITIES
+ACTIVE
+Seer AI Job Board Name
+
+Seer is experimenting with a futarchy-run organization that will build a job board for AI: humans and AIs post tasks, AI completes them and gets paid in crypto. Step one is picking the name.
+
+Every name suggested by the community is listed as an outcome. Traders buy shares in the name they believe will be adopted.
+
+The chosen name earns $1,000 in crypto (if Seer can use it). By suggesting a name, its author transfers all rights to it, effective only once the $1,000 is paid. If several people suggested the same name, the earliest reply wins.
+
+CONTRACT
+0x8b3c...a5e8
+View on Seer ↗
+Outcomes
+VOLUME
+$7,877
+LIQUIDITY
+$2,382
+01
+SAI
+
+POSITION: 0.00
+
+6%
+
+$0.060
+
+02
+delegateyourjob.ai
+
+POSITION: 0.00
+
+5.9%
+
+$0.059
+
+03
+Zetsu.AI
+
+POSITION: 0.00
+
+4.1%
+
+$0.041
+
+04
+Wageware
+
+POSITION: 0.00
+
+3.6%
+
+$0.036
+
+05
+Workmesh
+
+POSITION: 0.00
+
+3.5%
+
+$0.035
+
+06
+CW
+
+POSITION: 0.00
+
+3.3%
+
+$0.033
+
+07
+Foreguild
+
+POSITION: 0.00
+
+3.1%
+
+$0.031
+
+08
+Synergent
+
+POSITION: 0.00
+
+3.1%
+
+$0.031
+
+09
+Auspex
+
+POSITION: 0.00
+
+3.1%
+
+$0.031
+
+10
+WorkX
+
+POSITION: 0.00
+
+2.8%
+
+$0.028
+
+11
+Agentarchy
+
+POSITION: 0.00
+
+2.5%
+
+$0.025
+
+12
+AgenticGigs
+
+POSITION: 0.00
+
+2.3%
+
+$0.023
+
+13
+Vantage
+
+POSITION: 0.00
+
+2.2%
+
+$0.022
+
+14
+Seek
+
+POSITION: 0.00
+
+2.2%
+
+$0.022
+
+15
+Agora
+
+POSITION: 0.00
+
+1.9%
+
+$0.019
+
+27
+Symbiont
+TRADING
+
+POSITION: 0.00
+
+0.9%
+
+$0.009
+
+SHOW ALL 235 OUTCOMES
+PRICE HISTORY
+SAI
+6%
+delegateyourjob.ai
+5.9%
+Zetsu.AI
+4.1%
+Wageware
+3.6%
+Workmesh
+3.5%
+CW
+3.3%
+Synergent
+3.2%
+Foreguild
+3.1%
+Auspex
+3.1%
+WorkX
+2.8%
+	
+	
+
+	
+	
+DISCUSSION
+
+Connect your wallet to share your take
+
+CONNECT TO COMMENT
+
+No takes yet. Share the first one.
+
+BUY
+SELL
+OUTCOME
+SYMBIONT
+PAY WITH
+SDAI
+AMOUNT
+BAL: 0.00
+SDAI
++1
++5
++10
++100
+YOU RECEIVE
+0.0 Shares
+AVG PRICE
+—
+SLIPPAGE
+0.5%
+ENTER AN AMOUNT
+
+Opportunity Markets on Seer.
+
+Connected
+0x0000••••dEaD
+0 XDAI
+Disconnect

@@ -1,0 +1,9 @@
+Paste into a NEW chat opened in /Users/leo/Documents/POIDH:
+
+Continue the Seer design bounty (POIDH #38, deadline 23:59 Oct 23 2026 AoE, goal FIRST PLACE). Product: DEEP (https://deep.seer.pm). You own only apps/deep and products/deep (+ research/inspiration/deep); everything else is read-only; never commit, push or deploy.
+
+Read products/deep/HANDOFF.md fully and follow it LITERALLY, then docs/NEXT_GEN_DESIGN_RULES.md and docs/RESEARCH_PROTOCOL.md (including its ADDENDUM). Earlier chats ignored written advice (skipped the crawl, did not use free DeepSeek/scripts, reskinned the live product with restyled buttons, left dead buttons, produced SaaS-dashboard slop). That fails here. The process is enforced by a script: run `export PRODUCT=deep` and after each phase run `python3 pipeline/gate_check.py deep <A|B|C|D|E>`; paste its output; do not start the next phase until it says PASS.
+
+Order: A verify the PRE-FETCHED audit (do not re-crawl; open screenshots; write AUDIT_SUMMARY, CHART_AUTOPSY, PARITY_MAP; save the real API JSON to products/deep/data) -> B ux.md -> C capture >= 20 human-made references (pipeline/inspiration_capture.mjs + contact_sheet.py, LOOK at the sheets, inspiration-notes.md, DeepSeek digests, 60fps spike) -> D OPUS authors 3 concepts from scratch (pipeline/ask_opus.sh with docs/OPUS_CONCEPT_PROMPT.md; show me a <=12 line summary and ask me ONE question) -> E design.md with trace table + parity map, then Codex passes <=25 min, e2e with parity/dead-control/navigation/flow tests, real viewport screenshots, Opus review until slop <= 4.
+
+Token rules: use DeepSeek (free, proxy 127.0.0.1:8318; ask me to restart it if down) and scripts for every summarizing/extracting/drafting/inventory job; Claude only views, verifies, decides; Opus only concepts + reviews; Codex only code. Keep your messages short; report results and blockers only.

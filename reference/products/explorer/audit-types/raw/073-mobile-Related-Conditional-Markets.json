@@ -1,0 +1,828 @@
+{
+ "title": "Seer | How many Polymarket clarification notes published before January 1, 2027 will cause a market price move of at least 25 percentage points within 24 hours? [Note]",
+ "url": "https://app.seer.pm/markets/100/how-many-polymarket-clarification-notes-published-before-january-1-2027-will-cau/",
+ "scrollHeight": 1864,
+ "headings": [],
+ "interactive": [
+  {
+   "i": 0,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    348,
+    11,
+    12,
+    12
+   ]
+  },
+  {
+   "i": 1,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "/",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    24,
+    43,
+    99,
+    46
+   ]
+  },
+  {
+   "i": 2,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    354,
+    54,
+    24,
+    24
+   ]
+  },
+  {
+   "i": 3,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "/",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    12,
+    141,
+    14,
+    15
+   ]
+  },
+  {
+   "i": 4,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0x736feaf877de6523ca001ab3e3a229e80d7af00b",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    302,
+    195,
+    20,
+    20
+   ]
+  },
+  {
+   "i": 5,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Answer on Reality.eth!",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    114,
+    397,
+    167,
+    21
+   ]
+  },
+  {
+   "i": 6,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Open interest and liquidity breakdown",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "false",
+   "box": [
+    240,
+    514,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 7,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://curate.kleros.io/tcr/100/0x5aAF9E23A11440F8C1Ad6D2E2e5109C7e52CC672/0x629677cfd53848718df1eb7ea123c1969e6dffae0cacdd5e4e568d9fca622ed5",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    401,
+    515,
+    14,
+    14
+   ]
+  },
+  {
+   "i": 8,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Custom",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    32,
+    631,
+    86,
+    38
+   ]
+  },
+  {
+   "i": 9,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    338,
+    640,
+    20,
+    20
+   ]
+  },
+  {
+   "i": 10,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "",
+   "href": "",
+   "disabled": true,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    296,
+    693,
+    24,
+    24
+   ]
+  },
+  {
+   "i": 11,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "",
+   "href": "",
+   "disabled": true,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    324,
+    693,
+    24,
+    24
+   ]
+  },
+  {
+   "i": 12,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Charting by TradingView",
+   "href": "https://www.tradingview.com/?utm_medium=lwc-link&utm_campaign=lwc-chart&utm_source=app.seer.pm/markets/100/how-many-polymarket-clarification-notes-published-before-january-1-2027-will-cau/",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    52,
+    960,
+    35,
+    19
+   ]
+  },
+  {
+   "i": 13,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/token/0xe1daf5c5fca57211f5b3dbaf2515e29efb96c2fc",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    37,
+    1161,
+    12,
+    12
+   ]
+  },
+  {
+   "i": 14,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Add Liquidity",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    65,
+    1158,
+    73,
+    18
+   ]
+  },
+  {
+   "i": 15,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "View pool details",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    154,
+    1158,
+    94,
+    18
+   ]
+  },
+  {
+   "i": 16,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "New conditional market",
+   "href": "/create-market?parentMarket=0x736feaf877de6523ca001ab3e3a229e80d7af00b&parentOutcome=DOWN",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    37,
+    1184,
+    134,
+    18
+   ]
+  },
+  {
+   "i": 17,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/token/0x4df8c2fe8e74eb9e56a32b5f0d7be0692e87160d",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    37,
+    1275,
+    12,
+    12
+   ]
+  },
+  {
+   "i": 18,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Add Liquidity",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    65,
+    1272,
+    73,
+    18
+   ]
+  },
+  {
+   "i": 19,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "View pool details",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    154,
+    1272,
+    94,
+    18
+   ]
+  },
+  {
+   "i": 20,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "New conditional market",
+   "href": "/create-market?parentMarket=0x736feaf877de6523ca001ab3e3a229e80d7af00b&parentOutcome=UP",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    37,
+    1298,
+    134,
+    18
+   ]
+  },
+  {
+   "i": 21,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/token/0xd3554fd4cc5e7dd186f89af7cbebe50135fc85a1",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    37,
+    1411,
+    12,
+    12
+   ]
+  },
+  {
+   "i": 22,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Add Liquidity",
+   "href": "https://v3.swapr.eth.limo/#/add/0xaf204776c7245bf4147c2612bf6e5972ee483701/0xd3554fd4cc5e7dd186f89af7cbebe50135fc85a1/enter-amounts",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    65,
+    1408,
+    73,
+    18
+   ]
+  },
+  {
+   "i": 23,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "View pool details",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    154,
+    1408,
+    94,
+    18
+   ]
+  },
+  {
+   "i": 24,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "New conditional market",
+   "href": "/create-market?parentMarket=0x736feaf877de6523ca001ab3e3a229e80d7af00b&parentOutcome=Invalid",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    37,
+    1434,
+    134,
+    18
+   ]
+  },
+  {
+   "i": 25,
+   "tag": "button",
+   "role": "tab",
+   "type": "button",
+   "text": "Comments",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    11,
+    1549,
+    116,
+    32
+   ]
+  },
+  {
+   "i": 26,
+   "tag": "button",
+   "role": "tab",
+   "type": "button",
+   "text": "Related Conditional Markets",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    127,
+    1549,
+    251,
+    32
+   ]
+  },
+  {
+   "i": 27,
+   "tag": "button",
+   "role": "tab",
+   "type": "button",
+   "text": "Top Holders",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    378,
+    1549,
+    125,
+    32
+   ]
+  },
+  {
+   "i": 28,
+   "tag": "button",
+   "role": "tab",
+   "type": "button",
+   "text": "Activity",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    503,
+    1549,
+    89,
+    32
+   ]
+  },
+  {
+   "i": 29,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Open trade drawer",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    335,
+    1556,
+    56,
+    56
+   ]
+  },
+  {
+   "i": 30,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://kleros.io/",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    106,
+    1776,
+    179,
+    24
+   ]
+  },
+  {
+   "i": 31,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://discord.com/invite/rBEB4MYQwV",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    138,
+    1824,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 32,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://t.me/Seerpredictionmarket",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    171,
+    1824,
+    16,
+    16
+   ]
+  },
+  {
+   "i": 33,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://x.com/seer_pm",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    203,
+    1824,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 34,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://github.com/seer-pm",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    236,
+    1824,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 35,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Close drawer",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    377,
+    1668,
+    14,
+    24
+   ]
+  },
+  {
+   "i": 36,
+   "tag": "button",
+   "role": "tab",
+   "type": "button",
+   "text": "Trade",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    24,
+    1700,
+    88,
+    32
+   ]
+  },
+  {
+   "i": 37,
+   "tag": "button",
+   "role": "tab",
+   "type": "button",
+   "text": "Mint",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    112,
+    1700,
+    79,
+    32
+   ]
+  },
+  {
+   "i": 38,
+   "tag": "button",
+   "role": "tab",
+   "type": "button",
+   "text": "Merge",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    192,
+    1700,
+    93,
+    32
+   ]
+  },
+  {
+   "i": 39,
+   "tag": "button",
+   "role": "tab",
+   "type": "button",
+   "text": "Redeem",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    284,
+    1700,
+    107,
+    32
+   ]
+  },
+  {
+   "i": 40,
+   "tag": "input",
+   "role": "",
+   "type": "number",
+   "text": "0",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    65,
+    1936,
+    168,
+    33
+   ]
+  },
+  {
+   "i": 41,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Max",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    307,
+    1978,
+    43,
+    31
+   ]
+  },
+  {
+   "i": 42,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    184,
+    2004,
+    48,
+    48
+   ]
+  },
+  {
+   "i": 43,
+   "tag": "input",
+   "role": "",
+   "type": "number",
+   "text": "0",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    64,
+    2076,
+    153,
+    33
+   ]
+  },
+  {
+   "i": 44,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Calculate your potential return",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    48,
+    2211,
+    319,
+    23
+   ]
+  },
+  {
+   "i": 45,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Enter an amount",
+   "href": "",
+   "disabled": true,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    48,
+    2292,
+    319,
+    45
+   ]
+  }
+ ],
+ "charts": [
+  {
+   "tag": "canvas",
+   "box": [
+    42,
+    717,
+    252,
+    272
+   ],
+   "texts": [],
+   "paths": 0
+  },
+  {
+   "tag": "canvas",
+   "box": [
+    42,
+    717,
+    252,
+    272
+   ],
+   "texts": [],
+   "paths": 0
+  }
+ ],
+ "tables": [
+  {
+   "rows": 2,
+   "head": []
+  }
+ ],
+ "fonts": [
+  "Open Sans"
+ ],
+ "colors": {
+  "bg": "rgba(0, 0, 0, 0)",
+  "text": "oklch(0.278078 0.029596 256.848)"
+ },
+ "dialogs": 1
+}

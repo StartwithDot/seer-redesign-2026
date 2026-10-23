@@ -1,0 +1,1613 @@
+Note that this is a Beta version and can still be unstable
+/
+Market
+Reports open
+Will Marine Le Pen be the National Rally’s candidate in the next French presidential election?
+Answer on Reality.eth!
+Categorical
+7.16k
+49.68k
+0.00
+1D
+1W
+1M
+All
+Custom
+Yes
+84.2%
+No
+14.8%
+	
+	
+
+	
+	
+Outcomes
+
+#1 Yes
+
+Add Liquidity
+View pool details
+New conditional market
+84.2%
+
+#2 No
+
+Add Liquidity
+View pool details
+New conditional market
+14.8%
+
+#3 Invalid
+
+210.85 SER-INVALID
+Add Liquidity
+View pool details
+New conditional market
+0%
+Major Events
+1 UPCOMING
+
+JAN 1, 2027 · 00:00 UTC
+
+Reality.eth Resolution
+
+Expected resolution date
+
+Comments
+Related Conditional Markets
+Top Holders
+Activity
+My activity
+alive-rational-snipe
+Bought
+0.89
+Yes
+	Oct 9, 2026 · 04:17
+
+horrible-controlled-fowl
+Bought
+0.01
+No
+	Oct 7, 2026 · 19:20
+
+adequate-bitter-lemur
+Sold
+0.79
+No
+	Oct 7, 2026 · 02:06
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Oct 7, 2026 · 02:06
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Oct 7, 2026 · 02:04
+
+tense-individual-impala
+Sold
+0.02
+Yes
+	Oct 7, 2026 · 02:04
+
+tense-individual-impala
+Sold
+0.06
+Yes
+	Oct 7, 2026 · 02:03
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Oct 7, 2026 · 02:03
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Oct 7, 2026 · 02:03
+
+tense-individual-impala
+Sold
+0.03
+Yes
+	Oct 7, 2026 · 02:03
+
+adequate-bitter-lemur
+Split
+0.79
+sDAI
+	Oct 7, 2026 · 01:59
+
+respectable-high-mockingbird
+Sold
+0.01
+No
+	Oct 6, 2026 · 21:53
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Oct 6, 2026 · 21:53
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Oct 6, 2026 · 21:53
+
+respectable-high-mockingbird
+Sold
+0.01
+Yes
+	Oct 6, 2026 · 21:53
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Oct 6, 2026 · 21:53
+
+respectable-high-mockingbird
+Sold
+0.28
+No
+	Oct 6, 2026 · 21:53
+
+respectable-high-mockingbird
+Sold
+0.28
+Yes
+	Oct 6, 2026 · 21:53
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Oct 6, 2026 · 21:53
+
+respectable-high-mockingbird
+Sold
+0.28
+Yes
+	Oct 6, 2026 · 21:53
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Oct 6, 2026 · 21:53
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Oct 6, 2026 · 21:53
+
+respectable-high-mockingbird
+Sold
+0.28
+No
+	Oct 6, 2026 · 21:53
+
+total-electronic-snake
+Bought
+150.00
+Yes
+	Oct 6, 2026 · 21:53
+
+national-single-mackerel
+Sold
+<0.001
+Yes
+	Sep 23, 2026 · 11:57
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Sep 23, 2026 · 11:57
+
+national-single-mackerel
+Sold
+<0.001
+No
+	Sep 23, 2026 · 11:57
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Sep 23, 2026 · 11:57
+
+national-single-mackerel
+Sold
+<0.001
+Yes
+	Sep 23, 2026 · 04:23
+
+national-single-mackerel
+Sold
+<0.001
+No
+	Sep 23, 2026 · 04:23
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Sep 23, 2026 · 04:23
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Sep 23, 2026 · 04:23
+
+national-single-mackerel
+Sold
+<0.001
+Yes
+	Sep 23, 2026 · 02:47
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Sep 23, 2026 · 02:47
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Sep 23, 2026 · 02:47
+
+national-single-mackerel
+Sold
+<0.001
+No
+	Sep 23, 2026 · 02:47
+
+national-single-mackerel
+Sold
+<0.001
+Yes
+	Sep 23, 2026 · 00:28
+
+national-single-mackerel
+Sold
+<0.001
+No
+	Sep 23, 2026 · 00:28
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Sep 23, 2026 · 00:28
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Sep 23, 2026 · 00:28
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Sep 22, 2026 · 23:47
+
+national-single-mackerel
+Sold
+<0.001
+No
+	Sep 22, 2026 · 23:47
+
+national-single-mackerel
+Sold
+<0.001
+Yes
+	Sep 22, 2026 · 23:47
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Sep 22, 2026 · 23:47
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Sep 22, 2026 · 23:14
+
+national-single-mackerel
+Sold
+<0.001
+Yes
+	Sep 22, 2026 · 23:14
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Sep 22, 2026 · 23:14
+
+national-single-mackerel
+Sold
+<0.001
+No
+	Sep 22, 2026 · 23:14
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Sep 22, 2026 · 22:44
+
+national-single-mackerel
+Sold
+<0.001
+No
+	Sep 22, 2026 · 22:44
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Sep 22, 2026 · 22:44
+
+national-single-mackerel
+Sold
+<0.001
+Yes
+	Sep 22, 2026 · 22:44
+
+national-single-mackerel
+Sold
+<0.001
+No
+	Sep 22, 2026 · 22:32
+
+national-single-mackerel
+Sold
+<0.001
+Yes
+	Sep 22, 2026 · 22:32
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Sep 22, 2026 · 22:32
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Sep 22, 2026 · 22:32
+
+national-single-mackerel
+Sold
+<0.001
+No
+	Sep 22, 2026 · 22:06
+
+national-single-mackerel
+Sold
+<0.001
+Yes
+	Sep 22, 2026 · 22:06
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Sep 22, 2026 · 22:06
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Sep 22, 2026 · 22:06
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Sep 22, 2026 · 21:40
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Sep 22, 2026 · 21:40
+
+national-single-mackerel
+Sold
+<0.001
+No
+	Sep 22, 2026 · 21:40
+
+national-single-mackerel
+Sold
+<0.001
+Yes
+	Sep 22, 2026 · 21:40
+
+national-single-mackerel
+Sold
+<0.001
+Yes
+	Sep 22, 2026 · 21:13
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Sep 22, 2026 · 21:13
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Sep 22, 2026 · 21:13
+
+national-single-mackerel
+Sold
+<0.001
+No
+	Sep 22, 2026 · 21:13
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Sep 22, 2026 · 20:47
+
+national-single-mackerel
+Sold
+<0.001
+No
+	Sep 22, 2026 · 20:47
+
+national-single-mackerel
+Sold
+<0.001
+Yes
+	Sep 22, 2026 · 20:47
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Sep 22, 2026 · 20:47
+
+national-single-mackerel
+Sold
+<0.001
+No
+	Sep 22, 2026 · 20:34
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Sep 22, 2026 · 20:34
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Sep 22, 2026 · 20:34
+
+national-single-mackerel
+Sold
+<0.001
+Yes
+	Sep 22, 2026 · 20:34
+
+national-single-mackerel
+Sold
+<0.001
+No
+	Sep 22, 2026 · 20:20
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Sep 22, 2026 · 20:20
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Sep 22, 2026 · 20:20
+
+national-single-mackerel
+Sold
+<0.001
+Yes
+	Sep 22, 2026 · 20:20
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Sep 22, 2026 · 20:07
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Sep 22, 2026 · 20:07
+
+national-single-mackerel
+Sold
+<0.001
+Yes
+	Sep 22, 2026 · 20:07
+
+national-single-mackerel
+Sold
+<0.001
+No
+	Sep 22, 2026 · 20:07
+
+national-single-mackerel
+Sold
+<0.001
+No
+	Sep 22, 2026 · 19:52
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Sep 22, 2026 · 19:52
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Sep 22, 2026 · 19:52
+
+national-single-mackerel
+Sold
+<0.001
+Yes
+	Sep 22, 2026 · 19:52
+
+national-single-mackerel
+Sold
+0.01
+Yes
+	Sep 22, 2026 · 16:11
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Sep 22, 2026 · 16:11
+
+national-single-mackerel
+Sold
+0.01
+No
+	Sep 22, 2026 · 16:11
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Sep 22, 2026 · 16:11
+
+national-single-mackerel
+Sold
+0.01
+Yes
+	Sep 22, 2026 · 07:20
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Sep 22, 2026 · 07:20
+
+national-single-mackerel
+Sold
+0.01
+No
+	Sep 22, 2026 · 07:20
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Sep 22, 2026 · 07:20
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Sep 22, 2026 · 06:13
+
+national-single-mackerel
+Sold
+0.01
+No
+	Sep 22, 2026 · 06:13
+
+national-single-mackerel
+Sold
+0.01
+Yes
+	Sep 22, 2026 · 06:13
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Sep 22, 2026 · 06:13
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Sep 22, 2026 · 05:29
+
+national-single-mackerel
+Sold
+0.01
+No
+	Sep 22, 2026 · 05:29
+
+national-single-mackerel
+Sold
+0.01
+Yes
+	Sep 22, 2026 · 05:29
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Sep 22, 2026 · 05:29
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Sep 22, 2026 · 04:56
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Sep 22, 2026 · 04:56
+
+national-single-mackerel
+Sold
+0.01
+No
+	Sep 22, 2026 · 04:56
+
+national-single-mackerel
+Sold
+0.01
+Yes
+	Sep 22, 2026 · 04:56
+
+national-single-mackerel
+Sold
+0.01
+Yes
+	Sep 22, 2026 · 04:27
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Sep 22, 2026 · 04:27
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Sep 22, 2026 · 04:27
+
+national-single-mackerel
+Sold
+0.01
+No
+	Sep 22, 2026 · 04:27
+
+national-single-mackerel
+Sold
+0.01
+Yes
+	Sep 22, 2026 · 04:00
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Sep 22, 2026 · 04:00
+
+national-single-mackerel
+Sold
+0.01
+No
+	Sep 22, 2026 · 04:00
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Sep 22, 2026 · 04:00
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Sep 22, 2026 · 03:36
+
+national-single-mackerel
+Sold
+0.01
+Yes
+	Sep 22, 2026 · 03:36
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Sep 22, 2026 · 03:36
+
+national-single-mackerel
+Sold
+0.01
+No
+	Sep 22, 2026 · 03:36
+
+national-single-mackerel
+Sold
+0.01
+No
+	Sep 22, 2026 · 03:10
+
+national-single-mackerel
+Sold
+0.01
+Yes
+	Sep 22, 2026 · 03:10
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Sep 22, 2026 · 03:10
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Sep 22, 2026 · 03:10
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Sep 22, 2026 · 02:44
+
+national-single-mackerel
+Sold
+0.01
+Yes
+	Sep 22, 2026 · 02:44
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Sep 22, 2026 · 02:44
+
+national-single-mackerel
+Sold
+0.01
+No
+	Sep 22, 2026 · 02:44
+
+national-single-mackerel
+Sold
+0.01
+No
+	Sep 22, 2026 · 02:16
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Sep 22, 2026 · 02:16
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Sep 22, 2026 · 02:16
+
+national-single-mackerel
+Sold
+0.01
+Yes
+	Sep 22, 2026 · 02:16
+
+national-single-mackerel
+Sold
+0.01
+No
+	Sep 22, 2026 · 01:44
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Sep 22, 2026 · 01:44
+
+national-single-mackerel
+Sold
+0.01
+Yes
+	Sep 22, 2026 · 01:44
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Sep 22, 2026 · 01:44
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Sep 22, 2026 · 01:12
+
+national-single-mackerel
+Sold
+<0.001
+No
+	Sep 22, 2026 · 01:12
+
+national-single-mackerel
+Sold
+<0.001
+Yes
+	Sep 22, 2026 · 01:12
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Sep 22, 2026 · 01:12
+
+national-single-mackerel
+Sold
+0.01
+No
+	Sep 22, 2026 · 01:07
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Sep 22, 2026 · 01:07
+
+national-single-mackerel
+Sold
+0.01
+Yes
+	Sep 22, 2026 · 01:07
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Sep 22, 2026 · 01:07
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Sep 22, 2026 · 01:05
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Sep 22, 2026 · 01:05
+
+national-single-mackerel
+Sold
+0.01
+No
+	Sep 22, 2026 · 01:05
+
+national-single-mackerel
+Sold
+0.01
+Yes
+	Sep 22, 2026 · 01:05
+
+national-single-mackerel
+Sold
+0.01
+Yes
+	Sep 22, 2026 · 00:59
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Sep 22, 2026 · 00:59
+
+national-single-mackerel
+Sold
+0.01
+No
+	Sep 22, 2026 · 00:59
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Sep 22, 2026 · 00:59
+
+national-single-mackerel
+Sold
+0.01
+No
+	Sep 21, 2026 · 20:28
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Sep 21, 2026 · 20:28
+
+national-single-mackerel
+Sold
+0.01
+Yes
+	Sep 21, 2026 · 20:28
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Sep 21, 2026 · 20:28
+
+national-single-mackerel
+Sold
+0.01
+No
+	Sep 21, 2026 · 18:18
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Sep 21, 2026 · 18:18
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Sep 21, 2026 · 18:18
+
+national-single-mackerel
+Sold
+0.01
+Yes
+	Sep 21, 2026 · 18:18
+
+national-single-mackerel
+Sold
+0.01
+No
+	Sep 21, 2026 · 17:13
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Sep 21, 2026 · 17:13
+
+national-single-mackerel
+Sold
+0.01
+Yes
+	Sep 21, 2026 · 17:13
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Sep 21, 2026 · 17:13
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Sep 21, 2026 · 16:26
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Sep 21, 2026 · 16:26
+
+national-single-mackerel
+Sold
+0.01
+No
+	Sep 21, 2026 · 16:26
+
+national-single-mackerel
+Sold
+0.01
+Yes
+	Sep 21, 2026 · 16:26
+
+national-single-mackerel
+Sold
+0.01
+No
+	Sep 21, 2026 · 15:44
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Sep 21, 2026 · 15:44
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Sep 21, 2026 · 15:44
+
+national-single-mackerel
+Sold
+0.01
+Yes
+	Sep 21, 2026 · 15:44
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Sep 21, 2026 · 15:09
+
+national-single-mackerel
+Sold
+0.01
+No
+	Sep 21, 2026 · 15:09
+
+national-single-mackerel
+Sold
+0.01
+Yes
+	Sep 21, 2026 · 15:09
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Sep 21, 2026 · 15:09
+
+national-single-mackerel
+Sold
+0.01
+No
+	Sep 21, 2026 · 14:48
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Sep 21, 2026 · 14:48
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Sep 21, 2026 · 14:48
+
+national-single-mackerel
+Sold
+0.01
+Yes
+	Sep 21, 2026 · 14:48
+
+national-single-mackerel
+Sold
+0.01
+Yes
+	Sep 21, 2026 · 14:12
+
+national-single-mackerel
+Sold
+0.01
+No
+	Sep 21, 2026 · 14:12
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Sep 21, 2026 · 14:12
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Sep 21, 2026 · 14:12
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Sep 21, 2026 · 13:39
+
+national-single-mackerel
+Sold
+0.01
+Yes
+	Sep 21, 2026 · 13:39
+
+national-single-mackerel
+Sold
+0.01
+No
+	Sep 21, 2026 · 13:39
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Sep 21, 2026 · 13:39
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Sep 21, 2026 · 13:03
+
+national-single-mackerel
+Sold
+0.01
+Yes
+	Sep 21, 2026 · 13:03
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Sep 21, 2026 · 13:03
+
+national-single-mackerel
+Sold
+0.01
+No
+	Sep 21, 2026 · 13:03
+
+national-single-mackerel
+Sold
+0.01
+Yes
+	Sep 21, 2026 · 12:23
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Sep 21, 2026 · 12:23
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Sep 21, 2026 · 12:23
+
+national-single-mackerel
+Sold
+0.01
+No
+	Sep 21, 2026 · 12:23
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Sep 21, 2026 · 11:31
+
+national-single-mackerel
+Sold
+0.01
+No
+	Sep 21, 2026 · 11:31
+
+national-single-mackerel
+Sold
+0.01
+Yes
+	Sep 21, 2026 · 11:31
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Sep 21, 2026 · 11:31
+
+national-single-mackerel
+Sold
+0.01
+No
+	Sep 21, 2026 · 10:14
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Sep 21, 2026 · 10:14
+
+national-single-mackerel
+Sold
+0.01
+Yes
+	Sep 21, 2026 · 10:14
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Sep 21, 2026 · 10:14
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Sep 21, 2026 · 01:16
+
+tense-individual-impala
+Sold
+0.02
+Yes
+	Sep 21, 2026 · 01:16
+
+national-single-mackerel
+Sold
+0.01
+No
+	Sep 21, 2026 · 01:08
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Sep 21, 2026 · 01:08
+
+national-single-mackerel
+Sold
+0.01
+Yes
+	Sep 21, 2026 · 01:08
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Sep 21, 2026 · 01:08
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Sep 21, 2026 · 01:08
+
+national-single-mackerel
+Sold
+0.01
+No
+	Sep 21, 2026 · 01:08
+
+national-single-mackerel
+Sold
+0.01
+Yes
+	Sep 21, 2026 · 01:08
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Sep 21, 2026 · 01:08
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Sep 21, 2026 · 01:07
+
+national-single-mackerel
+Sold
+0.01
+No
+	Sep 21, 2026 · 01:07
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Sep 21, 2026 · 01:07
+
+national-single-mackerel
+Sold
+0.01
+Yes
+	Sep 21, 2026 · 01:07
+
+national-single-mackerel
+Sold
+0.04
+Yes
+	Sep 21, 2026 · 01:07
+
+national-single-mackerel
+Sold
+0.04
+No
+	Sep 21, 2026 · 01:07
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Sep 21, 2026 · 01:07
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Sep 21, 2026 · 01:07
+
+national-single-mackerel
+Sold
+0.04
+Yes
+	Sep 21, 2026 · 01:07
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Sep 21, 2026 · 01:07
+
+national-single-mackerel
+Sold
+0.04
+No
+	Sep 21, 2026 · 01:07
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Sep 21, 2026 · 01:07
+
+national-single-mackerel
+Sold
+0.28
+Yes
+	Sep 21, 2026 · 01:07
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Sep 21, 2026 · 01:07
+
+national-single-mackerel
+Sold
+0.28
+No
+	Sep 21, 2026 · 01:07
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Sep 21, 2026 · 01:07
+
+slimy-correct-hedgehog
+Bought
+<0.001
+Yes
+	Sep 21, 2026 · 01:07
+
+national-single-mackerel
+Sold
+0.28
+Yes
+	Sep 21, 2026 · 01:07
+
+national-single-mackerel
+Sold
+0.28
+No
+	Sep 21, 2026 · 01:07
+
+slimy-correct-hedgehog
+Bought
+<0.001
+No
+	Sep 21, 2026 · 01:07
+
+respectable-scientific-otter
+Bought
+0.95
+Yes
+	Sep 21, 2026 · 01:07
+
+fiscal-vague-giraffe
+Added liquidity
+6.63k
+Yes
+	Sep 12, 2026 · 21:00
+
+fiscal-vague-giraffe
+Added liquidity
+100.00
+Yes
+	Sep 12, 2026 · 20:47
+
+@mr-froggert
+Removed liquidity
+2.65
+Yes
+	Sep 9, 2026 · 21:54
+
+stormy-dull-puffin
+Split
+0.10
+sDAI
+	Sep 9, 2026 · 11:57
+
+tense-individual-impala
+Split
+2.55
+sDAI
+	Sep 9, 2026 · 11:56
+
+voluminous-worldwide-boar
+Bought
+2.68k
+Yes
+	Sep 9, 2026 · 11:55
+
+@mr-froggert
+Added liquidity
+2.68k
+Yes
+	Sep 3, 2026 · 21:47
+
+voluminous-worldwide-boar
+Removed liquidity
+652.52
+Yes
+	Sep 3, 2026 · 12:19
+
+voluminous-worldwide-boar
+Removed liquidity
+15.34k
+No
+	Sep 3, 2026 · 12:19
+
+@mr-froggert
+Merge
+1.15k
+sDAI
+	Sep 3, 2026 · 09:33
+
+@mr-froggert
+Bought
+1.15k
+No
+	Sep 3, 2026 · 09:33
+
+@mr-froggert
+Merge
+5.61k
+sDAI
+	Sep 3, 2026 · 05:32
+
+slimy-correct-hedgehog
+Bought
+0.08
+Yes
+	Sep 3, 2026 · 05:31
+
+@mr-froggert
+Sold
+160.60
+Yes
+	Sep 3, 2026 · 05:31
+
+tense-individual-impala
+Split
+58.90
+sDAI
+	Sep 3, 2026 · 05:30
+
+unwilling-extreme-beaver
+Split
+100.00
+sDAI
+	Sep 3, 2026 · 05:30
+
+@mr-froggert
+Bought
+5.61k
+No
+	Sep 3, 2026 · 05:30
+
+tense-individual-impala
+Sold
+175.05
+Yes
+	Sep 3, 2026 · 01:35
+
+slimy-correct-hedgehog
+Bought
+0.05
+Yes
+	Sep 3, 2026 · 01:35
+×
+Trade
+Mint
+Merge
+Redeem
+Yes
+Market
+
+You pay
+
+sDAI
+
+0 sDAI
+
+Max
+
+You will get
+
+Yes
+
+Avg price
+0 sDAI
+Potential return
+0.00 sDAI (0.00%)
+Parameters:
+
+Max slippage 1%
+
+Enter an amount

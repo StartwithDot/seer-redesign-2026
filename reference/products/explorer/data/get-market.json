@@ -1,0 +1,121 @@
+{
+ "_endpoint": "POST https://app.seer.pm/.netlify/functions/get-market",
+ "_hits": 622,
+ "_complete_json": true,
+ "data": {
+  "id": "0xe1793927eb763864967426fe7750ab0dc6f019f3",
+  "marketName": "Will Marine Le Pen be the National Rally\u2019s candidate in the next French presidential election?",
+  "outcomes": [
+   "Yes",
+   "No",
+   "Invalid"
+  ],
+  "parentOutcome": "0",
+  "templateId": "2",
+  "hasAnswers": true,
+  "questionsInArbitration": "0",
+  "openingTs": 1743984000,
+  "finalizeTs": 1788718525,
+  "encodedQuestions": [
+   "Will Marine Le Pen be the National Rally\u2019s candidate in the next French presidential election?\u241f\"Yes\",\"No\"\u241fmisc\u241fen_US"
+  ],
+  "lowerBound": "0",
+  "upperBound": "0",
+  "payoutReported": false,
+  "payoutNumerators": [
+   "0",
+   "0",
+   "0"
+  ],
+  "outcomesSupply": "24616633683886735396980",
+  "blockTimestamp": 1743864100,
+  "type": "Generic",
+  "wrappedTokens": [
+   "0x053720357c72aea18963ec9712ed645d70b605f6",
+   "0x2beee027677241fa88cce318624c4417b8d1f484",
+   "0x55f3cb8d1f3bcf3512a76a7b2a5afbef6168485d"
+  ],
+  "collateralToken": "0xaf204776c7245bf4147c2612bf6e5972ee483701",
+  "collateralToken1": "0x0000000000000000000000000000000000000000",
+  "collateralToken2": "0x0000000000000000000000000000000000000000",
+  "parentCollectionId": "0x0000000000000000000000000000000000000000000000000000000000000000",
+  "conditionId": "0x2309cdce50395aa8ca07ffa74845177ad71ac1b589a3390ebb721a977f7257be",
+  "questionId": "0x23535f9e1e9656299f1ca737a8a05b449b75ed8fe33dc063d193e44b3b45a0fe",
+  "factory": "0x83183da839ce8228e31ae41222ead9edbb5cdcf1",
+  "creator": "0xaa36deb402ccf0fee2aa09974552154a9564ae20",
+  "transactionHash": "0x16fb114962a48c6b7eed9da361183665c7b8b507dfdfd89544140cf246be6b81",
+  "parentMarket": {
+   "id": "0x0000000000000000000000000000000000000000",
+   "conditionId": "0x0000000000000000000000000000000000000000000000000000000000000000",
+   "payoutReported": false,
+   "payoutNumerators": []
+  },
+  "questions": [
+   {
+    "opening_ts": 1743984000,
+    "timeout": 302400,
+    "finalize_ts": 1788718525,
+    "is_pending_arbitration": false,
+    "arbitrator": "0x68154ea682f95bf582b80dd6453fa401737491dc",
+    "best_answer": "0xfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffe",
+    "bond": "80000000000000000000",
+    "min_bond": "10000000000000000000",
+    "index": 0,
+    "id": "0xf115683bd571c47e40416b14a7347c7bc46453437520da231827ea9e4e952af3",
+    "base_question": "0xf115683bd571c47e40416b14a7347c7bc46453437520da231827ea9e4e952af3"
+   }
+  ],
+  "chainId": 100,
+  "verification": {
+   "status": "verified",
+   "itemID": "0xe52983e87bcc720c2f26b970ccfdd73b658fbb0ae5af0eca6f3ea8e782d371b9",
+   "deadline": 1743922245
+  },
+  "liquidityUSD": 7164.266529729137,
+  "maxLiquidity": 16636.998040533716,
+  "incentive": 0,
+  "hasLiquidity": true,
+  "odds": [
+   84.2,
+   14.8,
+   null
+  ],
+  "categories": [
+   "misc"
+  ],
+  "poolBalance": [
+   {
+    "token0": {
+     "symbol": "LEPEN_NRYES",
+     "balance": 6577.6562
+    },
+    "token1": {
+     "symbol": "sDAI",
+     "balance": 126.0958
+    }
+   },
+   {
+    "token0": {
+     "symbol": "LEPEN_NRNO",
+     "balance": 26.4263
+    },
+    "token1": {
+     "symbol": "sDAI",
+     "balance": 3.9201
+    }
+   },
+   null
+  ],
+  "url": "will-marine-le-pen-be-the-national-rallys-candidate-in-the-next-french-president",
+  "images": {
+   "market": "https://cdn.kleros.link/ipfs/Qmc67B5n3rEpssrkwsGhbPmt65CNSgJGArQYkdyHEUpmF3/seer_0xe1793927eb763864967426fe7750ab0dc6f019f3_0.png",
+   "outcomes": [
+    "https://cdn.kleros.link/ipfs/QmVDNuYW97wAxYXvXSKkZzH76qCehkRicna4w4He8X6YMy/seer_0xe1793927eb763864967426fe7750ab0dc6f019f3_1.png",
+    "https://cdn.kleros.link/ipfs/QmYx5w4i44rfYREh6SNAi1czx3YNMCpjzK5m8LuGoeZaEt/seer_0xe1793927eb763864967426fe7750ab0dc6f019f3_2.png"
+   ]
+  },
+  "openInterestUSD": 31073.924530931185,
+  "volumeUSD": 49686.03862010776,
+  "volumeNotionalUSD": 107631.20720433016
+ }
+}

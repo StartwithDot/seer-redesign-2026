@@ -1,0 +1,3058 @@
+{
+ "startUrl": "https://risk.seer.pm",
+ "states": [
+  {
+   "id": "001",
+   "vp": "desktop",
+   "label": "/",
+   "trigger": "page load",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "001-desktop--s0.png",
+    "001-desktop--s1.png",
+    "001-desktop--s2.png"
+   ],
+   "text": "001-desktop-.txt",
+   "dom": "001-desktop-.json",
+   "interactive": 67,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "002",
+   "vp": "desktop",
+   "label": "Guide",
+   "trigger": "click: button \"Guide\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "002-desktop-Guide-s0.png",
+    "002-desktop-Guide-s1.png",
+    "002-desktop-Guide-s2.png"
+   ],
+   "text": "002-desktop-Guide.txt",
+   "dom": "002-desktop-Guide.json",
+   "interactive": 71,
+   "charts": 1,
+   "tables": 0,
+   "dialogs": 1
+  },
+  {
+   "id": "003",
+   "vp": "desktop",
+   "label": "Guide hover chart",
+   "trigger": "hover chart",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "003-desktop-Guide-hover-chart-s0.png",
+    "003-desktop-Guide-hover-chart-s1.png",
+    "003-desktop-Guide-hover-chart-s2.png"
+   ],
+   "text": "003-desktop-Guide-hover-chart.txt",
+   "dom": "003-desktop-Guide-hover-chart.json",
+   "interactive": 71,
+   "charts": 1,
+   "tables": 0,
+   "dialogs": 1
+  },
+  {
+   "id": "004",
+   "vp": "desktop",
+   "label": "Account details",
+   "trigger": "click: button \"Account details\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "004-desktop-Account-details-s0.png",
+    "004-desktop-Account-details-s1.png",
+    "004-desktop-Account-details-s2.png"
+   ],
+   "text": "004-desktop-Account-details.txt",
+   "dom": "004-desktop-Account-details.json",
+   "interactive": 71,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 1
+  },
+  {
+   "id": "005",
+   "vp": "desktop",
+   "label": "Email notifications",
+   "trigger": "click: button \"Email notifications\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "005-desktop-Email-notifications-s0.png",
+    "005-desktop-Email-notifications-s1.png",
+    "005-desktop-Email-notifications-s2.png"
+   ],
+   "text": "005-desktop-Email-notifications.txt",
+   "dom": "005-desktop-Email-notifications.json",
+   "interactive": 69,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 1
+  },
+  {
+   "id": "006",
+   "vp": "desktop",
+   "label": "Help",
+   "trigger": "click: button \"Help\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "006-desktop-Help-s0.png",
+    "006-desktop-Help-s1.png",
+    "006-desktop-Help-s2.png"
+   ],
+   "text": "006-desktop-Help.txt",
+   "dom": "006-desktop-Help.json",
+   "interactive": 73,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 1
+  },
+  {
+   "id": "007",
+   "vp": "desktop",
+   "label": "Light Mode",
+   "trigger": "click: button \"Light Mode\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "007-desktop-Light-Mode-s0.png",
+    "007-desktop-Light-Mode-s1.png",
+    "007-desktop-Light-Mode-s2.png"
+   ],
+   "text": "007-desktop-Light-Mode.txt",
+   "dom": "007-desktop-Light-Mode.json",
+   "interactive": 67,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "008",
+   "vp": "desktop",
+   "label": "Default (PD)",
+   "trigger": "click: button \"Default (PD)\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "008-desktop-Default-PD-s0.png",
+    "008-desktop-Default-PD-s1.png",
+    "008-desktop-Default-PD-s2.png"
+   ],
+   "text": "008-desktop-Default-PD.txt",
+   "dom": "008-desktop-Default-PD.json",
+   "interactive": 67,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "009",
+   "vp": "desktop",
+   "label": "Q3 2026",
+   "trigger": "click: button \"Q3 2026\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "009-desktop-Q3-2026-s0.png",
+    "009-desktop-Q3-2026-s1.png",
+    "009-desktop-Q3-2026-s2.png"
+   ],
+   "text": "009-desktop-Q3-2026.txt",
+   "dom": "009-desktop-Q3-2026.json",
+   "interactive": 67,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "010",
+   "vp": "desktop",
+   "label": "Risk bars",
+   "trigger": "click: button \"Risk bars\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "010-desktop-Risk-bars-s0.png",
+    "010-desktop-Risk-bars-s1.png",
+    "010-desktop-Risk-bars-s2.png"
+   ],
+   "text": "010-desktop-Risk-bars.txt",
+   "dom": "010-desktop-Risk-bars.json",
+   "interactive": 67,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "011",
+   "vp": "desktop",
+   "label": "Over time",
+   "trigger": "click: button \"Over time\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "011-desktop-Over-time-s0.png",
+    "011-desktop-Over-time-s1.png",
+    "011-desktop-Over-time-s2.png"
+   ],
+   "text": "011-desktop-Over-time.txt",
+   "dom": "011-desktop-Over-time.json",
+   "interactive": 68,
+   "charts": 2,
+   "tables": 1,
+   "dialogs": 0
+  },
+  {
+   "id": "012",
+   "vp": "desktop",
+   "label": "All 33",
+   "trigger": "click: button \"All 33\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "012-desktop-All-33-s0.png",
+    "012-desktop-All-33-s1.png",
+    "012-desktop-All-33-s2.png"
+   ],
+   "text": "012-desktop-All-33.txt",
+   "dom": "012-desktop-All-33.json",
+   "interactive": 67,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "013",
+   "vp": "desktop",
+   "label": "ETH Based 7",
+   "trigger": "click: button \"ETH Based 7\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "013-desktop-ETH-Based-7-s0.png",
+    "013-desktop-ETH-Based-7-s1.png",
+    "013-desktop-ETH-Based-7-s2.png"
+   ],
+   "text": "013-desktop-ETH-Based-7.txt",
+   "dom": "013-desktop-ETH-Based-7.json",
+   "interactive": 67,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "014",
+   "vp": "desktop",
+   "label": "USD Based 13",
+   "trigger": "click: button \"USD Based 13\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "014-desktop-USD-Based-13-s0.png",
+    "014-desktop-USD-Based-13-s1.png",
+    "014-desktop-USD-Based-13-s2.png"
+   ],
+   "text": "014-desktop-USD-Based-13.txt",
+   "dom": "014-desktop-USD-Based-13.json",
+   "interactive": 67,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "015",
+   "vp": "desktop",
+   "label": "BTC Based 6",
+   "trigger": "click: button \"BTC Based 6\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "015-desktop-BTC-Based-6-s0.png",
+    "015-desktop-BTC-Based-6-s1.png",
+    "015-desktop-BTC-Based-6-s2.png"
+   ],
+   "text": "015-desktop-BTC-Based-6.txt",
+   "dom": "015-desktop-BTC-Based-6.json",
+   "interactive": 67,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "016",
+   "vp": "desktop",
+   "label": "Funds Based 7",
+   "trigger": "click: button \"Funds Based 7\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "016-desktop-Funds-Based-7-s0.png",
+    "016-desktop-Funds-Based-7-s1.png",
+    "016-desktop-Funds-Based-7-s2.png"
+   ],
+   "text": "016-desktop-Funds-Based-7.txt",
+   "dom": "016-desktop-Funds-Based-7.json",
+   "interactive": 67,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "017",
+   "vp": "desktop",
+   "label": "weETH",
+   "trigger": "click: button \"weETH\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "017-desktop-weETH-s0.png",
+    "017-desktop-weETH-s1.png",
+    "017-desktop-weETH-s2.png"
+   ],
+   "text": "017-desktop-weETH.txt",
+   "dom": "017-desktop-weETH.json",
+   "interactive": 67,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "018",
+   "vp": "desktop",
+   "label": "stETH",
+   "trigger": "click: button \"stETH\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "018-desktop-stETH-s0.png",
+    "018-desktop-stETH-s1.png",
+    "018-desktop-stETH-s2.png"
+   ],
+   "text": "018-desktop-stETH.txt",
+   "dom": "018-desktop-stETH.json",
+   "interactive": 67,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "019",
+   "vp": "desktop",
+   "label": "ETH+",
+   "trigger": "click: button \"ETH+\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "019-desktop-ETH-s0.png",
+    "019-desktop-ETH-s1.png",
+    "019-desktop-ETH-s2.png"
+   ],
+   "text": "019-desktop-ETH.txt",
+   "dom": "019-desktop-ETH.json",
+   "interactive": 67,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "020",
+   "vp": "desktop",
+   "label": "bsdETH",
+   "trigger": "click: button \"bsdETH\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "020-desktop-bsdETH-s0.png",
+    "020-desktop-bsdETH-s1.png",
+    "020-desktop-bsdETH-s2.png"
+   ],
+   "text": "020-desktop-bsdETH.txt",
+   "dom": "020-desktop-bsdETH.json",
+   "interactive": 67,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "021",
+   "vp": "desktop",
+   "label": "rETH",
+   "trigger": "click: button \"rETH\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "021-desktop-rETH-s0.png",
+    "021-desktop-rETH-s1.png",
+    "021-desktop-rETH-s2.png"
+   ],
+   "text": "021-desktop-rETH.txt",
+   "dom": "021-desktop-rETH.json",
+   "interactive": 67,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "022",
+   "vp": "desktop",
+   "label": "pufETH",
+   "trigger": "click: button \"pufETH\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "022-desktop-pufETH-s0.png",
+    "022-desktop-pufETH-s1.png",
+    "022-desktop-pufETH-s2.png"
+   ],
+   "text": "022-desktop-pufETH.txt",
+   "dom": "022-desktop-pufETH.json",
+   "interactive": 67,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "023",
+   "vp": "desktop",
+   "label": "avETH",
+   "trigger": "click: button \"avETH\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "023-desktop-avETH-s0.png",
+    "023-desktop-avETH-s1.png",
+    "023-desktop-avETH-s2.png"
+   ],
+   "text": "023-desktop-avETH.txt",
+   "dom": "023-desktop-avETH.json",
+   "interactive": 67,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "024",
+   "vp": "desktop",
+   "label": "PYUSD",
+   "trigger": "click: button \"PYUSD\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "024-desktop-PYUSD-s0.png",
+    "024-desktop-PYUSD-s1.png",
+    "024-desktop-PYUSD-s2.png"
+   ],
+   "text": "024-desktop-PYUSD.txt",
+   "dom": "024-desktop-PYUSD.json",
+   "interactive": 67,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "025",
+   "vp": "desktop",
+   "label": "RLUSD",
+   "trigger": "click: button \"RLUSD\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "025-desktop-RLUSD-s0.png",
+    "025-desktop-RLUSD-s1.png",
+    "025-desktop-RLUSD-s2.png"
+   ],
+   "text": "025-desktop-RLUSD.txt",
+   "dom": "025-desktop-RLUSD.json",
+   "interactive": 67,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "026",
+   "vp": "desktop",
+   "label": "USDC",
+   "trigger": "click: button \"USDC\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "026-desktop-USDC-s0.png",
+    "026-desktop-USDC-s1.png",
+    "026-desktop-USDC-s2.png"
+   ],
+   "text": "026-desktop-USDC.txt",
+   "dom": "026-desktop-USDC.json",
+   "interactive": 67,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "027",
+   "vp": "desktop",
+   "label": "USD1",
+   "trigger": "click: button \"USD1\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "027-desktop-USD1-s0.png",
+    "027-desktop-USD1-s1.png",
+    "027-desktop-USD1-s2.png"
+   ],
+   "text": "027-desktop-USD1.txt",
+   "dom": "027-desktop-USD1.json",
+   "interactive": 67,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "028",
+   "vp": "desktop",
+   "label": "USDS",
+   "trigger": "click: button \"USDS\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "028-desktop-USDS-s0.png",
+    "028-desktop-USDS-s1.png",
+    "028-desktop-USDS-s2.png"
+   ],
+   "text": "028-desktop-USDS.txt",
+   "dom": "028-desktop-USDS.json",
+   "interactive": 67,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "029",
+   "vp": "desktop",
+   "label": "USDT",
+   "trigger": "click: button \"USDT\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "029-desktop-USDT-s0.png",
+    "029-desktop-USDT-s1.png",
+    "029-desktop-USDT-s2.png"
+   ],
+   "text": "029-desktop-USDT.txt",
+   "dom": "029-desktop-USDT.json",
+   "interactive": 67,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "030",
+   "vp": "desktop",
+   "label": "RUSD",
+   "trigger": "click: button \"RUSD\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "030-desktop-RUSD-s0.png",
+    "030-desktop-RUSD-s1.png",
+    "030-desktop-RUSD-s2.png"
+   ],
+   "text": "030-desktop-RUSD.txt",
+   "dom": "030-desktop-RUSD.json",
+   "interactive": 67,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "031",
+   "vp": "desktop",
+   "label": "USDF",
+   "trigger": "click: button \"USDF\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "031-desktop-USDF-s0.png",
+    "031-desktop-USDF-s1.png",
+    "031-desktop-USDF-s2.png"
+   ],
+   "text": "031-desktop-USDF.txt",
+   "dom": "031-desktop-USDF.json",
+   "interactive": 67,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "032",
+   "vp": "desktop",
+   "label": "avUSD",
+   "trigger": "click: button \"avUSD\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "032-desktop-avUSD-s0.png",
+    "032-desktop-avUSD-s1.png",
+    "032-desktop-avUSD-s2.png"
+   ],
+   "text": "032-desktop-avUSD.txt",
+   "dom": "032-desktop-avUSD.json",
+   "interactive": 67,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "033",
+   "vp": "desktop",
+   "label": "NUSD",
+   "trigger": "click: button \"NUSD\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "033-desktop-NUSD-s0.png",
+    "033-desktop-NUSD-s1.png",
+    "033-desktop-NUSD-s2.png"
+   ],
+   "text": "033-desktop-NUSD.txt",
+   "dom": "033-desktop-NUSD.json",
+   "interactive": 67,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "034",
+   "vp": "desktop",
+   "label": "iUSD",
+   "trigger": "click: button \"iUSD\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "034-desktop-iUSD-s0.png",
+    "034-desktop-iUSD-s1.png",
+    "034-desktop-iUSD-s2.png"
+   ],
+   "text": "034-desktop-iUSD.txt",
+   "dom": "034-desktop-iUSD.json",
+   "interactive": 67,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "035",
+   "vp": "desktop",
+   "label": "satUSD+",
+   "trigger": "click: button \"satUSD+\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "035-desktop-satUSD-s0.png",
+    "035-desktop-satUSD-s1.png",
+    "035-desktop-satUSD-s2.png"
+   ],
+   "text": "035-desktop-satUSD.txt",
+   "dom": "035-desktop-satUSD.json",
+   "interactive": 67,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "036",
+   "vp": "desktop",
+   "label": "USDO",
+   "trigger": "click: button \"USDO\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "036-desktop-USDO-s0.png",
+    "036-desktop-USDO-s1.png",
+    "036-desktop-USDO-s2.png"
+   ],
+   "text": "036-desktop-USDO.txt",
+   "dom": "036-desktop-USDO.json",
+   "interactive": 67,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "037",
+   "vp": "desktop",
+   "label": "BTCB",
+   "trigger": "click: button \"BTCB\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "037-desktop-BTCB-s0.png",
+    "037-desktop-BTCB-s1.png",
+    "037-desktop-BTCB-s2.png"
+   ],
+   "text": "037-desktop-BTCB.txt",
+   "dom": "037-desktop-BTCB.json",
+   "interactive": 67,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "038",
+   "vp": "desktop",
+   "label": "solvBTC",
+   "trigger": "click: button \"solvBTC\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "038-desktop-solvBTC-s0.png",
+    "038-desktop-solvBTC-s1.png",
+    "038-desktop-solvBTC-s2.png"
+   ],
+   "text": "038-desktop-solvBTC.txt",
+   "dom": "038-desktop-solvBTC.json",
+   "interactive": 67,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "039",
+   "vp": "desktop",
+   "label": "tBTC",
+   "trigger": "click: button \"tBTC\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "039-desktop-tBTC-s0.png",
+    "039-desktop-tBTC-s1.png",
+    "039-desktop-tBTC-s2.png"
+   ],
+   "text": "039-desktop-tBTC.txt",
+   "dom": "039-desktop-tBTC.json",
+   "interactive": 67,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "040",
+   "vp": "desktop",
+   "label": "cbBTC",
+   "trigger": "click: button \"cbBTC\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "040-desktop-cbBTC-s0.png",
+    "040-desktop-cbBTC-s1.png",
+    "040-desktop-cbBTC-s2.png"
+   ],
+   "text": "040-desktop-cbBTC.txt",
+   "dom": "040-desktop-cbBTC.json",
+   "interactive": 67,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "041",
+   "vp": "desktop",
+   "label": "LBTC",
+   "trigger": "click: button \"LBTC\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "041-desktop-LBTC-s0.png",
+    "041-desktop-LBTC-s1.png",
+    "041-desktop-LBTC-s2.png"
+   ],
+   "text": "041-desktop-LBTC.txt",
+   "dom": "041-desktop-LBTC.json",
+   "interactive": 67,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "042",
+   "vp": "desktop",
+   "label": "UBTC",
+   "trigger": "click: button \"UBTC\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "042-desktop-UBTC-s0.png",
+    "042-desktop-UBTC-s1.png",
+    "042-desktop-UBTC-s2.png"
+   ],
+   "text": "042-desktop-UBTC.txt",
+   "dom": "042-desktop-UBTC.json",
+   "interactive": 67,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "043",
+   "vp": "mobile",
+   "label": "/",
+   "trigger": "page load",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "043-mobile--s0.png",
+    "043-mobile--s1.png",
+    "043-mobile--s2.png",
+    "043-mobile--s3.png",
+    "043-mobile--s4.png"
+   ],
+   "text": "043-mobile-.txt",
+   "dom": "043-mobile-.json",
+   "interactive": 63,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "044",
+   "vp": "mobile",
+   "label": "Open menu",
+   "trigger": "click: button \"Open menu\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "044-mobile-Open-menu-s0.png",
+    "044-mobile-Open-menu-s1.png",
+    "044-mobile-Open-menu-s2.png",
+    "044-mobile-Open-menu-s3.png",
+    "044-mobile-Open-menu-s4.png"
+   ],
+   "text": "044-mobile-Open-menu.txt",
+   "dom": "044-mobile-Open-menu.json",
+   "interactive": 71,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 1
+  },
+  {
+   "id": "045",
+   "vp": "mobile",
+   "label": "Default (PD)",
+   "trigger": "click: button \"Default (PD)\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "045-mobile-Default-PD-s0.png",
+    "045-mobile-Default-PD-s1.png",
+    "045-mobile-Default-PD-s2.png",
+    "045-mobile-Default-PD-s3.png",
+    "045-mobile-Default-PD-s4.png"
+   ],
+   "text": "045-mobile-Default-PD.txt",
+   "dom": "045-mobile-Default-PD.json",
+   "interactive": 63,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "046",
+   "vp": "mobile",
+   "label": "Q3 2026",
+   "trigger": "click: button \"Q3 2026\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "046-mobile-Q3-2026-s0.png",
+    "046-mobile-Q3-2026-s1.png",
+    "046-mobile-Q3-2026-s2.png",
+    "046-mobile-Q3-2026-s3.png",
+    "046-mobile-Q3-2026-s4.png"
+   ],
+   "text": "046-mobile-Q3-2026.txt",
+   "dom": "046-mobile-Q3-2026.json",
+   "interactive": 63,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "047",
+   "vp": "mobile",
+   "label": "Risk bars",
+   "trigger": "click: button \"Risk bars\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "047-mobile-Risk-bars-s0.png",
+    "047-mobile-Risk-bars-s1.png",
+    "047-mobile-Risk-bars-s2.png",
+    "047-mobile-Risk-bars-s3.png",
+    "047-mobile-Risk-bars-s4.png"
+   ],
+   "text": "047-mobile-Risk-bars.txt",
+   "dom": "047-mobile-Risk-bars.json",
+   "interactive": 63,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "048",
+   "vp": "mobile",
+   "label": "Over time",
+   "trigger": "click: button \"Over time\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "048-mobile-Over-time-s0.png",
+    "048-mobile-Over-time-s1.png",
+    "048-mobile-Over-time-s2.png",
+    "048-mobile-Over-time-s3.png"
+   ],
+   "text": "048-mobile-Over-time.txt",
+   "dom": "048-mobile-Over-time.json",
+   "interactive": 64,
+   "charts": 2,
+   "tables": 1,
+   "dialogs": 0
+  },
+  {
+   "id": "049",
+   "vp": "mobile",
+   "label": "Over time hover chart",
+   "trigger": "hover chart",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "049-mobile-Over-time-hover-chart-s0.png",
+    "049-mobile-Over-time-hover-chart-s1.png",
+    "049-mobile-Over-time-hover-chart-s2.png",
+    "049-mobile-Over-time-hover-chart-s3.png"
+   ],
+   "text": "049-mobile-Over-time-hover-chart.txt",
+   "dom": "049-mobile-Over-time-hover-chart.json",
+   "interactive": 64,
+   "charts": 2,
+   "tables": 1,
+   "dialogs": 0
+  },
+  {
+   "id": "050",
+   "vp": "mobile",
+   "label": "All 33",
+   "trigger": "click: button \"All 33\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "050-mobile-All-33-s0.png",
+    "050-mobile-All-33-s1.png",
+    "050-mobile-All-33-s2.png",
+    "050-mobile-All-33-s3.png",
+    "050-mobile-All-33-s4.png"
+   ],
+   "text": "050-mobile-All-33.txt",
+   "dom": "050-mobile-All-33.json",
+   "interactive": 63,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "051",
+   "vp": "mobile",
+   "label": "ETH Based 7",
+   "trigger": "click: button \"ETH Based 7\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "051-mobile-ETH-Based-7-s0.png",
+    "051-mobile-ETH-Based-7-s1.png",
+    "051-mobile-ETH-Based-7-s2.png",
+    "051-mobile-ETH-Based-7-s3.png",
+    "051-mobile-ETH-Based-7-s4.png"
+   ],
+   "text": "051-mobile-ETH-Based-7.txt",
+   "dom": "051-mobile-ETH-Based-7.json",
+   "interactive": 63,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "052",
+   "vp": "mobile",
+   "label": "USD Based 13",
+   "trigger": "click: button \"USD Based 13\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "052-mobile-USD-Based-13-s0.png",
+    "052-mobile-USD-Based-13-s1.png",
+    "052-mobile-USD-Based-13-s2.png",
+    "052-mobile-USD-Based-13-s3.png",
+    "052-mobile-USD-Based-13-s4.png"
+   ],
+   "text": "052-mobile-USD-Based-13.txt",
+   "dom": "052-mobile-USD-Based-13.json",
+   "interactive": 63,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "053",
+   "vp": "mobile",
+   "label": "BTC Based 6",
+   "trigger": "click: button \"BTC Based 6\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "053-mobile-BTC-Based-6-s0.png",
+    "053-mobile-BTC-Based-6-s1.png",
+    "053-mobile-BTC-Based-6-s2.png",
+    "053-mobile-BTC-Based-6-s3.png"
+   ],
+   "text": "053-mobile-BTC-Based-6.txt",
+   "dom": "053-mobile-BTC-Based-6.json",
+   "interactive": 63,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "054",
+   "vp": "mobile",
+   "label": "Funds Based 7",
+   "trigger": "click: button \"Funds Based 7\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "054-mobile-Funds-Based-7-s0.png",
+    "054-mobile-Funds-Based-7-s1.png",
+    "054-mobile-Funds-Based-7-s2.png",
+    "054-mobile-Funds-Based-7-s3.png",
+    "054-mobile-Funds-Based-7-s4.png"
+   ],
+   "text": "054-mobile-Funds-Based-7.txt",
+   "dom": "054-mobile-Funds-Based-7.json",
+   "interactive": 63,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "055",
+   "vp": "mobile",
+   "label": "weETH",
+   "trigger": "click: button \"weETH\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "055-mobile-weETH-s0.png",
+    "055-mobile-weETH-s1.png",
+    "055-mobile-weETH-s2.png",
+    "055-mobile-weETH-s3.png",
+    "055-mobile-weETH-s4.png"
+   ],
+   "text": "055-mobile-weETH.txt",
+   "dom": "055-mobile-weETH.json",
+   "interactive": 63,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "056",
+   "vp": "mobile",
+   "label": "stETH",
+   "trigger": "click: button \"stETH\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "056-mobile-stETH-s0.png",
+    "056-mobile-stETH-s1.png",
+    "056-mobile-stETH-s2.png",
+    "056-mobile-stETH-s3.png",
+    "056-mobile-stETH-s4.png"
+   ],
+   "text": "056-mobile-stETH.txt",
+   "dom": "056-mobile-stETH.json",
+   "interactive": 63,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "057",
+   "vp": "mobile",
+   "label": "ETH+",
+   "trigger": "click: button \"ETH+\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "057-mobile-ETH-s0.png",
+    "057-mobile-ETH-s1.png",
+    "057-mobile-ETH-s2.png",
+    "057-mobile-ETH-s3.png",
+    "057-mobile-ETH-s4.png"
+   ],
+   "text": "057-mobile-ETH.txt",
+   "dom": "057-mobile-ETH.json",
+   "interactive": 63,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "058",
+   "vp": "mobile",
+   "label": "bsdETH",
+   "trigger": "click: button \"bsdETH\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "058-mobile-bsdETH-s0.png",
+    "058-mobile-bsdETH-s1.png",
+    "058-mobile-bsdETH-s2.png",
+    "058-mobile-bsdETH-s3.png",
+    "058-mobile-bsdETH-s4.png"
+   ],
+   "text": "058-mobile-bsdETH.txt",
+   "dom": "058-mobile-bsdETH.json",
+   "interactive": 63,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "059",
+   "vp": "mobile",
+   "label": "rETH",
+   "trigger": "click: button \"rETH\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "059-mobile-rETH-s0.png",
+    "059-mobile-rETH-s1.png",
+    "059-mobile-rETH-s2.png",
+    "059-mobile-rETH-s3.png",
+    "059-mobile-rETH-s4.png"
+   ],
+   "text": "059-mobile-rETH.txt",
+   "dom": "059-mobile-rETH.json",
+   "interactive": 63,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "060",
+   "vp": "mobile",
+   "label": "pufETH",
+   "trigger": "click: button \"pufETH\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "060-mobile-pufETH-s0.png",
+    "060-mobile-pufETH-s1.png",
+    "060-mobile-pufETH-s2.png",
+    "060-mobile-pufETH-s3.png",
+    "060-mobile-pufETH-s4.png"
+   ],
+   "text": "060-mobile-pufETH.txt",
+   "dom": "060-mobile-pufETH.json",
+   "interactive": 63,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "061",
+   "vp": "mobile",
+   "label": "avETH",
+   "trigger": "click: button \"avETH\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "061-mobile-avETH-s0.png",
+    "061-mobile-avETH-s1.png",
+    "061-mobile-avETH-s2.png",
+    "061-mobile-avETH-s3.png",
+    "061-mobile-avETH-s4.png"
+   ],
+   "text": "061-mobile-avETH.txt",
+   "dom": "061-mobile-avETH.json",
+   "interactive": 63,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "062",
+   "vp": "mobile",
+   "label": "PYUSD",
+   "trigger": "click: button \"PYUSD\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "062-mobile-PYUSD-s0.png",
+    "062-mobile-PYUSD-s1.png",
+    "062-mobile-PYUSD-s2.png",
+    "062-mobile-PYUSD-s3.png",
+    "062-mobile-PYUSD-s4.png"
+   ],
+   "text": "062-mobile-PYUSD.txt",
+   "dom": "062-mobile-PYUSD.json",
+   "interactive": 63,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "063",
+   "vp": "mobile",
+   "label": "RLUSD",
+   "trigger": "click: button \"RLUSD\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "063-mobile-RLUSD-s0.png",
+    "063-mobile-RLUSD-s1.png",
+    "063-mobile-RLUSD-s2.png",
+    "063-mobile-RLUSD-s3.png",
+    "063-mobile-RLUSD-s4.png"
+   ],
+   "text": "063-mobile-RLUSD.txt",
+   "dom": "063-mobile-RLUSD.json",
+   "interactive": 63,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "064",
+   "vp": "mobile",
+   "label": "USDC",
+   "trigger": "click: button \"USDC\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "064-mobile-USDC-s0.png",
+    "064-mobile-USDC-s1.png",
+    "064-mobile-USDC-s2.png",
+    "064-mobile-USDC-s3.png",
+    "064-mobile-USDC-s4.png"
+   ],
+   "text": "064-mobile-USDC.txt",
+   "dom": "064-mobile-USDC.json",
+   "interactive": 63,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "065",
+   "vp": "mobile",
+   "label": "USD1",
+   "trigger": "click: button \"USD1\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "065-mobile-USD1-s0.png",
+    "065-mobile-USD1-s1.png",
+    "065-mobile-USD1-s2.png",
+    "065-mobile-USD1-s3.png",
+    "065-mobile-USD1-s4.png"
+   ],
+   "text": "065-mobile-USD1.txt",
+   "dom": "065-mobile-USD1.json",
+   "interactive": 63,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "066",
+   "vp": "mobile",
+   "label": "USDS",
+   "trigger": "click: button \"USDS\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "066-mobile-USDS-s0.png",
+    "066-mobile-USDS-s1.png",
+    "066-mobile-USDS-s2.png",
+    "066-mobile-USDS-s3.png",
+    "066-mobile-USDS-s4.png"
+   ],
+   "text": "066-mobile-USDS.txt",
+   "dom": "066-mobile-USDS.json",
+   "interactive": 63,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "067",
+   "vp": "mobile",
+   "label": "USDT",
+   "trigger": "click: button \"USDT\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "067-mobile-USDT-s0.png",
+    "067-mobile-USDT-s1.png",
+    "067-mobile-USDT-s2.png",
+    "067-mobile-USDT-s3.png",
+    "067-mobile-USDT-s4.png"
+   ],
+   "text": "067-mobile-USDT.txt",
+   "dom": "067-mobile-USDT.json",
+   "interactive": 63,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "068",
+   "vp": "mobile",
+   "label": "RUSD",
+   "trigger": "click: button \"RUSD\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "068-mobile-RUSD-s0.png",
+    "068-mobile-RUSD-s1.png",
+    "068-mobile-RUSD-s2.png",
+    "068-mobile-RUSD-s3.png",
+    "068-mobile-RUSD-s4.png"
+   ],
+   "text": "068-mobile-RUSD.txt",
+   "dom": "068-mobile-RUSD.json",
+   "interactive": 63,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "069",
+   "vp": "mobile",
+   "label": "USDF",
+   "trigger": "click: button \"USDF\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "069-mobile-USDF-s0.png",
+    "069-mobile-USDF-s1.png",
+    "069-mobile-USDF-s2.png",
+    "069-mobile-USDF-s3.png",
+    "069-mobile-USDF-s4.png"
+   ],
+   "text": "069-mobile-USDF.txt",
+   "dom": "069-mobile-USDF.json",
+   "interactive": 63,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "070",
+   "vp": "mobile",
+   "label": "avUSD",
+   "trigger": "click: button \"avUSD\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "070-mobile-avUSD-s0.png",
+    "070-mobile-avUSD-s1.png",
+    "070-mobile-avUSD-s2.png",
+    "070-mobile-avUSD-s3.png",
+    "070-mobile-avUSD-s4.png"
+   ],
+   "text": "070-mobile-avUSD.txt",
+   "dom": "070-mobile-avUSD.json",
+   "interactive": 63,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "071",
+   "vp": "mobile",
+   "label": "NUSD",
+   "trigger": "click: button \"NUSD\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "071-mobile-NUSD-s0.png",
+    "071-mobile-NUSD-s1.png",
+    "071-mobile-NUSD-s2.png",
+    "071-mobile-NUSD-s3.png",
+    "071-mobile-NUSD-s4.png"
+   ],
+   "text": "071-mobile-NUSD.txt",
+   "dom": "071-mobile-NUSD.json",
+   "interactive": 63,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "072",
+   "vp": "mobile",
+   "label": "iUSD",
+   "trigger": "click: button \"iUSD\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "072-mobile-iUSD-s0.png",
+    "072-mobile-iUSD-s1.png",
+    "072-mobile-iUSD-s2.png",
+    "072-mobile-iUSD-s3.png",
+    "072-mobile-iUSD-s4.png"
+   ],
+   "text": "072-mobile-iUSD.txt",
+   "dom": "072-mobile-iUSD.json",
+   "interactive": 63,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "073",
+   "vp": "mobile",
+   "label": "satUSD+",
+   "trigger": "click: button \"satUSD+\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "073-mobile-satUSD-s0.png",
+    "073-mobile-satUSD-s1.png",
+    "073-mobile-satUSD-s2.png",
+    "073-mobile-satUSD-s3.png",
+    "073-mobile-satUSD-s4.png"
+   ],
+   "text": "073-mobile-satUSD.txt",
+   "dom": "073-mobile-satUSD.json",
+   "interactive": 63,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "074",
+   "vp": "mobile",
+   "label": "USDO",
+   "trigger": "click: button \"USDO\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "074-mobile-USDO-s0.png",
+    "074-mobile-USDO-s1.png",
+    "074-mobile-USDO-s2.png",
+    "074-mobile-USDO-s3.png",
+    "074-mobile-USDO-s4.png"
+   ],
+   "text": "074-mobile-USDO.txt",
+   "dom": "074-mobile-USDO.json",
+   "interactive": 63,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "075",
+   "vp": "mobile",
+   "label": "BTCB",
+   "trigger": "click: button \"BTCB\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "075-mobile-BTCB-s0.png",
+    "075-mobile-BTCB-s1.png",
+    "075-mobile-BTCB-s2.png",
+    "075-mobile-BTCB-s3.png",
+    "075-mobile-BTCB-s4.png"
+   ],
+   "text": "075-mobile-BTCB.txt",
+   "dom": "075-mobile-BTCB.json",
+   "interactive": 63,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "076",
+   "vp": "mobile",
+   "label": "solvBTC",
+   "trigger": "click: button \"solvBTC\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "076-mobile-solvBTC-s0.png",
+    "076-mobile-solvBTC-s1.png",
+    "076-mobile-solvBTC-s2.png",
+    "076-mobile-solvBTC-s3.png",
+    "076-mobile-solvBTC-s4.png"
+   ],
+   "text": "076-mobile-solvBTC.txt",
+   "dom": "076-mobile-solvBTC.json",
+   "interactive": 63,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "077",
+   "vp": "mobile",
+   "label": "tBTC",
+   "trigger": "click: button \"tBTC\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "077-mobile-tBTC-s0.png",
+    "077-mobile-tBTC-s1.png",
+    "077-mobile-tBTC-s2.png",
+    "077-mobile-tBTC-s3.png",
+    "077-mobile-tBTC-s4.png"
+   ],
+   "text": "077-mobile-tBTC.txt",
+   "dom": "077-mobile-tBTC.json",
+   "interactive": 63,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "078",
+   "vp": "mobile",
+   "label": "cbBTC",
+   "trigger": "click: button \"cbBTC\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "078-mobile-cbBTC-s0.png",
+    "078-mobile-cbBTC-s1.png",
+    "078-mobile-cbBTC-s2.png",
+    "078-mobile-cbBTC-s3.png",
+    "078-mobile-cbBTC-s4.png"
+   ],
+   "text": "078-mobile-cbBTC.txt",
+   "dom": "078-mobile-cbBTC.json",
+   "interactive": 63,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "079",
+   "vp": "mobile",
+   "label": "LBTC",
+   "trigger": "click: button \"LBTC\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "079-mobile-LBTC-s0.png",
+    "079-mobile-LBTC-s1.png",
+    "079-mobile-LBTC-s2.png",
+    "079-mobile-LBTC-s3.png",
+    "079-mobile-LBTC-s4.png"
+   ],
+   "text": "079-mobile-LBTC.txt",
+   "dom": "079-mobile-LBTC.json",
+   "interactive": 63,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "080",
+   "vp": "mobile",
+   "label": "UBTC",
+   "trigger": "click: button \"UBTC\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "080-mobile-UBTC-s0.png",
+    "080-mobile-UBTC-s1.png",
+    "080-mobile-UBTC-s2.png",
+    "080-mobile-UBTC-s3.png",
+    "080-mobile-UBTC-s4.png"
+   ],
+   "text": "080-mobile-UBTC.txt",
+   "dom": "080-mobile-UBTC.json",
+   "interactive": 63,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "081",
+   "vp": "mobile",
+   "label": "GACLO-1",
+   "trigger": "click: button \"GACLO-1\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "081-mobile-GACLO-1-s0.png",
+    "081-mobile-GACLO-1-s1.png",
+    "081-mobile-GACLO-1-s2.png",
+    "081-mobile-GACLO-1-s3.png",
+    "081-mobile-GACLO-1-s4.png"
+   ],
+   "text": "081-mobile-GACLO-1.txt",
+   "dom": "081-mobile-GACLO-1.json",
+   "interactive": 63,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "082",
+   "vp": "mobile",
+   "label": "BUIDL-I",
+   "trigger": "click: button \"BUIDL-I\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "082-mobile-BUIDL-I-s0.png",
+    "082-mobile-BUIDL-I-s1.png",
+    "082-mobile-BUIDL-I-s2.png",
+    "082-mobile-BUIDL-I-s3.png",
+    "082-mobile-BUIDL-I-s4.png"
+   ],
+   "text": "082-mobile-BUIDL-I.txt",
+   "dom": "082-mobile-BUIDL-I.json",
+   "interactive": 63,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "083",
+   "vp": "mobile",
+   "label": "JAAA",
+   "trigger": "click: button \"JAAA\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "083-mobile-JAAA-s0.png",
+    "083-mobile-JAAA-s1.png",
+    "083-mobile-JAAA-s2.png",
+    "083-mobile-JAAA-s3.png",
+    "083-mobile-JAAA-s4.png"
+   ],
+   "text": "083-mobile-JAAA.txt",
+   "dom": "083-mobile-JAAA.json",
+   "interactive": 63,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "084",
+   "vp": "mobile",
+   "label": "JTRSY",
+   "trigger": "click: button \"JTRSY\" on /",
+   "url": "https://risk.seer.pm/",
+   "title": "Foresight | Kleros",
+   "shots": [
+    "084-mobile-JTRSY-s0.png",
+    "084-mobile-JTRSY-s1.png",
+    "084-mobile-JTRSY-s2.png",
+    "084-mobile-JTRSY-s3.png",
+    "084-mobile-JTRSY-s4.png"
+   ],
+   "text": "084-mobile-JTRSY.txt",
+   "dom": "084-mobile-JTRSY.json",
+   "interactive": 63,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  }
+ ],
+ "transitions": [
+  {
+   "from": "https://risk.seer.pm",
+   "via": "Kleros",
+   "to": "https://kleros.io/",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "Check it out",
+   "to": "https://app.seer.pm/markets/100/0xc84786B06390F11dED0DD362E27Fc881B540e6F2",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "Secured by Kleros",
+   "to": "https://kleros.io",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "Telegram",
+   "to": "https://t.me/+HrYn_tzqTGFlYTc0",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "X",
+   "to": "https://x.com/kleros_io",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "GitHub",
+   "to": "https://github.com/kleros/futarchy-ui",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: Guide",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "002",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: Account details",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "004",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: Email notifications",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "005",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: Help",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "006",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: Light Mode",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "007",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: Default (PD)",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "008",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: Q3 2026",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "009",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: Risk bars",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "010",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: Over time",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "011",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: All 33",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "012",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: ETH Based 7",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "013",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: USD Based 13",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "014",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: BTC Based 6",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "015",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: Funds Based 7",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "016",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: weETH",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "017",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: stETH",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "018",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: ETH+",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "019",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: bsdETH",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "020",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: rETH",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "021",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: pufETH",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "022",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: avETH",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "023",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: PYUSD",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "024",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: RLUSD",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "025",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: USDC",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "026",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: USD1",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "027",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: USDS",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "028",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: USDT",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "029",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: RUSD",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "030",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: USDF",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "031",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: avUSD",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "032",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: NUSD",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "033",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: iUSD",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "034",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: satUSD+",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "035",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: USDO",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "036",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: BTCB",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "037",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: solvBTC",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "038",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: tBTC",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "039",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: cbBTC",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "040",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: LBTC",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "041",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: UBTC",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "042",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "Kleros",
+   "to": "https://kleros.io/",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "Check it out",
+   "to": "https://app.seer.pm/markets/100/0xc84786B06390F11dED0DD362E27Fc881B540e6F2",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "Secured by Kleros",
+   "to": "https://kleros.io",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "Telegram",
+   "to": "https://t.me/+HrYn_tzqTGFlYTc0",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "X",
+   "to": "https://x.com/kleros_io",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "GitHub",
+   "to": "https://github.com/kleros/futarchy-ui",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: Guide",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: Account details",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: Email notifications",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: Help",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: Light Mode",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: Default (PD)",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: Q3 2026",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: Risk bars",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: Over time",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: All 33",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: ETH Based 7",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: USD Based 13",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: BTC Based 6",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: Funds Based 7",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: weETH",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: stETH",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: ETH+",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: bsdETH",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: rETH",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: pufETH",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: avETH",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: PYUSD",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: RLUSD",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: USDC",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: USD1",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: USDS",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: USDT",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: RUSD",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: USDF",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: avUSD",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: NUSD",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: iUSD",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: satUSD+",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: USDO",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: BTCB",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: solvBTC",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: tBTC",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: cbBTC",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: LBTC",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: UBTC",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "Kleros",
+   "to": "https://kleros.io/",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "Check it out",
+   "to": "https://app.seer.pm/markets/100/0xc84786B06390F11dED0DD362E27Fc881B540e6F2",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "Secured by Kleros",
+   "to": "https://kleros.io",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "Telegram",
+   "to": "https://t.me/+HrYn_tzqTGFlYTc0",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "X",
+   "to": "https://x.com/kleros_io",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "GitHub",
+   "to": "https://github.com/kleros/futarchy-ui",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: Open menu",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "044",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: Default (PD)",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "045",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: Q3 2026",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "046",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: Risk bars",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "047",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: Over time",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "048",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: All 33",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "050",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: ETH Based 7",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "051",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: USD Based 13",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "052",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: BTC Based 6",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "053",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: Funds Based 7",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "054",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: weETH",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "055",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: stETH",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "056",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: ETH+",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "057",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: bsdETH",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "058",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: rETH",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "059",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: pufETH",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "060",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: avETH",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "061",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: PYUSD",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "062",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: RLUSD",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "063",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: USDC",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "064",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: USD1",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "065",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: USDS",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "066",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: USDT",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "067",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: RUSD",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "068",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: USDF",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "069",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: avUSD",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "070",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: NUSD",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "071",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: iUSD",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "072",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: satUSD+",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "073",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: USDO",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "074",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: BTCB",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "075",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: solvBTC",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "076",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: tBTC",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "077",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: cbBTC",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "078",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: LBTC",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "079",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: UBTC",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "080",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: GACLO-1",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "081",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: BUIDL-I",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "082",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: JAAA",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "083",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm",
+   "via": "button: JTRSY",
+   "to": "https://risk.seer.pm/",
+   "newState": true,
+   "state": "084",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "Kleros",
+   "to": "https://kleros.io/",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "Check it out",
+   "to": "https://app.seer.pm/markets/100/0xc84786B06390F11dED0DD362E27Fc881B540e6F2",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "Secured by Kleros",
+   "to": "https://kleros.io",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "Telegram",
+   "to": "https://t.me/+HrYn_tzqTGFlYTc0",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "X",
+   "to": "https://x.com/kleros_io",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "GitHub",
+   "to": "https://github.com/kleros/futarchy-ui",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: Open menu",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: Default (PD)",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: Q3 2026",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: Risk bars",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: Over time",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: All 33",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: ETH Based 7",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: USD Based 13",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: BTC Based 6",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: Funds Based 7",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: weETH",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: stETH",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: ETH+",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: bsdETH",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: rETH",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: pufETH",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: avETH",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: PYUSD",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: RLUSD",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: USDC",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: USD1",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: USDS",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: USDT",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: RUSD",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: USDF",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: avUSD",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: NUSD",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: iUSD",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: satUSD+",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: USDO",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: BTCB",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: solvBTC",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: tBTC",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: cbBTC",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: LBTC",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: UBTC",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: GACLO-1",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: BUIDL-I",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: JAAA",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://risk.seer.pm/",
+   "via": "button: JTRSY",
+   "to": "https://risk.seer.pm/",
+   "newState": false,
+   "vp": "mobile"
+  }
+ ],
+ "consoleErrors": [
+  "[1440] Origin https://risk.seer.pm not found on Allowlist - update configuration on cloud.reown.com",
+  "[390] PAGEERROR Error: Minified React error #418; visit https://react.dev/errors/418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.",
+  "[390] PAGEERROR Error: Minified React error #423; visit https://react.dev/errors/423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.",
+  "[390] Origin https://risk.seer.pm not found on Allowlist - update configuration on cloud.reown.com"
+ ]
+}

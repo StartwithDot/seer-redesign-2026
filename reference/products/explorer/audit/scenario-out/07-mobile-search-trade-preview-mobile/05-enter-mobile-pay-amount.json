@@ -1,0 +1,236 @@
+{
+ "url": "https://app.seer.pm/markets/100/will-marine-le-pen-be-the-national-rallys-candidate-in-the-next-french-president",
+ "title": "Seer | A Next Generation Prediction Marketplace",
+ "controls": [
+  {
+   "tag": "button",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Answer on Reality.eth!",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Open interest and liquidity breakdown",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Custom",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "",
+   "disabled": true
+  },
+  {
+   "tag": "button",
+   "text": "",
+   "disabled": true
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Add Liquidity",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "View pool details",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "New conditional market",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Add Liquidity",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "View pool details",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "New conditional market",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "Add Liquidity",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "View pool details",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "New conditional market",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Comments",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Related Conditional Markets",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Top Holders",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Activity",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Connect to comment",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Close drawer",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Trade",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Mint",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Merge",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Redeem",
+   "disabled": false
+  },
+  {
+   "tag": "input",
+   "text": "1",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Max",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "input",
+   "text": "0",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Low balance? Bridge tokens from other networks",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Not enough balance.",
+   "disabled": true
+  }
+ ]
+}

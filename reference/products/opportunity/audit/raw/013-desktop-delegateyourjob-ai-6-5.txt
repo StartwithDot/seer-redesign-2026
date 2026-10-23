@@ -1,0 +1,226 @@
+Seer
+BETA
+The pilot
+The protocol
+0x0000...dEaD
+←
+BACK TO OPPORTUNITIES
+ACTIVE
+Seer AI Job Board Name
+
+Seer is experimenting with a futarchy-run organization that will build a job board for AI: humans and AIs post tasks, AI completes them and gets paid in crypto. Step one is picking the name.
+
+Every name suggested by the community is listed as an outcome. Traders buy shares in the name they believe will be adopted.
+
+The chosen name earns $1,000 in crypto (if Seer can use it). By suggesting a name, its author transfers all rights to it, effective only once the $1,000 is paid. If several people suggested the same name, the earliest reply wins.
+
+CONTRACT
+0x8b3c...a5e8
+View on Seer ↗
+Outcomes
+VOLUME
+$8,019
+LIQUIDITY
+$2,429
+01
+Aeer
+
+POSITION: 0.00
+
+18%
+
+$0.180
+
+02
+TaskaskAI
+
+POSITION: 0.00
+
+10.5%
+
+$0.105
+
+03
+SAI
+
+POSITION: 0.00
+
+7%
+
+$0.070
+
+04
+delegateyourjob.ai
+
+POSITION: 0.00
+
+6.5%
+
+$0.065
+
+05
+Zetsu.AI
+
+POSITION: 0.00
+
+5%
+
+$0.050
+
+06
+Wageware
+
+POSITION: 0.00
+
+4.5%
+
+$0.045
+
+07
+Workmesh
+
+POSITION: 0.00
+
+4.3%
+
+$0.043
+
+08
+CW
+
+POSITION: 0.00
+
+4.1%
+
+$0.041
+
+09
+Foreguild
+
+POSITION: 0.00
+
+3.9%
+
+$0.039
+
+10
+WorkX
+
+POSITION: 0.00
+
+3.6%
+
+$0.036
+
+11
+AgenticGigs
+
+POSITION: 0.00
+
+2.9%
+
+$0.029
+
+12
+Vantage
+
+POSITION: 0.00
+
+2.8%
+
+$0.028
+
+13
+Seek
+
+POSITION: 0.00
+
+2.8%
+
+$0.028
+
+14
+Auspex
+
+POSITION: 0.00
+
+2.4%
+
+$0.024
+
+15
+Agentarchy
+
+POSITION: 0.00
+
+2%
+
+$0.020
+
+20
+Symbiont
+TRADING
+
+POSITION: 0.00
+
+1.3%
+
+$0.013
+
+SHOW ALL 235 OUTCOMES
+PRICE HISTORY
+Aeer
+18%
+TaskaskAI
+10.5%
+SAI
+7%
+delegateyourjob.ai
+6.5%
+Zetsu.AI
+5%
+Wageware
+4.4%
+Workmesh
+4.3%
+CW
+4.1%
+Foreguild
+3.9%
+WorkX
+3.6%
+	
+	
+
+	
+	
+DISCUSSION
+
+Connect your wallet to share your take
+
+CONNECT TO COMMENT
+
+No takes yet. Share the first one.
+
+BUY
+SELL
+OUTCOME
+SYMBIONT
+PAY WITH
+SDAI
+AMOUNT
+BAL: 0.00
+SDAI
++1
++5
++10
++100
+YOU RECEIVE
+0.0 Shares
+AVG PRICE
+—
+SLIPPAGE
+0.5%
+ENTER AN AMOUNT
+
+Opportunity Markets on Seer.

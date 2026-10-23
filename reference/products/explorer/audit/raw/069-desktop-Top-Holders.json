@@ -1,0 +1,1634 @@
+{
+ "title": "Seer | Will the National Rally’s candidate win the next French presidential election?",
+ "url": "https://app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election/",
+ "scrollHeight": 2336,
+ "headings": [
+  "h2: Major Events",
+  "h3: Reality.eth Resolution"
+ ],
+ "interactive": [
+  {
+   "i": 0,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    873,
+    11,
+    12,
+    12
+   ]
+  },
+  {
+   "i": 1,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "/",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    32,
+    43,
+    99,
+    46
+   ]
+  },
+  {
+   "i": 2,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Markets",
+   "href": "/",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    474,
+    42,
+    61,
+    48
+   ]
+  },
+  {
+   "i": 3,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Leaderboard",
+   "href": "/leaderboard",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    558,
+    42,
+    96,
+    48
+   ]
+  },
+  {
+   "i": 4,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Create Market",
+   "href": "/create-market",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    679,
+    42,
+    106,
+    48
+   ]
+  },
+  {
+   "i": 5,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Policies",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    809,
+    42,
+    80,
+    48
+   ]
+  },
+  {
+   "i": 6,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "App",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    912,
+    42,
+    54,
+    48
+   ]
+  },
+  {
+   "i": 7,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "24.69 xDAI",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1285,
+    45,
+    50,
+    43
+   ]
+  },
+  {
+   "i": 8,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1343,
+    46,
+    25,
+    40
+   ]
+  },
+  {
+   "i": 9,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Switch to light mode",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1376,
+    50,
+    32,
+    32
+   ]
+  },
+  {
+   "i": 10,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "/",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    32,
+    141,
+    14,
+    15
+   ]
+  },
+  {
+   "i": 11,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "\"Will Marine Le Pen be the National Rally’s candidate in the next French preside",
+   "href": "/markets/100/0xe1793927eb763864967426fe7750ab0dc6f019f3",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    392,
+    221,
+    623,
+    19
+   ]
+  },
+  {
+   "i": 12,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "\"Yes\"",
+   "href": "/markets/100/0xe1793927eb763864967426fe7750ab0dc6f019f3?outcome=Yes",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1059,
+    221,
+    34,
+    19
+   ]
+  },
+  {
+   "i": 13,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0xbbf8f7e40a9234d965f59802c1b3720b21bcc32e",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1332,
+    315,
+    20,
+    20
+   ]
+  },
+  {
+   "i": 14,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Answer on Reality.eth!",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    134,
+    409,
+    167,
+    21
+   ]
+  },
+  {
+   "i": 15,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Open interest and liquidity breakdown",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "false",
+   "box": [
+    353,
+    473,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 16,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Verified",
+   "href": "https://curate.kleros.io/tcr/100/0x5aAF9E23A11440F8C1Ad6D2E2e5109C7e52CC672/0xafde7fcd37a405b74417b262930a032a37a08431fa18fb651476d96d4d7ceab0",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1310,
+    471,
+    72,
+    21
+   ]
+  },
+  {
+   "i": 17,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Custom",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    304,
+    544,
+    86,
+    38
+   ]
+  },
+  {
+   "i": 18,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    904,
+    553,
+    20,
+    20
+   ]
+  },
+  {
+   "i": 19,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "",
+   "href": "",
+   "disabled": true,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    862,
+    606,
+    24,
+    24
+   ]
+  },
+  {
+   "i": 20,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "",
+   "href": "",
+   "disabled": true,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    890,
+    606,
+    24,
+    24
+   ]
+  },
+  {
+   "i": 21,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Charting by TradingView",
+   "href": "https://www.tradingview.com/?utm_medium=lwc-link&utm_campaign=lwc-chart&utm_source=app.seer.pm/markets/100/will-the-national-rallys-candidate-win-the-next-french-presidential-election/",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    72,
+    873,
+    35,
+    19
+   ]
+  },
+  {
+   "i": 22,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/token/0x50c4fe51489ae29f370b61c332255f58fdd7323c",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    117,
+    1086,
+    12,
+    12
+   ]
+  },
+  {
+   "i": 23,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Add Liquidity",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    145,
+    1083,
+    73,
+    18
+   ]
+  },
+  {
+   "i": 24,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "View pool details",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    234,
+    1083,
+    94,
+    18
+   ]
+  },
+  {
+   "i": 25,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "New conditional market",
+   "href": "/create-market?parentMarket=0xbbf8f7e40a9234d965f59802c1b3720b21bcc32e&parentOutcome=No",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    344,
+    1083,
+    134,
+    18
+   ]
+  },
+  {
+   "i": 26,
+   "tag": "input",
+   "role": "",
+   "type": "radio",
+   "text": "on",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    895,
+    1068,
+    24,
+    24
+   ]
+  },
+  {
+   "i": 27,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/token/0x2d2e6877ccfcad73bdd21a49deda9e8e8ffb65d5",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    117,
+    1198,
+    12,
+    12
+   ]
+  },
+  {
+   "i": 28,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Add Liquidity",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    145,
+    1195,
+    73,
+    18
+   ]
+  },
+  {
+   "i": 29,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "View pool details",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    234,
+    1195,
+    94,
+    18
+   ]
+  },
+  {
+   "i": 30,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "New conditional market",
+   "href": "/create-market?parentMarket=0xbbf8f7e40a9234d965f59802c1b3720b21bcc32e&parentOutcome=Yes",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    344,
+    1195,
+    134,
+    18
+   ]
+  },
+  {
+   "i": 31,
+   "tag": "input",
+   "role": "",
+   "type": "radio",
+   "text": "on",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    895,
+    1180,
+    24,
+    24
+   ]
+  },
+  {
+   "i": 32,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/token/0x174cf4f917082ed619bf883f435b51cb6634ae71",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    117,
+    1310,
+    12,
+    12
+   ]
+  },
+  {
+   "i": 33,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Add Liquidity",
+   "href": "https://v3.swapr.eth.limo/#/add/0x053720357c72aea18963ec9712ed645d70b605f6/0x174cf4f917082ed619bf883f435b51cb6634ae71/enter-amounts",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    145,
+    1307,
+    73,
+    18
+   ]
+  },
+  {
+   "i": 34,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "View pool details",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    234,
+    1307,
+    94,
+    18
+   ]
+  },
+  {
+   "i": 35,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "New conditional market",
+   "href": "/create-market?parentMarket=0xbbf8f7e40a9234d965f59802c1b3720b21bcc32e&parentOutcome=Invalid",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    344,
+    1307,
+    134,
+    18
+   ]
+  },
+  {
+   "i": 36,
+   "tag": "input",
+   "role": "",
+   "type": "radio",
+   "text": "on",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    895,
+    1292,
+    24,
+    24
+   ]
+  },
+  {
+   "i": 37,
+   "tag": "input",
+   "role": "",
+   "type": "number",
+   "text": "0",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1001,
+    1153,
+    206,
+    33
+   ]
+  },
+  {
+   "i": 38,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Max",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1324,
+    1195,
+    43,
+    31
+   ]
+  },
+  {
+   "i": 39,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1160,
+    1221,
+    48,
+    48
+   ]
+  },
+  {
+   "i": 40,
+   "tag": "input",
+   "role": "",
+   "type": "number",
+   "text": "0",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1000,
+    1293,
+    264,
+    33
+   ]
+  },
+  {
+   "i": 41,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Enter an amount",
+   "href": "",
+   "disabled": true,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    984,
+    1506,
+    400,
+    45
+   ]
+  },
+  {
+   "i": 42,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "More",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    961,
+    1596,
+    446,
+    40
+   ]
+  },
+  {
+   "i": 43,
+   "tag": "button",
+   "role": "tab",
+   "type": "button",
+   "text": "Mint",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    985,
+    1726,
+    121,
+    32
+   ]
+  },
+  {
+   "i": 44,
+   "tag": "button",
+   "role": "tab",
+   "type": "button",
+   "text": "Merge",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1106,
+    1726,
+    132,
+    32
+   ]
+  },
+  {
+   "i": 45,
+   "tag": "button",
+   "role": "tab",
+   "type": "button",
+   "text": "Redeem",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1238,
+    1726,
+    145,
+    32
+   ]
+  },
+  {
+   "i": 46,
+   "tag": "input",
+   "role": "",
+   "type": "number",
+   "text": "",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    985,
+    1844,
+    398,
+    48
+   ]
+  },
+  {
+   "i": 47,
+   "tag": "button",
+   "role": "",
+   "type": "submit",
+   "text": "Mint",
+   "href": "",
+   "disabled": true,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    985,
+    1912,
+    140,
+    45
+   ]
+  },
+  {
+   "i": 48,
+   "tag": "button",
+   "role": "tab",
+   "type": "button",
+   "text": "Comments",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    32,
+    1394,
+    199,
+    32
+   ]
+  },
+  {
+   "i": 49,
+   "tag": "button",
+   "role": "tab",
+   "type": "button",
+   "text": "Related Conditional Markets",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    231,
+    1394,
+    334,
+    32
+   ]
+  },
+  {
+   "i": 50,
+   "tag": "button",
+   "role": "tab",
+   "type": "button",
+   "text": "Top Holders",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    565,
+    1394,
+    208,
+    32
+   ]
+  },
+  {
+   "i": 51,
+   "tag": "button",
+   "role": "tab",
+   "type": "button",
+   "text": "Activity",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    772,
+    1394,
+    172,
+    32
+   ]
+  },
+  {
+   "i": 52,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Yes",
+   "href": "https://gnosisscan.io/address/0x2d2e6877ccfcad73bdd21a49deda9e8e8ffb65d5",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    65,
+    1492,
+    22,
+    19
+   ]
+  },
+  {
+   "i": 53,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "total-electronic-snake",
+   "href": "/portfolio/0x923bfbcf199afcdf2071d60a811132ce4b747984",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    65,
+    1539,
+    141,
+    20
+   ]
+  },
+  {
+   "i": 54,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0x923bfbcf199afcdf2071d60a811132ce4b747984",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    214,
+    1541,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 55,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "voluminous-worldwide-boar",
+   "href": "/portfolio/0x56cf0ff00fd6cfb23ce964c6338b228b0fa76640",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    65,
+    1588,
+    184,
+    20
+   ]
+  },
+  {
+   "i": 56,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0x56cf0ff00fd6cfb23ce964c6338b228b0fa76640",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    257,
+    1590,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 57,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "slimy-correct-hedgehog",
+   "href": "/portfolio/0x187e0966046da5b110fdc986c9b94bd8416837af",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    65,
+    1637,
+    154,
+    20
+   ]
+  },
+  {
+   "i": 58,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0x187e0966046da5b110fdc986c9b94bd8416837af",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    227,
+    1639,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 59,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "@mr-froggert",
+   "href": "/portfolio/@mr-froggert",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    65,
+    1686,
+    88,
+    20
+   ]
+  },
+  {
+   "i": 60,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0xe082bda07536420401187ba7225ff5f56c30998b",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    161,
+    1688,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 61,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "No",
+   "href": "https://gnosisscan.io/address/0x50c4fe51489ae29f370b61c332255f58fdd7323c",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    508,
+    1492,
+    19,
+    19
+   ]
+  },
+  {
+   "i": 62,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "voluminous-worldwide-boar",
+   "href": "/portfolio/0x56cf0ff00fd6cfb23ce964c6338b228b0fa76640",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    508,
+    1539,
+    184,
+    20
+   ]
+  },
+  {
+   "i": 63,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0x56cf0ff00fd6cfb23ce964c6338b228b0fa76640",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    700,
+    1541,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 64,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "ripotche.eth",
+   "href": "/portfolio/0xd97beffdf558b269257feba5df111ab718b71e24",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    508,
+    1588,
+    96,
+    21
+   ]
+  },
+  {
+   "i": 65,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0xd97beffdf558b269257feba5df111ab718b71e24",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    612,
+    1590,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 66,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "@mr-froggert",
+   "href": "/portfolio/@mr-froggert",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    508,
+    1637,
+    88,
+    20
+   ]
+  },
+  {
+   "i": 67,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0xe082bda07536420401187ba7225ff5f56c30998b",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    604,
+    1639,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 68,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "adequate-bitter-lemur",
+   "href": "/portfolio/0x72d037f4887265ef317bfbcf9aba1245756159a8",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    508,
+    1686,
+    145,
+    20
+   ]
+  },
+  {
+   "i": 69,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0x72d037f4887265ef317bfbcf9aba1245756159a8",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    661,
+    1688,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 70,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "respectable-scientific-otter",
+   "href": "/portfolio/0xb361a3916b6cedc73de63dd1612ceb42b2da6389",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    508,
+    1735,
+    174,
+    20
+   ]
+  },
+  {
+   "i": 71,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0xb361a3916b6cedc73de63dd1612ceb42b2da6389",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    690,
+    1737,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 72,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "slimy-correct-hedgehog",
+   "href": "/portfolio/0x187e0966046da5b110fdc986c9b94bd8416837af",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    508,
+    1784,
+    154,
+    20
+   ]
+  },
+  {
+   "i": 73,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0x187e0966046da5b110fdc986c9b94bd8416837af",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    670,
+    1786,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 74,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "tense-individual-impala",
+   "href": "/portfolio/0xe622793f3d7bc200cefa177a39f9737f8852afea",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    508,
+    1833,
+    152,
+    20
+   ]
+  },
+  {
+   "i": 75,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0xe622793f3d7bc200cefa177a39f9737f8852afea",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    668,
+    1835,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 76,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Invalid",
+   "href": "https://gnosisscan.io/address/0x174cf4f917082ed619bf883f435b51cb6634ae71",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    65,
+    1913,
+    43,
+    19
+   ]
+  },
+  {
+   "i": 77,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "voluminous-worldwide-boar",
+   "href": "/portfolio/0x56cf0ff00fd6cfb23ce964c6338b228b0fa76640",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    65,
+    1960,
+    184,
+    20
+   ]
+  },
+  {
+   "i": 78,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0x56cf0ff00fd6cfb23ce964c6338b228b0fa76640",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    257,
+    1962,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 79,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "total-electronic-snake",
+   "href": "/portfolio/0x923bfbcf199afcdf2071d60a811132ce4b747984",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    65,
+    2009,
+    141,
+    20
+   ]
+  },
+  {
+   "i": 80,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0x923bfbcf199afcdf2071d60a811132ce4b747984",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    214,
+    2011,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 81,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "stormy-dull-puffin",
+   "href": "/portfolio/0xd0fb3b244bf5d1a3756e8428435d8235e44eb74d",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    65,
+    2058,
+    118,
+    20
+   ]
+  },
+  {
+   "i": 82,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0xd0fb3b244bf5d1a3756e8428435d8235e44eb74d",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    191,
+    2060,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 83,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "tense-individual-impala",
+   "href": "/portfolio/0xe622793f3d7bc200cefa177a39f9737f8852afea",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    65,
+    2107,
+    152,
+    20
+   ]
+  },
+  {
+   "i": 84,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0xe622793f3d7bc200cefa177a39f9737f8852afea",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    225,
+    2109,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 85,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "@mr-froggert",
+   "href": "/portfolio/@mr-froggert",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    65,
+    2156,
+    88,
+    20
+   ]
+  },
+  {
+   "i": 86,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0xe082bda07536420401187ba7225ff5f56c30998b",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    161,
+    2158,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 87,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://kleros.io/",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    32,
+    2292,
+    179,
+    24
+   ]
+  },
+  {
+   "i": 88,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://discord.com/invite/rBEB4MYQwV",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1293,
+    2296,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 89,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://t.me/Seerpredictionmarket",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1326,
+    2296,
+    16,
+    16
+   ]
+  },
+  {
+   "i": 90,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://x.com/seer_pm",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1358,
+    2296,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 91,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://github.com/seer-pm",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1391,
+    2296,
+    17,
+    16
+   ]
+  }
+ ],
+ "charts": [
+  {
+   "tag": "canvas",
+   "box": [
+    62,
+    630,
+    792,
+    272
+   ],
+   "texts": [],
+   "paths": 0
+  },
+  {
+   "tag": "canvas",
+   "box": [
+    62,
+    630,
+    792,
+    272
+   ],
+   "texts": [],
+   "paths": 0
+  }
+ ],
+ "tables": [
+  {
+   "rows": 2,
+   "head": []
+  },
+  {
+   "rows": 5,
+   "head": [
+    "Yes",
+    "Balance"
+   ]
+  },
+  {
+   "rows": 8,
+   "head": [
+    "No",
+    "Balance"
+   ]
+  },
+  {
+   "rows": 6,
+   "head": [
+    "Invalid",
+    "Balance"
+   ]
+  }
+ ],
+ "fonts": [
+  "Open Sans"
+ ],
+ "colors": {
+  "bg": "rgba(0, 0, 0, 0)",
+  "text": "oklch(1 0 0)"
+ },
+ "dialogs": 0
+}

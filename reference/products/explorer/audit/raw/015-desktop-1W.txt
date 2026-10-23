@@ -1,0 +1,128 @@
+Note that this is a Beta version and can still be unstable
+Markets
+Leaderboard
+Create Market
+Policies
+App
+Connect
+/
+Leaderboard
+Profit & Loss Leaderboard
+
+Rankings of wallets by trading P/L in USD. All covers every Seer market on a chain (including markets not assigned to an app). App filters scope to that app's configured markets; Deepfunding and Foresight also offer per-market boards.
+
+Trader Score rates each wallet 0–100 on returns, profit factor, hit rate edge, loss burn and breadth across the markets it traded, shrunk toward the middle when it traded few of them. How it works.
+
+Time period
+1D
+1W
+1M
+ALL
+Filters
+Search
+
+Sorted by Profit/Loss, high to low
+
+#	Account	
+Score
+	
+Profit/Loss
+	
+Volume
+	
+ROI
+	
+Traded Markets
+
+1	
+public-interested-parakeet
+	N/A	+$274.29	$0.00	+1.0%	0
+2	
+voluminous-worldwide-boar
+	
+58.5
+GOOD
+	+$65.13	$0.00	+0.3%	0
+3	
+big-melted-wallaby
+	N/A	+$58.60	$58.59	N/A	3
+4	
+tense-individual-impala
+	N/A	+$51.23	$310.03	+79.8%	1
+5	
+homeless-mighty-basilisk
+	N/A	+$23.15	$35.19	+384.4%	1
+6	
+respectable-high-mockingbird
+	N/A	+$15.78	$15.78	N/A	5
+7	
+casual-sudden-squid
+	N/A	+$11.15	$65.76	+17.0%	1
+8	
+stormy-dull-puffin
+	
+55.5
+GOOD
+	+$8.51	$0.00	+0.9%	0
+9	
+silent-armed-jellyfish
+	N/A	+$2.59	$2.59	+6,792.9%	1
+10	
+@mayordoge
+	N/A	+$2.31	$0.00	+29.5%	0
+11	
+payable-unlikely-earwig
+	
+47.4
+AVERAGE
+	+$2.15	$0.00	+0.2%	0
+12	
+patient-pure-squirrel
+	N/A	+$0.60	$3.00	+19.9%	1
+13	
+vicious-chilly-cuckoo
+	N/A	+$0.49	$3.00	+16.2%	1
+14	
+clean-peaceful-eel
+	N/A	+$0.45	$3.00	+14.9%	1
+15	
+verbal-yummy-flamingo
+	N/A	+$0.41	$3.00	+13.5%	1
+16	
+colourful-naked-shrew
+	N/A	+$0.41	$3.00	+13.5%	1
+17	
+large-curly-koala
+	N/A	+$0.40	$3.00	+13.3%	1
+18	
+comparable-available-canid
+	N/A	+$0.40	$3.00	+13.3%	1
+19	
+unable-distant-ladybug
+	N/A	+$0.34	$3.00	+11.3%	1
+20	
+broad-financial-gopher
+	N/A	+$0.32	$3.00	+10.6%	1
+21	
+embarrassing-usual-haddock
+	N/A	+$0.30	$3.00	+9.8%	1
+22	
+intellectual-cheerful-hoverfly
+	N/A	+$0.23	$3.00	+7.8%	1
+23	
+short-pretty-lemur
+	
+47.1
+AVERAGE
+	+$0.07	$0.00	+0.0%	0
+24	
+urban-cognitive-mammal
+	N/A	+$0.04	$0.00	+1.1%	0
+25	
+confidential-stupid-yak
+	N/A	+$0.01	$0.00	+0.0%	0
+
+Page 1 of 91 · Updated 10/18/2026, 8:51:04 PM
+
+Prev
+Next

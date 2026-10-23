@@ -1,0 +1,507 @@
+{
+ "title": "What will the impact on GNO price be if GIP-151 is passed? | Futarchy",
+ "url": "https://futarchy.seer.pm/markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+ "scrollHeight": 2901,
+ "headings": [
+  "h1: What will the impact on GNO price be if GIP-151 is passed?",
+  "h3: WINNING OUTCOME: YES",
+  "h3: Outcomes",
+  "h3: Your view on GIP-151",
+  "h3: Balance"
+ ],
+ "interactive": [
+  {
+   "i": 0,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Futarchy",
+   "href": "/",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    20,
+    25,
+    115,
+    28
+   ]
+  },
+  {
+   "i": 1,
+   "tag": "button",
+   "role": "",
+   "type": "",
+   "text": "Switch network",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    206,
+    15,
+    48,
+    48
+   ]
+  },
+  {
+   "i": 2,
+   "tag": "button",
+   "role": "",
+   "type": "",
+   "text": "Switch to dark mode",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    270,
+    21,
+    36,
+    36
+   ]
+  },
+  {
+   "i": 3,
+   "tag": "button",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    322,
+    15,
+    48,
+    48
+   ]
+  },
+  {
+   "i": 4,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Resolution Question",
+   "href": "https://reality.eth.limo/#!/network/100/question/0xe78996a233895be74a66f451f1019ca9734205cc-0x5aa127ae649372c579a961082768c703bcc545eda87baa4046bfd94880bbb8cd",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    199,
+    295,
+    171,
+    28
+   ]
+  },
+  {
+   "i": 5,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Snapshot Vote",
+   "href": "https://snapshot.box/#/s:gnosis.eth/proposal/0x657fbf8892200d24e887c68245cee73b59c466394192be1c10673b39814c74c4",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    20,
+    331,
+    171,
+    28
+   ]
+  },
+  {
+   "i": 6,
+   "tag": "button",
+   "role": "",
+   "type": "",
+   "text": "Add Liquidity",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    199,
+    331,
+    171,
+    28
+   ]
+  },
+  {
+   "i": 7,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "View final results on Snapshot",
+   "href": "https://snapshot.box/#/s:gnosis.eth/proposal/0x657fbf8892200d24e887c68245cee73b59c466394192be1c10673b39814c74c4",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    20,
+    371,
+    219,
+    28
+   ]
+  },
+  {
+   "i": 8,
+   "tag": "button",
+   "role": "",
+   "type": "",
+   "text": "TWAP Complete (TWAP impact +0.01%)",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    21,
+    551,
+    348,
+    32
+   ]
+  },
+  {
+   "i": 9,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Charting by TradingView",
+   "href": "https://www.tradingview.com/?utm_medium=lwc-link&utm_campaign=lwc-chart&utm_source=futarchy.seer.pm/markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    32,
+    1187,
+    35,
+    19
+   ]
+  },
+  {
+   "i": 10,
+   "tag": "button",
+   "role": "",
+   "type": "",
+   "text": "Redeem Tokens",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    20,
+    1278,
+    119,
+    34
+   ]
+  },
+  {
+   "i": 11,
+   "tag": "button",
+   "role": "",
+   "type": "",
+   "text": "If Yes",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    38,
+    1558,
+    151,
+    48
+   ]
+  },
+  {
+   "i": 12,
+   "tag": "button",
+   "role": "",
+   "type": "",
+   "text": "If No",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    201,
+    1558,
+    151,
+    48
+   ]
+  },
+  {
+   "i": 13,
+   "tag": "button",
+   "role": "",
+   "type": "",
+   "text": "Buy",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    38,
+    1622,
+    151,
+    48
+   ]
+  },
+  {
+   "i": 14,
+   "tag": "button",
+   "role": "",
+   "type": "",
+   "text": "Sell",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    201,
+    1622,
+    151,
+    48
+   ]
+  },
+  {
+   "i": 15,
+   "tag": "input",
+   "role": "",
+   "type": "text",
+   "text": "1",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    40,
+    1704,
+    310,
+    44
+   ]
+  },
+  {
+   "i": 16,
+   "tag": "button",
+   "role": "",
+   "type": "",
+   "text": "Max",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    297,
+    1714,
+    39,
+    24
+   ]
+  },
+  {
+   "i": 17,
+   "tag": "button",
+   "role": "",
+   "type": "",
+   "text": "More info",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    292,
+    1791,
+    60,
+    15
+   ]
+  },
+  {
+   "i": 18,
+   "tag": "input",
+   "role": "",
+   "type": "checkbox",
+   "text": "on",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    38,
+    1932,
+    13,
+    13
+   ]
+  },
+  {
+   "i": 19,
+   "tag": "button",
+   "role": "",
+   "type": "",
+   "text": "Insufficient balance",
+   "href": "",
+   "disabled": true,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    38,
+    1974,
+    314,
+    48
+   ]
+  },
+  {
+   "i": 20,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Wallet: 0 sDAI",
+   "href": "https://swap.cow.fi/#/100/swap/_/0xaf204776c7245bf4147c2612bf6e5972ee483701",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    69,
+    2424,
+    96,
+    16
+   ]
+  },
+  {
+   "i": 21,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Wallet: 0.0004 GNO",
+   "href": "https://swap.cow.fi/#/100/swap/_/0x9c58bacc331c9aa871afd802db6379a98e80cedb",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    209,
+    2424,
+    127,
+    16
+   ]
+  },
+  {
+   "i": 22,
+   "tag": "button",
+   "role": "",
+   "type": "",
+   "text": "Split Collateral",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    38,
+    2470,
+    151,
+    50
+   ]
+  },
+  {
+   "i": 23,
+   "tag": "button",
+   "role": "",
+   "type": "",
+   "text": "Merge Collateral",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    201,
+    2470,
+    151,
+    50
+   ]
+  },
+  {
+   "i": 24,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://x.com/seer_pm",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    20,
+    2829,
+    40,
+    40
+   ]
+  },
+  {
+   "i": 25,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://github.com/seer-pm/futarchy",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    70,
+    2829,
+    40,
+    40
+   ]
+  }
+ ],
+ "charts": [
+  {
+   "tag": "canvas",
+   "box": [
+    22,
+    796,
+    294,
+    420
+   ],
+   "texts": [],
+   "paths": 0
+  },
+  {
+   "tag": "canvas",
+   "box": [
+    22,
+    796,
+    294,
+    420
+   ],
+   "texts": [],
+   "paths": 0
+  }
+ ],
+ "tables": [
+  {
+   "rows": 2,
+   "head": []
+  },
+  {
+   "rows": 3,
+   "head": [
+    "",
+    "If YES",
+    "If NO",
+    "Bullish",
+    "Bearish"
+   ]
+  }
+ ],
+ "fonts": [
+  "__Oxanium_5a9590",
+  "-apple-system",
+  "ui-monospace",
+  "ui-sans-serif"
+ ],
+ "colors": {
+  "bg": "rgba(0, 0, 0, 0)",
+  "text": "rgb(0, 0, 0)"
+ },
+ "dialogs": 0
+}

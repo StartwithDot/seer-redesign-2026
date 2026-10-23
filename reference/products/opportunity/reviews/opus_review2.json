@@ -1,0 +1,45 @@
+```json
+{
+  "slop_score_0_to_10_where_10_is_pure_slop": 4,
+  "verdict": "This is a clear improvement on round 1. The cut handle at 27, the 4-tile readout, the sticky mobile buy bar and the labelled price-history lines are all real product decisions. The thesis still only reads if you already know it. The cut line in the list sits above row 1, so it divides nothing. The sponsor gate is a brown block with no connection to the curve. Most of the plot is empty space. The rows are separate rounded cards with curled purple left borders, which is the main AI-slop tell left. The home page still ends on placeholder cards ('No data', and three cards with a label and no body). The craft is fine at a distance but falls apart at 100% zoom.",
+  "would_this_win_against_a_polished_competitor": "Not yet. Polymarket's or Linear's list density and chart honesty would beat it. It could win if the cut line divides the list at rank 27 and the chart shows rank → cut → sponsor as one connected path.",
+  "fixes": [
+    {
+      "where": "Outcome list, desktop market page and home right card (d-home-0, d-mlive-1, m-live-1)",
+      "problem": "The dashed 'Review · 27 of 235' cut line sits above row 1, so in every screenshot it separates nothing from nothing. Each row is its own card with an 8px gap and a rounded purple left border that curls at the corners, which reads as a stack of cards, not a queue. Row 1 also has a full purple outline, so 'selected' and 'in review' look the same.",
+      "change": "Render the rows flush with no gap and no per-row radius. Use a 1px divider rgba(255,255,255,0.06). Draw one continuous 2px purple rail (#7C4DFF) down the left of rows 1–27 only, and give rows 28+ no rail with text at 64% opacity. Put the dashed cut divider between rank 27 and 28 as a 24px band labelled 'Cut · 60.4% covered above'. Make it sticky at the bottom of the scroll area (position: sticky; bottom: 0) while rank 27 is below the fold, so it is always visible. Show the selected row as a background tint rgba(124,77,255,0.08) instead of an outline.",
+      "impact": "The core thesis becomes visible: there is a line, above it gets reviewed, below it doesn't. Removing the curled card borders also removes the strongest slop tell."
+    },
+    {
+      "where": "Cut chart, live state (d-home-0, d-mlive-0, m-home-0)",
+      "problem": "The curve fills the left ~30% of the plot. Ranks 100–235 are an empty baseline with a floating '46 tied at 0.4%' label. There is no y-axis, so 60.4% has no visual reference. The 'Sponsor' column is a free-standing brown block 16px to the right with nothing linking it to the cut, so the queue → sponsor handoff doesn't read without labels.",
+      "change": "Add y gridlines at 0/25/50/75/100% (1px rgba(255,255,255,0.06), 11px labels at the left). Make the x scale piecewise: ranks 1–105 take 75% of the width and the 130 without odds fold into a 48px hatched stub labelled '+130 no odds'. Shade the area under the curve from 1 to 27 at rgba(124,77,255,0.12). Draw a 1px gold (#E8B44A) connector from the cut point (27, 60.4%) horizontally to the sponsor column, and narrow the column from 72px to 56px with a gold 1px left border instead of the brown fill. On mobile, place the sponsor gate as a 32px row under the chart instead of a side column.",
+      "impact": "The chart reads in 5 seconds as 'top 27 hold 60% of belief, and that slice goes to the sponsor'. Right now it reads as a log curve next to an unrelated badge."
+    },
+    {
+      "where": "Cut / Field segmented control (all market screens, desktop and mobile)",
+      "problem": "Contrast is inverted. The selected 'Cut' is dim purple text on a dark purple fill, while the unselected 'Field' is bright white, so most people will read Field as active.",
+      "change": "Selected segment: background #2A2833, text #FFFFFF, weight 600, inner shadow 0 0 0 1px rgba(255,255,255,0.08). Unselected: transparent background, text rgba(255,255,255,0.56), weight 500. Height 32px, segment padding 0 14px.",
+      "impact": "Removes an ambiguous state on the primary view toggle."
+    },
+    {
+      "where": "Price history (d-mlive-2)",
+      "problem": "At the last x-position (~740px) every grey line drops vertically, a visible cliff that looks like a crash or a render bug. The chip row under the chart repeats the 8 names already shown as end labels.",
+      "change": "Drop the final synthetic point, or carry the last real value forward to 'Today', so there are no vertical segments. Remove the chip row. Make the end labels the toggles instead: click to highlight, 12px, and hover dims other lines to 20%. Give the end-label column a fixed 132px so labels never clip.",
+      "impact": "The chart stops lying about the last tick, and about 60px of redundant UI goes away."
+    },
+    {
+      "where": "Home below the fold and Archive (d-home-1, d-archive-0)",
+      "problem": "The 'Seer Merch for Devcon Mumbai' card is 420px tall containing only 'No data'. The 'Today / Next / Any decision' cards are a label and a headline with no body. These are template placeholders, and they are what the page ends on.",
+      "change": "Collapse the no-data market into a 72px row: 'CLOSED · Seer Merch for Devcon Mumbai · No market data recorded · Open ↗'. Use auto card height, never stretched to match a sibling (align-items: start). Either cut the three Today/Next/Any decision cards or merge them into one 3-column strip, 1px dividers, no card chrome, each with a one-line body at 14px/20px rgba(255,255,255,0.64).",
+      "impact": "Removes the last obvious template filler, and the page ends on substance."
+    },
+    {
+      "where": "Readout tiles and mobile header (d-mlive-0, d-mfinal-0, m-home-0, m-live-0)",
+      "problem": "Tile labels sit 8px from the tile edge while the card uses 20px, so the padding rhythm is off. On mobile the 2×2 tiles push the outcome list fully below the fold, and the 'Sponsor decision' tile repeats the sponsor column. The header search button is a 40px circle around a roughly 6px glyph, which is unreadable. On mobile 'Contract ↗' wraps alone onto a second meta line.",
+      "change": "Tile padding: 16px all sides; label 12px/16px at 56% opacity; value 28px/32px tabular-nums; 12px gap. On mobile, render the tiles as a single 56px horizontal row (Review 27/235 · Covered 60.4% · Out 208, 3 columns) and drop the Sponsor tile because the gate already shows it. Set the search icon to 16px stroke 1.5. On mobile, let the meta row wrap as one unit or move 'Contract ↗' next to 'Rules' with 12px gap.",
+      "impact": "About 170px reclaimed on mobile so the first review rows appear above the fold, plus consistent internal rhythm."
+    }
+  ]
+}
+```

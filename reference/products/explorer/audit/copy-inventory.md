@@ -1,0 +1,1396 @@
+# Every visible string (desktop), by frequency
+- 389x  Yes
+- 377x  No
+- 287x  Bought
+- 235x  slimy-correct-hedgehog
+- 228x  Sold
+- 221x  <0.001
+- 204x  Add Liquidity
+- 201x  New conditional market
+- 198x  View pool details
+- 161x  Mint
+- 121x  GOOD
+- 119x  GREAT
+- 115x  total-electronic-snake
+- 114x  Yashar
+- 111x  0 sDAI
+- 109x  national-single-mackerel
+- 108x  Leaderboard
+- 108x  Market
+- 108x  Max
+- 107x  sDAI
+- 92x  0.01
+- 91x  App
+- 90x  Create Market
+- 90x  Markets
+- 90x  Note that this is a Beta version and can still be unstable
+- 90x  Policies
+- 86x  0x0000...dEaD
+- 86x  24.69 xDAI
+- 82x  Others
+- 74x  Likud
+- 72x  1D
+- 72x  1M
+- 72x  1W
+- 67x  stormy-dull-puffin
+- 66x  Merge
+- 62x  All
+- 58x  Categorical
+- 58x  Liquidity:
+- 58x  Reports open
+- 58x  Volume:
+- 57x  Answer on Reality.eth!
+- 56x  Oct 2, 2026 · 15:08
+- 55x  Verified
+- 54x  0%
+- 54x  Activity
+- 54x  Amount
+- 54x  Avg price
+- 54x  Balance:
+- 54x  Comments
+- 54x  Custom
+- 54x  Enter an amount
+- 54x  Max slippage 1%
+- 54x  More
+- 54x  Outcomes
+- 54x  Parameters:
+- 54x  Redeem
+- 54x  Top Holders
+- 54x  You pay
+- 54x  You will get
+- 53x  Potential return
+- 52x  Related Conditional Markets
+- 51x  0 LEPEN_NRYES
+- 50x  0.00
+- 47x  respectable-high-mockingbird
+- 45x  Connect to comment
+- 45x  Connect your wallet to share your take
+- 45x  No takes yet. Share the first one.
+- 44x  0.9%
+- 43x  Together Alliance
+- 37x  P&L:
+- 37x  Will the National Rally’s candidate win the next French presidential election?
+- 37x  xDAI
+- 36x  0.00 sDAI (0.00%)
+- 36x  0.5%
+- 36x  1 UPCOMING
+- 36x  14.8%
+- 36x  38.1%
+- 36x  60.8%
+- 36x  84.2%
+- 36x  Expected resolution date
+- 36x  Major Events
+- 36x  Reality.eth Resolution
+- 35x  #3 Invalid
+- 34x  35.3%
+- 34x  74.5%
+- 34x  indirect-mere-gibbon
+- 30x  @mr-froggert
+- 30x  shotaro.eth
+- 30x  tense-individual-impala
+- 27x  100.00
+- 26x  10
+- 26x  Filters
+- 26x  Which party or joint electoral list will win the most seats in Israeli Knesset election in 2026?
+- 26x  Will Marine Le Pen be the National Rally’s candidate in the next French presidential election?
+- 26x  public-interested-parakeet
+- 23x  Next
+- 21x  Sep 21, 2026 · 01:07
+- 21x  Split
+- 20x  0.04
+- 19x  AVERAGE
+- 19x  Volume
+- 19x  confidential-stupid-yak
+- 18x  #	Account
+- 18x  #1 Yashar
+- 18x  #1 Yes
+- 18x  #2 Likud
+- 18x  #2 No
+- 18x  #3 Others
+- 18x  #4 Together Alliance
+- 18x  #5 Invalid
+- 18x  11
+- 18x  12
+- 18x  13
+- 18x  14
+- 18x  15
+- 18x  16
+- 18x  17
+- 18x  18
+- 18x  19
+- 18x  20
+- 18x  21
+- 18x  210.85 SER-INVALID
+- 18x  22
+- 18x  23
+- 18x  24
+- 18x  25
+- 18x  27.74k
+- 18x  49.69k
+- 18x  5.10k
+- 18x  7.16k
+- 18x  9.00 SER-INVALID
+- 18x  ALL
+- 18x  Conditional Market
+- 18x  JAN 1, 2027 · 00:00 UTC
+- 18x  Prev
+- 18x  Profit & Loss Leaderboard
+- 18x  Profit/Loss
+- 18x  ROI
+- 18x  Score
+- 18x  Search
+- 18x  Time period
+- 18x  Traded Markets
+- 18x  verbal-yummy-flamingo
+- 17x  #1 No
+- 17x  #2 Yes
+- 17x  +$1,614.49	$3,741.76	+25.4%	180
+- 17x  +$1,781.24	$5,181.07	+27.4%	180
+- 17x  +$2,179.32	$12,659.96	+31.4%	9
+- 17x  +$2,292.12	$3,988.42	+39.2%	293
+- 17x  +$24,469.70	$102,016.45	+29.5%	76
+- 17x  +$241,172.15	$1,428,994.85	+30.3%	55
+- 17x  +$27,537.96	$55,418.97	+45.5%	8
+- 17x  +$33,783.26	$377,479.87	+4.4%	22
+- 17x  +$35,414.85	$80,412.90	+42.6%	25
+- 17x  +$4,146.88	$2,714.11	+163.9%	3
+- 17x  +$4,275.89	$377.01	+22.6%	327
+- 17x  +$4,610.20	$81,671.18	+7.5%	22
+- 17x  +$4,988.15	$277,707.98	+10.5%	123
+- 17x  +$43,244.64	$315,492.20	+8.2%	37
+- 17x  +$51,783.39	$177,160.27	+40.0%	110
+- 17x  +$75,302.98	$123,730.16	+120.8%	14
+- 17x  0.00 LEPEN_NRYES (0.00%)
+- 17x  11.75k
+- 17x  46.5
+- 17x  56.0
+- 17x  56.7
+- 17x  58.0
+- 17x  60.2
+- 17x  67.2
+- 17x  67.3
+- 17x  68.7
+- 17x  7.54k
+- 17x  71.9
+- 17x  72.6
+- 17x  73.3
+- 17x  75.6
+- 17x  78.0
+- 17x  78.6
+- 17x  83.5
+- 17x  87.5
+- 17x  ELITE
+- 17x  If the main market resolves to a different outcome, the tokens of this market will be worthless.
+- 17x  LEPEN_NRYES
+- 17x  MAY 31, 2027 · 00:00 UTC
+- 17x  N/A	+$1,680.57	$0.00	+1,368,132.0%	0
+- 17x  N/A	+$2,036.08	$2,596.45	+363.3%	2
+- 17x  N/A	+$2,150.20	$1,868.00	+451.0%	1
+- 17x  N/A	+$2,194.29	$0.00	N/A	0
+- 17x  N/A	+$2,873.65	$5,049.26	+56.9%	1
+- 17x  N/A	+$3,583.79	$4,483.05	+79.9%	1
+- 17x  N/A	+$5,356.02	$21,723.13	+70.1%	1
+- 17x  N/A	+$64,264.58	$172,025.06	+264.6%	1
+- 17x  N/A	+$8,016.93	$80,241.50	+3.6%	2
+- 17x  This market is conditional on the resolution of "Will Marine Le Pen be the National Rally’s candidate in the next French presidential election?" being "Yes".
+- 17x  aaaaaaaaaaaaaaaaaaaaaa.eth
+- 17x  ashamed-free-ocelot
+- 17x  correct-mutual-nightingale
+- 17x  dependent-romantic-rook
+- 17x  electronic-round-cardinal
+- 17x  horizontal-dead-wolverine
+- 17x  intensive-impressive-cheetah
+- 17x  literary-practical-tortoise
+- 17x  outforarip.eth
+- 17x  redundant-extended-wolverine
+- 17x  scientific-decisive-toucan
+- 17x  stingy-moral-carp
+- 17x  strategic-well-raven
+- 17x  unfair-assistant-hedgehog
+- 17x  voluminous-worldwide-boar
+- 17x  vulnerable-rigid-amphibian
+- 17x  widespread-purring-cod
+- 16x  $1.10k
+- 16x  $1.12k
+- 16x  10%
+- 16x  14.9%
+- 16x  4.8%
+- 16x  50%
+- 16x  85.1%
+- 16x  90%
+- 16x  95.2%
+- 16x  Page 1 of 166 · Updated 10/18/2026, 8:39:31 PM
+- 15x  Your Rank
+- 14x  0.02
+- 14x  Added liquidity
+- 14x  Removed liquidity
+- 13x  Create New Market
+- 13x  Oct 6, 2026 · 21:53
+- 13x  Oct 7, 2026 · 02:03
+- 12x  Left (UG, LFI, SOC, COM, VEC, RDG, DVG, EXG, …)
+- 12x  required-ill-angelfish
+- 11x  0.03
+- 11x  Sorted by Profit/Loss, high to low
+- 10x  29.1%
+- 10x  Centre (ENS, REN, MDM, HOR, UDI, DVC, …)
+- 10x  Ethereum
+- 10x  Far Right (RN, UXD, REC, DSV, EXD, ...)
+- 10x  Market Rules Policy
+- 10x  Oct 15, 2026 · 15:59
+- 10x  Verified Market Policy
+- 9x  How many seats in France’s National Assembly will [party bloc] win in the next French legislative election?
+- 9x  Oct 15, 2026 · 16:00
+- 9x  Oct 2, 2026 · 15:07
+- 9x  Sep 26, 2026 · 08:50
+- 8x  $1.03k
+- 8x  $1.08k
+- 8x  $1.11k
+- 8x  $1.15k
+- 8x  $1.17k
+- 8x  $1.18k
+- 8x  $1.24k
+- 8x  $27.74k
+- 8x  $564.01
+- 8x  $591.40
+- 8x  $6.45k
+- 8x  $638.92
+- 8x  $7.16k
+- 8x  $7.54k
+- 8x  $757.39
+- 8x  $781.26
+- 8x  $801.81
+- 8x  $817.95
+- 8x  $827.39
+- 8x  $918.38
+- 8x  ...
+- 8x  0.1
+- 8x  0.28
+- 8x  0.8%
+- 8x  1%
+- 8x  1.1%
+- 8x  103
+- 8x  104
+- 8x  105
+- 8x  120
+- 8x  19.5%
+- 8x  200.00
+- 8x  21.23
+- 8x  26%
+- 8x  30.3%
+- 8x  32.1%
+- 8x  32.4%
+- 8x  34%
+- 8x  34.2%
+- 8x  35.5%
+- 8x  36.9%
+- 8x  38.2%
+- 8x  48.4%
+- 8x  5%
+- 8x  50
+- 8x  50.00
+- 8x  51.6%
+- 8x  6%
+- 8x  60.9%
+- 8x  63.6%
+- 8x  65.8%
+- 8x  67.6%
+- 8x  67.9%
+- 8x  69.7%
+- 8x  74%
+- 8x  80.5%
+- 8x  9.092
+- 8x  9.1%
+- 8x  9.9%
+- 8x  90.1%
+- 8x  90.9%
+- 8x  93.9%
+- 8x  94%
+- 8x  98.9%
+- 8x  Deepfunding
+- 8x  Democratic Party
+- 8x  Foresight
+- 8x  Futarchy
+- 8x  GWEI
+- 8x  How many Polymarket clarification notes published before January 1, 2027 will cause a market price move of at least 25 percentage points within 24 hours? [Note]
+- 8x  NO
+- 8x  NOTE
+- 8x  Opportunity Markets
+- 8x  Other
+- 8x  Other Blockchains
+- 8x  Republican Party
+- 8x  Salva Kiir Mayardit
+- 8x  Sep 1, 2026 · 03:54
+- 8x  Sep 21, 2026 · 01:08
+- 8x  Solana
+- 8x  What will be the average Ethereum BASEFEE (in gwei) for the period 1–31 January 2027 (UTC), as calculated from Ethereum block data on Dune Analytics? [gwei]
+- 8x  Which party will win the most seats in the United States Senate elections in 2026?
+- 8x  Who will win the 2026 South Sudanese presidential election?
+- 8x  Will Donald Trump issue an official presidential pardon for Ghislaine Maxwell by December 31st 2026?
+- 8x  Will GTA 6 achieve the highest first-day unit sales of any GTA game?
+- 8x  Will Polymarket distribute a transferable Polymarket cryptocurrency token to existing users before January 1st 2027?
+- 8x  Will Polymarket publicly release a fix for the negative-risk mint/merge share cost basis accounting issue before January 1, 2027?
+- 8x  Will Polymarket use an oracle other than UMA to resolve at least one subjective market before January 1, 2027?
+- 8x  Will Polymarket's API allow retrieval of fees paid data per individual positions by January 1st 2027?
+- 8x  Will Polymarket's public API provide a documented endpoint providing total fees paid by individual user by January 1, 2027?
+- 8x  Will Sam Bankman-Fried receive a U.S. presidential pardon in 2026?
+- 8x  Will a court rule against Polymarket in a lawsuit over an incorrect market resolution by the end of 2026?
+- 8x  Will a legally binding treaty or agreement transferring sovereignty over Greenland from Denmark to the United States enter into force in 2026?
+- 8x  Will any Kurdish militant group launch a confirmed armed attack inside Iran in 2026?
+- 8x  Will the Digital Asset Market Clarity Act be approved by the U.S. Senate, excluding committee approval, in 2026?
+- 8x  Will the United States enter into armed hostilities with a NATO country over Greenland in 2026?
+- 8x  YES
+- 7x  0.05
+- 7x  80.00
+- 7x  My collections
+- 7x  Sep 21, 2026 · 01:16
+- 6x  Account
+- 6x  Default
+- 6x  Deposit
+- 6x  Market Collections
+- 6x  May 22, 2025 · 23:53
+- 6x  Multi Scalar
+- 6x  Oct 7, 2026 · 02:04
+- 6x  Portfolio
+- 6x  Return
+- 6x  Trade Collateral
+- 6x  Use smart account
+- 5x  Answer: Answered too soon
+- 5x  Multi Categorical
+- 5x  No markets in this collection.
+- 5x  Oct 9, 2026 · 11:19
+- 5x  Reopen question
+- 5x  Scalar
+- 5x  Sep 1, 2026 · 03:53
+- 5x  Sign in to view and manage your market collections
+- 5x  Type
+- 5x  embarrassed-sick-stork
+- 5x  silly-voiceless-loon
+- 4x  0.10
+- 4x  120.00
+- 4x  192.00
+- 4x  250.00
+- 4x  543.12
+- 4x  7.46
+- 4x  Cancel
+- 4x  Connect
+- 4x  Liquidity
+- 4x  May 22, 2025 · 23:50
+- 4x  May 22, 2025 · 23:51
+- 4x  May 22, 2025 · 23:52
+- 4x  May 28, 2025 · 19:38
+- 4x  May 28, 2025 · 19:39
+- 4x  May 29, 2026 · 15:56
+- 4x  Oct 15, 2026 · 14:37
+- 4x  Oct 2, 2026 · 15:01
+- 4x  Oct 2, 2026 · 21:16
+- 4x  Oct 4, 2026 · 02:19
+- 4x  Open interest:
+- 4x  Sep 21, 2026 · 10:14
+- 4x  Sep 21, 2026 · 11:31
+- 4x  Sep 21, 2026 · 12:23
+- 4x  Sep 21, 2026 · 13:03
+- 4x  Sep 21, 2026 · 13:39
+- 4x  Sep 21, 2026 · 14:12
+- 4x  Sep 21, 2026 · 14:48
+- 4x  Sep 21, 2026 · 15:09
+- 4x  Sep 21, 2026 · 15:44
+- 4x  Sep 21, 2026 · 16:26
+- 4x  Sep 21, 2026 · 17:13
+- 4x  Sep 21, 2026 · 18:18
+- 4x  Sep 21, 2026 · 20:28
+- 4x  Sep 22, 2026 · 00:59
+- 4x  Sep 22, 2026 · 01:05
+- 4x  Sep 22, 2026 · 01:07
+- 4x  Sep 22, 2026 · 01:12
+- 4x  Sep 22, 2026 · 01:44
+- 4x  Sep 22, 2026 · 02:16
+- 4x  Sep 22, 2026 · 02:44
+- 4x  Sep 22, 2026 · 03:10
+- 4x  Sep 22, 2026 · 03:36
+- 4x  Sep 22, 2026 · 04:00
+- 4x  Sep 22, 2026 · 04:27
+- 4x  Sep 22, 2026 · 04:56
+- 4x  Sep 22, 2026 · 05:29
+- 4x  Sep 22, 2026 · 06:13
+- 4x  Sep 22, 2026 · 07:20
+- 4x  Sep 22, 2026 · 16:11
+- 4x  Sep 22, 2026 · 19:52
+- 4x  Sep 22, 2026 · 20:07
+- 4x  Sep 22, 2026 · 20:20
+- 4x  Sep 22, 2026 · 20:34
+- 4x  Sep 22, 2026 · 20:47
+- 4x  Sep 22, 2026 · 21:13
+- 4x  Sep 22, 2026 · 21:40
+- 4x  Sep 22, 2026 · 22:06
+- 4x  Sep 22, 2026 · 22:32
+- 4x  Sep 22, 2026 · 22:44
+- 4x  Sep 22, 2026 · 23:14
+- 4x  Sep 22, 2026 · 23:47
+- 4x  Sep 23, 2026 · 00:28
+- 4x  Sep 23, 2026 · 02:47
+- 4x  Sep 23, 2026 · 04:23
+- 4x  Sep 23, 2026 · 11:57
+- 4x  adequate-bitter-lemur
+- 4x  fiscal-vague-giraffe
+- 3x  0.40
+- 3x  0.8504
+- 3x  0.8976
+- 3x  0.9474
+- 3x  10.00
+- 3x  105.00
+- 3x  11121314151617
+- 3x  137.00
+- 3x  163.00
+- 3x  170.00
+- 3x  177.00
+- 3x  18192021222324
+- 3x  240.00
+- 3x  25262728293031
+- 3x  260.00
+- 3x  27282930123
+- 3x  3.70k
+- 3x  314.00
+- 3x  45678910
+- 3x  5.61k
+- 3x  70.00
+- 3x  780.17
+- 3x  800.00
+- 3x  Add liquidity
+- 3x  Answer
+- 3x  Available Pools:
+- 3x  Chart
+- 3x  Choose an answer
+- 3x  Current answer: Not answered yet
+- 3x  Earn farming rewards (SEER) by providing liquidity to existing markets.
+- 3x  Farming Rewards
+- 3x  Hide pool details
+- 3x  Invalid	Balance
+- 3x  Last Month
+- 3x  Last Week
+- 3x  Learn more about the farming program
+- 3x  Mark this question invalid
+- 3x  May 18, 2025 · 19:58
+- 3x  My activity
+- 3x  Next Month
+- 3x  Oct 15, 2026 · 13:17
+- 3x  Oct 15, 2026 · 15:57
+- 3x  Oct 2, 2026 · 02:49
+- 3x  Oct 2, 2026 · 03:06
+- 3x  Oct 2, 2026 · 13:17
+- 3x  Oct 2, 2026 · 13:18
+- 3x  Oct 5, 2026 · 11:07
+- 3x  October 2026
+- 3x  Pool Balances:
+- 3x  Pool Id:
+- 3x  Previous Month
+- 3x  Report Answer
+- 3x  SHARES
+- 3x  Save
+- 3x  Sep 3, 2026 · 05:30
+- 3x  Signing in...
+- 3x  Sorted by Profit/Loss, high to low Updating…
+- 3x  SuMoTuWeThFrSa
+- 3x  TOTAL
+- 3x  This market is not resolved yet. You can provide an answer to the Reality question by depositing a bond of 10 XDAI.
+- 3x  Today
+- 3x  User rejected the request.
+- 3x  payable-unlikely-earwig
+- 3x  respectable-scientific-otter
+- 2x  0.06
+- 2x  0.08
+- 2x  0.17
+- 2x  0.30
+- 2x  0.61
+- 2x  0.69
+- 2x  0.7634
+- 2x  0.79
+- 2x  0.8057
+- 2x  0.8353
+- 2x  0.8403
+- 2x  0.8454
+- 2x  0.8556
+- 2x  0.8607
+- 2x  0.8659
+- 2x  0.8711
+- 2x  0.8763
+- 2x  0.8816
+- 2x  0.8869
+- 2x  0.8923
+- 2x  0.9030
+- 2x  0.9085
+- 2x  0.9139
+- 2x  0.9194
+- 2x  0.9250
+- 2x  0.9305
+- 2x  0.9361
+- 2x  0.9418
+- 2x  0.9531
+- 2x  0.9589
+- 2x  0.9646
+- 2x  0.9704
+- 2x  0.9763
+- 2x  0.9822
+- 2x  1.00k
+- 2x  1.06
+- 2x  1.15k
+- 2x  1.48k
+- 2x  105.14
+- 2x  136.24
+- 2x  150.00
+- 2x  159.17
+- 2x  160.56
+- 2x  2.13
+- 2x  2.65
+- 2x  2.68k
+- 2x  2.73
+- 2x  24.9%
+- 2x  25.30
+- 2x  300.00
+- 2x  31.6%
+- 2x  33.77
+- 2x  350.00
+- 2x  352.00
+- 2x  356.00
+- 2x  400.00
+- 2x  43.68
+- 2x  473.15
+- 2x  5.00k
+- 2x  5.10k $ traded, notional 15.49k $
+- 2x  5.75k sDAI (7.26k $)
+- 2x  6.6%
+- 2x  60.00
+- 2x  61.06
+- 2x  7.34
+- 2x  7.50
+- 2x  7.6%
+- 2x  Base
+- 2x  Chain
+- 2x  Conditional on "Will Marine Le Pen be the National Rally’s candidate in the next French presidential election?" being "No"
+- 2x  Conditional on "Will Marine Le Pen be the National Rally’s candidate in the next French presidential election?" being "Yes"
+- 2x  Gnosis
+- 2x  Jan 20, 2026 · 21:11
+- 2x  Jan 20, 2026 · 21:12
+- 2x  Jul 10, 2026 · 02:23
+- 2x  Jul 13, 2026 · 13:22
+- 2x  Jul 14, 2026 · 12:17
+- 2x  Jul 18, 2026 · 02:40
+- 2x  Jul 9, 2026 · 22:59
+- 2x  Jun 12, 2025 · 15:12
+- 2x  Jun 12, 2025 · 15:15
+- 2x  Jun 12, 2025 · 15:16
+- 2x  Jun 12, 2025 · 17:26
+- 2x  Jun 12, 2025 · 17:32
+- 2x  Jun 12, 2025 · 17:35
+- 2x  Jun 15, 2025 · 04:27
+- 2x  Jun 15, 2025 · 04:29
+- 2x  Jun 9, 2025 · 20:17
+- 2x  Likud: 5.45k LIKUD / 4.65k sDAI
+- 2x  May 22, 2025 · 23:54
+- 2x  N/A	+$0.40	$3.00	+13.3%	1
+- 2x  N/A	+$0.41	$3.00	+13.5%	1
+- 2x  No	Balance
+- 2x  No:
+- 2x  OP Mainnet
+- 2x  Oct 13, 2026 · 14:33
+- 2x  Oct 13, 2026 · 14:34
+- 2x  Oct 14, 2026 · 03:48
+- 2x  Oct 14, 2026 · 03:49
+- 2x  Oct 15, 2026 · 13:18
+- 2x  Oct 15, 2026 · 14:38
+- 2x  Oct 15, 2026 · 16:04
+- 2x  Oct 17, 2026 · 02:46
+- 2x  Oct 2, 2026 · 03:10
+- 2x  Oct 2, 2026 · 15:03
+- 2x  Oct 2, 2026 · 21:13
+- 2x  Oct 2, 2026 · 21:47
+- 2x  Oct 2, 2026 · 21:48
+- 2x  Oct 5, 2026 · 11:08
+- 2x  Oct 6, 2026 · 10:48
+- 2x  Oct 6, 2026 · 10:52
+- 2x  Oct 6, 2026 · 10:53
+- 2x  Oct 7, 2026 · 02:06
+- 2x  Other (REG, ECO, DIV, …)
+- 2x  Others: 5.40k OTHERS / 15.86 sDAI
+- 2x  Pending execution
+- 2x  Related Conditional Markets (2)
+- 2x  Right (LR, DVD, …)
+- 2x  Search by outcome:
+- 2x  Sep 25, 2026 · 21:58
+- 2x  Sep 3, 2026 · 01:35
+- 2x  Sep 3, 2026 · 01:57
+- 2x  Sep 3, 2026 · 05:31
+- 2x  Sep 3, 2026 · 09:33
+- 2x  Sep 3, 2026 · 12:19
+- 2x  Together Alliance : 5.53k TOGETHER_AL / 0.00 sDAI
+- 2x  Yashar : 4.94k YASHAR / 12.15k sDAI
+- 2x  Yes	Balance
+- 2x  Yes:
+- 2x  patient-pure-squirrel
+- 2x  ripotche.eth
+- 2x  squealing-violent-haddock
+- 1x  #1 Left (UG, LFI, SOC, COM, VEC, RDG, DVG, EXG, …)
+- 1x  #2 Centre (ENS, REN, MDM, HOR, UDI, DVC, …)
+- 1x  #3 Far Right (RN, UXD, REC, DSV, EXD, ...)
+- 1x  #4 Right (LR, DVD, …)
+- 1x  #5 Other (REG, ECO, DIV, …)
+- 1x  #6 Invalid
+- 1x  +$0.07	$0.00	+0.0%	0
+- 1x  +$2.15	$0.00	+0.2%	0
+- 1x  +$65.13	$0.00	+0.3%	0
+- 1x  +$8.51	$0.00	+0.9%	0
+- 1x  0.0050
+- 1x  0.0053
+- 1x  0.0056
+- 1x  0.0059
+- 1x  0.0062
+- 1x  0.0066
+- 1x  0.0069
+- 1x  0.0073
+- 1x  0.0077
+- 1x  0.0081
+- 1x  0.0086
+- 1x  0.0091
+- 1x  0.0096
+- 1x  0.0101
+- 1x  0.0107
+- 1x  0.0112
+- 1x  0.0119
+- 1x  0.0125
+- 1x  0.0132
+- 1x  0.0140
+- 1x  0.0147
+- 1x  0.0155
+- 1x  0.0164
+- 1x  0.0173
+- 1x  0.0183
+- 1x  0.0193
+- 1x  0.0204
+- 1x  0.0215
+- 1x  0.0227
+- 1x  0.0239
+- 1x  0.0253
+- 1x  0.0267
+- 1x  0.0282
+- 1x  0.0297
+- 1x  0.0314
+- 1x  0.0331
+- 1x  0.0350
+- 1x  0.0369
+- 1x  0.0389
+- 1x  0.0411
+- 1x  0.0434
+- 1x  0.0458
+- 1x  0.0483
+- 1x  0.0510
+- 1x  0.0538
+- 1x  0.0568
+- 1x  0.0600
+- 1x  0.0633
+- 1x  0.0668
+- 1x  0.0705
+- 1x  0.0744
+- 1x  0.0786
+- 1x  0.0829
+- 1x  0.0875
+- 1x  0.0924
+- 1x  0.0975
+- 1x  0.1029
+- 1x  0.1086
+- 1x  0.11
+- 1x  0.1146
+- 1x  0.1210
+- 1x  0.1277
+- 1x  0.1348
+- 1x  0.14
+- 1x  0.1423
+- 1x  0.1502
+- 1x  0.1585
+- 1x  0.1673
+- 1x  0.1766
+- 1x  0.1864
+- 1x  0.1967
+- 1x  0.2076
+- 1x  0.21
+- 1x  0.2192
+- 1x  0.2313
+- 1x  0.24
+- 1x  0.2442
+- 1x  0.2577
+- 1x  0.27
+- 1x  0.2720
+- 1x  0.2736
+- 1x  0.2888
+- 1x  0.29
+- 1x  0.3048
+- 1x  0.3218
+- 1x  0.3396
+- 1x  0.3585
+- 1x  0.36
+- 1x  0.3783
+- 1x  0.38 LEPEN_NRYES / 7.18k LPY_NR_NO
+- 1x  0.3993
+- 1x  0.4215
+- 1x  0.44
+- 1x  0.4449
+- 1x  0.4696
+- 1x  0.4956
+- 1x  0.50%
+- 1x  0.5231
+- 1x  0.5521
+- 1x  0.5828
+- 1x  0.6076
+- 1x  0.6151
+- 1x  0.6492
+- 1x  0.6852
+- 1x  0.7233
+- 1x  0.7453
+- 1x  0.7454
+- 1x  0.7498
+- 1x  0.7543
+- 1x  0.7588
+- 1x  0.7680
+- 1x  0.7726
+- 1x  0.7773
+- 1x  0.7819
+- 1x  0.7866
+- 1x  0.7914
+- 1x  0.7961
+- 1x  0.8009
+- 1x  0.8106
+- 1x  0.8155
+- 1x  0.8204
+- 1x  0.8253
+- 1x  0.8303
+- 1x  0.8424
+- 1x  0.89
+- 1x  0.95
+- 1x  0.9881
+- 1x  0x0c76...a214
+- 1x  0x2e5b...8626
+- 1x  0xb328...30b1
+- 1x  1.00%
+- 1x  1.05
+- 1x  1.05k
+- 1x  1.21k
+- 1x  1.24k
+- 1x  1.32k
+- 1x  1.33k
+- 1x  1.49k
+- 1x  1.50k
+- 1x  1.80k
+- 1x  1.97k
+- 1x  10.00k
+- 1x  10.34
+- 1x  10.37
+- 1x  100.13
+- 1x  100.43
+- 1x  100.73
+- 1x  100615.79
+- 1x  10092.11
+- 1x  101.03
+- 1x  101.34
+- 1x  101.64
+- 1x  101.95
+- 1x  1018.16
+- 1x  102.25
+- 1x  102.56
+- 1x  102.62
+- 1x  102.87
+- 1x  103.18
+- 1x  103.49
+- 1x  103.80
+- 1x  103955.68
+- 1x  104.11
+- 1x  104.42
+- 1x  1046.03
+- 1x  105.05
+- 1x  107386.98
+- 1x  1074.65
+- 1x  1091.33
+- 1x  10981.42
+- 1x  1099.21
+- 1x  11.67
+- 1x  11.75k $ traded, notional 17.31k $
+- 1x  11.95
+- 1x  110.00
+- 1x  1104.06
+- 1x  11078.79
+- 1x  110912.18
+- 1x  1130.07
+- 1x  1134.28
+- 1x  114533.86
+- 1x  115.00
+- 1x  1165.32
+- 1x  118254.64
+- 1x  1192.67
+- 1x  11968.38
+- 1x  1197.21
+- 1x  12.39
+- 1x  12.68
+- 1x  122077.25
+- 1x  1229.97
+- 1x  126004.47
+- 1x  1263.63
+- 1x  12882.31
+- 1x  1289.97
+- 1x  1293.70
+- 1x  1298.21
+- 1x  130039.17
+- 1x  1306.75
+- 1x  1333.74
+- 1x  134184.28
+- 1x  1370.24
+- 1x  13821.26
+- 1x  138442.83
+- 1x  1394.43
+- 1x  14.13
+- 1x  14.60%
+- 1x  1407.74
+- 1x  142.24
+- 1x  142.67
+- 1x  142817.91
+- 1x  143.10
+- 1x  143.53
+- 1x  143.96
+- 1x  144.39
+- 1x  144.67
+- 1x  144.82
+- 1x  1446.26
+- 1x  1449.39
+- 1x  145.26
+- 1x  145.70
+- 1x  146.13
+- 1x  146.57
+- 1x  147.01
+- 1x  147.46
+- 1x  147.90
+- 1x  147312.73
+- 1x  14785.90
+- 1x  148.34
+- 1x  148.73
+- 1x  148.79
+- 1x  1485.84
+- 1x  149.24
+- 1x  149.68
+- 1x  1494.86
+- 1x  15.34k
+- 1x  15.55k
+- 1x  150.13
+- 1x  150.58
+- 1x  151.04
+- 1x  151.49
+- 1x  151.95
+- 1x  151930.56
+- 1x  152.40
+- 1x  1526.50
+- 1x  153.78
+- 1x  154.24
+- 1x  154.71
+- 1x  155.17
+- 1x  155.64
+- 1x  156.10
+- 1x  156.57
+- 1x  156674.76
+- 1x  1568.28
+- 1x  157.04
+- 1x  157.51
+- 1x  157.99
+- 1x  15776.94
+- 1x  158.46
+- 1x  158.69
+- 1x  158.94
+- 1x  159.16
+- 1x  159.42
+- 1x  159.90
+- 1x  1594.99
+- 1x  160.00
+- 1x  160.38
+- 1x  160.60
+- 1x  160.86
+- 1x  1608.33
+- 1x  161.34
+- 1x  161.83
+- 1x  1611.20
+- 1x  161548.79
+- 1x  162.31
+- 1x  162.80
+- 1x  162.98
+- 1x  165.48
+- 1x  1655.29
+- 1x  166556.20
+- 1x  16795.10
+- 1x  1694.82
+- 1x  1700.59
+- 1x  171700.65
+- 1x  1742.41
+- 1x  1747.13
+- 1x  175.05
+- 1x  1766.79
+- 1x  176985.89
+- 1x  17841.13
+- 1x  1794.35
+- 1x  1794.94
+- 1x  182415.76
+- 1x  1844.06
+- 1x  1868.73
+- 1x  187994.23
+- 1x  18915.78
+- 1x  1893.58
+- 1x  1894.53
+- 1x  19.93
+- 1x  1924.78
+- 1x  193725.37
+- 1x  1946.37
+- 1x  197.73
+- 1x  1992.51
+- 1x  199613.34
+- 1x  1999.64
+- 1x  2.39
+- 1x  2.45
+- 1x  2.55
+- 1x  2.69
+- 1x  20019.84
+- 1x  2054.36
+- 1x  205662.44
+- 1x  2082.29
+- 1x  2091.15
+- 1x  21.74
+- 1x  210.85
+- 1x  211.00
+- 1x  2110.58
+- 1x  21154.12
+- 1x  211877.09
+- 1x  2168.34
+- 1x  218261.81
+- 1x  2189.49
+- 1x  22.20%
+- 1x  220.00
+- 1x  2227.68
+- 1x  223.65
+- 1x  22319.44
+- 1x  2239.33
+- 1x  2287.54
+- 1x  2288.64
+- 1x  2351.27
+- 1x  23516.64
+- 1x  2385.29
+- 1x  2395.91
+- 1x  24.62k sDAI (31.07k $)
+- 1x  2403.21
+- 1x  2415.62
+- 1x  2415.73
+- 1x  24746.61
+- 1x  2481.73
+- 1x  2482.76
+- 1x  2549.64
+- 1x  2552.01
+- 1x  257.92
+- 1x  2579.92
+- 1x  26.28
+- 1x  26010.24
+- 1x  2619.42
+- 1x  2676.80
+- 1x  269.59
+- 1x  2691.10
+- 1x  2707.65
+- 1x  27308.46
+- 1x  2764.75
+- 1x  2773.39
+- 1x  2840.41
+- 1x  2862.82
+- 1x  28642.19
+- 1x  29.73
+- 1x  2918.14
+- 1x  2948.17
+- 1x  2998.00
+- 1x  3.00k
+- 1x  3.31k
+- 1x  3.37k
+- 1x  3.38k
+- 1x  3.60k
+- 1x  300.93
+- 1x  30012.43
+- 1x  3017.52
+- 1x  3080.05
+- 1x  3082.09
+- 1x  31.01
+- 1x  31420.17
+- 1x  3164.33
+- 1x  3171.76
+- 1x  323.36
+- 1x  3250.93
+- 1x  32866.43
+- 1x  3325.54
+- 1x  3339.90
+- 1x  3431.30
+- 1x  34352.27
+- 1x  345.00
+- 1x  3466.42
+- 1x  3484.71
+- 1x  3525.20
+- 1x  358.65
+- 1x  35878.77
+- 1x  36.53
+- 1x  3621.67
+- 1x  3643.39
+- 1x  3720.79
+- 1x  373.39
+- 1x  37447.05
+- 1x  3779.56
+- 1x  3795.79
+- 1x  38.81
+- 1x  3822.61
+- 1x  39.10%
+- 1x  39058.25
+- 1x  3927.22
+- 1x  3947.74
+- 1x  3970.87
+- 1x  4.54k
+- 1x  4.77k
+- 1x  4.78
+- 1x  4.94k YASHAR / 12.15k sDAI
+- 1x  4034.69
+- 1x  40713.54
+- 1x  4099.23
+- 1x  413.00
+- 1x  414.51
+- 1x  4145.11
+- 1x  42414.12
+- 1x  425.46
+- 1x  4250.27
+- 1x  4258.55
+- 1x  43.40
+- 1x  43.59
+- 1x  4375.09
+- 1x  440.00
+- 1x  4400.85
+- 1x  44161.25
+- 1x  443.93
+- 1x  4461.88
+- 1x  4494.82
+- 1x  4496.10
+- 1x  454.03
+- 1x  4550.98
+- 1x  45956.19
+- 1x  4617.83
+- 1x  47.1
+- 1x  47.4
+- 1x  4700.67
+- 1x  472.78
+- 1x  4744.20
+- 1x  475.45
+- 1x  476.88
+- 1x  47800.25
+- 1x  4849.90
+- 1x  485.67
+- 1x  4874.03
+- 1x  4887.34
+- 1x  49.69k $ traded, notional 107.63k $
+- 1x  491.01
+- 1x  493.00
+- 1x  49694.78
+- 1x  4998.69
+- 1x  5.01k
+- 1x  5.14k
+- 1x  5.16k
+- 1x  5.73k
+- 1x  50.59
+- 1x  5007.42
+- 1x  504.45
+- 1x  51.10
+- 1x  5144.45
+- 1x  5147.03
+- 1x  51641.15
+- 1x  518.25
+- 1x  5232.26
+- 1x  524.24
+- 1x  528.00
+- 1x  5285.24
+- 1x  5294.93
+- 1x  532.44
+- 1x  53640.79
+- 1x  5429.87
+- 1x  5442.39
+- 1x  547.01
+- 1x  55.5
+- 1x  55695.15
+- 1x  5578.47
+- 1x  5589.40
+- 1x  561.98
+- 1x  57.38
+- 1x  5731.13
+- 1x  5735.97
+- 1x  577.36
+- 1x  57805.73
+- 1x  58.20
+- 1x  58.5
+- 1x  58.90
+- 1x  580.00
+- 1x  580.06
+- 1x  5882.11
+- 1x  5887.97
+- 1x  59.60%
+- 1x  593.16
+- 1x  5988.57
+- 1x  59974.07
+- 1x  6.45k
+- 1x  6.58k
+- 1x  6.58k LEPEN_NRYES / 126.10 sDAI
+- 1x  6.63k
+- 1x  6.81
+- 1x  6027.80
+- 1x  6049.11
+- 1x  6173.06
+- 1x  62.00
+- 1x  6214.65
+- 1x  62201.75
+- 1x  626.06
+- 1x  63.00
+- 1x  6317.89
+- 1x  6384.72
+- 1x  643.20
+- 1x  64490.39
+- 1x  6462.28
+- 1x  647.50
+- 1x  650.00
+- 1x  652.52
+- 1x  660.80
+- 1x  6606.24
+- 1x  66841.66
+- 1x  6749.77
+- 1x  6765.57
+- 1x  678.88
+- 1x  68.14
+- 1x  682.93
+- 1x  6892.86
+- 1x  69257.28
+- 1x  697.46
+- 1x  7.17k
+- 1x  7.22k LEPEN_NRYES (7.68k $)
+- 1x  7035.53
+- 1x  716.55
+- 1x  71739.01
+- 1x  7177.77
+- 1x  729.40
+- 1x  736.16
+- 1x  74288.66
+- 1x  756.30
+- 1x  7563.84
+- 1x  76908.07
+- 1x  777.00
+- 1x  78.00%
+- 1x  785.49
+- 1x  79599.18
+- 1x  798.27
+- 1x  808.84
+- 1x  820.11
+- 1x  82363.92
+- 1x  8383.95
+- 1x  84.70%
+- 1x  842.56
+- 1x  85204.33
+- 1x  865.61
+- 1x  88122.48
+- 1x  887.74
+- 1x  889.30
+- 1x  889.59
+- 1x  9.00
+- 1x  91120.48
+- 1x  913.94
+- 1x  9226.50
+- 1x  938.95
+- 1x  94200.52
+- 1x  96.00
+- 1x  96.59
+- 1x  96.88
+- 1x  964.64
+- 1x  969.70
+- 1x  97.17
+- 1x  97.37
+- 1x  97.46
+- 1x  97.75
+- 1x  97364.86
+- 1x  98.05
+- 1x  98.34
+- 1x  98.64
+- 1x  98.93
+- 1x  989.69
+- 1x  99.23
+- 1x  99.53
+- 1x  99.83
+- 1x  991.04
+- 1x  @mayordoge
+- 1x  @seerious
+- 1x  Apply
+- 1x  Apr 9, 2025 · 21:11
+- 1x  Asc
+- 1x  Calculate your potential return
+- 1x  Challenged
+- 1x  Closed
+- 1x  Creation Date
+- 1x  Deadline:
+- 1x  Desc
+- 1x  Finding your rank…
+- 1x  Hide questions
+- 1x  In Dispute
+- 1x  Jan 20, 2026 · 21:34
+- 1x  Jan 20, 2026 · 21:35
+- 1x  Jul 10, 2026 · 02:24
+- 1x  Jul 13, 2026 · 13:23
+- 1x  Jul 14, 2026 · 12:18
+- 1x  Jul 18, 2026 · 02:42
+- 1x  Jul 20, 2026 · 03:55
+- 1x  Jul 9, 2026 · 23:00
+- 1x  Jun 27, 2025 · 21:42
+- 1x  Jun 27, 2025 · 21:56
+- 1x  Jun 9, 2025 · 21:01
+- 1x  Jun 9, 2025 · 21:12
+- 1x  Last: 0.6076
+- 1x  Last: 0.7454
+- 1x  Last: 0.8424
+- 1x  Likud	Balance
+- 1x  Likud:
+- 1x  Market States
+- 1x  May 16, 2025 · 05:52
+- 1x  May 16, 2025 · 05:58
+- 1x  May 16, 2025 · 06:02
+- 1x  May 18, 2025 · 06:07
+- 1x  May 18, 2025 · 06:09
+- 1x  May 18, 2025 · 19:37
+- 1x  May 18, 2025 · 19:39
+- 1x  May 18, 2025 · 19:53
+- 1x  May 5, 2026 04:30
+- 1x  May 6, 2026 01:00
+- 1x  Minimum Liquidity
+- 1x  N/A	+$0.01	$0.00	+0.0%	0
+- 1x  N/A	+$0.04	$0.00	+1.1%	0
+- 1x  N/A	+$0.23	$3.00	+7.8%	1
+- 1x  N/A	+$0.30	$3.00	+9.8%	1
+- 1x  N/A	+$0.32	$3.00	+10.6%	1
+- 1x  N/A	+$0.34	$3.00	+11.3%	1
+- 1x  N/A	+$0.45	$3.00	+14.9%	1
+- 1x  N/A	+$0.49	$3.00	+16.2%	1
+- 1x  N/A	+$0.60	$3.00	+19.9%	1
+- 1x  N/A	+$11.15	$65.76	+17.0%	1
+- 1x  N/A	+$15.78	$15.78	N/A	5
+- 1x  N/A	+$2.31	$0.00	+29.5%	0
+- 1x  N/A	+$2.59	$2.59	+6,792.9%	1
+- 1x  N/A	+$23.15	$35.19	+384.4%	1
+- 1x  N/A	+$274.29	$0.00	+1.0%	0
+- 1x  N/A	+$51.23	$310.03	+79.8%	1
+- 1x  N/A	+$58.60	$58.59	N/A	3
+- 1x  No markets found.
+- 1x  No: 26.43 LEPEN_NRNO / 3.92 sDAI
+- 1x  No: 7.18k LPY_NR_NO / 0.38 LEPEN_NRYES
+- 1x  Not Verified
+- 1x  OCT 1, 2029 · 00:00 UTC
+- 1x  Oct 13, 2026 · 14:35
+- 1x  Oct 13, 2026 · 20:52
+- 1x  Oct 13, 2026 · 20:53
+- 1x  Oct 13, 2026 · 20:54
+- 1x  Oct 14, 2026 · 03:50
+- 1x  Oct 15, 2026 · 14:39
+- 1x  Oct 15, 2026 · 15:56
+- 1x  Oct 15, 2026 · 15:58
+- 1x  Oct 15, 2026 · 16:05
+- 1x  Oct 17, 2026 · 02:47
+- 1x  Oct 2, 2026 · 03:12
+- 1x  Oct 2, 2026 · 15:00
+- 1x  Oct 2, 2026 · 15:04
+- 1x  Oct 2, 2026 · 21:12
+- 1x  Oct 2, 2026 · 21:15
+- 1x  Oct 2, 2026 · 21:18
+- 1x  Oct 2, 2026 · 21:19
+- 1x  Oct 2, 2026 · 21:41
+- 1x  Oct 2, 2026 · 21:42
+- 1x  Oct 2, 2026 · 21:46
+- 1x  Oct 4, 2026 · 02:18
+- 1x  Oct 4, 2026 · 02:20
+- 1x  Oct 5, 2026 · 11:10
+- 1x  Oct 5, 2026 · 19:55
+- 1x  Oct 6, 2026 · 10:47
+- 1x  Oct 6, 2026 · 10:49
+- 1x  Oct 6, 2026 · 10:54
+- 1x  Oct 6, 2026 · 21:54
+- 1x  Oct 7, 2026 · 01:59
+- 1x  Oct 7, 2026 · 19:20
+- 1x  Oct 9, 2026 · 04:17
+- 1x  Oct 9, 2026 · 11:18
+- 1x  Open Interest
+- 1x  Opening Date
+- 1x  Others	Balance
+- 1x  Others:
+- 1x  Page 1 of 91 · Updated 10/18/2026, 8:51:04 PM
+- 1x  Page 2 of 166 · Updated 10/18/2026, 8:39:31 PM
+- 1x  Reports not open yet
+- 1x  Rewards
+- 1x  Rewards end: October 26 2026, 13:53
+- 1x  Rewards ended on: January 4 2026, 22:31
+- 1x  Rewards ended on: January 5 2026, 00:48
+- 1x  Sep 12, 2026 · 20:47
+- 1x  Sep 12, 2026 · 21:00
+- 1x  Sep 22, 2026 02:30
+- 1x  Sep 3, 2026 · 01:55
+- 1x  Sep 3, 2026 · 05:32
+- 1x  Sep 3, 2026 · 21:47
+- 1x  Sep 9, 2026 · 11:55
+- 1x  Sep 9, 2026 · 11:56
+- 1x  Sep 9, 2026 · 11:57
+- 1x  Sep 9, 2026 · 21:54
+- 1x  Show only conditional markets
+- 1x  Show only futarchy markets
+- 1x  Show only markets with rewards
+- 1x  Sort By
+- 1x  Sorted by Profit/Loss, low to high Updating…
+- 1x  Sorted by ROI, high to low. N/A means a wallet had under $0.01 of capital. Updating…
+- 1x  Sorted by Score, high to low. N/A means the wallet has too little history to score. Updating…
+- 1x  Sorted by Volume, high to low Updating…
+- 1x  Swapr ~ 99.00k SEER / day
+- 1x  Switch to Gnosis
+- 1x  Together Alliance	Balance
+- 1x  Together Alliance :
+- 1x  Verification Status
+- 1x  Verifying
+- 1x  Waiting for answer
+- 1x  Yashar	Balance
+- 1x  Yashar :
+- 1x  Yes: 1.49k LPY_NR_YES / 1.21k LEPEN_NRYES
+- 1x  Yes: 6.58k LEPEN_NRYES / 126.10 sDAI
+- 1x  alive-rational-snipe
+- 1x  big-melted-wallaby
+- 1x  broad-financial-gopher
+- 1x  casual-sudden-squid
+- 1x  chief-separate-slug
+- 1x  clean-peaceful-eel
+- 1x  colourful-naked-shrew
+- 1x  comparable-available-canid
+- 1x  confident-faint-lamprey
+- 1x  crazy-frantic-tyrannosaurus
+- 1x  dying-divine-whitefish
+- 1x  embarrassing-usual-haddock
+- 1x  exclusive-environmental-whitefish
+- 1x  homeless-mighty-basilisk
+- 1x  horrible-controlled-fowl
+- 1x  intellectual-cheerful-hoverfly
+- 1x  large-curly-koala
+- 1x  married-crude-limpet
+- 1x  mean-judicial-felidae
+- 1x  misleading-conventional-swordfish
+- 1x  motionless-assistant-aardvark
+- 1x  preferred-close-marten
+- 1x  rear-rotten-quail
+- 1x  short-pretty-lemur
+- 1x  silent-armed-jellyfish
+- 1x  stale-integrated-ox
+- 1x  supposed-sheer-narwhal
+- 1x  unable-distant-ladybug
+- 1x  uncomfortable-condemned-koi
+- 1x  unwilling-extreme-beaver
+- 1x  urban-cognitive-mammal
+- 1x  vicious-chilly-cuckoo
+- 1x  yodelling-moaning-tarantula
+- 1x  ~ 144 seats
+- 1x  ~ 168 seats
+- 1x  ~ 182 seats
+- 1x  ~ 38 seats
+- 1x  ~ 44 seats

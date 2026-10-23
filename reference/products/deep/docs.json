@@ -1,0 +1,117 @@
+[
+ {
+  "fact": "deep.seer.pm is a product for executing one-click trades on Deepfunding prediction markets on Seer.",
+  "quote": "deep.seer.pm lets you execute one-click trades on Deepfunding prediction markets on Seer.",
+  "url": "https://deep-pm.gitbook.io/seer-docs"
+ },
+ {
+  "fact": "The guide presents a Quick Diagram outlining the user flow.",
+  "quote": "\ud83e\udded Quick Diagram [Connect Wallet] \u2193 [Create Trade Wallet] \u2193 [Get sUSDS] \u2193 [Deposit to Trade Wallet] \u2193 [Upload CSV Predictions] \u2193 [Execute Strategy]",
+  "url": "https://deep-pm.gitbook.io/seer-docs"
+ },
+ {
+  "fact": "The workflow includes creating a Trade Wallet.",
+  "quote": "[Create Trade Wallet]",
+  "url": "https://deep-pm.gitbook.io/seer-docs"
+ },
+ {
+  "fact": "The workflow includes depositing to the Trade Wallet.",
+  "quote": "[Deposit to Trade Wallet]",
+  "url": "https://deep-pm.gitbook.io/seer-docs"
+ },
+ {
+  "fact": "The workflow includes uploading CSV Predictions.",
+  "quote": "[Upload CSV Predictions]",
+  "url": "https://deep-pm.gitbook.io/seer-docs"
+ },
+ {
+  "fact": "The workflow ends with executing a strategy.",
+  "quote": "[Execute Strategy]",
+  "url": "https://deep-pm.gitbook.io/seer-docs"
+ },
+ {
+  "fact": "The user guide navigation includes Getting Started, Funding Your Account, Trading on Deep Seer, and Advanced Features.",
+  "quote": "\ud83d\ude80 Getting Started \ud83d\udcb0 Funding Your Account \ud83d\udcca Trading on Deep Seer \u2699\ufe0f Advanced Features",
+  "url": "https://deep-pm.gitbook.io/seer-docs"
+ },
+ {
+  "fact": "The documentation provides a complete index at llms.txt.",
+  "quote": "For the complete documentation index, see llms.txt .",
+  "url": "https://deep-pm.gitbook.io/seer-docs"
+ },
+ {
+  "fact": "The page is available as Markdown.",
+  "quote": "This page is also available as Markdown .",
+  "url": "https://deep-pm.gitbook.io/seer-docs"
+ },
+ {
+  "fact": "The documentation is powered by GitBook.",
+  "quote": "Powered by GitBook",
+  "url": "https://deep-pm.gitbook.io/seer-docs"
+ },
+ {
+  "fact": "The page was last updated 6 months ago.",
+  "quote": "Last updated 6 months ago",
+  "url": "https://deep-pm.gitbook.io/seer-docs"
+ },
+ {
+  "fact": "Seer is described as a prediction market platform built on Reality.eth and the Conditional Tokens Framework.",
+  "quote": "Seer is a prediction market platform built on Reality.eth and the Conditional Tokens Framework.",
+  "url": "https://docs.seer.pm/llms.txt"
+ },
+ {
+  "fact": "The documentation includes a Glossary page for terminology.",
+  "quote": "- [Glossary](https://docs.seer.pm/documentation/glossary.md)",
+  "url": "https://docs.seer.pm/llms.txt"
+ },
+ {
+  "fact": "The app documentation includes a Leaderboard and Trader Score page.",
+  "quote": "- [Leaderboard and Trader Score](https://docs.seer.pm/app/leaderboard.md)",
+  "url": "https://docs.seer.pm/llms.txt"
+ },
+ {
+  "fact": "The whitepaper lists AI Markets as an application of Seer.",
+  "quote": "- [AI Markets](https://docs.seer.pm/whitepaper/applications/ai-markets.md)",
+  "url": "https://docs.seer.pm/llms.txt"
+ },
+ {
+  "fact": "The whitepaper includes a page on Prediction Market Actors.",
+  "quote": "- [Prediction Market Actors](https://docs.seer.pm/whitepaper/seer-solution/prediction-market-actors.md)",
+  "url": "https://docs.seer.pm/llms.txt"
+ },
+ {
+  "fact": "The app documentation includes a Conditional Markets page.",
+  "quote": "- [Conditional Markets](https://docs.seer.pm/app/conditional-markets.md)",
+  "url": "https://docs.seer.pm/llms.txt"
+ },
+ {
+  "fact": "The app documentation includes a Futarchy Markets page.",
+  "quote": "- [Futarchy Markets](https://docs.seer.pm/app/futarchy-markets.md)",
+  "url": "https://docs.seer.pm/llms.txt"
+ },
+ {
+  "fact": "The developer guides include a page on collateral profiles for multi-primary collateral.",
+  "quote": "- [Collateral profiles (multi-primary)](https://docs.seer.pm/developers/guides/collateral-profiles.md)",
+  "url": "https://docs.seer.pm/llms.txt"
+ },
+ {
+  "fact": "Getting started documentation includes a Wallet and network page.",
+  "quote": "- [Wallet and network](https://docs.seer.pm/getting-started/wallet-and-network.md)",
+  "url": "https://docs.seer.pm/llms.txt"
+ },
+ {
+  "fact": "The app documentation includes pages for minting, merging, and redeeming outcome tokens.",
+  "quote": "- [Mint, merge, redeem outcome tokens](https://docs.seer.pm/app/mint-merge-redeem-outcome-tokens.md)",
+  "url": "https://docs.seer.pm/llms.txt"
+ },
+ {
+  "fact": "The app documentation includes a page for buying and selling outcome tokens.",
+  "quote": "- [Buy, sell outcome tokens](https://docs.seer.pm/app/buy-sell-outcome-tokens.md)",
+  "url": "https://docs.seer.pm/llms.txt"
+ },
+ {
+  "fact": "The getting started documentation includes a page for depositing sDAI on Ethereum.",
+  "quote": "- [Deposit sDAI](https://docs.seer.pm/getting-started/deposit-tokens/on-ethereum/deposit-sdai.md)",
+  "url": "https://docs.seer.pm/llms.txt"
+ }
+]

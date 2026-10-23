@@ -1,0 +1,222 @@
+[
+ {
+  "fact": "Seer is a prediction market platform that uses Reality.eth and the Conditional Tokens Framework to create and manage various market types.",
+  "quote": "Seer is a prediction market platform that leverages Reality.eth and Conditional Tokens Framework to create and manage various types of markets.",
+  "url": "https://docs.seer.pm/documentation/what-is-seer"
+ },
+ {
+  "fact": "Seer allows users to create and participate in prediction markets for different events and outcomes.",
+  "quote": "It allows users to create and participate in prediction markets for different events and outcomes.",
+  "url": "https://docs.seer.pm/documentation/what-is-seer"
+ },
+ {
+  "fact": "Categorical markets let users select one outcome from multiple options.",
+  "quote": "Categorical Markets: Select one out of multiple outcomes.",
+  "url": "https://docs.seer.pm/documentation/what-is-seer"
+ },
+ {
+  "fact": "Multi-categorical markets are similar to categorical markets but allow selecting multiple outcomes.",
+  "quote": "Multi-Categorical Markets: Similar to categorical market but allowing selection of multiple outcomes.",
+  "url": "https://docs.seer.pm/documentation/what-is-seer"
+ },
+ {
+  "fact": "Scalar markets use a numeric outcome within a specified range.",
+  "quote": "Scalar Markets: Numeric outcome within a specified range.",
+  "url": "https://docs.seer.pm/documentation/what-is-seer"
+ },
+ {
+  "fact": "Multi-scalar markets involve multiple numeric outcomes.",
+  "quote": "Multi-Scalar Markets: Multiple numeric outcomes.",
+  "url": "https://docs.seer.pm/documentation/what-is-seer"
+ },
+ {
+  "fact": "Futarchy markets are used to make decisions based on a token\u2019s predicted price.",
+  "quote": "Futarchy Markets: To make decisions based on a token\u2019s predicted price.",
+  "url": "https://docs.seer.pm/documentation/what-is-seer"
+ },
+ {
+  "fact": "The app navigation includes create market, verify market, mint/merge/redeem, buy/sell, report answer, raise dispute, resolve market, and provide liquidity actions.",
+  "quote": "Create a market Verify market Mint, merge, redeem outcome tokens Buy, sell outcome tokens Report answer Raise a dispute Resolve market Provide Liquidity",
+  "url": "https://docs.seer.pm/documentation/what-is-seer"
+ },
+ {
+  "fact": "Reality.eth serves as Seer\u2019s oracle system for resolving market outcomes.",
+  "quote": "Seer uses Reality.eth as its oracle system for resolving market outcomes.",
+  "url": "https://docs.seer.pm/documentation/what-is-seer"
+ },
+ {
+  "fact": "Reality.eth questions are submitted with parameters such as opening time, timeout, and minimum bond.",
+  "quote": "Questions are submitted to Reality.eth with specific parameters such as opening time, timeout, and minimum bond.",
+  "url": "https://docs.seer.pm/documentation/what-is-seer"
+ },
+ {
+  "fact": "Seer supports question templates including single-select, multi-select, and numeric scalar questions.",
+  "quote": "The system supports multiple question templates, including single-select, multi-select, and numeric (scalar) questions.",
+  "url": "https://docs.seer.pm/documentation/what-is-seer"
+ },
+ {
+  "fact": "Seer uses the Conditional Tokens framework to create and manage outcome tokens.",
+  "quote": "Seer utilizes the Conditional Tokens framework for creating and managing outcome tokens.",
+  "url": "https://docs.seer.pm/documentation/what-is-seer"
+ },
+ {
+  "fact": "Outcome tokens are represented as ERC1155 tokens within the Conditional Tokens system.",
+  "quote": "Outcome tokens are represented as ERC1155 tokens within the Conditional Tokens system.",
+  "url": "https://docs.seer.pm/documentation/what-is-seer"
+ },
+ {
+  "fact": "Seer wraps ERC1155 outcome tokens into ERC20 tokens to improve usability, trading, and DeFi integration.",
+  "quote": "To improve usability, Seer wraps the ERC1155 outcome tokens into ERC20 tokens. This allows for easier trading and integration with existing DeFi protocols.",
+  "url": "https://docs.seer.pm/documentation/what-is-seer"
+ },
+ {
+  "fact": "Kleros is used to resolve disputes that arise when answering Reality.eth questions.",
+  "quote": "Seer uses Kleros to resolve disputes that may arise when answering Reality.eth questions.",
+  "url": "https://docs.seer.pm/documentation/what-is-seer"
+ },
+ {
+  "fact": "The Seer Solution section of the whitepaper is organized into subsections covering Seer DAO, retroactive public good funding, prediction market actors, token incentives, information seekers, exchange integration, and liquidity topics.",
+  "quote": "Seer Solution Seer DAO Retroactive Public Good Funding Prediction Market Actors The Chicken and the egg problem Token Incentives Information Seekers Exchange Integration Liquidity Management",
+  "url": "https://docs.seer.pm/whitepaper/seer-solution"
+ },
+ {
+  "fact": "Seer's governance model is a DAO described as decentralized governance in action, aimed at better and trustless results.",
+  "quote": "Seer DAO Decentralised Governance in action, for better and trustless results.",
+  "url": "https://docs.seer.pm/whitepaper/seer-solution"
+ },
+ {
+  "fact": "The whitepaper includes retroactive public good funding as a component of the Seer Solution.",
+  "quote": "Retroactive Public Good Funding",
+  "url": "https://docs.seer.pm/whitepaper/seer-solution"
+ },
+ {
+  "fact": "Prediction market actors are treated as a distinct topic within the solution design.",
+  "quote": "Prediction Market Actors",
+  "url": "https://docs.seer.pm/whitepaper/seer-solution"
+ },
+ {
+  "fact": "The design addresses a 'chicken and egg problem' specific to prediction markets.",
+  "quote": "The Chicken and the egg problem",
+  "url": "https://docs.seer.pm/whitepaper/seer-solution"
+ },
+ {
+  "fact": "Token incentives are part of the proposed solution mechanics.",
+  "quote": "Token Incentives",
+  "url": "https://docs.seer.pm/whitepaper/seer-solution"
+ },
+ {
+  "fact": "Information seekers are identified as a category of participant in the system.",
+  "quote": "Information Seekers",
+  "url": "https://docs.seer.pm/whitepaper/seer-solution"
+ },
+ {
+  "fact": "Exchange integration is covered as part of the Seer Solution.",
+  "quote": "Exchange Integration",
+  "url": "https://docs.seer.pm/whitepaper/seer-solution"
+ },
+ {
+  "fact": "Liquidity management and safe liquidity provision are both separate topics addressed in the solution.",
+  "quote": "Liquidity Management Safe Liquidity Provision",
+  "url": "https://docs.seer.pm/whitepaper/seer-solution"
+ },
+ {
+  "fact": "The practical implementation of Seer is described as a combination of an AMM and auctions.",
+  "quote": "Practical Implementation = AMM + Auctions",
+  "url": "https://docs.seer.pm/whitepaper/seer-solution"
+ },
+ {
+  "fact": "Capital efficiency is presented as a rationale for the AMM + auctions implementation approach.",
+  "quote": "Reasoning Capital Efficency",
+  "url": "https://docs.seer.pm/whitepaper/seer-solution"
+ },
+ {
+  "fact": "Lack of liquidity is framed as a core problem the solution is designed to address.",
+  "quote": "Lack of Liquidity",
+  "url": "https://docs.seer.pm/whitepaper/seer-solution"
+ },
+ {
+  "fact": "The whitepaper frames Seer's solution partly as a response to why previous prediction markets failed.",
+  "quote": "Introduction to Seer Why previous prediction markets failed",
+  "url": "https://docs.seer.pm/whitepaper/seer-solution"
+ },
+ {
+  "fact": "The documentation is split into Whitepaper and Developers sections and is hosted on the Mintlify developer documentation platform.",
+  "quote": "Whitepaper Documentation Developers",
+  "url": "https://docs.seer.pm/whitepaper/seer-solution"
+ },
+ {
+  "fact": "Seer is a prediction market platform built on Reality.eth and the Conditional Tokens Framework.",
+  "quote": "Seer is a prediction market platform built on Reality.eth and the Conditional Tokens Framework.",
+  "url": "https://docs.seer.pm/llms.txt"
+ },
+ {
+  "fact": "The Seer app includes a flow for creating a market.",
+  "quote": "- [Create a market](https://docs.seer.pm/app/create-a-market.md)",
+  "url": "https://docs.seer.pm/llms.txt"
+ },
+ {
+  "fact": "Markets can be verified in the app.",
+  "quote": "- [Verify market](https://docs.seer.pm/app/verify-market.md)",
+  "url": "https://docs.seer.pm/llms.txt"
+ },
+ {
+  "fact": "Outcome tokens can be minted, merged, and redeemed.",
+  "quote": "- [Mint, merge, redeem outcome tokens](https://docs.seer.pm/app/mint-merge-redeem-outcome-tokens.md)",
+  "url": "https://docs.seer.pm/llms.txt"
+ },
+ {
+  "fact": "Outcome tokens can be bought and sold.",
+  "quote": "- [Buy, sell outcome tokens](https://docs.seer.pm/app/buy-sell-outcome-tokens.md)",
+  "url": "https://docs.seer.pm/llms.txt"
+ },
+ {
+  "fact": "Users can report an answer for a market.",
+  "quote": "- [Report answer](https://docs.seer.pm/app/report-answer.md)",
+  "url": "https://docs.seer.pm/llms.txt"
+ },
+ {
+  "fact": "Users can raise a dispute on a market.",
+  "quote": "- [Raise a dispute](https://docs.seer.pm/app/raise-a-dispute.md)",
+  "url": "https://docs.seer.pm/llms.txt"
+ },
+ {
+  "fact": "Markets are resolved through a dedicated resolve step.",
+  "quote": "- [Resolve market](https://docs.seer.pm/app/resolve-market.md)",
+  "url": "https://docs.seer.pm/llms.txt"
+ },
+ {
+  "fact": "The app supports providing liquidity to markets.",
+  "quote": "- [Provide Liquidity](https://docs.seer.pm/app/provide-liquidity.md)",
+  "url": "https://docs.seer.pm/llms.txt"
+ },
+ {
+  "fact": "Seer supports conditional markets, documented separately for app users.",
+  "quote": "- [Conditional Markets](https://docs.seer.pm/app/conditional-markets.md)",
+  "url": "https://docs.seer.pm/llms.txt"
+ },
+ {
+  "fact": "Seer supports futarchy markets, documented separately for app users.",
+  "quote": "- [Futarchy Markets](https://docs.seer.pm/app/futarchy-markets.md)",
+  "url": "https://docs.seer.pm/llms.txt"
+ },
+ {
+  "fact": "The Omen-porting guide addresses Seer's market types, though the index does not enumerate categorical, multi-categorical, scalar, or multi-scalar variants.",
+  "quote": "Port an Omen trading agent to Seer: what changes, the market types, and the porting effort.",
+  "url": "https://docs.seer.pm/llms.txt"
+ },
+ {
+  "fact": "Seer has collateral profiles supporting multi-primary collateral.",
+  "quote": "- [Collateral profiles (multi-primary)](https://docs.seer.pm/developers/guides/collateral-profiles.md)",
+  "url": "https://docs.seer.pm/llms.txt"
+ },
+ {
+  "fact": "Deposit documentation includes DAI on Ethereum.",
+  "quote": "- [Deposit DAI](https://docs.seer.pm/getting-started/deposit-tokens/on-ethereum/deposit-dai.md)",
+  "url": "https://docs.seer.pm/llms.txt"
+ },
+ {
+  "fact": "Seer contracts include a cross-chain Realitio foreign arbitration proxy with appeals.",
+  "quote": "- [RealitioForeignArbitrationProxyWithAppeals](https://docs.seer.pm/developers/contracts/interaction/cross-chain-realitio-proxy/realitioforeignarbitrationproxywithappeals.md)",
+  "url": "https://docs.seer.pm/llms.txt"
+ }
+]

@@ -1,0 +1,141 @@
+# vocabulary states (home docs; DeepSeek, from quote-verified facts)
+
+All statements below are limited to the supplied facts. Bracketed URLs are the supplied citations. “GAP” means the supplied facts do not state it.
+
+## 1. Exact vocabulary (terms as written)
+
+**Core/product vocabulary:** “Seer”; “live production protocol on mainnet at seer.pm”; “Introduction”; “Seer whitepaper”; “app usage vs building”; “prediction market”; “shares of future outcomes”; “outcome shares”; “2028 presidential election”; “$1 if its outcome occurs, $0 otherwise”; “tokenized and tradable, e.g. as ERC20 tokens”; “share price directly maps to an implied probability percentage”; “expert opinion”; “estimate aggregation”; “niche”; “two scoped questions”; “ship features incrementally”; “temporary or mutually exclusive”; “testing deciding which to keep” [https://docs.seer.pm].
+
+**App/navigation and capabilities:** “deposit collateral”; “create markets”; “trade outcome tokens”; “provide liquidity”; top-level navigation “Seer, Whitepaper, Documentation, Developers”; app URL `https://app.seer.pm/`; “Leaderboard and Trader Score”; “Mint, merge, redeem outcome tokens”; “Buy, sell outcome tokens”; “Provide Liquidity”; “Conditional Markets”; “Futarchy Markets”; “Mintlify”; “llms.txt index” [https://docs.seer.pm] [https://docs.seer.pm/app/navigate-our-site] [https://docs.seer.pm/developers/contracts/deployed-contracts].
+
+**Trading/liquidity vocabulary:** “token pool”; “enough liquidity”; “wxDAI or xDAI”; “sDAI”; “DAI”; “insufficient-liquidity message”; “maximum tradable price”; “1 sDAI per outcome token”; “definite losses”; “confirmation popup”; “price and fee”; “DEX”; “slippage”; “minimum received amount”; “revert”; “Continue”; “Buy”; “Sell”; “swaps outcome tokens back into collateral tokens”; “Swapr”; “Add liquidity”; “Open”; “concentrated liquidity”; “specific price range”; “active liquidity range”; “Full Range”; “Enter amounts”; “initial price”; “LP on Swapr” [https://docs.seer.pm/app/buy-sell-outcome-tokens] [https://docs.seer.pm/app/provide-liquidity].
+
+**Market creation/verification vocabulary:** “Verified Markets Policy”; “Market Resolution Policy”; “market type”; “question and outcomes”; “Multi-scalar markets”; “outcome type is placed in brackets”; “opening date”; “Preview”; “Create Market”; “Verify it Now”; “Unverified markets”; “warning”; “Curate List of Verified Markets”; “Verified tag”; “images”; “sufficient xDAI”; “verifying”; “visible only to you” [https://docs.seer.pm/app/create-a-market] [https://docs.seer.pm/app/verify-market].
+
+**Conditional/futarchy vocabulary:** “conditional market”; “child market”; “parent market”; “New conditional market”; “alert”; “split”; “purchase parent outcome tokens”; “nested”; “obsolete”; “tokens redeem for zero”; “Futarchy”; “price-based”; “proposal passes”; “YES_GNO/YES_wstETH”; “NO_GNO/NO_wstETH”; “Create new Proposal”; “collateral tokens”; “token and the currency”; “YES_GNO, NO_GNO, YES_wstETH, and NO_wstETH”; “yes pool”; “no pool”; “FutarchyProposal contract”; “no invalid tokens”; “invalid resolution automatically means the proposal failed”; “token and/or currency underlying” [https://docs.seer.pm/app/conditional-markets] [https://docs.seer.pm/app/futarchy-markets].
+
+**Oracle/dispute/resolution vocabulary:** “Reality.eth”; “report their answer”; “Answer on Reality.eth”; “bond”; “Additional answers”; “at least twice as much bond”; “final answer”; “Resolve market”; “Report Answer”; “The market is resolved.”; “winning tokens”; “raise a dispute”; “Kleros Court”; “arbitration”; “fixed fee set by Kleros”; “no longer accepts new answers”; “Check the Case on Kleros Court”; “current stage”; “anticipated waiting period”; “evidence”; “appeal”; “voting period” [https://docs.seer.pm/app/report-answer] [https://docs.seer.pm/app/resolve-market] [https://docs.seer.pm/app/raise-a-dispute].
+
+**Leaderboard/API vocabulary:** “P/L”; “volume”; “ROI”; “traded markets”; “Trader Score”; “trading profit and loss in USD”; “hit rate edge”; “break-even rate”; “realized payoffs”; “pseudo-markets”; “N/A”; “capital at risk”; “TradeExecutor”; “Active or Closed”; “get-market”; “ID or URL/slug”; “live subgraph data”; “cached database data”; “verification status”; “P/L time periods”; “collateral profiles”; “all (protocol-wide), foresight, opportunity, deepfund, futarchy”; “markets-charts”; “hourly price and volume series” [https://docs.seer.pm/app/leaderboard] [https://docs.seer.pm/developers/api].
+
+**Developer/contract vocabulary:** “viem”; “public (read-only) client”; “wallet (signed transactions) client”; “@seer-pm/sdk”; “PRIVATE_KEY”; “getPublicClient”; “getWalletClient”; “privateKeyToAccount”; “approve(spender, amount)”; “marketAbi”; “readContract”; “simulateContract”; “waitForTransactionReceipt”; “writeContract”; “account.address”; “getMarketFactoryAddress”; “getRouterAddress”; “getFutarchyFactoryAddress”; “gnosis, mainnet, base”; “Conditional Tokens”; “Wrapped1155Factory”; “GnosisRouter”; “MainnetRouter”; “MarketFactory”; “MarketView”; “RealityProxy”; “FutarchyFactory”; “FutarchyProposal”; “FutarchyRealityProxy”; “FutarchyRouter”; “Router”; “Market”; “CTHelpers”; “ERC1155”; “IERC1155”; “IERC1155TokenReceiver”; “ERC1155TokenReceiver”; “Wrapped1155”; “INVALID_RESULT”; “SER-INVALID”; “REALITY_UINT_TEMPLATE”; “REALITY_SINGLE_SELECT_TEMPLATE”; “REALITY_MULTI_SELECT_TEMPLATE” [https://docs.seer.pm/developers/configuration] [https://docs.seer.pm/developers/contracts/core/marketfactory] [https://docs.seer.pm/developers/contracts/core/realityproxy] [https://docs.seer.pm/developers/contracts/interaction/1155-to-20/wrapped1155factory].
+
+## 2. Lifecycle states and transitions
+
+### Market creation and verification
+- Creation flow: starts on the home page → select a “market type” → input “question and outcomes” → specify “opening date” → preview the market → click “Create Market” [https://docs.seer.pm/app/create-a-market].
+- A market can be verified during creation via a switch in the “Verify it Now” row, or verification can be completed later [https://docs.seer.pm/app/create-a-market] [https://docs.seer.pm/app/verify-market].
+- States/terms: “Unverified markets” display a warning; verification adds the market to the “Curate List of Verified Markets”; “verifying” markets show images visible only to you; verified markets show images and a “Verified tag” [https://docs.seer.pm/app/create-a-market] [https://docs.seer.pm/app/verify-market].
+- Verification requires sufficient xDAI; deposited xDAI is returned once the market is verified [https://docs.seer.pm/app/verify-market]. GAP: exact xDAI amount.
+
+### Market status and resolution
+- API markets carry a status “such as Active or Closed,” usable as a search filter [https://docs.seer.pm/developers/api].
+- Documentation labels “unresolved market state” and “resolved market state” in the redeem flow [https://docs.seer.pm/app/mint-merge-redeem-outcome-tokens].
+- A market can only be resolved after its opening date [https://docs.seer.pm/app/create-a-market].
+- Reporting flow: after opening time, users can report an answer to Reality; UI begins by clicking “Answer on Reality.eth”; user inputs and submits answer; user must have enough bond; example requires depositing 0.1 DAI [https://docs.seer.pm/app/report-answer].
+- Additional answers can be submitted after the first answer; a later answerer must pay at least twice as much bond as the previous answerer [https://docs.seer.pm/app/report-answer].
+- If no other answer is submitted after a certain period, the market can be resolved [https://docs.seer.pm/app/report-answer]. GAP: exact “certain period.”
+- A final answer or an answer matching the final answer returns the bond deposit plus bonds from incorrect earlier answers; if a user’s answer is not final or does not match the final answer, they lose their bonds [https://docs.seer.pm/app/report-answer].
+- Resolve-market transitions: wait for the current answer to become final before resolving, OR raise a dispute and wait for a ruling; after appropriate status appears, click “Report Answer” to resolve the market; resolved state is explicitly “The market is resolved.”; after resolution, winning tokens can be redeemed; YES tokens are shown as an example [https://docs.seer.pm/app/resolve-market].
+
+### Dispute lifecycle
+- A dispute can be raised when the current bond required to submit another answer is too high; raising a dispute submits the question to Kleros Court [https://docs.seer.pm/app/raise-a-dispute].
+- Requesting arbitration requires a fixed fee set by Kleros [https://docs.seer.pm/app/raise-a-dispute]. GAP: exact fee amount.
+- After a dispute request is submitted, the market no longer accepts new answers; market status is updated once Kleros Court is notified [https://docs.seer.pm/app/raise-a-dispute].
+- UI shows “Check the Case on Kleros Court”; dispute view shows current stage and anticipated waiting period for each stage; users can submit evidence [https://docs.seer.pm/app/raise-a-dispute].
+- A dispute typically takes up to 14 days and 12 hours to reach a decision; an appeal returns the dispute to the voting period and adds 11 days for each appeal; appeals do not include an evidence period [https://docs.seer.pm/app/raise-a-dispute].
+- After Kleros Court rules, market status is updated again; the displayed answer is final [https://docs.seer.pm/app/raise-a-dispute].
+
+### Conditional-market lifecycle
+- A conditional market can be created based on an existing market’s outcome; each outcome has a “New conditional market” link; link opens the usual market form; form and market page show an alert that the market is conditional and depends on another market’s outcome [https://docs.seer.pm/app/conditional-markets].
+- Conditional markets do not use sDAI for bets; users must first split or purchase parent outcome tokens; in the Maduro example, the user needs “No” tokens from the parent market [https://docs.seer.pm/app/conditional-markets].
+- Conditional markets can be nested based on another conditional market and used like any market [https://docs.seer.pm/app/conditional-markets].
+- Minting/merging conditional outcome tokens follows the simple-market process but uses parent outcome tokens instead of sDAI or xDAI [https://docs.seer.pm/app/conditional-markets].
+- A conditional market is resolved in the normal way; after resolution, conditional outcome tokens redeem for parent outcome tokens, which can then be redeemed in the parent market [https://docs.seer.pm/app/conditional-markets].
+- If the parent resolves differently from the child’s assumed outcome, the child and nested markets “become obsolete” and tokens redeem for zero [https://docs.seer.pm/app/conditional-markets].
+
+### Futarchy-market lifecycle
+- Creation starts on the Futarchy page via “Create new Proposal”; creators choose collateral tokens identified as “the token and the currency”; specify opening date; market can only resolve after that date; preview; “Create Market” deploys a “FutarchyProposal contract” at a new address [https://docs.seer.pm/app/futarchy-markets].
+- A market generates four outcome tokens: “YES_GNO, NO_GNO, YES_wstETH, and NO_wstETH”; outcome tokens trade in two liquidity pools called “yes pool” and “no pool” [https://docs.seer.pm/app/futarchy-markets].
+- A proposal passes if the market predicts “YES_GNO/YES_wstETH” will exceed “NO_GNO/NO_wstETH” [https://docs.seer.pm/app/futarchy-markets].
+- YES and NO tokens trade directly with each other rather than against shared collateral like sDAI; to obtain conditional tokens, users first split either the token or the currency underlying [https://docs.seer.pm/app/futarchy-markets].
+- Futarchy markets have “no invalid tokens”; an invalid resolution automatically means the proposal failed; after resolution, users redeem token and/or currency underlying instead of sDAI or xDAI [https://docs.seer.pm/app/futarchy-markets].
+
+### Buy/sell lifecycle
+- Buy flow: select an outcome on the left → enter amount on the right → click “Buy” [https://docs.seer.pm/app/buy-sell-outcome-tokens].
+- On Gnosis, the switch shows wxDAI or xDAI on the right depending on which token the user holds more of, while sDAI is always shown on the left; on Ethereum Mainnet, DAI is always shown on the right [https://docs.seer.pm/app/buy-sell-outcome-tokens].
+- If there are not enough tokens in the liquidity pool, the interface may display a specific message; the insufficient-liquidity message means users cannot spend more than 1 sDAI to buy 1 outcome token; the example requires 15.38 sDAI for 1 YES token [https://docs.seer.pm/app/buy-sell-outcome-tokens].
+- Buying is disabled when the maximum tradable price would exceed 1 sDAI per outcome token, to prevent definite losses [https://docs.seer.pm/app/buy-sell-outcome-tokens].
+- After clicking Buy, a confirmation popup appears; it lets users check trade details including price and fee; because trading occurs on a DEX, there is slippage between expected and actual received amounts; a minimum received amount protects users from a huge price spike and causes a revert otherwise; clicking “Continue” executes the trade [https://docs.seer.pm/app/buy-sell-outcome-tokens].
+- Selling is the reverse of buying: it swaps outcome tokens back into collateral tokens [https://docs.seer.pm/app/buy-sell-outcome-tokens].
+
+### Mint/merge/redeem lifecycle
+- Prediction-market betting requires outcome tokens; outcome tokens can be traded or redeemed for collateral tokens [https://docs.seer.pm/app/mint-merge-redeem-outcome-tokens].
+- Minting is also called splitting and requires available sDAI or xDAI; minting produces outcome tokens; 1 sDAI mints 1 outcome token for each outcome; due to the sDAI/xDAI exchange rate, 1 xDAI mints about 0.9 outcome tokens per outcome; minting returns outcome tokens for all outcomes, not only the selected outcome [https://docs.seer.pm/app/mint-merge-redeem-outcome-tokens].
+- Merge is the inverse of mint; merging exchanges outcome tokens for xDAI or sDAI; merging requires approving Seer to handle outcome tokens first [https://docs.seer.pm/app/mint-merge-redeem-outcome-tokens].
+- Redeeming requires the market to be resolved first; redeem flow is similar to merge [https://docs.seer.pm/app/mint-merge-redeem-outcome-tokens].
+
+### Liquidity-provider lifecycle
+- Users can provide liquidity for any outcome; liquidity providers earn a proportion of fees generated from trading that outcome [https://docs.seer.pm/app/provide-liquidity].
+- Flow starts by visiting a market, selecting an outcome, and minting outcome tokens; each outcome displays an “Add liquidity” button [https://docs.seer.pm/app/provide-liquidity].
+- If a market has no liquidity, users are directed to Swapr; if a market already has liquidity, a popup appears and “Open” directs users to Swapr; on Swapr, users should check that the selected pair is correct [https://docs.seer.pm/app/provide-liquidity].
+- Normally liquidity is provided in sDAI, but in conditional markets both tokens are outcome tokens; providing liquidity for a token pair requires holding both tokens [https://docs.seer.pm/app/provide-liquidity].
+- The initial price number determines the corresponding amount of each token to provide; Swapr uses concentrated liquidity, letting users provide liquidity within a specific price range; liquidity providers earn their fee share only within the active liquidity range; if unsure, users can click “Full Range” on the right [https://docs.seer.pm/app/provide-liquidity].
+- In “Enter amounts,” Swapr calculates the token ratio from the initial price and selected range, and both tokens must be provided in the correct ratio; after approval, clicking “Add liquidity” and confirming the transaction makes the user an LP on Swapr [https://docs.seer.pm/app/provide-liquidity].
+
+### Leaderboard/API state behavior
+- Wallets with no P/L, volume, capital at risk, and traded markets in selected filters are omitted rather than shown as zero rows [https://docs.seer.pm/app/leaderboard].
+- A wallet shows “N/A” when it has fewer than 3 markets with more than $1 at risk, less than $100 capital at risk, or more than 25% of P/L outside those markets; N/A means too little history to judge, not a judged score of 0 [https://docs.seer.pm/app/leaderboard].
+- Traded Markets counts every market touched, while scoring only counts markets with more than $1 at risk; counts are per trader, not per address; a wallet and its TradeExecutor count once [https://docs.seer.pm/app/leaderboard].
+- Clicking any leaderboard score shows the five components, each raw value, and points contributed; scores are recalculated for selected period, app, and chain filters [https://docs.seer.pm/app/leaderboard].
+
+## 3. Numbers, units, and defaults
+
+| Item | Exact supplied value | Citation |
+|---|---|---|
+| Share payout | Each share redeems for $1 if its outcome occurs, $0 otherwise | [https://docs.seer.pm] |
+| Price-to-probability | A share price directly maps to an implied probability percentage | [https://docs.seer.pm] |
+| sDAI mint ratio | 1 sDAI mints 1 outcome token for each outcome | [https://docs.seer.pm/app/mint-merge-redeem-outcome-tokens] |
+| xDAI mint ratio | 1 xDAI mints about 0.9 outcome tokens per outcome | [https://docs.seer.pm/app/mint-merge-redeem-outcome-tokens] |
+| Buy max/insufficient liquidity | Users cannot spend more than 1 sDAI to buy 1 outcome token; example requires 15.38 sDAI for 1 YES token | [https://docs.seer.pm/app/buy-sell-outcome-tokens] |
+| Buy disabled threshold | Buying is disabled when maximum tradable price would exceed 1 sDAI per outcome token | [https://docs.seer.pm/app/buy-sell-outcome-tokens] |
+| Answer bond example | Example requires depositing 0.1 DAI to submit an answer | [https://docs.seer.pm/app/report-answer] |
+| Later answer bond | Later answerer must pay at least twice as much bond as previous answerer | [https://docs.seer.pm/app/report-answer] |
+| Dispute duration | Typically up to 14 days and 12 hours to reach a decision | [https://docs.seer.pm/app/raise-a-dispute] |
+| Appeal duration | Appeal returns dispute to voting period and adds 11 days for each appeal | [https://docs.seer.pm/app/raise-a-dispute] |
+| Outcome slot count | Must not exceed 256 | [https://docs.seer.pm/developers/contracts/core/marketfactory] [https://docs.seer.pm/developers/contracts/interaction/conditional-tokens/conditionaltokens] [https://docs.seer.pm/developers/contracts/interaction/conditional-tokens/cthelpers] |
+| Categorical payout array | Payouts array length is `numOutcomes+1`, last index for INVALID outcome | [https://docs.seer.pm/developers/contracts/core/realityproxy] |
+| Trader Score | 0–100 rating; tiers: Elite ≥85, Great ≥70, Good ≥55, Average ≥40, Weak below | [https://docs.seer.pm/developers/api] |
+| Trader Score construction | Weighted mean of five components; summarizes how profit was made, not just how much | [https://docs.seer.pm/app/leaderboard] |
+| Small-sample shrinkage | Shrunk toward 50 using `n ÷ (n + 10)`; hit rate carries five pseudo-markets at 50%; three wins out of three reads about 69%, not 100% | [https://docs.seer.pm/app/leaderboard] |
+| N/A thresholds | Fewer than 3 markets with more than $1 at risk; less than $100 capital at risk; or more than 25% of P/L outside those markets | [https://docs.seer.pm/app/leaderboard] |
+| Traded Markets vs scoring | Counts every market touched; scoring only counts markets with more than $1 at risk | [https://docs.seer.pm/app/leaderboard] |
+| P/L periods/default | `1d`, `1w`, `1m`, and `all`, defaulting to `1d` on portfolio P/L endpoint | [https://docs.seer.pm/developers/api] |
+| Collateral profiles/default | Named registrations such as `default` and `circles`, with `default` as fallback | [https://docs.seer.pm/developers/api] |
+| Leaderboard app scopes | `all` (protocol-wide), `foresight`, `opportunity`, `deepfund`, or `futarchy` | [https://docs.seer.pm/developers/api] |
+| Batch receiver selector | Batch receiver accepts by returning `0xbc197c81` or its own function selector | [https://docs.seer.pm/developers/contracts/interaction/conditional-tokens/erc1155/erc1155tokenreceiver] |
+| markets-charts granularity | Hourly price and volume series per market, optionally filtered by a list of market IDs | [https://docs.seer.pm/developers/api] |
+
+## 4. Contracts and objects
+
+| Contract/object | Supplied role/fields | Citation |
+|---|---|---|
+| `Market` | Single prediction market; initialized in `MarketFactory`; `initialized` boolean allows only one initialization; `RealityParams` stores question IDs, template ID, encoded questions; `ConditionalTokensParams`; `marketName`; `outcomes` excludes `INVALID_RESULT`; `lowerBound`/`upperBound` only for scalar markets; `realityProxy`; `templateId`; `encodedQuestions`; `parentMarket` optional; `parentOutcome` optional; `resolve` helper | [https://docs.seer.pm/developers/contracts/core/market] |
+| `MarketFactory` | Factory for different market types; four-step creation: ask Reality questions, prepare condition, create ERC20 outcome tokens, initialize new market contract; categorical/multi categorical/scalar/multi scalar tied to Reality questions; `createCategoricalMarket`; `createScalarMarket`; `createMarket`; `prepareCondition`; `deployERC20Positions`; `NewMarket` event; `allMarkets`; `marketCount`; `arbitrator` | [https://docs.seer.pm/developers/contracts/core/marketfactory] |
+| `MarketView` | Frontend helper; no state-changing function; `MarketInfo` struct includes `marketName`, `wrappedTokens`, `outcomesSupply`, `lowerBound`, `conditionId`, `payoutReported`; `getMarket`; `getMarkets`; `getOutcomesAndTokens`; `getQuestions`; `getQuestionId` | [https://docs.seer.pm/developers/contracts/core/marketview] |
+| `RealityProxy` | Reality Oracle; stores `conditionalTokens` and `realitio`; `INVALID_RESULT`; `REALITY_UINT_TEMPLATE`; `REALITY_SINGLE_SELECT_TEMPLATE`; `REALITY_MULTI_SELECT_TEMPLATE`; constructor accepts Conditional Tokens and Reality.eth addresses; `resolve`; resolution requires finalized Reality questions, including reopened question; hashes back original `questionId`; four internal resolution functions; categorical invalid if answer invalid or result greater than number of outcomes; multi categorical invalid if answer invalid or all results zero | [https://docs.seer.pm/developers/contracts/core/realityproxy] |
+| `Router` | Replicates main Conditional Tokens functions using ERC20 outcomes instead of ERC1155; stores Conditional Tokens and Wrapped1155Factory; `splitPosition`; `mergePositions`; `redeemPositions`; `getWinningOutcomes`; deep split unwraps ERC20 parent outcome tokens back to ERC1155; redeem requires `reportPayouts` | [https://docs.seer.pm/developers/contracts/core/router] |
+| `GnosisRouter` | Router for xDAI on Gnosis Chain; exposes `sDAI` and `SavingsXDaiAdapter`; constructor takes Conditional Tokens and Wrapped1155Factory; `splitFromBase`; `mergeToBase`; `redeemToBase`; native xDAI converted to sDAI; `redeemToBase` requires `conditionalTokens.reportPayouts` | [https://docs.seer.pm/developers/contracts/core/gnosisrouter] |
+| `MainnetRouter` | Router for DAI on Ethereum Mainnet; exposes `DAI` as `IERC20` and `sDAI` as `SavingsDai`; constructor takes ConditionalTokens and Wrapped1155Factory; `splitFromDai`; `mergeToDai`; `redeemToDai`; for split/merge/redeem each outcome’s ERC20 must already exist on Wrapped1155Factory | [https://docs.seer.pm/developers/contracts/core/mainnetrouter] |
+| `FutarchyFactory` | Creates price-based futarchy markets; four-step mechanism; `CreateProposalParams` includes `marketName`, two collateral tokens, `category`, `language`, `minBond`, `openingTime`; stores proposals; `NewProposal` event; `createProposal`; `deployERC20Positions` | [https://docs.seer.pm/developers/contracts/futarchy/futarchyfactory] |
+| `FutarchyProposal` | Single futarchy market proposal; can only be initialized once; `FutarchyProposalParams`; `marketName`; `outcomes`; `futarchyProposalParams`; `encodedQuestion`; `questionId`; `conditionId`; `collateralToken1`; `collateralToken2`; `parentCollectionId`; `parentMarket` optional; `resolve` helper | [https://docs.seer.pm/developers/contracts/futarchy/futarchyproposal] |
+| `FutarchyRealityProxy` | Reality Oracle for proposals; exposes `conditionalTokens` as `IConditionalTokens` and `realitio` as `IRealityETH_v3_0`; constructor `_conditionalTokens`, `_realitio`; `resolve(FutarchyProposal proposal)` where proposal is `UNTRUSTED`; accepts answer 0; rejects any other answer including INVALID | [https://docs.seer.pm/developers/contracts/futarchy/futarchyrealityproxy] |
+| `FutarchyRouter` | Replicates main Conditional Tokens functions with ERC20 outcomes; references Conditional Tokens and Wrapped1155Factory; `splitPosition`; `mergePositions`; `redeemPositions`; `redeemProposal`; `getTokenId`; `getWinningOutcomes`; merging requires caller to hold ERC20 tokens for all outcomes of a proposal | [https://docs.seer.pm/developers/contracts/futarchy/futarchyrouter] |
+| `Wrapped1155Factory` | Wraps/unwraps ERC1155 and ERC20; `erc20Implementation` of type `Wrapped1155`; `Wrapped1155Creation` event; public constructor; `onERC1155Received`; `onERC1155BatchReceived`; `unwrap`; `batchUnwrap`; `getWrapped1155DeployBytecode`; `getWrapped1155`; `requireWrapped1155` | [https://docs.seer.pm/developers/contracts/interaction/1155-to-20/wrapped1155factory] |
+| `ConditionalTokens` | Prepares condition by initializing payout vector; oracle reports result via `reportPayouts`; condition ID derived from oracle, `questionId`, `outcomeSlotCount`; `outcomeSlotCount` ≤256; events `ConditionPreparation`, `ConditionResolution`, `PositionSplit`, `PositionsMerge`, `PayoutRedemption`; `splitPosition`; `mergePositions`; `redeemPositions`; `getOutcomeSlotCount`; position IDs used as ERC-1155 IDs | [https://docs.seer.pm/developers/contracts/interaction/conditional-tokens/conditionaltokens] |
+| `CTHelpers` | `getConditionId` from oracle, question ID, outcome slot count; `getCollectionId` from parent collection, condition ID, index set; `getPositionId` from collateral token and outcome collection | [https://docs.seer.pm/developers/contracts/interaction/conditional-tokens/cthelpers] |
+| `ERC1155` | Basic ERC1155 functionality; single and batch balance queries; approval; `safeTransferFrom`; `safeBatchTransferFrom`; receiver callbacks; internal `_mint`, `_batchMint`, `_burn`, `_batchBurn`; transfer data can be forwarded | [https://docs.seer.pm/developers/contracts/interaction/conditional-tokens/erc1155/erc1155] |
+| `ERC1155TokenReceiver` | `onERC1155Received`; `onERC1155BatchReceived`; single transfer must return function selector; batch accepts `0xbc197c81` or own selector; `ids` order and length must match `values` | [https://docs.seer.pm/developers/contracts/interaction/conditional-tokens/erc1155/erc1155tokenreceiver] |
+| `IERC1155` | Events `TransferSingle` (`operator`, `from`, `to`, `id`, `value`), `TransferBatch` (`operator`, `from`, `to`, `ids`, `values`), `ApprovalForAll` (`owner`, `operator`, `approved`), `URI` (`value`, `id`); `balanceOf`; `balanceOfBatch` | [https://docs.seer.pm/developers/contracts/interaction/conditional-tokens/erc1155/ierc1155] |
+| `IERC20` / `IRealityETH_v3_0` | `IERC20.transferFrom(from, to, amount)` returns `bool`; `approve(spender, amount)` returns `bool`; `balanceOf(owner)` returns `uint256`; `askQuestionWithMinBond` parameters include `template_id`, `question`, `arbitrator`, `timeout`, `opening_ts`, `nonce`, `min_bond`; `resultForOnceSettled(question_id)` returns `bytes32` view; `submitAnswer(question_id, answer, max_previous)` payable; `payoutNumerators(conditionId, index)` returns `uint256` view | [https://docs.seer.pm/developers/contracts/core/interfaces] |
+| Deployed networks | Deployed contracts organized by network: Gnosis, Ethereum, Optimism, Base. Gnosis lists `ConditionalRouter`, `FutarchyFactory`, `FutarchyProposal`, `FutarchyRealityProxy`, `FutarchyRouter`, `GnosisRouter`, `Market`, `MarketFactory`, `MarketView`, `RealityProxy`, `Wrapped1155Factory`; Ethereum lists `ConditionalRouter`, `MainnetRouter`, `MarketFactory`, `MarketView`, `Realitio_v2_1_Arbitrator

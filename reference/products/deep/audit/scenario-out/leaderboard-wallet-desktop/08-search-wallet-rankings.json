@@ -1,0 +1,96 @@
+{
+ "url": "https://deep.seer.pm/leaderboard",
+ "title": "AI Prediction Markets",
+ "controls": [
+  {
+   "tag": "button",
+   "text": "AI Prediction Markets",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Leaderboard",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Profile",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "Guide",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "0x0000…dEaD",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "1D",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "1W",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "1M",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "All",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "All deep markets",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Your rank",
+   "disabled": false
+  },
+  {
+   "tag": "input",
+   "text": "0x000000000000000000000000000000000000dEaD",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Search",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Clear",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "Telegram",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "X",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "GitHub",
+   "disabled": false
+  }
+ ]
+}

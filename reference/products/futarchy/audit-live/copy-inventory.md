@@ -1,0 +1,225 @@
+# Every visible string (desktop), by frequency
+- 163x  Gnosis
+- 102x  Futarchy
+- 98x  0 sDAI
+- 89x  Impact
+- 84x  If No
+- 84x  If Yes
+- 84x  Status
+- 84x  Wallet:
+- 84x  YES 0 · NO 0
+- 84x  mergeable
+- 75x  Impact (spot)
+- 72x  Outcome
+- 72x  ✓ Resolved
+- 58x  Merge Collateral
+- 57x  0x00…dEaD
+- 56x  Max
+- 56x  sDAI
+- 54x  YES
+- 51x  Market-based evaluation of governance decisions and milestones
+- 51x  Resolved
+- 51x  Resolved: YES
+- 51x  Social
+- 48x  Split Collateral
+- 42x  Amount (sDAI)
+- 42x  Available
+- 42x  Balance
+- 42x  Bearish	SELL	BUY
+- 42x  Bullish	BUY	SELL
+- 42x  Buy
+- 42x  If YES	If NO
+- 42x  No Price
+- 42x  Outcomes
+- 42x  Receive
+- 42x  Recover
+- 42x  Sell
+- 42x  Trading Pair
+- 42x  Yes Price
+- 41x  Insufficient balance
+- 39x  1.00 sDAI
+- 37x  Add Liquidity
+- 36x  0 PNK
+- 33x  APPROVED
+- 33x  Awaiting Resolution
+- 33x  Final Result
+- 33x  Snapshot Vote
+- 33x  TVL
+- 33x  Volume (Total; sDAI)
+- 32x  GNO
+- 28x  84.77 sDAI
+- 28x  FINAL TWAP WINDOW
+- 28x  More info
+- 28x  NO TWAP
+- 28x  No redeemable tokens found
+- 28x  Redeem Tokens
+- 28x  TWAP Complete
+- 28x  WINNING OUTCOME: YES
+- 28x  YES TWAP
+- 28x  You don't have any YES outcome tokens to redeem.
+- 26x  ETH
+- 24x  0 GNO
+- 24x  0.00%
+- 24x  0.0004 GNO
+- 24x  GNO/sDAI
+- 24x  PNK
+- 23x  Resolution Date
+- 23x  Resolution Question
+- 23x  What will the impact on GNO price be if GIP-152 is passed?
+- 20x  84.20 sDAI
+- 19x  Awaiting
+- 19x  What will the impact on GNO price be if GIP-151 is passed?
+- 19x  What will the impact on PNK price be if KIP-90 is approved?
+- 18x  +0.00%
+- 18x  0	0
+- 18x  NO
+- 18x  PNK/sDAI
+- 18x  YES outcome is ahead on TWAP.
+- 17x  What will the impact on PNK price be if KIP-88 is approved?
+- 16x  2401.44 USDS
+- 16x  Liquidity
+- 15x  Ethereum
+- 14x  0x0000...dEaD
+- 14x  BUY sDAI
+- 14x  Collateral Information
+- 14x  Connected Wallet
+- 14x  Max Approval
+- 14x  My Trades
+- 14x  Position
+- 14x  Recent Activity
+- 14x  Will request exact allowance for this transaction.
+- 14x  Your view on GIP-152
+- 14x  sDAI Available
+- 14x  xDAI Balance
+- 13x  24.689107 xDAI
+- 12x  Last 30 trades
+- 12x  Last 60 trades
+- 12x  Last 90 trades
+- 12x  No trades found for this proposal
+- 12x  Quote returned no output for this amount
+- 10x  (TWAP impact +0.01%)
+- 10x  (TWAP impact -0.98%)
+- 10x  0.00000111 GNO
+- 10x  0.0067 sDAI
+- 10x  0.006730
+- 10x  0.006796
+- 10x  0.0068 sDAI
+- 10x  151.47 PNK
+- 10x  8/12/2026
+- 10x  Ended
+- 10x  NO outcome is ahead on TWAP.
+- 10x  Price impact 1082765.91%
+- 10x  Price impact too high — pool depth insufficient for this size. Trade anyway.
+- 10x  Resolve Question
+- 10x  Your view on GIP-151
+- 10x  Your view on KIP-90
+- 9x  +0.68%
+- 9x  +0.91%
+- 9x  +0.94%
+- 9x  +1.96%
+- 9x  +3.37%
+- 9x  +99.98%
+- 9x  -2.36%
+- 9x  0	4
+- 9x  1	1
+- 9x  ACTIVE
+- 9x  ACTIVE MARKET
+- 9x  Aave DAO
+- 9x  Active Milestones
+- 9x  CHAIN	LIQUIDITY
+- 9x  Create market
+- 9x  Kleros DAO
+- 9x  NAME
+- 9x  Organizations
+- 9x  PROPOSALS
+- 9x  Recently Closed
+- 9x  VeloraDAO
+- 9x  What will be the price of PNK if KIP-81 is approved?
+- 9x  What will the impact on GNO price be if GIP-145 is approved?
+- 9x  What will the impact on GNO price be if GIP-149 is approved?
+- 9x  What will the impact on GNO price be if GIP-153 is passed?
+- 9x  What will the impact on PNK price be if KIP-86 is approved?
+- 8x  (TWAP impact +2.23%)
+- 8x  -0.00%
+- 8x  0.0083 sDAI
+- 8x  0.0085 sDAI
+- 8x  0.008690
+- 8x  0.008888
+- 8x  101.20K
+- 8x  121.46K
+- 8x  138.17 PNK
+- 8x  3.95K
+- 8x  7/20/2026
+- 8x  7/3/2026
+- 8x  89.13K
+- 8x  NO Price
+- 8x  Price impact 9.78%
+- 8x  What will the impact on ETH price be if EIP-8363 is Scheduled for Inclusion in Hegotá?
+- 8x  YES Price
+- 8x  Your view on KIP-88
+- 7x  0	6
+- 7x  11.89K
+- 7x  40.89
+- 7x  5 organizations
+- 7x  6/9/2026
+- 7x  84.4721
+- 7x  Gnosis DAO
+- 6x  24.68 XDAI
+- 6x  84.4795
+- 6x  Add Collateral
+- 6x  Connected
+- 6x  Copy Address
+- 6x  Disconnect
+- 6x  Futarchy transactions will appear here...
+- 6x  Switch Networks
+- 6x  View more on explorer
+- 4x  84.4796
+- 4x  Add liquidity to earn fees from trades. Click on any pool to open Swapr and add liquidity.
+- 4x  Company Token Pools
+- 4x  Conditional Pools
+- 4x  NO sDAI / sDAI
+- 4x  Prediction Pools
+- 4x  YES sDAI / sDAI
+- 3x  84.4720
+- 3x  Open until: 6d 6h 42m
+- 3x  Open until: 6d 6h 43m
+- 2x  1.00 sDAI (estimate)
+- 2x  4 organizations
+- 2x  NO GNO / NO sDAI
+- 2x  NO GNO / sDAI
+- 2x  NO PNK / NO sDAI
+- 2x  NO PNK / sDAI
+- 2x  No active positions
+- 2x  Open until: 6d 6h 41m
+- 2x  UPDATED 10:54:07 PM
+- 2x  UPDATED 10:56:41 PM
+- 2x  UPDATED 10:59:50 PM
+- 2x  UPDATED 11:00:11 PM
+- 2x  UPDATED 11:04:00 PM
+- 2x  YES GNO / YES sDAI
+- 2x  YES GNO / sDAI
+- 2x  YES PNK / YES sDAI
+- 2x  YES PNK / sDAI
+- 1x  0 xDAI
+- 1x  0.00 GNO
+- 1x  0.00 sDAI
+- 1x  Loading...
+- 1x  Quote Unavailable
+- 1x  UPDATED 10:51:39 PM
+- 1x  UPDATED 10:52:06 PM
+- 1x  UPDATED 10:52:20 PM
+- 1x  UPDATED 10:52:34 PM
+- 1x  UPDATED 10:52:48 PM
+- 1x  UPDATED 10:53:02 PM
+- 1x  UPDATED 10:57:43 PM
+- 1x  UPDATED 10:58:02 PM
+- 1x  UPDATED 10:58:14 PM
+- 1x  UPDATED 10:58:26 PM
+- 1x  UPDATED 10:58:38 PM
+- 1x  UPDATED 10:58:50 PM
+- 1x  UPDATED 11:00:36 PM
+- 1x  UPDATED 11:00:55 PM
+- 1x  UPDATED 11:01:07 PM
+- 1x  UPDATED 11:01:19 PM
+- 1x  UPDATED 11:01:31 PM
+- 1x  UPDATED 11:01:43 PM

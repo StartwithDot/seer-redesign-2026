@@ -1,0 +1,3 @@
+URL: https://deep-pm.gitbook.io/seer-docs
+
+🧠 Deep Seer — User Guide | User Guide User Guide ⌘ Ctrl k User Guide 🧠 Deep Seer — User Guide 🚀 Getting Started 💰 Funding Your Account 📊 Trading on Deep Seer ⚙️ Advanced Features Powered by GitBook On this page For the complete documentation index, see llms.txt . This page is also available as Markdown . Copy On this page 🧠 Deep Seer — User Guide deep.seer.pm lets you execute one-click trades on Deepfunding prediction markets on Seer. 🧭 Quick Diagram [Connect Wallet] ↓ [Create Trade Wallet] ↓ [Get sUSDS] ↓ [Deposit to Trade Wallet] ↓ [Upload CSV Predictions] ↓ [Execute Strategy] Next 🚀 Getting Started Last updated 6 months ago

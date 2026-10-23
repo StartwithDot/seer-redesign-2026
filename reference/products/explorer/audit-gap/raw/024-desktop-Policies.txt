@@ -1,0 +1,804 @@
+Note that this is a Beta version and can still be unstable
+Markets
+Leaderboard
+Create Market
+Policies
+Verified Market Policy
+Market Rules Policy
+App
+0x0000...dEaD
+
+24.69 xDAI
+
+/
+Market
+This market is unverified (it didn't go through the curation process)
+It may be invalid, tricky and have misleading token names. Exercise caution while interacting with it.
+Reports open
+What name will be adopted for the futarchy-run AI job board organization announced by Seer on 25 September 2026?
+Answer on Reality.eth!
+Categorical
+Liquidity:
+1.08k
+Volume:
+5.07k
+P&L:
+0.00
+Verify it
+1D
+1W
+1M
+All
+Custom
+delegateyourjob.ai
+6.5%
+Zetsu.AI
+5%
+Workmesh
+4.3%
+Foreguild
+3.9%
+AgenticGigs
+2.9%
+Vantage
+2.8%
+Seek
+2.8%
+Auspex
+2.4%
+Agentarchy
+2%
+Agora
+2%
+Taskweave
+1.5%
+Horizance
+1.4%
+Agentlier
+1.4%
+Symbiont
+1.3%
+Synergent
+1.3%
+Worklume
+1.3%
+TaskaskAI
+1.2%
+Fleet
+1.2%
+ForeSeer
+1.1%
+Mintellect
+1.1%
+AgentVerSeer
+0.9%
+Agenticjobs
+0.8%
+Aigenseer
+0.8%
+Workhere Agent
+0.7%
+Jobhere Agent
+0.7%
+Piecework
+0.7%
+quest-board
+0.7%
+BountyMesh
+0.7%
+Agentra
+0.7%
+Task-GPT
+0.7%
+delegatobs.ai
+0.6%
+TaskpayAI
+0.5%
+Co-Exist
+0.5%
+SwarmBounty
+0.5%
+Seer Knows
+0.5%
+WorkLoop
+0.5%
+Synerget
+0.4%
+TASKARCHY
+0.4%
+0xwork
+0.4%
+Taskora
+0.4%
+Cryptoagents
+0.4%
+borgcorp
+0.4%
+Gigarchy
+0.4%
+Taskseer
+0.4%
+Futask
+0.4%
+Laboracle
+0.4%
+TaskNet
+0.4%
+KORRA
+0.4%
+Hive
+0.4%
+Errand
+0.4%
+Drexseer
+0.4%
+SEERAAI
+0.4%
+SEERA
+0.4%
+SeerAgentFi
+0.4%
+NEMESIS
+0.4%
+Zethro
+0.4%
+OracleBoard
+0.4%
+PRONOA
+0.4%
+AEVUM
+0.4%
+synthlabor
+0.4%
+TaskMesh
+0.3%
+Predfupay
+0.3%
+Seervant
+0.3%
+Taskorama
+0.3%
+Praxis
+0.3%
+agentbounty
+0.3%
+Aetherwork
+0.3%
+TaskIT
+0.3%
+AgentGemini
+0.3%
+AgentSeerX
+0.3%
+Aether
+0.3%
+AgentFutarchy
+0.3%
+AIora
+0.3%
+AgentSent
+0.3%
+PHRONEX
+0.3%
+Skynet
+0.3%
+Seerchy
+0.3%
+Seerarchy
+0.3%
+Other
+0%
+	
+	
+
+	
+	
+Outcomes
+
+#1 delegateyourjob.ai
+
+Add Liquidity
+View pool details
+New conditional market
+6.5%
+
+#2 Zetsu.AI
+
+Add Liquidity
+View pool details
+New conditional market
+5%
+
+#3 Workmesh
+
+Add Liquidity
+View pool details
+New conditional market
+4.3%
+
+#4 Foreguild
+
+Add Liquidity
+View pool details
+New conditional market
+3.9%
+
+#5 AgenticGigs
+
+Add Liquidity
+View pool details
+New conditional market
+2.9%
+
+#6 Vantage
+
+Add Liquidity
+View pool details
+New conditional market
+2.8%
+
+#7 Seek
+
+Add Liquidity
+View pool details
+New conditional market
+2.8%
+
+#8 Auspex
+
+Add Liquidity
+View pool details
+New conditional market
+2.4%
+
+#9 Agentarchy
+
+Add Liquidity
+View pool details
+New conditional market
+2%
+
+#10 Agora
+
+Add Liquidity
+View pool details
+New conditional market
+2%
+
+#11 Taskweave
+
+Add Liquidity
+View pool details
+New conditional market
+1.5%
+
+#12 Horizance
+
+Add Liquidity
+View pool details
+New conditional market
+1.4%
+
+#13 Agentlier
+
+Add Liquidity
+View pool details
+New conditional market
+1.4%
+
+#14 Symbiont
+
+Add Liquidity
+View pool details
+New conditional market
+1.3%
+
+#15 Synergent
+
+Add Liquidity
+View pool details
+New conditional market
+1.3%
+
+#16 Worklume
+
+Add Liquidity
+View pool details
+New conditional market
+1.3%
+
+#17 TaskaskAI
+
+Add Liquidity
+View pool details
+New conditional market
+1.2%
+
+#18 Fleet
+
+Add Liquidity
+View pool details
+New conditional market
+1.2%
+
+#19 ForeSeer
+
+Add Liquidity
+View pool details
+New conditional market
+1.1%
+
+#20 Mintellect
+
+Add Liquidity
+View pool details
+New conditional market
+1.1%
+
+#21 AgentVerSeer
+
+Add Liquidity
+View pool details
+New conditional market
+0.9%
+
+#22 Agenticjobs
+
+Add Liquidity
+View pool details
+New conditional market
+0.8%
+
+#23 Aigenseer
+
+Add Liquidity
+View pool details
+New conditional market
+0.8%
+
+#24 Workhere Agent
+
+Add Liquidity
+View pool details
+New conditional market
+0.7%
+
+#25 Jobhere Agent
+
+Add Liquidity
+View pool details
+New conditional market
+0.7%
+
+#26 Piecework
+
+Add Liquidity
+View pool details
+New conditional market
+0.7%
+
+#27 quest-board
+
+Add Liquidity
+View pool details
+New conditional market
+0.7%
+
+#28 BountyMesh
+
+Add Liquidity
+View pool details
+New conditional market
+0.7%
+
+#29 Task-GPT
+
+Add Liquidity
+View pool details
+New conditional market
+0.7%
+
+#30 delegatobs.ai
+
+Add Liquidity
+View pool details
+New conditional market
+0.6%
+
+#31 Agentra
+
+Add Liquidity
+View pool details
+New conditional market
+0.6%
+
+#32 TaskpayAI
+
+Add Liquidity
+View pool details
+New conditional market
+0.5%
+
+#33 Co-Exist
+
+Add Liquidity
+View pool details
+New conditional market
+0.5%
+
+#34 SwarmBounty
+
+Add Liquidity
+View pool details
+New conditional market
+0.5%
+
+#35 Seer Knows
+
+Add Liquidity
+View pool details
+New conditional market
+0.5%
+
+#36 WorkLoop
+
+Add Liquidity
+View pool details
+New conditional market
+0.5%
+
+#37 Synerget
+
+Add Liquidity
+View pool details
+New conditional market
+0.4%
+
+#38 TASKARCHY
+
+Add Liquidity
+View pool details
+New conditional market
+0.4%
+
+#39 0xwork
+
+Add Liquidity
+View pool details
+New conditional market
+0.4%
+
+#40 Taskora
+
+Add Liquidity
+View pool details
+New conditional market
+0.4%
+
+#41 Cryptoagents
+
+Add Liquidity
+View pool details
+New conditional market
+0.4%
+
+#42 borgcorp
+
+Add Liquidity
+View pool details
+New conditional market
+0.4%
+
+#43 Gigarchy
+
+Add Liquidity
+View pool details
+New conditional market
+0.4%
+
+#44 Taskseer
+
+Add Liquidity
+View pool details
+New conditional market
+0.4%
+
+#45 Futask
+
+Add Liquidity
+View pool details
+New conditional market
+0.4%
+
+#46 Laboracle
+
+Add Liquidity
+View pool details
+New conditional market
+0.4%
+
+#47 TaskNet
+
+Add Liquidity
+View pool details
+New conditional market
+0.4%
+
+#48 KORRA
+
+Add Liquidity
+View pool details
+New conditional market
+0.4%
+
+#49 Hive
+
+Add Liquidity
+View pool details
+New conditional market
+0.4%
+
+#50 Errand
+
+Add Liquidity
+View pool details
+New conditional market
+0.4%
+
+#51 Drexseer
+
+Add Liquidity
+View pool details
+New conditional market
+0.4%
+
+#52 SEERAAI
+
+Add Liquidity
+View pool details
+New conditional market
+0.4%
+
+#53 SEERA
+
+Add Liquidity
+View pool details
+New conditional market
+0.4%
+
+#54 SeerAgentFi
+
+Add Liquidity
+View pool details
+New conditional market
+0.4%
+
+#55 NEMESIS
+
+Add Liquidity
+View pool details
+New conditional market
+0.4%
+
+#56 Zethro
+
+Add Liquidity
+View pool details
+New conditional market
+0.4%
+
+#57 OracleBoard
+
+Add Liquidity
+View pool details
+New conditional market
+0.4%
+
+#58 PRONOA
+
+Add Liquidity
+View pool details
+New conditional market
+0.4%
+
+#59 AEVUM
+
+Add Liquidity
+View pool details
+New conditional market
+0.4%
+
+#60 synthlabor
+
+Add Liquidity
+View pool details
+New conditional market
+0.4%
+
+#61 TaskMesh
+
+Add Liquidity
+View pool details
+New conditional market
+0%
+
+#62 Predfupay
+
+Add Liquidity
+View pool details
+New conditional market
+0%
+
+#63 Seervant
+
+Add Liquidity
+View pool details
+New conditional market
+0%
+
+#64 Taskorama
+
+Add Liquidity
+View pool details
+New conditional market
+0%
+
+#65 Praxis
+
+Add Liquidity
+View pool details
+New conditional market
+0%
+
+#66 agentbounty
+
+Add Liquidity
+View pool details
+New conditional market
+0%
+
+#67 Aetherwork
+
+Add Liquidity
+View pool details
+New conditional market
+0%
+
+#68 TaskIT
+
+Add Liquidity
+View pool details
+New conditional market
+0%
+
+#69 AgentGemini
+
+Add Liquidity
+View pool details
+New conditional market
+0%
+
+#70 AgentSeerX
+
+Add Liquidity
+View pool details
+New conditional market
+0%
+
+#71 Aether
+
+Add Liquidity
+View pool details
+New conditional market
+0%
+
+#72 AgentFutarchy
+
+Add Liquidity
+View pool details
+New conditional market
+0%
+
+#73 AIora
+
+Add Liquidity
+View pool details
+New conditional market
+0%
+
+#74 AgentSent
+
+Add Liquidity
+View pool details
+New conditional market
+0%
+
+#75 PHRONEX
+
+Add Liquidity
+View pool details
+New conditional market
+0%
+
+#76 Skynet
+
+Add Liquidity
+View pool details
+New conditional market
+0%
+
+#77 Seerchy
+
+Add Liquidity
+View pool details
+New conditional market
+0%
+
+#78 Seerarchy
+
+Add Liquidity
+View pool details
+New conditional market
+0%
+
+#79 Other
+
+Add Liquidity
+View pool details
+New conditional market
+0%
+
+#80 Invalid
+
+Add Liquidity
+View pool details
+New conditional market
+0%
+delegateyourjob.ai
+Market
+
+You pay
+
+sDAI
+
+0 sDAI
+
+Max
+
+You will get
+
+delegateyourjob.ai
+
+Avg price
+0 sDAI
+Potential return
+0.00 sDAI (0.00%)
+Parameters:
+
+Max slippage 1%
+
+Enter an amount
+
+More
+
+Mint
+Mint
+Merge
+Redeem
+Amount
+Max
+Balance:
+0 sDAI
+sDAI
+xDAI
+Mint
+Comments
+Related Conditional Markets
+Top Holders
+Activity
+
+Connect your wallet to share your take
+
+Connect to comment
+
+No takes yet. Share the first one.

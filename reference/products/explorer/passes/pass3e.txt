@@ -1,0 +1,20 @@
+You are building apps/explorer (Seer Explorer redesign). Read, in order:
+products/explorer/DIRECTION.md, products/explorer/design.md (this spec; follow it literally),
+docs/ui-quality-rules.md, docs/coding-rules.md. Copy proven pieces from apps/futarchy/src/components
+(HoverMenu, Tooltip, RollingNumber, Segmented, CommandPalette, GuidedTour, ThemeToggle, Avatar) and adapt
+styling; do not import across apps. Stack: React 19 + TS strict + plain CSS + tokens (@seer/ef) + motion +
+d3-scale/shape/array/time. No new deps. Components < 150 lines; pure math in src/math with formula comments.
+Use ONLY strings from design.md §8 allowed list or data labels/units. Real data only (src/data/*.json and
+src/data/fixtures/*.json). Do not edit other apps or packages/ef/tokens.css. Do not commit.
+You cannot run e2e (no ports). End with the tail of: npm run build -w apps/explorer && npx tsc --noEmit -p apps/explorer
+If e2e_last.txt exists at repo root, read it first and fix only the failures listed.
+
+Also read products/explorer/design.md sections referenced below. Do not run any dev server.
+
+Files: src/components/Header.tsx (+css), src/home/**, src/market/** (RangeControl css only), src/components/GuidedTour.tsx. Fix list from real 1440 screenshots:
+1. HEADER: a second header row still renders under the main header on every route (search pill, 'My collections', 'Create New Market') and duplicates the home toolbar. DELETE that second row everywhere. The single 64px header holds: logo, nav, a centered 440px search pill (with '/' hint inside), help, theme, Connect. 'Create New Market' stays as the primary button in the HOME toolbar and as the 'Create Market' nav item; 'My collections' stays a text link in the home toolbar and in the Account menu. Keep route pages' top padding at 24px below the header.
+2. The guided tour overlay opens automatically on first load and blocks the page. Do NOT auto-start it. It starts only from the '?' help button ('Take the tour'). Remove any auto-open and its localStorage-trigger on load.
+3. MARKET PAGE chart range control renders as one run-together text '1D1W1MAllCustom'. Render 1D / 1W / 1M / All / Custom as a proper segmented control: 5 buttons 32px high, 12px horizontal padding, 4px gap, active = tonal fill #26262c + white text, others muted; the 'Custom' button opens the popover. 'Zoom to data' and arrows move to the right side of the same row.
+4. MARKET PAGE header block: it is too tall and dense. Reduce: status pill + verified tick + star in one row, question 28px/34px weight 500, 'Answer on Reality.eth ->' as a small text link under it, ONE meta row of 4 label/value pairs (Type, Liquidity, Volume, Open interest) with 32px gaps, P&L only when connected. Remove the amber top border bar; use tonal card only.
+5. Page spacing: sections 24px apart; card padding 24px.
+Acceptance: build+tsc pass; no auto-opening dialogs on any route at first load.

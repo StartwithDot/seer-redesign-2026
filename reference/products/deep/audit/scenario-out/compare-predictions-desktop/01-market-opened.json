@@ -1,0 +1,116 @@
+{
+ "url": "https://deep.seer.pm/",
+ "title": "AI Prediction Markets",
+ "controls": [
+  {
+   "tag": "button",
+   "text": "AI Prediction Markets",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Leaderboard",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Profile",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "Guide",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "0x0000…dEaD",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Create trade wallet",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Round 3 · Originality\nLIVE",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Archive",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Upload predictions",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Export market weights",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "REPOSITORY",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "MARKET",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "DIFFERENCE",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "How the UP difference is calculated",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "MARKET",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "DIFFERENCE",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "How the DOWN difference is calculated",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "Browse on Seer",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "Telegram",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "X",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "GitHub",
+   "disabled": false
+  }
+ ]
+}

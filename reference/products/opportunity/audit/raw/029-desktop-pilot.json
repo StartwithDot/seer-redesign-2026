@@ -1,0 +1,194 @@
+{
+ "title": "Seer · Opportunity Markets",
+ "url": "https://opportunity.seer.pm/#pilot",
+ "scrollHeight": 2066,
+ "headings": [
+  "h1: With AI, the cost of reviewing work is more than the time it takes to do it",
+  "h2: One market live.",
+  "h2: Seer AI Job Board Name",
+  "h2: Closed beta today. Permissionless tomorrow."
+ ],
+ "interactive": [
+  {
+   "i": 0,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Seer Opportunity Markets home",
+   "href": "/",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    85,
+    17,
+    133,
+    32
+   ]
+  },
+  {
+   "i": 1,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "The pilot",
+   "href": "#pilot",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1062,
+    23,
+    54,
+    20
+   ]
+  },
+  {
+   "i": 2,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "The protocol",
+   "href": "#protocol",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1136,
+    23,
+    78,
+    20
+   ]
+  },
+  {
+   "i": 3,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "0x0000...dEaD",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1238,
+    16,
+    117,
+    34
+   ]
+  },
+  {
+   "i": 4,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Name Seer's AI Job Board",
+   "href": "/markets/100/0x8b3C7f3f09f6A85353926D8ee0f12decc1C9A5e8",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    517,
+    570,
+    231,
+    48
+   ]
+  },
+  {
+   "i": 5,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Where this goes",
+   "href": "#pilot",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    760,
+    569,
+    163,
+    50
+   ]
+  },
+  {
+   "i": 6,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Open opportunity: Seer AI Job Board Name",
+   "href": "/markets/100/0x8b3c7f3f09f6a85353926d8ee0f12decc1c9a5e8",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    86,
+    963,
+    1268,
+    305
+   ]
+  },
+  {
+   "i": 7,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "LEADING · SAI 7% OPEN OPPORTUNITY →",
+   "href": "/markets/100/0x8b3c7f3f09f6a85353926d8ee0f12decc1c9a5e8",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    86,
+    1268,
+    1268,
+    101
+   ]
+  },
+  {
+   "i": 8,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "VIEW ARCHIVED MARKETS (2) →",
+   "href": "/archive",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    85,
+    1394,
+    209,
+    16
+   ]
+  },
+  {
+   "i": 9,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Seer",
+   "href": "https://seer.pm",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    85,
+    1982,
+    78,
+    36
+   ]
+  }
+ ],
+ "charts": [],
+ "tables": [],
+ "fonts": [
+  "Urbanist",
+  "JetBrains Mono"
+ ],
+ "colors": {
+  "bg": "rgb(10, 8, 20)",
+  "text": "rgb(236, 232, 245)"
+ },
+ "dialogs": 0
+}

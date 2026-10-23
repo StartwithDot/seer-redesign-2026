@@ -1,0 +1,96 @@
+{
+ "site": "notion.com",
+ "pageHeight": 4687,
+ "title": "The AI workspace that works for you. | Notion",
+ "h1": "Where teams and agents Think together.",
+ "h1Style": {
+  "fontSize": "96px",
+  "fontWeight": "600",
+  "letterSpacing": "-4.6px",
+  "lineHeight": "100px",
+  "color": "rgba(0, 0, 0, 0.95)",
+  "family": "NotionInter"
+ },
+ "bodyBg": "rgb(255, 255, 255)",
+ "bodyFont": "NotionInter",
+ "bodySize": "16px",
+ "navLinks": [
+  "Pricing",
+  "Request a demo",
+  "Log in",
+  "Get Notion free",
+  "Get Notion free",
+  "Request a demo",
+  "Features",
+  "What's New",
+  "Notion AI",
+  "Pricing",
+  "Request a demo",
+  "Download",
+  "Explore more→",
+  "Customer stories"
+ ],
+ "ctas": [
+  "Get Notion free",
+  "Get Notion free",
+  "Request a demo"
+ ],
+ "heads": [
+  "AI where your team works.",
+  "Bring everything into one system of record.",
+  "Get answers, instantly—with citations.",
+  "Keep work moving 24/7 with agents.",
+  "See what Notion can do",
+  "Triage product feedback→",
+  "Resolve support tickets in Slack→",
+  "Respond to security alerts faster→",
+  "Automate weekly reporting→",
+  "Create your own developer tools→",
+  "Trusted by teams that ship.",
+  "Get started today."
+ ],
+ "sections": 3,
+ "sticky": 2,
+ "sectionBgs": [
+  "rgb(255, 255, 255)",
+  "rgba(0, 0, 0, 0)"
+ ],
+ "fonts": [
+  "NotionInter"
+ ],
+ "libs": [
+  "video:1"
+ ],
+ "footerLinks": [
+  "Features",
+  "What's New",
+  "Notion AI",
+  "Pricing",
+  "Request a demo",
+  "Download",
+  "Explore more→",
+  "Customer stories",
+  "Connections",
+  "Marketplace",
+  "Help Center",
+  "Academy",
+  "Community",
+  "About us",
+  "Careers",
+  "Security",
+  "Status",
+  "Terms & privacy",
+  "Your privacy rights",
+  "Enterprise",
+  "Small businesses",
+  "Startups",
+  "Developers",
+  "Explore more→",
+  "English (US)",
+  "Bahasa Indonesia",
+  "Dansk",
+  "Deutsch",
+  "English (UK)",
+  "Español (España)"
+ ]
+}

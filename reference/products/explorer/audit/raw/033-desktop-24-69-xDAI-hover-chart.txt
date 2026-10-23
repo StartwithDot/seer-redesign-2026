@@ -1,0 +1,141 @@
+Note that this is a Beta version and can still be unstable
+Markets
+Leaderboard
+Create Market
+Policies
+App
+0x0000...dEaD
+
+24.69 xDAI
+
+Account
+Deposit
+Portfolio
+Market Collections
+Trade Collateral
+Use smart account
+/
+Market
+Reports open
+Which party or joint electoral list will win the most seats in Israeli Knesset election in 2026?
+Answer on Reality.eth!
+Categorical
+Liquidity:
+27.74k
+Volume:
+5.10k
+P&L:
+0.00
+Verified
+1D
+1W
+1M
+All
+Custom
+Yashar
+60.8%
+Likud
+38.1%
+Others
+0.9%
+Together Alliance
+0.5%
+	
+	
+
+	
+	
+Sep 21, 2026 11:00
+Yashar :
+59.60%
+Likud:
+39.10%
+Others:
+1.00%
+Together Alliance :
+0.50%
+Outcomes
+
+#1 Yashar
+
+Add Liquidity
+View pool details
+New conditional market
+60.8%
+
+#2 Likud
+
+Add Liquidity
+View pool details
+New conditional market
+38.1%
+
+#3 Others
+
+Add Liquidity
+View pool details
+New conditional market
+0.9%
+
+#4 Together Alliance
+
+Add Liquidity
+View pool details
+New conditional market
+0.5%
+
+#5 Invalid
+
+9.00 SER-INVALID
+Add Liquidity
+View pool details
+New conditional market
+0%
+Yashar
+Market
+
+You pay
+
+sDAI
+
+0 sDAI
+
+Max
+
+You will get
+
+Yashar
+
+Avg price
+0 sDAI
+Potential return
+0.00 sDAI (0.00%)
+Parameters:
+
+Max slippage 1%
+
+Enter an amount
+
+More
+
+Mint
+Mint
+Merge
+Redeem
+Amount
+Max
+Balance:
+0 sDAI
+sDAI
+xDAI
+Mint
+Comments
+Related Conditional Markets
+Top Holders
+Activity
+
+Connect your wallet to share your take
+
+Connect to comment
+
+No takes yet. Share the first one.

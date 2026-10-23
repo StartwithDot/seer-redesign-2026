@@ -1,0 +1,1149 @@
+{
+ "title": "Seer | How many seats in France’s National Assembly will [party bloc] win in the next French legislative election?",
+ "url": "https://app.seer.pm/markets/100/how-many-seats-in-frances-national-assembly-will-party-bloc-win-in-the-next-fren/",
+ "scrollHeight": 2993,
+ "headings": [
+  "h2: Major Events",
+  "h3: Reality.eth Resolution"
+ ],
+ "interactive": [
+  {
+   "i": 0,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "close",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    368,
+    8,
+    14,
+    16
+   ]
+  },
+  {
+   "i": 1,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    348,
+    11,
+    12,
+    12
+   ]
+  },
+  {
+   "i": 2,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "/",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    24,
+    43,
+    99,
+    46
+   ]
+  },
+  {
+   "i": 3,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    354,
+    54,
+    24,
+    24
+   ]
+  },
+  {
+   "i": 4,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "/",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    12,
+    141,
+    14,
+    15
+   ]
+  },
+  {
+   "i": 5,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/address/0xabe35cf0953169d9384f5953633f02996b4802f9",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    302,
+    195,
+    20,
+    20
+   ]
+  },
+  {
+   "i": 6,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Reopen question",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    69,
+    470,
+    111,
+    21
+   ]
+  },
+  {
+   "i": 7,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Reopen question",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    69,
+    549,
+    111,
+    21
+   ]
+  },
+  {
+   "i": 8,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Reopen question",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    69,
+    649,
+    111,
+    21
+   ]
+  },
+  {
+   "i": 9,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Reopen question",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    69,
+    749,
+    111,
+    21
+   ]
+  },
+  {
+   "i": 10,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Reopen question",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    69,
+    828,
+    111,
+    21
+   ]
+  },
+  {
+   "i": 11,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Open interest and liquidity breakdown",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "false",
+   "box": [
+    240,
+    880,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 12,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://curate.kleros.io/tcr/100/0x5aAF9E23A11440F8C1Ad6D2E2e5109C7e52CC672/0xd4d4fb1000368dc4a27738478211e1e921629b08500caae84e3c27db69d3474a",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    400,
+    881,
+    14,
+    14
+   ]
+  },
+  {
+   "i": 13,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Custom",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    32,
+    997,
+    86,
+    38
+   ]
+  },
+  {
+   "i": 14,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    338,
+    1006,
+    20,
+    20
+   ]
+  },
+  {
+   "i": 15,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "",
+   "href": "",
+   "disabled": true,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    296,
+    1059,
+    24,
+    24
+   ]
+  },
+  {
+   "i": 16,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    324,
+    1059,
+    24,
+    24
+   ]
+  },
+  {
+   "i": 17,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Charting by TradingView",
+   "href": "https://www.tradingview.com/?utm_medium=lwc-link&utm_campaign=lwc-chart&utm_source=app.seer.pm/markets/100/how-many-seats-in-frances-national-assembly-will-party-bloc-win-in-the-next-fren/",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    52,
+    1326,
+    35,
+    19
+   ]
+  },
+  {
+   "i": 18,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/token/0x151d79a8720e96da96a2115cda2590bb35e80d98",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    37,
+    1551,
+    12,
+    12
+   ]
+  },
+  {
+   "i": 19,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Add Liquidity",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    65,
+    1548,
+    73,
+    18
+   ]
+  },
+  {
+   "i": 20,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "View pool details",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    154,
+    1548,
+    94,
+    18
+   ]
+  },
+  {
+   "i": 21,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "New conditional market",
+   "href": "/create-market?parentMarket=0xabe35cf0953169d9384f5953633f02996b4802f9&parentOutcome=Left%20(UG%2C%20LFI%2C%20SOC%2C%20COM%2C%20VEC%2C%20RDG%2C%20DVG%2C%20EXG%2C%20%E2%80%A6)",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    37,
+    1574,
+    134,
+    18
+   ]
+  },
+  {
+   "i": 22,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/token/0x80ce730b1a5592907cfdb4ffb429d6c7baaaa946",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    37,
+    1689,
+    12,
+    12
+   ]
+  },
+  {
+   "i": 23,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Add Liquidity",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    65,
+    1686,
+    73,
+    18
+   ]
+  },
+  {
+   "i": 24,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "View pool details",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    154,
+    1686,
+    94,
+    18
+   ]
+  },
+  {
+   "i": 25,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "New conditional market",
+   "href": "/create-market?parentMarket=0xabe35cf0953169d9384f5953633f02996b4802f9&parentOutcome=Centre%20(ENS%2C%20REN%2C%20MDM%2C%20HOR%2C%20UDI%2C%20DVC%2C%20%E2%80%A6)",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    37,
+    1712,
+    134,
+    18
+   ]
+  },
+  {
+   "i": 26,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/token/0x3625c0577fa2b1a196ff19345a6e4302fc526e70",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    37,
+    1827,
+    12,
+    12
+   ]
+  },
+  {
+   "i": 27,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Add Liquidity",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    65,
+    1824,
+    73,
+    18
+   ]
+  },
+  {
+   "i": 28,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "View pool details",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    154,
+    1824,
+    94,
+    18
+   ]
+  },
+  {
+   "i": 29,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "New conditional market",
+   "href": "/create-market?parentMarket=0xabe35cf0953169d9384f5953633f02996b4802f9&parentOutcome=Far%20Right%20(RN%2C%20UXD%2C%20REC%2C%20DSV%2C%20EXD%2C%20...)",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    37,
+    1850,
+    134,
+    18
+   ]
+  },
+  {
+   "i": 30,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/token/0xe80210f99248f1b733f24412fd26eb91cc5552c7",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    37,
+    1941,
+    12,
+    12
+   ]
+  },
+  {
+   "i": 31,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Add Liquidity",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    65,
+    1938,
+    73,
+    18
+   ]
+  },
+  {
+   "i": 32,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "View pool details",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    154,
+    1938,
+    94,
+    18
+   ]
+  },
+  {
+   "i": 33,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "New conditional market",
+   "href": "/create-market?parentMarket=0xabe35cf0953169d9384f5953633f02996b4802f9&parentOutcome=Right%20(LR%2C%20DVD%2C%20%E2%80%A6)",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    37,
+    1964,
+    134,
+    18
+   ]
+  },
+  {
+   "i": 34,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/token/0x373f0651e4a5d8f91c65e61a6c78e41b809e1627",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    37,
+    2055,
+    12,
+    12
+   ]
+  },
+  {
+   "i": 35,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Add Liquidity",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    65,
+    2052,
+    73,
+    18
+   ]
+  },
+  {
+   "i": 36,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "View pool details",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    154,
+    2052,
+    94,
+    18
+   ]
+  },
+  {
+   "i": 37,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "New conditional market",
+   "href": "/create-market?parentMarket=0xabe35cf0953169d9384f5953633f02996b4802f9&parentOutcome=Other%20(REG%2C%20ECO%2C%20DIV%2C%20%E2%80%A6)",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    37,
+    2078,
+    134,
+    18
+   ]
+  },
+  {
+   "i": 38,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://gnosisscan.io/token/0x3a309bb39658d644e06f58d930704df16e92174d",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    37,
+    2169,
+    12,
+    12
+   ]
+  },
+  {
+   "i": 39,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Add Liquidity",
+   "href": "https://v3.swapr.eth.limo/#/add/0x3a309bb39658d644e06f58d930704df16e92174d/0xaf204776c7245bf4147c2612bf6e5972ee483701/enter-amounts",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    65,
+    2166,
+    73,
+    18
+   ]
+  },
+  {
+   "i": 40,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "View pool details",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    154,
+    2166,
+    94,
+    18
+   ]
+  },
+  {
+   "i": 41,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "New conditional market",
+   "href": "/create-market?parentMarket=0xabe35cf0953169d9384f5953633f02996b4802f9&parentOutcome=Invalid",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    37,
+    2192,
+    134,
+    18
+   ]
+  },
+  {
+   "i": 42,
+   "tag": "button",
+   "role": "tab",
+   "type": "button",
+   "text": "Comments",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    12,
+    2473,
+    116,
+    32
+   ]
+  },
+  {
+   "i": 43,
+   "tag": "button",
+   "role": "tab",
+   "type": "button",
+   "text": "Related Conditional Markets",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    128,
+    2473,
+    251,
+    32
+   ]
+  },
+  {
+   "i": 44,
+   "tag": "button",
+   "role": "tab",
+   "type": "button",
+   "text": "Top Holders",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    379,
+    2473,
+    125,
+    32
+   ]
+  },
+  {
+   "i": 45,
+   "tag": "button",
+   "role": "tab",
+   "type": "button",
+   "text": "Activity",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    504,
+    2473,
+    89,
+    32
+   ]
+  },
+  {
+   "i": 46,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Connect to comment",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    149,
+    2616,
+    192,
+    32
+   ]
+  },
+  {
+   "i": 47,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Open trade drawer",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    334,
+    816,
+    56,
+    56
+   ]
+  },
+  {
+   "i": 48,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://kleros.io/",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    106,
+    2905,
+    179,
+    24
+   ]
+  },
+  {
+   "i": 49,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://discord.com/invite/rBEB4MYQwV",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    138,
+    2953,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 50,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://t.me/Seerpredictionmarket",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    171,
+    2953,
+    16,
+    16
+   ]
+  },
+  {
+   "i": 51,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://x.com/seer_pm",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    203,
+    2953,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 52,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://github.com/seer-pm",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    236,
+    2953,
+    17,
+    16
+   ]
+  },
+  {
+   "i": 53,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Close drawer",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    376,
+    928,
+    14,
+    24
+   ]
+  },
+  {
+   "i": 54,
+   "tag": "button",
+   "role": "tab",
+   "type": "button",
+   "text": "Trade",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    24,
+    960,
+    88,
+    32
+   ]
+  },
+  {
+   "i": 55,
+   "tag": "button",
+   "role": "tab",
+   "type": "button",
+   "text": "Mint",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    112,
+    960,
+    79,
+    32
+   ]
+  },
+  {
+   "i": 56,
+   "tag": "button",
+   "role": "tab",
+   "type": "button",
+   "text": "Merge",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    191,
+    960,
+    92,
+    32
+   ]
+  },
+  {
+   "i": 57,
+   "tag": "button",
+   "role": "tab",
+   "type": "button",
+   "text": "Redeem",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    283,
+    960,
+    107,
+    32
+   ]
+  },
+  {
+   "i": 58,
+   "tag": "input",
+   "role": "",
+   "type": "number",
+   "text": "0",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    65,
+    1214,
+    167,
+    33
+   ]
+  },
+  {
+   "i": 59,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Max",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    306,
+    1256,
+    43,
+    31
+   ]
+  },
+  {
+   "i": 60,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    183,
+    1282,
+    48,
+    48
+   ]
+  },
+  {
+   "i": 61,
+   "tag": "input",
+   "role": "",
+   "type": "number",
+   "text": "0",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    64,
+    1354,
+    54,
+    33
+   ]
+  },
+  {
+   "i": 62,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Calculate your potential return",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    48,
+    1489,
+    318,
+    23
+   ]
+  },
+  {
+   "i": 63,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Enter an amount",
+   "href": "",
+   "disabled": true,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    48,
+    1570,
+    318,
+    45
+   ]
+  }
+ ],
+ "charts": [
+  {
+   "tag": "canvas",
+   "box": [
+    42,
+    1083,
+    252,
+    272
+   ],
+   "texts": [],
+   "paths": 0
+  },
+  {
+   "tag": "canvas",
+   "box": [
+    42,
+    1083,
+    252,
+    272
+   ],
+   "texts": [],
+   "paths": 0
+  },
+  {
+   "tag": "svg",
+   "box": [
+    135,
+    2749,
+    121,
+    60
+   ],
+   "texts": [],
+   "paths": 12
+  }
+ ],
+ "tables": [
+  {
+   "rows": 2,
+   "head": []
+  }
+ ],
+ "fonts": [
+  "sans-serif",
+  "Open Sans"
+ ],
+ "colors": {
+  "bg": "rgba(0, 0, 0, 0)",
+  "text": "oklch(0.278078 0.029596 256.848)"
+ },
+ "dialogs": 1
+}

@@ -1,0 +1,104 @@
+Futarchy
+What will the impact on GNO price be if GIP-149 is approved?
+—
+Impact (spot)
+Resolved
+Status
+25.62K
+ⓘ
+Volume (Total; sDAI)
+96.33
+ⓘ
+TVL
+3/10/2026
+Resolution Date
+Resolved: NO
+Resolution Question
+Snapshot Vote
+Add Liquidity
+Final Result
+REJECTED
+
+Will GIP-149 (Should Gnosis DAO fund continued support of Revoke.cash?) be approved ("Yes") or rejected ("No") by GnosisDAO? If the proposal is not approved by Mar 5, 2026 - 12:30 PM (UTC), results as ("No").
+
+TWAP Complete
+(TWAP impact +0.08%)
+
+The Futarchy Recommendation is based on the time-weighted average price (TWAP) of the "pass" (yes) outcome over a 5 day period. If the difference is higher than +1%, the recommendation is to approve. If the difference is lower than -1%, the recommendation is to reject. Otherwise, the recommendation is neutral.
+
+FINAL TWAP WINDOW
+UPDATED 11:24:53 PM
+
+YES TWAP
+
+105.6057
+
+NO TWAP
+
+105.5262
+
+YES outcome is ahead on TWAP.
+
+Trading Pair
+GNO/sDAI
+Yes Price
+110.55 sDAI
+No Price
+110.22 sDAI
+Status
+Resolved
+Impact (spot)
+—
+	
+	
+
+	
+	
+Redeem Tokens
+WINNING OUTCOME: NO
+
+No redeemable tokens found
+
+You don't have any NO outcome tokens to redeem.
+
+Resolved: NO
+If Yes
+If No
+Buy
+Sell
+Amount (sDAI)
+Max
+Available
+-
+Outcomes
+More info
+If Yes
+0.01056 GNO
+Receive
+If No
+1.00 sDAI
+Recover
+Price impact 4.20%
+Insufficient balance
+Your view on GIP-149
+	If YES	If NO
+Bullish	BUY	SELL
+Bearish	SELL	BUY
+Balance
+sDAI
+0 sDAI
+mergeable
+YES 0 · NO 0
+Wallet:
+0 sDAI
+GNO
+0 GNO
+mergeable
+YES 0 · NO 0
+Wallet:
+0.0004 GNO
+Split Collateral
+Merge Collateral
+Futarchy
+Market-based evaluation of governance decisions and milestones
+Social

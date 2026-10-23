@@ -1,0 +1,946 @@
+AI Prediction Markets
+Leaderboard
+Profile
+0x0000…dEaD
+
+Connect your wallet
+
+Optimism is the only network these contests run on.
+
+2
+
+Create a trade wallet
+
+A contract you own that batches hundreds of trades into one run.
+
+Create trade wallet
+3
+
+Add sUSDS
+
+Every market settles in it, and it earns Sky savings yield meanwhile.
+
+Round 3 · Originality
+LIVE
+Archive
+
+ROUND 3 · ORIGINALITY
+
+Share of original work over time
+
+Each line is a repository's UP price — the market's estimate of how much of it is original.
+
+Total volume ~$290.28
+Total liquidity ~$929.65
+	
+	
+
+	
+	
+ethereum/consensus-specs
+0.8465
+ethers-io/ethers.js
+0.8288
+sigp/lighthouse
+0.8288
+status-im/nimbus-eth2
+0.8262
+wevm/viem
+0.8115
+foundry-rs/foundry
+0.8097
+Consensys/gnark-crypto
+0.8059
+supranational/blst
+0.8045
+flashbots/mev-boost
+0.8041
+consensys/teku
+0.8020
+ethereum/go-ethereum
+0.7971
+arkworks-rs/algebra
+0.7954
+argotorg/solidity
+0.7930
+ethereum/eips
+0.7922
+herumi/mcl
+0.7903
+nethereum/nethereum
+0.7903
+chainsafe/lodestar
+0.7902
+lambdaclass/ethrex
+0.7900
+argotorg/act
+0.7896
+a16z/halmos
+0.7857
+skalenetwork/libBLS
+0.7841
+ethereum/py_ecc
+0.7748
+Vectorized/solady
+0.7742
+paradigmxyz/reth
+0.7730
+argotorg/hevm
+0.7725
+ethereum/web3.py
+0.7719
+ethereum/execution-apis
+0.7716
+vyperlang/titanoboa
+0.7708
+OffchainLabs/prysm
+0.7701
+openzeppelin/openzeppelin-contracts
+0.7698
+intellij-solidity/intellij-solidity
+0.7696
+alloy-rs/alloy
+0.7692
+paulmillr/noble-curves
+0.7692
+shazow/whatsabi
+0.7688
+vyperlang/vyper
+0.7651
+argotorg/sourcify
+0.7642
+erigontech/erigon
+0.7636
+nomicfoundation/hardhat
+0.7630
+swiss-knife-xyz/swiss-knife
+0.7630
+evmts/tevm-monorepo
+0.7623
+argotorg/fe
+0.7614
+ipsilon/evmone
+0.7597
+Certora/CertoraProver
+0.7591
+apeworx/ape
+0.7585
+protofire/solhint
+0.7580
+grandinetech/grandine
+0.7573
+holiman/goevmlab
+0.7572
+EspressoSystems/jellyfish
+0.7561
+OffchainLabs/stylus-sdk-rs
+0.7538
+taikoxyz/taiko-mono
+0.7509
+lambdaclass/lambda_ethereum_consensus
+0.7484
+flashbots/mev-boost-relay
+0.7479
+erigontech/silkworm
+0.7474
+ethstaker/ethstaker-deposit-cli
+0.7473
+libp2p/libp2p
+0.7460
+hyperledger-web3j/web3j
+0.7459
+hyperledger/besu
+0.7434
+Commit-Boost/commit-boost-client
+0.7414
+nethermindeth/nethermind
+0.7395
+Cyfrin/aderyn
+0.7384
+TrueBlocks/trueblocks-core
+0.7369
+wealdtech/ethdo
+0.7361
+DefiLlama/DefiLlama-Adapters
+0.7315
+ethdebug/format
+0.7305
+wighawag/hardhat-deploy
+0.7299
+LFDT-web3j/web3j
+0.7279
+ethereum-lists/chains
+0.7271
+remix-project-org/remix-project
+0.7249
+Plonky3/Plonky3
+0.7237
+ChainSafe/bls
+0.7230
+0xMiden/miden-vm
+0.7210
+powdr-labs/powdr
+0.7201
+flashbots/rbuilder
+0.7180
+edb-rs/edb
+0.7178
+lambdaclass/lambdaworks
+0.7156
+otterscan/otterscan
+0.7106
+eth-infinitism/account-abstraction
+0.7084
+dl-solarity/solidity-lib
+0.7081
+a16z/helios
+0.7028
+blockscout/blockscout
+0.7022
+aestus-relay/mev-boost-relay
+0.6998
+DefiLlama/chainlist
+0.6962
+ethereum/js-ethereum-cryptography
+0.6915
+l2beat/l2beat
+0.6898
+scaffold-eth/scaffold-eth-2
+0.6889
+axiom-crypto/snark-verifier
+0.6820
+NethermindEth/juno
+0.6778
+safe-global/safe-smart-account
+0.6679
+succinctlabs/sp1
+0.6591
+ethstaker/eth-docker
+0.6584
+risc0/risc0-ethereum
+0.6519
+smartcontracts/simple-optimism-node
+0.6474
+succinctlabs/rsp
+0.6410
+ethpandaops/ethereum-helm-charts
+0.6373
+ethpandaops/ethereum-package
+0.6294
+dappnode/DAppNode
+0.5665
+succinctlabs/op-succinct
+0.5444
+ethpandaops/checkpointz
+0.5436
+Hide all
+No predictions loaded
+Upload predictions
+
+ORIGINALITY
+
+Original work per repository
+
+Each repository trades as a pair: UP is the share of original work, DOWN the share carried by dependencies.
+
+Export market weights
+REPOSITORY
+	PREDICTED	UP · ORIGINAL WORK	DOWN · DEPENDENCIES
+BALANCE	MARKET
+	
+DIFFERENCE
+	BALANCE	MARKET
+	
+DIFFERENCE
+
+
+ethereum/py_ecc
+	—	—	0.7748	
+—
+	—	0.2251	
+—
+
+
+blockscout/blockscout
+	—	—	0.7022	
+—
+	—	0.2978	
+—
+
+
+LFDT-web3j/web3j
+	—	—	0.7279	
+—
+	—	0.2120	
+—
+
+
+herumi/mcl
+	—	—	0.7903	
+—
+	—	0.1312	
+—
+
+
+paulmillr/noble-curves
+	—	—	0.7692	
+—
+	—	0.0822	
+—
+
+
+arkworks-rs/algebra
+	—	—	0.7954	
+—
+	—	0.0970	
+—
+
+
+flashbots/rbuilder
+	—	—	0.7180	
+—
+	—	0.2776	
+—
+
+
+protofire/solhint
+	—	—	0.7580	
+—
+	—	0.2420	
+—
+
+
+l2beat/l2beat
+	—	—	0.6898	
+—
+	—	0.2248	
+—
+
+
+Consensys/gnark-crypto
+	—	—	0.8059	
+—
+	—	0.0910	
+—
+
+
+Vectorized/solady
+	—	—	0.7742	
+—
+	—	0.2258	
+—
+
+
+taikoxyz/taiko-mono
+	—	—	0.7509	
+—
+	—	0.2491	
+—
+
+
+flashbots/mev-boost
+	—	—	0.8041	
+—
+	—	0.1959	
+—
+
+
+flashbots/mev-boost-relay
+	—	—	0.7479	
+—
+	—	0.2096	
+—
+
+
+ethereum/js-ethereum-cryptography
+	—	—	0.6915	
+—
+	—	0.2298	
+—
+
+
+libp2p/libp2p
+	—	—	0.7460	
+—
+	—	0.2540	
+—
+
+
+supranational/blst
+	—	—	0.8045	
+—
+	—	0.1954	
+—
+
+
+wighawag/hardhat-deploy
+	—	—	0.7299	
+—
+	—	0.2228	
+—
+
+
+ethstaker/eth-docker
+	—	—	0.6584	
+—
+	—	0.3416	
+—
+
+
+DefiLlama/DefiLlama-Adapters
+	—	—	0.7315	
+—
+	—	0.1815	
+—
+
+
+DefiLlama/chainlist
+	—	—	0.6962	
+—
+	—	0.2668	
+—
+
+
+Certora/CertoraProver
+	—	—	0.7591	
+—
+	—	0.2409	
+—
+
+
+Plonky3/Plonky3
+	—	—	0.7237	
+—
+	—	0.2210	
+—
+
+
+ChainSafe/bls
+	—	—	0.7230	
+—
+	—	0.2770	
+—
+
+
+intellij-solidity/intellij-solidity
+	—	—	0.7696	
+—
+	—	0.2304	
+—
+
+
+dappnode/DAppNode
+	—	—	0.5665	
+—
+	—	0.2780	
+—
+
+
+wealdtech/ethdo
+	—	—	0.7361	
+—
+	—	0.2485	
+—
+
+
+lambdaclass/lambdaworks
+	—	—	0.7156	
+—
+	—	0.2294	
+—
+
+
+smartcontracts/simple-optimism-node
+	—	—	0.6474	
+—
+	—	0.2679	
+—
+
+
+skalenetwork/libBLS
+	—	—	0.7841	
+—
+	—	0.2159	
+—
+
+
+shazow/whatsabi
+	—	—	0.7688	
+—
+	—	0.2313	
+—
+
+
+TrueBlocks/trueblocks-core
+	—	—	0.7369	
+—
+	—	0.1704	
+—
+
+
+EspressoSystems/jellyfish
+	—	—	0.7561	
+—
+	—	0.2439	
+—
+
+
+a16z/halmos
+	—	—	0.7857	
+—
+	—	0.2143	
+—
+
+
+succinctlabs/op-succinct
+	—	—	0.5444	
+—
+	—	0.2636	
+—
+
+
+succinctlabs/sp1
+	—	—	0.6591	
+—
+	—	0.2945	
+—
+
+
+otterscan/otterscan
+	—	—	0.7106	
+—
+	—	0.2158	
+—
+
+
+lambdaclass/ethrex
+	—	—	0.7900	
+—
+	—	0.2100	
+—
+
+
+NethermindEth/juno
+	—	—	0.6778	
+—
+	—	0.2189	
+—
+
+
+Commit-Boost/commit-boost-client
+	—	—	0.7414	
+—
+	—	0.2149	
+—
+
+
+Cyfrin/aderyn
+	—	—	0.7384	
+—
+	—	0.2268	
+—
+
+
+0xMiden/miden-vm
+	—	—	0.7210	
+—
+	—	0.2341	
+—
+
+
+holiman/goevmlab
+	—	—	0.7572	
+—
+	—	0.2427	
+—
+
+
+edb-rs/edb
+	—	—	0.7178	
+—
+	—	0.2822	
+—
+
+
+evmts/tevm-monorepo
+	—	—	0.7623	
+—
+	—	0.2377	
+—
+
+
+succinctlabs/rsp
+	—	—	0.6410	
+—
+	—	0.2499	
+—
+
+
+aestus-relay/mev-boost-relay
+	—	—	0.6998	
+—
+	—	0.1780	
+—
+
+
+OffchainLabs/stylus-sdk-rs
+	—	—	0.7538	
+—
+	—	0.2463	
+—
+
+
+ethstaker/ethstaker-deposit-cli
+	—	—	0.7473	
+—
+	—	0.2119	
+—
+
+
+dl-solarity/solidity-lib
+	—	—	0.7081	
+—
+	—	0.2225	
+—
+
+
+risc0/risc0-ethereum
+	—	—	0.6519	
+—
+	—	0.2712	
+—
+
+
+powdr-labs/powdr
+	—	—	0.7201	
+—
+	—	0.2393	
+—
+
+
+axiom-crypto/snark-verifier
+	—	—	0.6820	
+—
+	—	0.2491	
+—
+
+
+swiss-knife-xyz/swiss-knife
+	—	—	0.7630	
+—
+	—	0.2370	
+—
+
+
+a16z/helios
+	—	—	0.7028	
+—
+	—	0.2468	
+—
+
+
+alloy-rs/alloy
+	—	—	0.7692	
+—
+	—	0.2308	
+—
+
+
+apeworx/ape
+	—	—	0.7585	
+—
+	—	0.2252	
+—
+
+
+chainsafe/lodestar
+	—	—	0.7902	
+—
+	—	0.2098	
+—
+
+
+consensys/teku
+	—	—	0.8020	
+—
+	—	0.1955	
+—
+
+
+erigontech/erigon
+	—	—	0.7636	
+—
+	—	0.2317	
+—
+
+
+eth-infinitism/account-abstraction
+	—	—	0.7084	
+—
+	—	0.2469	
+—
+
+
+ethereum-lists/chains
+	—	—	0.7271	
+—
+	—	0.2500	
+—
+
+
+ethereum/consensus-specs
+	—	—	0.8465	
+—
+	—	0.1535	
+—
+
+
+ethereum/eips
+	—	—	0.7922	
+—
+	—	0.2078	
+—
+
+
+ipsilon/evmone
+	—	—	0.7597	
+—
+	—	0.2403	
+—
+
+
+ethereum/execution-apis
+	—	—	0.7716	
+—
+	—	0.2284	
+—
+
+
+argotorg/fe
+	—	—	0.7614	
+—
+	—	0.2386	
+—
+
+
+ethereum/go-ethereum
+	—	—	0.7971	
+—
+	—	0.2032	
+—
+
+
+remix-project-org/remix-project
+	—	—	0.7249	
+—
+	—	0.1774	
+—
+
+
+argotorg/solidity
+	—	—	0.7930	
+—
+	—	0.2070	
+—
+
+
+argotorg/sourcify
+	—	—	0.7642	
+—
+	—	0.2358	
+—
+
+
+ethereum/web3.py
+	—	—	0.7719	
+—
+	—	0.2028	
+—
+
+
+ethers-io/ethers.js
+	—	—	0.8288	
+—
+	—	0.1712	
+—
+
+
+foundry-rs/foundry
+	—	—	0.8097	
+—
+	—	0.1903	
+—
+
+
+grandinetech/grandine
+	—	—	0.7573	
+—
+	—	0.2090	
+—
+
+
+hyperledger-web3j/web3j
+	—	—	0.7459	
+—
+	—	0.2541	
+—
+
+
+hyperledger/besu
+	—	—	0.7434	
+—
+	—	0.2357	
+—
+
+
+nethereum/nethereum
+	—	—	0.7903	
+—
+	—	0.1878	
+—
+
+
+nethermindeth/nethermind
+	—	—	0.7395	
+—
+	—	0.2605	
+—
+
+
+nomicfoundation/hardhat
+	—	—	0.7630	
+—
+	—	0.2370	
+—
+
+
+openzeppelin/openzeppelin-contracts
+	—	—	0.7698	
+—
+	—	0.2036	
+—
+
+
+paradigmxyz/reth
+	—	—	0.7730	
+—
+	—	0.2066	
+—
+
+
+OffchainLabs/prysm
+	—	—	0.7701	
+—
+	—	0.2299	
+—
+
+
+safe-global/safe-smart-account
+	—	—	0.6679	
+—
+	—	0.3321	
+—
+
+
+scaffold-eth/scaffold-eth-2
+	—	—	0.6889	
+—
+	—	0.2652	
+—
+
+
+sigp/lighthouse
+	—	—	0.8288	
+—
+	—	0.1765	
+—
+
+
+status-im/nimbus-eth2
+	—	—	0.8262	
+—
+	—	0.1338	
+—
+
+
+vyperlang/titanoboa
+	—	—	0.7708	
+—
+	—	0.2292	
+—
+
+
+vyperlang/vyper
+	—	—	0.7651	
+—
+	—	0.1774	
+—
+
+
+wevm/viem
+	—	—	0.8115	
+—
+	—	0.1885	
+—
+
+
+argotorg/hevm
+	—	—	0.7725	
+—
+	—	0.1961	
+—
+
+
+ethdebug/format
+	—	—	0.7305	
+—
+	—	0.2314	
+—
+
+
+argotorg/act
+	—	—	0.7896	
+—
+	—	0.2103	
+—
+
+
+ethpandaops/ethereum-package
+	—	—	0.6294	
+—
+	—	0.1892	
+—
+
+
+ethpandaops/ethereum-helm-charts
+	—	—	0.6373	
+—
+	—	0.3627	
+—
+
+
+ethpandaops/checkpointz
+	—	—	0.5436	
+—
+	—	0.3730	
+—
+
+
+lambdaclass/lambda_ethereum_consensus
+	—	—	0.7484	
+—
+	—	0.2437	
+—
+
+
+erigontech/silkworm
+	—	—	0.7474	
+—
+	—	0.2236	
+—
+
+Trading one market at a time?
+
+Seer has the individual market view, liquidity provision and full analytics.
+
+Browse on Seer

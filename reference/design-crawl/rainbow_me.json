@@ -1,0 +1,43 @@
+{
+ "site": "rainbow.me",
+ "pageHeight": 7524,
+ "title": "Rainbow | Trade Any Market from Your Phone",
+ "h1": "",
+ "h1Style": null,
+ "bodyBg": "rgb(17, 17, 17)",
+ "bodyFont": "\"SF Rounded Web\"",
+ "bodySize": "20px",
+ "navLinks": [],
+ "ctas": [
+  "Download"
+ ],
+ "heads": [
+  "The easiest way to trade Nvidia Coinbase from your phone The easiest way to trade any financial market from your phone",
+  "Trade crypto, stocks, championships, commodities, meme coins, and world events any hour of any day.",
+  "Crypto",
+  "Crypto, minus the hard stuff. Buy Bitcoin or the meme coin your group chat found. Your keys. Your crypto.",
+  "Predictions",
+  "You've seen Polymarket in the news. Now trade it from your pocket — sports, elections, rate cuts, and everything in between.",
+  "Perps",
+  "Trade bigger than your balance. Up to 50x leverage on Bitcoin, the S&P 500, Gold, and Oil — long or short. Powered by Hyperliquid.",
+  "Live Data",
+  "Real-time prices. Pro-level charts. Everything you need to find and execute your trade, without switching to another app or website.",
+  "Earn Rewards",
+  "Every trade earns you $RNBW. Upgrade to Rainbow Black for free instant deposits, bigger rewards, and up to 100% of your trading fees auto-co",
+  "One App",
+  "Every Market"
+ ],
+ "sections": 0,
+ "sticky": 2,
+ "sectionBgs": [
+  "rgb(17, 17, 17)"
+ ],
+ "fonts": [
+  "SF Rounded Web",
+  "Arial"
+ ],
+ "libs": [
+  "canvas:1"
+ ],
+ "footerLinks": []
+}

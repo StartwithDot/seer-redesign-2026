@@ -1,0 +1,8 @@
+{
+ "_endpoint": "GET https://app.seer.pm/.netlify/functions/market-comments?market_id=0x31cb54c49479243333594eb7343d31f6bd1ddfd3&chain_id=100",
+ "_hits": 195,
+ "_complete_json": true,
+ "data": {
+  "data": []
+ }
+}

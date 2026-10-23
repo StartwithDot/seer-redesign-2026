@@ -1,0 +1,85 @@
+Futarchy
+Gnosis
+👾
+0x00…dEaD
+What will the impact on GNO price be if GIP-152 is passed?
+Trading Pair
+GNO/sDAI
+Yes Price
+84.77 sDAI
+No Price
+84.77 sDAI
+Status
+Awaiting Resolution
+Impact (spot)
+0.00%
+	
+	
+
+	
+	
+Recent Activity
+My Trades
+Position
+Last 30 trades
+Last 60 trades
+Last 90 trades
+No trades found for this proposal
+If Yes
+If No
+Buy
+Sell
+Amount (sDAI)
+Max
+Available
+-
+Outcomes
+If Yes
+Quote returned no output for this amount
+Receive
+If No
+1.00 sDAI
+Recover
+Insufficient balance
+Your view on GIP-152
+	If YES	If NO
+Bullish	BUY	SELL
+Bearish	SELL	BUY
+Balance
+sDAI
+0 sDAI
+mergeable
+YES 0 · NO 0
+Wallet:
+0 sDAI
+GNO
+0 GNO
+mergeable
+YES 0 · NO 0
+Wallet:
+0.0004 GNO
+Split Collateral
+Merge Collateral
+Merge Collateral
+sDAI
+GNO
+Connected Wallet
+0x0000...dEaD
+Max
+sDAI Available
+0 sDAI
+BUY sDAI
+xDAI Balance
+24.689107 xDAI
+Max Approval
+
+Will request exact allowance for this transaction.
+
+Collateral Information
+
+Only deposit funds you intend to use for interactions within this proposal. Your collateral remains yours and can be retrieved at any time when not actively used in ongoing trades.
+
+Merge Collateral
+Futarchy
+Market-based evaluation of governance decisions and milestones
+Social

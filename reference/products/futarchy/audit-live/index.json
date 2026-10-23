@@ -1,0 +1,2565 @@
+{
+ "startUrl": "https://futarchy.seer.pm",
+ "states": [
+  {
+   "id": "001",
+   "vp": "desktop",
+   "label": "/",
+   "trigger": "page load",
+   "url": "https://futarchy.seer.pm/",
+   "title": "Futarchy - Markets Know Better Than Experts",
+   "shots": [
+    "001-desktop--s0.png",
+    "001-desktop--s1.png",
+    "001-desktop--s2.png"
+   ],
+   "text": "001-desktop-.txt",
+   "dom": "001-desktop-.json",
+   "interactive": 21,
+   "charts": 0,
+   "tables": 1,
+   "dialogs": 0
+  },
+  {
+   "id": "002",
+   "vp": "desktop",
+   "label": "Switch to dark mode",
+   "trigger": "click: button \"Switch to dark mode\" on /",
+   "url": "https://futarchy.seer.pm/",
+   "title": "Futarchy - Markets Know Better Than Experts",
+   "shots": [
+    "002-desktop-Switch-to-dark-mode-s0.png",
+    "002-desktop-Switch-to-dark-mode-s1.png",
+    "002-desktop-Switch-to-dark-mode-s2.png"
+   ],
+   "text": "002-desktop-Switch-to-dark-mode.txt",
+   "dom": "002-desktop-Switch-to-dark-mode.json",
+   "interactive": 22,
+   "charts": 0,
+   "tables": 1,
+   "dialogs": 0
+  },
+  {
+   "id": "003",
+   "vp": "desktop",
+   "label": "Chain Selector",
+   "trigger": "click: button \"Chain Selector\" on /",
+   "url": "https://futarchy.seer.pm/",
+   "title": "Futarchy - Markets Know Better Than Experts",
+   "shots": [
+    "003-desktop-Chain-Selector-s0.png",
+    "003-desktop-Chain-Selector-s1.png",
+    "003-desktop-Chain-Selector-s2.png"
+   ],
+   "text": "003-desktop-Chain-Selector.txt",
+   "dom": "003-desktop-Chain-Selector.json",
+   "interactive": 25,
+   "charts": 0,
+   "tables": 1,
+   "dialogs": 1
+  },
+  {
+   "id": "004",
+   "vp": "desktop",
+   "label": "👾 0x00…dEaD",
+   "trigger": "click: button \"👾 0x00…dEaD\" on /",
+   "url": "https://futarchy.seer.pm/",
+   "title": "Futarchy - Markets Know Better Than Experts",
+   "shots": [
+    "004-desktop-0x00-dEaD-s0.png",
+    "004-desktop-0x00-dEaD-s1.png",
+    "004-desktop-0x00-dEaD-s2.png"
+   ],
+   "text": "004-desktop-0x00-dEaD.txt",
+   "dom": "004-desktop-0x00-dEaD.json",
+   "interactive": 26,
+   "charts": 0,
+   "tables": 1,
+   "dialogs": 1
+  },
+  {
+   "id": "005",
+   "vp": "desktop",
+   "label": "search e",
+   "trigger": "type \"e\" into search on /",
+   "url": "https://futarchy.seer.pm/",
+   "title": "Futarchy - Markets Know Better Than Experts",
+   "shots": [
+    "005-desktop-search-e-s0.png",
+    "005-desktop-search-e-s1.png",
+    "005-desktop-search-e-s2.png"
+   ],
+   "text": "005-desktop-search-e.txt",
+   "dom": "005-desktop-search-e.json",
+   "interactive": 21,
+   "charts": 0,
+   "tables": 1,
+   "dialogs": 0
+  },
+  {
+   "id": "006",
+   "vp": "desktop",
+   "label": "/",
+   "trigger": "page load",
+   "url": "https://futarchy.seer.pm/",
+   "title": "Futarchy - Markets Know Better Than Experts",
+   "shots": [
+    "006-desktop--s0.png",
+    "006-desktop--s1.png",
+    "006-desktop--s2.png"
+   ],
+   "text": "006-desktop-.txt",
+   "dom": "006-desktop-.json",
+   "interactive": 22,
+   "charts": 0,
+   "tables": 1,
+   "dialogs": 0
+  },
+  {
+   "id": "007",
+   "vp": "desktop",
+   "label": "Chain Selector",
+   "trigger": "click: button \"Chain Selector\" on /",
+   "url": "https://futarchy.seer.pm/",
+   "title": "Futarchy - Markets Know Better Than Experts",
+   "shots": [
+    "007-desktop-Chain-Selector-s0.png",
+    "007-desktop-Chain-Selector-s1.png",
+    "007-desktop-Chain-Selector-s2.png"
+   ],
+   "text": "007-desktop-Chain-Selector.txt",
+   "dom": "007-desktop-Chain-Selector.json",
+   "interactive": 25,
+   "charts": 0,
+   "tables": 1,
+   "dialogs": 1
+  },
+  {
+   "id": "008",
+   "vp": "desktop",
+   "label": "👾 0x00…dEaD",
+   "trigger": "click: button \"👾 0x00…dEaD\" on /",
+   "url": "https://futarchy.seer.pm/",
+   "title": "Futarchy - Markets Know Better Than Experts",
+   "shots": [
+    "008-desktop-0x00-dEaD-s0.png",
+    "008-desktop-0x00-dEaD-s1.png",
+    "008-desktop-0x00-dEaD-s2.png"
+   ],
+   "text": "008-desktop-0x00-dEaD.txt",
+   "dom": "008-desktop-0x00-dEaD.json",
+   "interactive": 26,
+   "charts": 0,
+   "tables": 1,
+   "dialogs": 1
+  },
+  {
+   "id": "009",
+   "vp": "desktop",
+   "label": "search e",
+   "trigger": "type \"e\" into search on /",
+   "url": "https://futarchy.seer.pm/",
+   "title": "Futarchy - Markets Know Better Than Experts",
+   "shots": [
+    "009-desktop-search-e-s0.png",
+    "009-desktop-search-e-s1.png",
+    "009-desktop-search-e-s2.png"
+   ],
+   "text": "009-desktop-search-e.txt",
+   "dom": "009-desktop-search-e.json",
+   "interactive": 21,
+   "charts": 0,
+   "tables": 1,
+   "dialogs": 0
+  },
+  {
+   "id": "010",
+   "vp": "desktop",
+   "label": "/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "trigger": "page load",
+   "url": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "title": "What will the impact on GNO price be if GIP-152 is passed? | Futarchy",
+   "shots": [
+    "010-desktop-markets-0xee8878d0a7136c5cd109554f06bb780e225badef-s0.png",
+    "010-desktop-markets-0xee8878d0a7136c5cd109554f06bb780e225badef-s1.png"
+   ],
+   "text": "010-desktop-markets-0xee8878d0a7136c5cd109554f06bb780e225badef.txt",
+   "dom": "010-desktop-markets-0xee8878d0a7136c5cd109554f06bb780e225badef.json",
+   "interactive": 27,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "011",
+   "vp": "desktop",
+   "label": "Chain Selector",
+   "trigger": "click: button \"Chain Selector\" on /markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "url": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "title": "What will the impact on GNO price be if GIP-152 is passed? | Futarchy",
+   "shots": [
+    "011-desktop-Chain-Selector-s0.png",
+    "011-desktop-Chain-Selector-s1.png"
+   ],
+   "text": "011-desktop-Chain-Selector.txt",
+   "dom": "011-desktop-Chain-Selector.json",
+   "interactive": 30,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 1
+  },
+  {
+   "id": "012",
+   "vp": "desktop",
+   "label": "👾 0x00…dEaD",
+   "trigger": "click: button \"👾 0x00…dEaD\" on /markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "url": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "title": "What will the impact on GNO price be if GIP-152 is passed? | Futarchy",
+   "shots": [
+    "012-desktop-0x00-dEaD-s0.png",
+    "012-desktop-0x00-dEaD-s1.png"
+   ],
+   "text": "012-desktop-0x00-dEaD.txt",
+   "dom": "012-desktop-0x00-dEaD.json",
+   "interactive": 31,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 1
+  },
+  {
+   "id": "013",
+   "vp": "desktop",
+   "label": "Add Liquidity",
+   "trigger": "click: button \"Add Liquidity\" on /markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "url": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "title": "What will the impact on GNO price be if GIP-152 is passed? | Futarchy",
+   "shots": [
+    "013-desktop-Add-Liquidity-s0.png",
+    "013-desktop-Add-Liquidity-s1.png"
+   ],
+   "text": "013-desktop-Add-Liquidity.txt",
+   "dom": "013-desktop-Add-Liquidity.json",
+   "interactive": 34,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "014",
+   "vp": "desktop",
+   "label": "Recent Activity",
+   "trigger": "click: button \"Recent Activity\" on /markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "url": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "title": "What will the impact on GNO price be if GIP-152 is passed? | Futarchy",
+   "shots": [
+    "014-desktop-Recent-Activity-s0.png",
+    "014-desktop-Recent-Activity-s1.png"
+   ],
+   "text": "014-desktop-Recent-Activity.txt",
+   "dom": "014-desktop-Recent-Activity.json",
+   "interactive": 23,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "015",
+   "vp": "desktop",
+   "label": "Position",
+   "trigger": "click: button \"Position\" on /markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "url": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "title": "What will the impact on GNO price be if GIP-152 is passed? | Futarchy",
+   "shots": [
+    "015-desktop-Position-s0.png",
+    "015-desktop-Position-s1.png"
+   ],
+   "text": "015-desktop-Position.txt",
+   "dom": "015-desktop-Position.json",
+   "interactive": 22,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "016",
+   "vp": "desktop",
+   "label": "Position hover chart",
+   "trigger": "hover chart",
+   "url": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "title": "What will the impact on GNO price be if GIP-152 is passed? | Futarchy",
+   "shots": [
+    "016-desktop-Position-hover-chart-s0.png",
+    "016-desktop-Position-hover-chart-s1.png"
+   ],
+   "text": "016-desktop-Position-hover-chart.txt",
+   "dom": "016-desktop-Position-hover-chart.json",
+   "interactive": 26,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "017",
+   "vp": "desktop",
+   "label": "If No",
+   "trigger": "click: button \"If No\" on /markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "url": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "title": "What will the impact on GNO price be if GIP-152 is passed? | Futarchy",
+   "shots": [
+    "017-desktop-If-No-s0.png",
+    "017-desktop-If-No-s1.png"
+   ],
+   "text": "017-desktop-If-No.txt",
+   "dom": "017-desktop-If-No.json",
+   "interactive": 27,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "018",
+   "vp": "desktop",
+   "label": "If No hover chart",
+   "trigger": "hover chart",
+   "url": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "title": "What will the impact on GNO price be if GIP-152 is passed? | Futarchy",
+   "shots": [
+    "018-desktop-If-No-hover-chart-s0.png",
+    "018-desktop-If-No-hover-chart-s1.png"
+   ],
+   "text": "018-desktop-If-No-hover-chart.txt",
+   "dom": "018-desktop-If-No-hover-chart.json",
+   "interactive": 27,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "019",
+   "vp": "desktop",
+   "label": "Max",
+   "trigger": "click: button \"Max\" on /markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "url": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "title": "What will the impact on GNO price be if GIP-152 is passed? | Futarchy",
+   "shots": [
+    "019-desktop-Max-s0.png",
+    "019-desktop-Max-s1.png"
+   ],
+   "text": "019-desktop-Max.txt",
+   "dom": "019-desktop-Max.json",
+   "interactive": 27,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "020",
+   "vp": "desktop",
+   "label": "Split Collateral",
+   "trigger": "click: button \"Split Collateral\" on /markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "url": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "title": "What will the impact on GNO price be if GIP-152 is passed? | Futarchy",
+   "shots": [
+    "020-desktop-Split-Collateral-s0.png",
+    "020-desktop-Split-Collateral-s1.png"
+   ],
+   "text": "020-desktop-Split-Collateral.txt",
+   "dom": "020-desktop-Split-Collateral.json",
+   "interactive": 31,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "021",
+   "vp": "desktop",
+   "label": "Split Collateral hover chart",
+   "trigger": "hover chart",
+   "url": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "title": "What will the impact on GNO price be if GIP-152 is passed? | Futarchy",
+   "shots": [
+    "021-desktop-Split-Collateral-hover-chart-s0.png",
+    "021-desktop-Split-Collateral-hover-chart-s1.png"
+   ],
+   "text": "021-desktop-Split-Collateral-hover-chart.txt",
+   "dom": "021-desktop-Split-Collateral-hover-chart.json",
+   "interactive": 35,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "022",
+   "vp": "desktop",
+   "label": "Merge Collateral",
+   "trigger": "click: button \"Merge Collateral\" on /markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "url": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "title": "What will the impact on GNO price be if GIP-152 is passed? | Futarchy",
+   "shots": [
+    "022-desktop-Merge-Collateral-s0.png",
+    "022-desktop-Merge-Collateral-s1.png"
+   ],
+   "text": "022-desktop-Merge-Collateral.txt",
+   "dom": "022-desktop-Merge-Collateral.json",
+   "interactive": 31,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "023",
+   "vp": "desktop",
+   "label": "Merge Collateral hover chart",
+   "trigger": "hover chart",
+   "url": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "title": "What will the impact on GNO price be if GIP-152 is passed? | Futarchy",
+   "shots": [
+    "023-desktop-Merge-Collateral-hover-chart-s0.png",
+    "023-desktop-Merge-Collateral-hover-chart-s1.png"
+   ],
+   "text": "023-desktop-Merge-Collateral-hover-chart.txt",
+   "dom": "023-desktop-Merge-Collateral-hover-chart.json",
+   "interactive": 35,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "024",
+   "vp": "desktop",
+   "label": "/markets/0x84412fe9d088c1d8dd676a7be9a3d5d0291ab1cf",
+   "trigger": "page load",
+   "url": "https://futarchy.seer.pm/markets/0x84412fe9d088c1d8dd676a7be9a3d5d0291ab1cf",
+   "title": "What will the impact on PNK price be if KIP-90 is approved? | Futarchy",
+   "shots": [
+    "024-desktop-markets-0x84412fe9d088c1d8dd676a7be9a3d5d0291ab1cf-s0.png",
+    "024-desktop-markets-0x84412fe9d088c1d8dd676a7be9a3d5d0291ab1cf-s1.png"
+   ],
+   "text": "024-desktop-markets-0x84412fe9d088c1d8dd676a7be9a3d5d0291ab1cf.txt",
+   "dom": "024-desktop-markets-0x84412fe9d088c1d8dd676a7be9a3d5d0291ab1cf.json",
+   "interactive": 26,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "025",
+   "vp": "desktop",
+   "label": "Switch to light mode",
+   "trigger": "click: button \"Switch to light mode\" on /markets/0x84412fe9d088c1d8dd676a7be9a3d5d0291ab1cf",
+   "url": "https://futarchy.seer.pm/markets/0x84412fe9d088c1d8dd676a7be9a3d5d0291ab1cf",
+   "title": "What will the impact on PNK price be if KIP-90 is approved? | Futarchy",
+   "shots": [
+    "025-desktop-Switch-to-light-mode-s0.png",
+    "025-desktop-Switch-to-light-mode-s1.png"
+   ],
+   "text": "025-desktop-Switch-to-light-mode.txt",
+   "dom": "025-desktop-Switch-to-light-mode.json",
+   "interactive": 26,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "026",
+   "vp": "desktop",
+   "label": "Chain Selector",
+   "trigger": "click: button \"Chain Selector\" on /markets/0x84412fe9d088c1d8dd676a7be9a3d5d0291ab1cf",
+   "url": "https://futarchy.seer.pm/markets/0x84412fe9d088c1d8dd676a7be9a3d5d0291ab1cf",
+   "title": "What will the impact on PNK price be if KIP-90 is approved? | Futarchy",
+   "shots": [
+    "026-desktop-Chain-Selector-s0.png",
+    "026-desktop-Chain-Selector-s1.png"
+   ],
+   "text": "026-desktop-Chain-Selector.txt",
+   "dom": "026-desktop-Chain-Selector.json",
+   "interactive": 29,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 1
+  },
+  {
+   "id": "027",
+   "vp": "desktop",
+   "label": "👾 0x00…dEaD",
+   "trigger": "click: button \"👾 0x00…dEaD\" on /markets/0x84412fe9d088c1d8dd676a7be9a3d5d0291ab1cf",
+   "url": "https://futarchy.seer.pm/markets/0x84412fe9d088c1d8dd676a7be9a3d5d0291ab1cf",
+   "title": "What will the impact on PNK price be if KIP-90 is approved? | Futarchy",
+   "shots": [
+    "027-desktop-0x00-dEaD-s0.png",
+    "027-desktop-0x00-dEaD-s1.png"
+   ],
+   "text": "027-desktop-0x00-dEaD.txt",
+   "dom": "027-desktop-0x00-dEaD.json",
+   "interactive": 30,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 1
+  },
+  {
+   "id": "028",
+   "vp": "desktop",
+   "label": "Add Liquidity",
+   "trigger": "click: button \"Add Liquidity\" on /markets/0x84412fe9d088c1d8dd676a7be9a3d5d0291ab1cf",
+   "url": "https://futarchy.seer.pm/markets/0x84412fe9d088c1d8dd676a7be9a3d5d0291ab1cf",
+   "title": "What will the impact on PNK price be if KIP-90 is approved? | Futarchy",
+   "shots": [
+    "028-desktop-Add-Liquidity-s0.png",
+    "028-desktop-Add-Liquidity-s1.png"
+   ],
+   "text": "028-desktop-Add-Liquidity.txt",
+   "dom": "028-desktop-Add-Liquidity.json",
+   "interactive": 33,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "029",
+   "vp": "desktop",
+   "label": "TWAP Complete (TWAP impact -0.98%)",
+   "trigger": "click: button \"TWAP Complete (TWAP impact -0.98%)\" on /markets/0x84412fe9d088c1d8dd676a7be9a3d5d0291ab1cf",
+   "url": "https://futarchy.seer.pm/markets/0x84412fe9d088c1d8dd676a7be9a3d5d0291ab1cf",
+   "title": "What will the impact on PNK price be if KIP-90 is approved? | Futarchy",
+   "shots": [
+    "029-desktop-TWAP-Complete-TWAP-impact-0-98-s0.png",
+    "029-desktop-TWAP-Complete-TWAP-impact-0-98-s1.png",
+    "029-desktop-TWAP-Complete-TWAP-impact-0-98-s2.png"
+   ],
+   "text": "029-desktop-TWAP-Complete-TWAP-impact-0-98.txt",
+   "dom": "029-desktop-TWAP-Complete-TWAP-impact-0-98.json",
+   "interactive": 26,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "030",
+   "vp": "desktop",
+   "label": "Split Collateral",
+   "trigger": "click: button \"Split Collateral\" on /markets/0x84412fe9d088c1d8dd676a7be9a3d5d0291ab1cf",
+   "url": "https://futarchy.seer.pm/markets/0x84412fe9d088c1d8dd676a7be9a3d5d0291ab1cf",
+   "title": "What will the impact on PNK price be if KIP-90 is approved? | Futarchy",
+   "shots": [
+    "030-desktop-Split-Collateral-s0.png",
+    "030-desktop-Split-Collateral-s1.png"
+   ],
+   "text": "030-desktop-Split-Collateral.txt",
+   "dom": "030-desktop-Split-Collateral.json",
+   "interactive": 30,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "031",
+   "vp": "desktop",
+   "label": "Split Collateral hover chart",
+   "trigger": "hover chart",
+   "url": "https://futarchy.seer.pm/markets/0x84412fe9d088c1d8dd676a7be9a3d5d0291ab1cf",
+   "title": "What will the impact on PNK price be if KIP-90 is approved? | Futarchy",
+   "shots": [
+    "031-desktop-Split-Collateral-hover-chart-s0.png",
+    "031-desktop-Split-Collateral-hover-chart-s1.png"
+   ],
+   "text": "031-desktop-Split-Collateral-hover-chart.txt",
+   "dom": "031-desktop-Split-Collateral-hover-chart.json",
+   "interactive": 34,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "032",
+   "vp": "desktop",
+   "label": "Merge Collateral",
+   "trigger": "click: button \"Merge Collateral\" on /markets/0x84412fe9d088c1d8dd676a7be9a3d5d0291ab1cf",
+   "url": "https://futarchy.seer.pm/markets/0x84412fe9d088c1d8dd676a7be9a3d5d0291ab1cf",
+   "title": "What will the impact on PNK price be if KIP-90 is approved? | Futarchy",
+   "shots": [
+    "032-desktop-Merge-Collateral-s0.png",
+    "032-desktop-Merge-Collateral-s1.png"
+   ],
+   "text": "032-desktop-Merge-Collateral.txt",
+   "dom": "032-desktop-Merge-Collateral.json",
+   "interactive": 30,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "033",
+   "vp": "desktop",
+   "label": "Merge Collateral hover chart",
+   "trigger": "hover chart",
+   "url": "https://futarchy.seer.pm/markets/0x84412fe9d088c1d8dd676a7be9a3d5d0291ab1cf",
+   "title": "What will the impact on PNK price be if KIP-90 is approved? | Futarchy",
+   "shots": [
+    "033-desktop-Merge-Collateral-hover-chart-s0.png",
+    "033-desktop-Merge-Collateral-hover-chart-s1.png"
+   ],
+   "text": "033-desktop-Merge-Collateral-hover-chart.txt",
+   "dom": "033-desktop-Merge-Collateral-hover-chart.json",
+   "interactive": 34,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "034",
+   "vp": "desktop",
+   "label": "/markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "trigger": "page load",
+   "url": "https://futarchy.seer.pm/markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "title": "What will the impact on GNO price be if GIP-151 is passed? | Futarchy",
+   "shots": [
+    "034-desktop-markets-0xece80208cb8376be311ce0f5ea4ef73850a0dcf0-s0.png",
+    "034-desktop-markets-0xece80208cb8376be311ce0f5ea4ef73850a0dcf0-s1.png"
+   ],
+   "text": "034-desktop-markets-0xece80208cb8376be311ce0f5ea4ef73850a0dcf0.txt",
+   "dom": "034-desktop-markets-0xece80208cb8376be311ce0f5ea4ef73850a0dcf0.json",
+   "interactive": 27,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "035",
+   "vp": "desktop",
+   "label": "Switch to dark mode",
+   "trigger": "click: button \"Switch to dark mode\" on /markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "url": "https://futarchy.seer.pm/markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "title": "What will the impact on GNO price be if GIP-151 is passed? | Futarchy",
+   "shots": [
+    "035-desktop-Switch-to-dark-mode-s0.png",
+    "035-desktop-Switch-to-dark-mode-s1.png"
+   ],
+   "text": "035-desktop-Switch-to-dark-mode.txt",
+   "dom": "035-desktop-Switch-to-dark-mode.json",
+   "interactive": 27,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "036",
+   "vp": "desktop",
+   "label": "Chain Selector",
+   "trigger": "click: button \"Chain Selector\" on /markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "url": "https://futarchy.seer.pm/markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "title": "What will the impact on GNO price be if GIP-151 is passed? | Futarchy",
+   "shots": [
+    "036-desktop-Chain-Selector-s0.png",
+    "036-desktop-Chain-Selector-s1.png"
+   ],
+   "text": "036-desktop-Chain-Selector.txt",
+   "dom": "036-desktop-Chain-Selector.json",
+   "interactive": 30,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 1
+  },
+  {
+   "id": "037",
+   "vp": "desktop",
+   "label": "👾 0x00…dEaD",
+   "trigger": "click: button \"👾 0x00…dEaD\" on /markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "url": "https://futarchy.seer.pm/markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "title": "What will the impact on GNO price be if GIP-151 is passed? | Futarchy",
+   "shots": [
+    "037-desktop-0x00-dEaD-s0.png",
+    "037-desktop-0x00-dEaD-s1.png"
+   ],
+   "text": "037-desktop-0x00-dEaD.txt",
+   "dom": "037-desktop-0x00-dEaD.json",
+   "interactive": 31,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 1
+  },
+  {
+   "id": "038",
+   "vp": "desktop",
+   "label": "Add Liquidity",
+   "trigger": "click: button \"Add Liquidity\" on /markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "url": "https://futarchy.seer.pm/markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "title": "What will the impact on GNO price be if GIP-151 is passed? | Futarchy",
+   "shots": [
+    "038-desktop-Add-Liquidity-s0.png",
+    "038-desktop-Add-Liquidity-s1.png"
+   ],
+   "text": "038-desktop-Add-Liquidity.txt",
+   "dom": "038-desktop-Add-Liquidity.json",
+   "interactive": 34,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "039",
+   "vp": "desktop",
+   "label": "TWAP Complete (TWAP impact +0.01%)",
+   "trigger": "click: button \"TWAP Complete (TWAP impact +0.01%)\" on /markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "url": "https://futarchy.seer.pm/markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "title": "What will the impact on GNO price be if GIP-151 is passed? | Futarchy",
+   "shots": [
+    "039-desktop-TWAP-Complete-TWAP-impact-0-01-s0.png",
+    "039-desktop-TWAP-Complete-TWAP-impact-0-01-s1.png",
+    "039-desktop-TWAP-Complete-TWAP-impact-0-01-s2.png"
+   ],
+   "text": "039-desktop-TWAP-Complete-TWAP-impact-0-01.txt",
+   "dom": "039-desktop-TWAP-Complete-TWAP-impact-0-01.json",
+   "interactive": 27,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "040",
+   "vp": "desktop",
+   "label": "Split Collateral",
+   "trigger": "click: button \"Split Collateral\" on /markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "url": "https://futarchy.seer.pm/markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "title": "What will the impact on GNO price be if GIP-151 is passed? | Futarchy",
+   "shots": [
+    "040-desktop-Split-Collateral-s0.png",
+    "040-desktop-Split-Collateral-s1.png"
+   ],
+   "text": "040-desktop-Split-Collateral.txt",
+   "dom": "040-desktop-Split-Collateral.json",
+   "interactive": 31,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "041",
+   "vp": "desktop",
+   "label": "Split Collateral hover chart",
+   "trigger": "hover chart",
+   "url": "https://futarchy.seer.pm/markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "title": "What will the impact on GNO price be if GIP-151 is passed? | Futarchy",
+   "shots": [
+    "041-desktop-Split-Collateral-hover-chart-s0.png",
+    "041-desktop-Split-Collateral-hover-chart-s1.png"
+   ],
+   "text": "041-desktop-Split-Collateral-hover-chart.txt",
+   "dom": "041-desktop-Split-Collateral-hover-chart.json",
+   "interactive": 35,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "042",
+   "vp": "desktop",
+   "label": "Merge Collateral",
+   "trigger": "click: button \"Merge Collateral\" on /markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "url": "https://futarchy.seer.pm/markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "title": "What will the impact on GNO price be if GIP-151 is passed? | Futarchy",
+   "shots": [
+    "042-desktop-Merge-Collateral-s0.png",
+    "042-desktop-Merge-Collateral-s1.png"
+   ],
+   "text": "042-desktop-Merge-Collateral.txt",
+   "dom": "042-desktop-Merge-Collateral.json",
+   "interactive": 31,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "043",
+   "vp": "desktop",
+   "label": "Merge Collateral hover chart",
+   "trigger": "hover chart",
+   "url": "https://futarchy.seer.pm/markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "title": "What will the impact on GNO price be if GIP-151 is passed? | Futarchy",
+   "shots": [
+    "043-desktop-Merge-Collateral-hover-chart-s0.png",
+    "043-desktop-Merge-Collateral-hover-chart-s1.png"
+   ],
+   "text": "043-desktop-Merge-Collateral-hover-chart.txt",
+   "dom": "043-desktop-Merge-Collateral-hover-chart.json",
+   "interactive": 35,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "044",
+   "vp": "desktop",
+   "label": "/markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "trigger": "page load",
+   "url": "https://futarchy.seer.pm/markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "title": "What will the impact on PNK price be if KIP-88 is approved? | Futarchy",
+   "shots": [
+    "044-desktop-markets-0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31-s0.png",
+    "044-desktop-markets-0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31-s1.png"
+   ],
+   "text": "044-desktop-markets-0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31.txt",
+   "dom": "044-desktop-markets-0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31.json",
+   "interactive": 26,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "045",
+   "vp": "desktop",
+   "label": "Switch to light mode",
+   "trigger": "click: button \"Switch to light mode\" on /markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "url": "https://futarchy.seer.pm/markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "title": "What will the impact on PNK price be if KIP-88 is approved? | Futarchy",
+   "shots": [
+    "045-desktop-Switch-to-light-mode-s0.png",
+    "045-desktop-Switch-to-light-mode-s1.png"
+   ],
+   "text": "045-desktop-Switch-to-light-mode.txt",
+   "dom": "045-desktop-Switch-to-light-mode.json",
+   "interactive": 26,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "046",
+   "vp": "desktop",
+   "label": "Chain Selector",
+   "trigger": "click: button \"Chain Selector\" on /markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "url": "https://futarchy.seer.pm/markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "title": "What will the impact on PNK price be if KIP-88 is approved? | Futarchy",
+   "shots": [
+    "046-desktop-Chain-Selector-s0.png",
+    "046-desktop-Chain-Selector-s1.png"
+   ],
+   "text": "046-desktop-Chain-Selector.txt",
+   "dom": "046-desktop-Chain-Selector.json",
+   "interactive": 29,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 1
+  },
+  {
+   "id": "047",
+   "vp": "desktop",
+   "label": "👾 0x00…dEaD",
+   "trigger": "click: button \"👾 0x00…dEaD\" on /markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "url": "https://futarchy.seer.pm/markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "title": "What will the impact on PNK price be if KIP-88 is approved? | Futarchy",
+   "shots": [
+    "047-desktop-0x00-dEaD-s0.png",
+    "047-desktop-0x00-dEaD-s1.png"
+   ],
+   "text": "047-desktop-0x00-dEaD.txt",
+   "dom": "047-desktop-0x00-dEaD.json",
+   "interactive": 30,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 1
+  },
+  {
+   "id": "048",
+   "vp": "desktop",
+   "label": "Add Liquidity",
+   "trigger": "click: button \"Add Liquidity\" on /markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "url": "https://futarchy.seer.pm/markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "title": "What will the impact on PNK price be if KIP-88 is approved? | Futarchy",
+   "shots": [
+    "048-desktop-Add-Liquidity-s0.png",
+    "048-desktop-Add-Liquidity-s1.png"
+   ],
+   "text": "048-desktop-Add-Liquidity.txt",
+   "dom": "048-desktop-Add-Liquidity.json",
+   "interactive": 33,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "049",
+   "vp": "desktop",
+   "label": "TWAP Complete (TWAP impact +2.23%)",
+   "trigger": "click: button \"TWAP Complete (TWAP impact +2.23%)\" on /markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "url": "https://futarchy.seer.pm/markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "title": "What will the impact on PNK price be if KIP-88 is approved? | Futarchy",
+   "shots": [
+    "049-desktop-TWAP-Complete-TWAP-impact-2-23-s0.png",
+    "049-desktop-TWAP-Complete-TWAP-impact-2-23-s1.png",
+    "049-desktop-TWAP-Complete-TWAP-impact-2-23-s2.png"
+   ],
+   "text": "049-desktop-TWAP-Complete-TWAP-impact-2-23.txt",
+   "dom": "049-desktop-TWAP-Complete-TWAP-impact-2-23.json",
+   "interactive": 26,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "051",
+   "vp": "desktop",
+   "label": "Merge Collateral",
+   "trigger": "click: button \"Merge Collateral\" on /markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "url": "https://futarchy.seer.pm/markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "title": "What will the impact on PNK price be if KIP-88 is approved? | Futarchy",
+   "shots": [
+    "051-desktop-Merge-Collateral-s0.png",
+    "051-desktop-Merge-Collateral-s1.png"
+   ],
+   "text": "051-desktop-Merge-Collateral.txt",
+   "dom": "051-desktop-Merge-Collateral.json",
+   "interactive": 30,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "052",
+   "vp": "desktop",
+   "label": "Merge Collateral hover chart",
+   "trigger": "hover chart",
+   "url": "https://futarchy.seer.pm/markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "title": "What will the impact on PNK price be if KIP-88 is approved? | Futarchy",
+   "shots": [
+    "052-desktop-Merge-Collateral-hover-chart-s0.png",
+    "052-desktop-Merge-Collateral-hover-chart-s1.png"
+   ],
+   "text": "052-desktop-Merge-Collateral-hover-chart.txt",
+   "dom": "052-desktop-Merge-Collateral-hover-chart.json",
+   "interactive": 34,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "053",
+   "vp": "mobile",
+   "label": "/",
+   "trigger": "page load",
+   "url": "https://futarchy.seer.pm/",
+   "title": "Futarchy - Markets Know Better Than Experts",
+   "shots": [
+    "053-mobile--s0.png",
+    "053-mobile--s1.png",
+    "053-mobile--s2.png"
+   ],
+   "text": "053-mobile-.txt",
+   "dom": "053-mobile-.json",
+   "interactive": 23,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "054",
+   "vp": "mobile",
+   "label": "Switch to light mode",
+   "trigger": "click: button \"Switch to light mode\" on /",
+   "url": "https://futarchy.seer.pm/",
+   "title": "Futarchy - Markets Know Better Than Experts",
+   "shots": [
+    "054-mobile-Switch-to-light-mode-s0.png",
+    "054-mobile-Switch-to-light-mode-s1.png"
+   ],
+   "text": "054-mobile-Switch-to-light-mode.txt",
+   "dom": "054-mobile-Switch-to-light-mode.json",
+   "interactive": 12,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "055",
+   "vp": "mobile",
+   "label": "/markets/0x0d78b95fca9f3e1b588271a330b0d6f731ec38aa",
+   "trigger": "page load",
+   "url": "https://futarchy.seer.pm/markets/0x0d78b95fca9f3e1b588271a330b0d6f731ec38aa",
+   "title": "What will the impact on ETH price be if EIP-8363 is Scheduled for Inclusion in Hegotá? | Futarchy",
+   "shots": [
+    "055-mobile-markets-0x0d78b95fca9f3e1b588271a330b0d6f731ec38aa-s0.png",
+    "055-mobile-markets-0x0d78b95fca9f3e1b588271a330b0d6f731ec38aa-s1.png",
+    "055-mobile-markets-0x0d78b95fca9f3e1b588271a330b0d6f731ec38aa-s2.png",
+    "055-mobile-markets-0x0d78b95fca9f3e1b588271a330b0d6f731ec38aa-s3.png",
+    "055-mobile-markets-0x0d78b95fca9f3e1b588271a330b0d6f731ec38aa-s4.png",
+    "055-mobile-markets-0x0d78b95fca9f3e1b588271a330b0d6f731ec38aa-s5.png"
+   ],
+   "text": "055-mobile-markets-0x0d78b95fca9f3e1b588271a330b0d6f731ec38aa.txt",
+   "dom": "055-mobile-markets-0x0d78b95fca9f3e1b588271a330b0d6f731ec38aa.json",
+   "interactive": 28,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "056",
+   "vp": "mobile",
+   "label": "Switch to Ethereum",
+   "trigger": "click: button \"Switch to Ethereum\" on /markets/0x0d78b95fca9f3e1b588271a330b0d6f731ec38aa",
+   "url": "https://futarchy.seer.pm/markets/0x0d78b95fca9f3e1b588271a330b0d6f731ec38aa",
+   "title": "What will the impact on ETH price be if EIP-8363 is Scheduled for Inclusion in Hegotá? | Futarchy",
+   "shots": [
+    "056-mobile-Switch-to-Ethereum-s0.png",
+    "056-mobile-Switch-to-Ethereum-s1.png",
+    "056-mobile-Switch-to-Ethereum-s2.png",
+    "056-mobile-Switch-to-Ethereum-s3.png",
+    "056-mobile-Switch-to-Ethereum-s4.png",
+    "056-mobile-Switch-to-Ethereum-s5.png"
+   ],
+   "text": "056-mobile-Switch-to-Ethereum.txt",
+   "dom": "056-mobile-Switch-to-Ethereum.json",
+   "interactive": 28,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "057",
+   "vp": "mobile",
+   "label": "Go back to companies",
+   "trigger": "click: button \"Go back to companies\" on /markets/0x0d78b95fca9f3e1b588271a330b0d6f731ec38aa",
+   "url": "https://futarchy.seer.pm/companies",
+   "title": "Futarchy - Markets Know Better Than Experts",
+   "shots": [
+    "057-mobile-Go-back-to-companies-s0.png",
+    "057-mobile-Go-back-to-companies-s1.png"
+   ],
+   "text": "057-mobile-Go-back-to-companies.txt",
+   "dom": "057-mobile-Go-back-to-companies.json",
+   "interactive": 7,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "058",
+   "vp": "mobile",
+   "label": "/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "trigger": "page load",
+   "url": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "title": "What will the impact on GNO price be if GIP-152 is passed? | Futarchy",
+   "shots": [
+    "058-mobile-markets-0xee8878d0a7136c5cd109554f06bb780e225badef-s0.png",
+    "058-mobile-markets-0xee8878d0a7136c5cd109554f06bb780e225badef-s1.png",
+    "058-mobile-markets-0xee8878d0a7136c5cd109554f06bb780e225badef-s2.png",
+    "058-mobile-markets-0xee8878d0a7136c5cd109554f06bb780e225badef-s3.png"
+   ],
+   "text": "058-mobile-markets-0xee8878d0a7136c5cd109554f06bb780e225badef.txt",
+   "dom": "058-mobile-markets-0xee8878d0a7136c5cd109554f06bb780e225badef.json",
+   "interactive": 26,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "059",
+   "vp": "mobile",
+   "label": "Switch network",
+   "trigger": "click: button \"Switch network\" on /markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "url": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "title": "What will the impact on GNO price be if GIP-152 is passed? | Futarchy",
+   "shots": [
+    "059-mobile-Switch-network-s0.png",
+    "059-mobile-Switch-network-s1.png",
+    "059-mobile-Switch-network-s2.png",
+    "059-mobile-Switch-network-s3.png"
+   ],
+   "text": "059-mobile-Switch-network.txt",
+   "dom": "059-mobile-Switch-network.json",
+   "interactive": 29,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 1
+  },
+  {
+   "id": "060",
+   "vp": "mobile",
+   "label": "Add Liquidity",
+   "trigger": "click: button \"Add Liquidity\" on /markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "url": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "title": "What will the impact on GNO price be if GIP-152 is passed? | Futarchy",
+   "shots": [
+    "060-mobile-Add-Liquidity-s0.png",
+    "060-mobile-Add-Liquidity-s1.png",
+    "060-mobile-Add-Liquidity-s2.png",
+    "060-mobile-Add-Liquidity-s3.png"
+   ],
+   "text": "060-mobile-Add-Liquidity.txt",
+   "dom": "060-mobile-Add-Liquidity.json",
+   "interactive": 33,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "061",
+   "vp": "mobile",
+   "label": "Position",
+   "trigger": "click: button \"Position\" on /markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "url": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "title": "What will the impact on GNO price be if GIP-152 is passed? | Futarchy",
+   "shots": [
+    "061-mobile-Position-s0.png",
+    "061-mobile-Position-s1.png",
+    "061-mobile-Position-s2.png",
+    "061-mobile-Position-s3.png"
+   ],
+   "text": "061-mobile-Position.txt",
+   "dom": "061-mobile-Position.json",
+   "interactive": 25,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "062",
+   "vp": "mobile",
+   "label": "If No",
+   "trigger": "click: button \"If No\" on /markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "url": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "title": "What will the impact on GNO price be if GIP-152 is passed? | Futarchy",
+   "shots": [
+    "062-mobile-If-No-s0.png",
+    "062-mobile-If-No-s1.png",
+    "062-mobile-If-No-s2.png",
+    "062-mobile-If-No-s3.png"
+   ],
+   "text": "062-mobile-If-No.txt",
+   "dom": "062-mobile-If-No.json",
+   "interactive": 26,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "063",
+   "vp": "mobile",
+   "label": "If No hover chart",
+   "trigger": "hover chart",
+   "url": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "title": "What will the impact on GNO price be if GIP-152 is passed? | Futarchy",
+   "shots": [
+    "063-mobile-If-No-hover-chart-s0.png",
+    "063-mobile-If-No-hover-chart-s1.png",
+    "063-mobile-If-No-hover-chart-s2.png",
+    "063-mobile-If-No-hover-chart-s3.png"
+   ],
+   "text": "063-mobile-If-No-hover-chart.txt",
+   "dom": "063-mobile-If-No-hover-chart.json",
+   "interactive": 26,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "064",
+   "vp": "mobile",
+   "label": "Max",
+   "trigger": "click: button \"Max\" on /markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "url": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "title": "What will the impact on GNO price be if GIP-152 is passed? | Futarchy",
+   "shots": [
+    "064-mobile-Max-s0.png",
+    "064-mobile-Max-s1.png",
+    "064-mobile-Max-s2.png",
+    "064-mobile-Max-s3.png"
+   ],
+   "text": "064-mobile-Max.txt",
+   "dom": "064-mobile-Max.json",
+   "interactive": 26,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "065",
+   "vp": "mobile",
+   "label": "Split Collateral",
+   "trigger": "click: button \"Split Collateral\" on /markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "url": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "title": "What will the impact on GNO price be if GIP-152 is passed? | Futarchy",
+   "shots": [
+    "065-mobile-Split-Collateral-s0.png",
+    "065-mobile-Split-Collateral-s1.png",
+    "065-mobile-Split-Collateral-s2.png",
+    "065-mobile-Split-Collateral-s3.png"
+   ],
+   "text": "065-mobile-Split-Collateral.txt",
+   "dom": "065-mobile-Split-Collateral.json",
+   "interactive": 34,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "067",
+   "vp": "mobile",
+   "label": "/markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "trigger": "page load",
+   "url": "https://futarchy.seer.pm/markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "title": "What will the impact on GNO price be if GIP-151 is passed? | Futarchy",
+   "shots": [
+    "067-mobile-markets-0xece80208cb8376be311ce0f5ea4ef73850a0dcf0-s0.png",
+    "067-mobile-markets-0xece80208cb8376be311ce0f5ea4ef73850a0dcf0-s1.png",
+    "067-mobile-markets-0xece80208cb8376be311ce0f5ea4ef73850a0dcf0-s2.png",
+    "067-mobile-markets-0xece80208cb8376be311ce0f5ea4ef73850a0dcf0-s3.png"
+   ],
+   "text": "067-mobile-markets-0xece80208cb8376be311ce0f5ea4ef73850a0dcf0.txt",
+   "dom": "067-mobile-markets-0xece80208cb8376be311ce0f5ea4ef73850a0dcf0.json",
+   "interactive": 26,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "068",
+   "vp": "mobile",
+   "label": "Switch network",
+   "trigger": "click: button \"Switch network\" on /markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "url": "https://futarchy.seer.pm/markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "title": "What will the impact on GNO price be if GIP-151 is passed? | Futarchy",
+   "shots": [
+    "068-mobile-Switch-network-s0.png",
+    "068-mobile-Switch-network-s1.png",
+    "068-mobile-Switch-network-s2.png",
+    "068-mobile-Switch-network-s3.png"
+   ],
+   "text": "068-mobile-Switch-network.txt",
+   "dom": "068-mobile-Switch-network.json",
+   "interactive": 29,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 1
+  },
+  {
+   "id": "069",
+   "vp": "mobile",
+   "label": "Switch to light mode",
+   "trigger": "click: button \"Switch to light mode\" on /markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "url": "https://futarchy.seer.pm/markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "title": "What will the impact on GNO price be if GIP-151 is passed? | Futarchy",
+   "shots": [
+    "069-mobile-Switch-to-light-mode-s0.png",
+    "069-mobile-Switch-to-light-mode-s1.png",
+    "069-mobile-Switch-to-light-mode-s2.png",
+    "069-mobile-Switch-to-light-mode-s3.png"
+   ],
+   "text": "069-mobile-Switch-to-light-mode.txt",
+   "dom": "069-mobile-Switch-to-light-mode.json",
+   "interactive": 26,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "070",
+   "vp": "mobile",
+   "label": "Add Liquidity",
+   "trigger": "click: button \"Add Liquidity\" on /markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "url": "https://futarchy.seer.pm/markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "title": "What will the impact on GNO price be if GIP-151 is passed? | Futarchy",
+   "shots": [
+    "070-mobile-Add-Liquidity-s0.png",
+    "070-mobile-Add-Liquidity-s1.png",
+    "070-mobile-Add-Liquidity-s2.png",
+    "070-mobile-Add-Liquidity-s3.png"
+   ],
+   "text": "070-mobile-Add-Liquidity.txt",
+   "dom": "070-mobile-Add-Liquidity.json",
+   "interactive": 33,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "071",
+   "vp": "mobile",
+   "label": "TWAP Complete (TWAP impact +0.01%)",
+   "trigger": "click: button \"TWAP Complete (TWAP impact +0.01%)\" on /markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "url": "https://futarchy.seer.pm/markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "title": "What will the impact on GNO price be if GIP-151 is passed? | Futarchy",
+   "shots": [
+    "071-mobile-TWAP-Complete-TWAP-impact-0-01-s0.png",
+    "071-mobile-TWAP-Complete-TWAP-impact-0-01-s1.png",
+    "071-mobile-TWAP-Complete-TWAP-impact-0-01-s2.png",
+    "071-mobile-TWAP-Complete-TWAP-impact-0-01-s3.png",
+    "071-mobile-TWAP-Complete-TWAP-impact-0-01-s4.png"
+   ],
+   "text": "071-mobile-TWAP-Complete-TWAP-impact-0-01.txt",
+   "dom": "071-mobile-TWAP-Complete-TWAP-impact-0-01.json",
+   "interactive": 26,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "074",
+   "vp": "mobile",
+   "label": "/markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "trigger": "page load",
+   "url": "https://futarchy.seer.pm/markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "title": "What will the impact on PNK price be if KIP-88 is approved? | Futarchy",
+   "shots": [
+    "074-mobile-markets-0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31-s0.png",
+    "074-mobile-markets-0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31-s1.png",
+    "074-mobile-markets-0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31-s2.png",
+    "074-mobile-markets-0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31-s3.png"
+   ],
+   "text": "074-mobile-markets-0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31.txt",
+   "dom": "074-mobile-markets-0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31.json",
+   "interactive": 25,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "075",
+   "vp": "mobile",
+   "label": "Switch network",
+   "trigger": "click: button \"Switch network\" on /markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "url": "https://futarchy.seer.pm/markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "title": "What will the impact on PNK price be if KIP-88 is approved? | Futarchy",
+   "shots": [
+    "075-mobile-Switch-network-s0.png",
+    "075-mobile-Switch-network-s1.png",
+    "075-mobile-Switch-network-s2.png",
+    "075-mobile-Switch-network-s3.png"
+   ],
+   "text": "075-mobile-Switch-network.txt",
+   "dom": "075-mobile-Switch-network.json",
+   "interactive": 28,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 1
+  },
+  {
+   "id": "076",
+   "vp": "mobile",
+   "label": "Switch to dark mode",
+   "trigger": "click: button \"Switch to dark mode\" on /markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "url": "https://futarchy.seer.pm/markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "title": "What will the impact on PNK price be if KIP-88 is approved? | Futarchy",
+   "shots": [
+    "076-mobile-Switch-to-dark-mode-s0.png",
+    "076-mobile-Switch-to-dark-mode-s1.png",
+    "076-mobile-Switch-to-dark-mode-s2.png",
+    "076-mobile-Switch-to-dark-mode-s3.png"
+   ],
+   "text": "076-mobile-Switch-to-dark-mode.txt",
+   "dom": "076-mobile-Switch-to-dark-mode.json",
+   "interactive": 25,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "077",
+   "vp": "mobile",
+   "label": "Add Liquidity",
+   "trigger": "click: button \"Add Liquidity\" on /markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "url": "https://futarchy.seer.pm/markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "title": "What will the impact on PNK price be if KIP-88 is approved? | Futarchy",
+   "shots": [
+    "077-mobile-Add-Liquidity-s0.png",
+    "077-mobile-Add-Liquidity-s1.png",
+    "077-mobile-Add-Liquidity-s2.png",
+    "077-mobile-Add-Liquidity-s3.png"
+   ],
+   "text": "077-mobile-Add-Liquidity.txt",
+   "dom": "077-mobile-Add-Liquidity.json",
+   "interactive": 32,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "078",
+   "vp": "mobile",
+   "label": "TWAP Complete (TWAP impact +2.23%)",
+   "trigger": "click: button \"TWAP Complete (TWAP impact +2.23%)\" on /markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "url": "https://futarchy.seer.pm/markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "title": "What will the impact on PNK price be if KIP-88 is approved? | Futarchy",
+   "shots": [
+    "078-mobile-TWAP-Complete-TWAP-impact-2-23-s0.png",
+    "078-mobile-TWAP-Complete-TWAP-impact-2-23-s1.png",
+    "078-mobile-TWAP-Complete-TWAP-impact-2-23-s2.png",
+    "078-mobile-TWAP-Complete-TWAP-impact-2-23-s3.png"
+   ],
+   "text": "078-mobile-TWAP-Complete-TWAP-impact-2-23.txt",
+   "dom": "078-mobile-TWAP-Complete-TWAP-impact-2-23.json",
+   "interactive": 25,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "080",
+   "vp": "mobile",
+   "label": "/markets/0x47c80f5f701ebc5f25cab64e660f0577890729c2",
+   "trigger": "page load",
+   "url": "https://futarchy.seer.pm/markets/0x47c80f5f701ebc5f25cab64e660f0577890729c2",
+   "title": "What will the impact on GNO price be if GIP-149 is approved? | Futarchy",
+   "shots": [
+    "080-mobile-markets-0x47c80f5f701ebc5f25cab64e660f0577890729c2-s0.png",
+    "080-mobile-markets-0x47c80f5f701ebc5f25cab64e660f0577890729c2-s1.png",
+    "080-mobile-markets-0x47c80f5f701ebc5f25cab64e660f0577890729c2-s2.png",
+    "080-mobile-markets-0x47c80f5f701ebc5f25cab64e660f0577890729c2-s3.png"
+   ],
+   "text": "080-mobile-markets-0x47c80f5f701ebc5f25cab64e660f0577890729c2.txt",
+   "dom": "080-mobile-markets-0x47c80f5f701ebc5f25cab64e660f0577890729c2.json",
+   "interactive": 25,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "081",
+   "vp": "mobile",
+   "label": "Switch network",
+   "trigger": "click: button \"Switch network\" on /markets/0x47c80f5f701ebc5f25cab64e660f0577890729c2",
+   "url": "https://futarchy.seer.pm/markets/0x47c80f5f701ebc5f25cab64e660f0577890729c2",
+   "title": "What will the impact on GNO price be if GIP-149 is approved? | Futarchy",
+   "shots": [
+    "081-mobile-Switch-network-s0.png",
+    "081-mobile-Switch-network-s1.png",
+    "081-mobile-Switch-network-s2.png",
+    "081-mobile-Switch-network-s3.png"
+   ],
+   "text": "081-mobile-Switch-network.txt",
+   "dom": "081-mobile-Switch-network.json",
+   "interactive": 28,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 1
+  },
+  {
+   "id": "082",
+   "vp": "mobile",
+   "label": "Switch to light mode",
+   "trigger": "click: button \"Switch to light mode\" on /markets/0x47c80f5f701ebc5f25cab64e660f0577890729c2",
+   "url": "https://futarchy.seer.pm/markets/0x47c80f5f701ebc5f25cab64e660f0577890729c2",
+   "title": "What will the impact on GNO price be if GIP-149 is approved? | Futarchy",
+   "shots": [
+    "082-mobile-Switch-to-light-mode-s0.png",
+    "082-mobile-Switch-to-light-mode-s1.png",
+    "082-mobile-Switch-to-light-mode-s2.png",
+    "082-mobile-Switch-to-light-mode-s3.png"
+   ],
+   "text": "082-mobile-Switch-to-light-mode.txt",
+   "dom": "082-mobile-Switch-to-light-mode.json",
+   "interactive": 25,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "083",
+   "vp": "mobile",
+   "label": "Add Liquidity",
+   "trigger": "click: button \"Add Liquidity\" on /markets/0x47c80f5f701ebc5f25cab64e660f0577890729c2",
+   "url": "https://futarchy.seer.pm/markets/0x47c80f5f701ebc5f25cab64e660f0577890729c2",
+   "title": "What will the impact on GNO price be if GIP-149 is approved? | Futarchy",
+   "shots": [
+    "083-mobile-Add-Liquidity-s0.png",
+    "083-mobile-Add-Liquidity-s1.png",
+    "083-mobile-Add-Liquidity-s2.png",
+    "083-mobile-Add-Liquidity-s3.png"
+   ],
+   "text": "083-mobile-Add-Liquidity.txt",
+   "dom": "083-mobile-Add-Liquidity.json",
+   "interactive": 32,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "084",
+   "vp": "mobile",
+   "label": "TWAP Complete (TWAP impact +0.08%)",
+   "trigger": "click: button \"TWAP Complete (TWAP impact +0.08%)\" on /markets/0x47c80f5f701ebc5f25cab64e660f0577890729c2",
+   "url": "https://futarchy.seer.pm/markets/0x47c80f5f701ebc5f25cab64e660f0577890729c2",
+   "title": "What will the impact on GNO price be if GIP-149 is approved? | Futarchy",
+   "shots": [
+    "084-mobile-TWAP-Complete-TWAP-impact-0-08-s0.png",
+    "084-mobile-TWAP-Complete-TWAP-impact-0-08-s1.png",
+    "084-mobile-TWAP-Complete-TWAP-impact-0-08-s2.png",
+    "084-mobile-TWAP-Complete-TWAP-impact-0-08-s3.png",
+    "084-mobile-TWAP-Complete-TWAP-impact-0-08-s4.png"
+   ],
+   "text": "084-mobile-TWAP-Complete-TWAP-impact-0-08.txt",
+   "dom": "084-mobile-TWAP-Complete-TWAP-impact-0-08.json",
+   "interactive": 25,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  }
+ ],
+ "transitions": [
+  {
+   "from": "https://futarchy.seer.pm",
+   "via": "https://x.com/seer_pm",
+   "to": "https://x.com/seer_pm",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm",
+   "via": "https://github.com/seer-pm/futarchy",
+   "to": "https://github.com/seer-pm/futarchy",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm",
+   "via": "button: Switch to dark mode",
+   "to": "https://futarchy.seer.pm/",
+   "newState": true,
+   "state": "002",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm",
+   "via": "button: Chain Selector",
+   "to": "https://futarchy.seer.pm/",
+   "newState": true,
+   "state": "003",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm",
+   "via": "button: 👾 0x00…dEaD",
+   "to": "https://futarchy.seer.pm/",
+   "newState": true,
+   "state": "004",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm",
+   "via": "search input: e",
+   "to": "https://futarchy.seer.pm/",
+   "newState": true,
+   "state": "005",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/",
+   "via": "https://x.com/seer_pm",
+   "to": "https://x.com/seer_pm",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/",
+   "via": "https://github.com/seer-pm/futarchy",
+   "to": "https://github.com/seer-pm/futarchy",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/",
+   "via": "button: Switch to light mode",
+   "to": "https://futarchy.seer.pm/",
+   "newState": false,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/",
+   "via": "button: Chain Selector",
+   "to": "https://futarchy.seer.pm/",
+   "newState": true,
+   "state": "007",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/",
+   "via": "button: 👾 0x00…dEaD",
+   "to": "https://futarchy.seer.pm/",
+   "newState": true,
+   "state": "008",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/",
+   "via": "search input: e",
+   "to": "https://futarchy.seer.pm/",
+   "newState": true,
+   "state": "009",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "via": "Resolve Question",
+   "to": "https://reality.eth.limo/#!/network/100/question/0xe78996a233895be74a66f451f1019ca9734205cc-0xbd82e6afef3649ef9c908c1022b5fff6cc94c12a6f5890bfa9035ddd6527a392",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "via": "Snapshot Vote",
+   "to": "https://snapshot.box/#/s:gnosis.eth/proposal/0xd3300b62e9aabd41e04fd4d302898a1364f1a40eee62235dc9ef1fd6bb9afd20",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "via": "View final results on Snapshot",
+   "to": "https://snapshot.box/#/s:gnosis.eth/proposal/0xd3300b62e9aabd41e04fd4d302898a1364f1a40eee62235dc9ef1fd6bb9afd20",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "via": "Charting by TradingView",
+   "to": "https://www.tradingview.com/?utm_medium=lwc-link&utm_campaign=lwc-chart&utm_source=futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "via": "Wallet: 0 sDAI",
+   "to": "https://swap.cow.fi/#/100/swap/_/0xaf204776c7245bf4147c2612bf6e5972ee483701",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "via": "Wallet: 0.0004 GNO",
+   "to": "https://swap.cow.fi/#/100/swap/_/0x9c58bacc331c9aa871afd802db6379a98e80cedb",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "via": "https://x.com/seer_pm",
+   "to": "https://x.com/seer_pm",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "via": "https://github.com/seer-pm/futarchy",
+   "to": "https://github.com/seer-pm/futarchy",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "via": "button: Switch to dark mode",
+   "to": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "newState": false,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "via": "button: Chain Selector",
+   "to": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "newState": true,
+   "state": "011",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "via": "button: 👾 0x00…dEaD",
+   "to": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "newState": true,
+   "state": "012",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "via": "button: Add Liquidity",
+   "to": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "newState": true,
+   "state": "013",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "via": "button: Recent Activity",
+   "to": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "newState": true,
+   "state": "014",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "via": "button: Position",
+   "to": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "newState": true,
+   "state": "015",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "via": "button: If Yes",
+   "to": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "newState": false,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "via": "button: If No",
+   "to": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "newState": true,
+   "state": "017",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "via": "button: Max",
+   "to": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "newState": true,
+   "state": "019",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "via": "button: Split Collateral",
+   "to": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "newState": true,
+   "state": "020",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "via": "button: Merge Collateral",
+   "to": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "newState": true,
+   "state": "022",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x84412fe9d088c1d8dd676a7be9a3d5d0291ab1cf",
+   "via": "Resolution Question",
+   "to": "https://reality.eth.limo/#!/network/100/question/0xe78996a233895be74a66f451f1019ca9734205cc-0xe1ef37c96013f3a1e4a9cb00bdb1bf158ecd91be210077316933bb9d5ba5738d",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x84412fe9d088c1d8dd676a7be9a3d5d0291ab1cf",
+   "via": "Snapshot Vote",
+   "to": "https://snapshot.box/#/s:kleros.eth/proposal/0xba2749a4f1283da9d1ca925d9f17bf712fa06a23e6a07d759c54340277820932",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x84412fe9d088c1d8dd676a7be9a3d5d0291ab1cf",
+   "via": "View final results on Snapshot",
+   "to": "https://snapshot.box/#/s:kleros.eth/proposal/0xba2749a4f1283da9d1ca925d9f17bf712fa06a23e6a07d759c54340277820932",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x84412fe9d088c1d8dd676a7be9a3d5d0291ab1cf",
+   "via": "Charting by TradingView",
+   "to": "https://www.tradingview.com/?utm_medium=lwc-link&utm_campaign=lwc-chart&utm_source=futarchy.seer.pm/markets/0x84412fe9d088c1d8dd676a7be9a3d5d0291ab1cf",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x84412fe9d088c1d8dd676a7be9a3d5d0291ab1cf",
+   "via": "Wallet: 0 sDAI",
+   "to": "https://swap.cow.fi/#/100/swap/_/0xaf204776c7245bf4147c2612bf6e5972ee483701",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x84412fe9d088c1d8dd676a7be9a3d5d0291ab1cf",
+   "via": "Wallet: 0 PNK",
+   "to": "https://swap.cow.fi/#/100/swap/_/0x37b60f4e9a31a64ccc0024dce7d0fd07eaa0f7b3",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x84412fe9d088c1d8dd676a7be9a3d5d0291ab1cf",
+   "via": "https://x.com/seer_pm",
+   "to": "https://x.com/seer_pm",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x84412fe9d088c1d8dd676a7be9a3d5d0291ab1cf",
+   "via": "https://github.com/seer-pm/futarchy",
+   "to": "https://github.com/seer-pm/futarchy",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x84412fe9d088c1d8dd676a7be9a3d5d0291ab1cf",
+   "via": "button: Switch to light mode",
+   "to": "https://futarchy.seer.pm/markets/0x84412fe9d088c1d8dd676a7be9a3d5d0291ab1cf",
+   "newState": true,
+   "state": "025",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x84412fe9d088c1d8dd676a7be9a3d5d0291ab1cf",
+   "via": "button: Chain Selector",
+   "to": "https://futarchy.seer.pm/markets/0x84412fe9d088c1d8dd676a7be9a3d5d0291ab1cf",
+   "newState": true,
+   "state": "026",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x84412fe9d088c1d8dd676a7be9a3d5d0291ab1cf",
+   "via": "button: 👾 0x00…dEaD",
+   "to": "https://futarchy.seer.pm/markets/0x84412fe9d088c1d8dd676a7be9a3d5d0291ab1cf",
+   "newState": true,
+   "state": "027",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x84412fe9d088c1d8dd676a7be9a3d5d0291ab1cf",
+   "via": "button: Add Liquidity",
+   "to": "https://futarchy.seer.pm/markets/0x84412fe9d088c1d8dd676a7be9a3d5d0291ab1cf",
+   "newState": true,
+   "state": "028",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x84412fe9d088c1d8dd676a7be9a3d5d0291ab1cf",
+   "via": "button: TWAP Complete (TWAP impact -0.98%)",
+   "to": "https://futarchy.seer.pm/markets/0x84412fe9d088c1d8dd676a7be9a3d5d0291ab1cf",
+   "newState": true,
+   "state": "029",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x84412fe9d088c1d8dd676a7be9a3d5d0291ab1cf",
+   "via": "button: Split Collateral",
+   "to": "https://futarchy.seer.pm/markets/0x84412fe9d088c1d8dd676a7be9a3d5d0291ab1cf",
+   "newState": true,
+   "state": "030",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x84412fe9d088c1d8dd676a7be9a3d5d0291ab1cf",
+   "via": "button: Merge Collateral",
+   "to": "https://futarchy.seer.pm/markets/0x84412fe9d088c1d8dd676a7be9a3d5d0291ab1cf",
+   "newState": true,
+   "state": "032",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "via": "Resolution Question",
+   "to": "https://reality.eth.limo/#!/network/100/question/0xe78996a233895be74a66f451f1019ca9734205cc-0x5aa127ae649372c579a961082768c703bcc545eda87baa4046bfd94880bbb8cd",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "via": "Snapshot Vote",
+   "to": "https://snapshot.box/#/s:gnosis.eth/proposal/0x657fbf8892200d24e887c68245cee73b59c466394192be1c10673b39814c74c4",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "via": "View final results on Snapshot",
+   "to": "https://snapshot.box/#/s:gnosis.eth/proposal/0x657fbf8892200d24e887c68245cee73b59c466394192be1c10673b39814c74c4",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "via": "Charting by TradingView",
+   "to": "https://www.tradingview.com/?utm_medium=lwc-link&utm_campaign=lwc-chart&utm_source=futarchy.seer.pm/markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "via": "Wallet: 0 sDAI",
+   "to": "https://swap.cow.fi/#/100/swap/_/0xaf204776c7245bf4147c2612bf6e5972ee483701",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "via": "Wallet: 0.0004 GNO",
+   "to": "https://swap.cow.fi/#/100/swap/_/0x9c58bacc331c9aa871afd802db6379a98e80cedb",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "via": "https://x.com/seer_pm",
+   "to": "https://x.com/seer_pm",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "via": "https://github.com/seer-pm/futarchy",
+   "to": "https://github.com/seer-pm/futarchy",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "via": "button: Switch to dark mode",
+   "to": "https://futarchy.seer.pm/markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "newState": true,
+   "state": "035",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "via": "button: Chain Selector",
+   "to": "https://futarchy.seer.pm/markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "newState": true,
+   "state": "036",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "via": "button: 👾 0x00…dEaD",
+   "to": "https://futarchy.seer.pm/markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "newState": true,
+   "state": "037",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "via": "button: Add Liquidity",
+   "to": "https://futarchy.seer.pm/markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "newState": true,
+   "state": "038",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "via": "button: TWAP Complete (TWAP impact +0.01%)",
+   "to": "https://futarchy.seer.pm/markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "newState": true,
+   "state": "039",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "via": "button: Split Collateral",
+   "to": "https://futarchy.seer.pm/markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "newState": true,
+   "state": "040",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "via": "button: Merge Collateral",
+   "to": "https://futarchy.seer.pm/markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "newState": true,
+   "state": "042",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "via": "Resolution Question",
+   "to": "https://reality.eth.limo/#!/network/100/question/0xe78996a233895be74a66f451f1019ca9734205cc-0x75f6aebc6f12cef5477699c5d0fe44bf17db30dcd4d2570e1503ad9bc5aba478",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "via": "Snapshot Vote",
+   "to": "https://snapshot.box/#/s:kleros.eth/proposal/0x27955d7c1e46de00881a20c5f5508bcbe911fd2a80761a8a57b751a1101ffcaa",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "via": "View final results on Snapshot",
+   "to": "https://snapshot.box/#/s:kleros.eth/proposal/0x27955d7c1e46de00881a20c5f5508bcbe911fd2a80761a8a57b751a1101ffcaa",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "via": "Charting by TradingView",
+   "to": "https://www.tradingview.com/?utm_medium=lwc-link&utm_campaign=lwc-chart&utm_source=futarchy.seer.pm/markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "via": "Wallet: 0 sDAI",
+   "to": "https://swap.cow.fi/#/100/swap/_/0xaf204776c7245bf4147c2612bf6e5972ee483701",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "via": "Wallet: 0 PNK",
+   "to": "https://swap.cow.fi/#/100/swap/_/0x37b60f4e9a31a64ccc0024dce7d0fd07eaa0f7b3",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "via": "https://x.com/seer_pm",
+   "to": "https://x.com/seer_pm",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "via": "https://github.com/seer-pm/futarchy",
+   "to": "https://github.com/seer-pm/futarchy",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "via": "button: Switch to light mode",
+   "to": "https://futarchy.seer.pm/markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "newState": true,
+   "state": "045",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "via": "button: Chain Selector",
+   "to": "https://futarchy.seer.pm/markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "newState": true,
+   "state": "046",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "via": "button: 👾 0x00…dEaD",
+   "to": "https://futarchy.seer.pm/markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "newState": true,
+   "state": "047",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "via": "button: Add Liquidity",
+   "to": "https://futarchy.seer.pm/markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "newState": true,
+   "state": "048",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "via": "button: TWAP Complete (TWAP impact +2.23%)",
+   "to": "https://futarchy.seer.pm/markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "newState": true,
+   "state": "049",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "via": "button: Merge Collateral",
+   "to": "https://futarchy.seer.pm/markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "newState": true,
+   "state": "051",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://futarchy.seer.pm",
+   "via": "https://x.com/seer_pm",
+   "to": "https://x.com/seer_pm",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm",
+   "via": "https://github.com/seer-pm/futarchy",
+   "to": "https://github.com/seer-pm/futarchy",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm",
+   "via": "button: Switch to dark mode",
+   "to": "https://futarchy.seer.pm/",
+   "newState": false,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/",
+   "via": "https://x.com/seer_pm",
+   "to": "https://x.com/seer_pm",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/",
+   "via": "https://github.com/seer-pm/futarchy",
+   "to": "https://github.com/seer-pm/futarchy",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/",
+   "via": "button: Switch to light mode",
+   "to": "https://futarchy.seer.pm/",
+   "newState": true,
+   "state": "054",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x0d78b95fca9f3e1b588271a330b0d6f731ec38aa",
+   "via": "Resolve Question",
+   "to": "https://reality.eth.limo/#!/network/1/question/0x5b7dd1e86623548af054a4985f7fc8ccbb554e2c-0xf43e8cbe1b6bd1daeac00713ee0c8093d058f1219c7f2dbae8674f4095dcf8cd",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x0d78b95fca9f3e1b588271a330b0d6f731ec38aa",
+   "via": "Charting by TradingView",
+   "to": "https://www.tradingview.com/?utm_medium=lwc-link&utm_campaign=lwc-chart&utm_source=futarchy.seer.pm/markets/0x0d78b95fca9f3e1b588271a330b0d6f731ec38aa",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x0d78b95fca9f3e1b588271a330b0d6f731ec38aa",
+   "via": "Wallet: 3.6144 USDS",
+   "to": "https://swap.cow.fi/#/1/swap/_/0xdc035d45d973e3ec169d2276ddab16f1e407384f",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x0d78b95fca9f3e1b588271a330b0d6f731ec38aa",
+   "via": "Wallet: 280.4597 WETH",
+   "to": "https://swap.cow.fi/#/1/swap/_/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x0d78b95fca9f3e1b588271a330b0d6f731ec38aa",
+   "via": "https://x.com/seer_pm",
+   "to": "https://x.com/seer_pm",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x0d78b95fca9f3e1b588271a330b0d6f731ec38aa",
+   "via": "https://github.com/seer-pm/futarchy",
+   "to": "https://github.com/seer-pm/futarchy",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x0d78b95fca9f3e1b588271a330b0d6f731ec38aa",
+   "via": "button: Switch to Ethereum",
+   "to": "https://futarchy.seer.pm/markets/0x0d78b95fca9f3e1b588271a330b0d6f731ec38aa",
+   "newState": true,
+   "state": "056",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x0d78b95fca9f3e1b588271a330b0d6f731ec38aa",
+   "via": "button: Go back to companies",
+   "to": "https://futarchy.seer.pm/companies",
+   "newState": true,
+   "state": "057",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "via": "Resolve Question",
+   "to": "https://reality.eth.limo/#!/network/100/question/0xe78996a233895be74a66f451f1019ca9734205cc-0xbd82e6afef3649ef9c908c1022b5fff6cc94c12a6f5890bfa9035ddd6527a392",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "via": "Snapshot Vote",
+   "to": "https://snapshot.box/#/s:gnosis.eth/proposal/0xd3300b62e9aabd41e04fd4d302898a1364f1a40eee62235dc9ef1fd6bb9afd20",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "via": "View final results on Snapshot",
+   "to": "https://snapshot.box/#/s:gnosis.eth/proposal/0xd3300b62e9aabd41e04fd4d302898a1364f1a40eee62235dc9ef1fd6bb9afd20",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "via": "Charting by TradingView",
+   "to": "https://www.tradingview.com/?utm_medium=lwc-link&utm_campaign=lwc-chart&utm_source=futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "via": "Wallet: 0 sDAI",
+   "to": "https://swap.cow.fi/#/100/swap/_/0xaf204776c7245bf4147c2612bf6e5972ee483701",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "via": "Wallet: 0.0004 GNO",
+   "to": "https://swap.cow.fi/#/100/swap/_/0x9c58bacc331c9aa871afd802db6379a98e80cedb",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "via": "https://x.com/seer_pm",
+   "to": "https://x.com/seer_pm",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "via": "https://github.com/seer-pm/futarchy",
+   "to": "https://github.com/seer-pm/futarchy",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "via": "button: Switch network",
+   "to": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "newState": true,
+   "state": "059",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "via": "button: Switch to dark mode",
+   "to": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "newState": false,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "via": "button: Add Liquidity",
+   "to": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "newState": true,
+   "state": "060",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "via": "button: Recent Activity",
+   "to": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "newState": false,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "via": "button: Position",
+   "to": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "newState": true,
+   "state": "061",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "via": "button: If Yes",
+   "to": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "newState": false,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "via": "button: If No",
+   "to": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "newState": true,
+   "state": "062",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "via": "button: Max",
+   "to": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "newState": true,
+   "state": "064",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "via": "button: Split Collateral",
+   "to": "https://futarchy.seer.pm/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "newState": true,
+   "state": "065",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "via": "Resolution Question",
+   "to": "https://reality.eth.limo/#!/network/100/question/0xe78996a233895be74a66f451f1019ca9734205cc-0x5aa127ae649372c579a961082768c703bcc545eda87baa4046bfd94880bbb8cd",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "via": "Snapshot Vote",
+   "to": "https://snapshot.box/#/s:gnosis.eth/proposal/0x657fbf8892200d24e887c68245cee73b59c466394192be1c10673b39814c74c4",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "via": "View final results on Snapshot",
+   "to": "https://snapshot.box/#/s:gnosis.eth/proposal/0x657fbf8892200d24e887c68245cee73b59c466394192be1c10673b39814c74c4",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "via": "Charting by TradingView",
+   "to": "https://www.tradingview.com/?utm_medium=lwc-link&utm_campaign=lwc-chart&utm_source=futarchy.seer.pm/markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "via": "Wallet: 0 sDAI",
+   "to": "https://swap.cow.fi/#/100/swap/_/0xaf204776c7245bf4147c2612bf6e5972ee483701",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "via": "Wallet: 0.0004 GNO",
+   "to": "https://swap.cow.fi/#/100/swap/_/0x9c58bacc331c9aa871afd802db6379a98e80cedb",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "via": "https://x.com/seer_pm",
+   "to": "https://x.com/seer_pm",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "via": "https://github.com/seer-pm/futarchy",
+   "to": "https://github.com/seer-pm/futarchy",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "via": "button: Switch network",
+   "to": "https://futarchy.seer.pm/markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "newState": true,
+   "state": "068",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "via": "button: Switch to light mode",
+   "to": "https://futarchy.seer.pm/markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "newState": true,
+   "state": "069",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "via": "button: Add Liquidity",
+   "to": "https://futarchy.seer.pm/markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "newState": true,
+   "state": "070",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "via": "button: TWAP Complete (TWAP impact +0.01%)",
+   "to": "https://futarchy.seer.pm/markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "newState": true,
+   "state": "071",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "via": "Resolution Question",
+   "to": "https://reality.eth.limo/#!/network/100/question/0xe78996a233895be74a66f451f1019ca9734205cc-0x75f6aebc6f12cef5477699c5d0fe44bf17db30dcd4d2570e1503ad9bc5aba478",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "via": "Snapshot Vote",
+   "to": "https://snapshot.box/#/s:kleros.eth/proposal/0x27955d7c1e46de00881a20c5f5508bcbe911fd2a80761a8a57b751a1101ffcaa",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "via": "View final results on Snapshot",
+   "to": "https://snapshot.box/#/s:kleros.eth/proposal/0x27955d7c1e46de00881a20c5f5508bcbe911fd2a80761a8a57b751a1101ffcaa",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "via": "Charting by TradingView",
+   "to": "https://www.tradingview.com/?utm_medium=lwc-link&utm_campaign=lwc-chart&utm_source=futarchy.seer.pm/markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "via": "Wallet: 0 sDAI",
+   "to": "https://swap.cow.fi/#/100/swap/_/0xaf204776c7245bf4147c2612bf6e5972ee483701",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "via": "Wallet: 0 PNK",
+   "to": "https://swap.cow.fi/#/100/swap/_/0x37b60f4e9a31a64ccc0024dce7d0fd07eaa0f7b3",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "via": "https://x.com/seer_pm",
+   "to": "https://x.com/seer_pm",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "via": "https://github.com/seer-pm/futarchy",
+   "to": "https://github.com/seer-pm/futarchy",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "via": "button: Switch network",
+   "to": "https://futarchy.seer.pm/markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "newState": true,
+   "state": "075",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "via": "button: Switch to dark mode",
+   "to": "https://futarchy.seer.pm/markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "newState": true,
+   "state": "076",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "via": "button: Add Liquidity",
+   "to": "https://futarchy.seer.pm/markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "newState": true,
+   "state": "077",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "via": "button: TWAP Complete (TWAP impact +2.23%)",
+   "to": "https://futarchy.seer.pm/markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "newState": true,
+   "state": "078",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x47c80f5f701ebc5f25cab64e660f0577890729c2",
+   "via": "Resolution Question",
+   "to": "https://reality.eth.limo/#!/network/100/question/0xe78996a233895be74a66f451f1019ca9734205cc-0x484b201591131cac9519935d9457a50a90f93e29166abe82d64080c6ea17a3bc",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x47c80f5f701ebc5f25cab64e660f0577890729c2",
+   "via": "Snapshot Vote",
+   "to": "https://snapshot.box/#/s:gnosis.eth/proposal/0x4b0b6bb0ba3caf0b407e8bfa21b8cd3bb0e8d5d7175482e32e0b879c23dc8d7c",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x47c80f5f701ebc5f25cab64e660f0577890729c2",
+   "via": "View final results on Snapshot",
+   "to": "https://snapshot.box/#/s:gnosis.eth/proposal/0x4b0b6bb0ba3caf0b407e8bfa21b8cd3bb0e8d5d7175482e32e0b879c23dc8d7c",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x47c80f5f701ebc5f25cab64e660f0577890729c2",
+   "via": "Charting by TradingView",
+   "to": "https://www.tradingview.com/?utm_medium=lwc-link&utm_campaign=lwc-chart&utm_source=futarchy.seer.pm/markets/0x47c80f5f701ebc5f25cab64e660f0577890729c2",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x47c80f5f701ebc5f25cab64e660f0577890729c2",
+   "via": "Wallet: 0 sDAI",
+   "to": "https://swap.cow.fi/#/100/swap/_/0xaf204776c7245bf4147c2612bf6e5972ee483701",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x47c80f5f701ebc5f25cab64e660f0577890729c2",
+   "via": "Wallet: 0.0004 GNO",
+   "to": "https://swap.cow.fi/#/100/swap/_/0x9c58bacc331c9aa871afd802db6379a98e80cedb",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x47c80f5f701ebc5f25cab64e660f0577890729c2",
+   "via": "https://x.com/seer_pm",
+   "to": "https://x.com/seer_pm",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x47c80f5f701ebc5f25cab64e660f0577890729c2",
+   "via": "https://github.com/seer-pm/futarchy",
+   "to": "https://github.com/seer-pm/futarchy",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x47c80f5f701ebc5f25cab64e660f0577890729c2",
+   "via": "button: Switch network",
+   "to": "https://futarchy.seer.pm/markets/0x47c80f5f701ebc5f25cab64e660f0577890729c2",
+   "newState": true,
+   "state": "081",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x47c80f5f701ebc5f25cab64e660f0577890729c2",
+   "via": "button: Switch to light mode",
+   "to": "https://futarchy.seer.pm/markets/0x47c80f5f701ebc5f25cab64e660f0577890729c2",
+   "newState": true,
+   "state": "082",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x47c80f5f701ebc5f25cab64e660f0577890729c2",
+   "via": "button: Add Liquidity",
+   "to": "https://futarchy.seer.pm/markets/0x47c80f5f701ebc5f25cab64e660f0577890729c2",
+   "newState": true,
+   "state": "083",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://futarchy.seer.pm/markets/0x47c80f5f701ebc5f25cab64e660f0577890729c2",
+   "via": "button: TWAP Complete (TWAP impact +0.08%)",
+   "to": "https://futarchy.seer.pm/markets/0x47c80f5f701ebc5f25cab64e660f0577890729c2",
+   "newState": true,
+   "state": "084",
+   "vp": "mobile"
+  }
+ ],
+ "consoleErrors": [
+  "[1440] Access to fetch at 'https://api-v3.balancer.fi/graphql' from origin 'https://futarchy.seer.pm' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Acc",
+  "[1440] Failed to load resource: net::ERR_FAILED",
+  "[1440] [QUOTER SHOWCASE] Helper failed, falling back to legacy? Error: Quote returned no output for this amount\n    at s (https://futarchy.seer.pm/_next/static/chunks/3408.cfa3386b05ffd463.js:1:392573)\n    a",
+  "[1440] [QUOTER SHOWCASE] Error: Error: Quote returned no output for this amount\n    at s (https://futarchy.seer.pm/_next/static/chunks/3408.cfa3386b05ffd463.js:1:392573)\n    at l (https://futarchy.seer.pm/_n",
+  "[390] Access to fetch at 'https://api-v3.balancer.fi/graphql' from origin 'https://futarchy.seer.pm' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Acc",
+  "[390] Failed to load resource: net::ERR_FAILED",
+  "[390] [TWAP] Calculation failed: Error: call revert exception [ See: https://links.ethers.org/v5-errors-CALL_EXCEPTION ] (method=\"getTimepoints(uint32[])\", data=\"0x\", errorArgs=null, errorName=null, errorSi",
+  "[390] Access to fetch at 'https://api.geckoterminal.com/api/v2/search/pools?query=WETH%20USDC&network=eth&include=base_token,quote_token' from origin 'https://futarchy.seer.pm' has been blocked by CORS poli",
+  "[390] [spotClient] Error: TypeError: Failed to fetch\n    at te (https://futarchy.seer.pm/_next/static/chunks/3408.cfa3386b05ffd463.js:1:97390)\n    at tn (https://futarchy.seer.pm/_next/static/chunks/3408.cf",
+  "[390] [useExternalSpotPrice] Error: Error: Failed to fetch\n    at https://futarchy.seer.pm/_next/static/chunks/3408.cfa3386b05ffd463.js:1:104575",
+  "[390] Access to fetch at 'https://api.geckoterminal.com/api/v2/networks/eth/pools/0x88e6a0c2ddd26feeb64f039a2c41296fcb3f5640/ohlcv/hour?aggregate=1&limit=500&currency=token&before_timestamp=1792800000' from",
+  "[390] [spotClient] Error: TypeError: Failed to fetch\n    at tt (https://futarchy.seer.pm/_next/static/chunks/3408.cfa3386b05ffd463.js:1:98992)\n    at tn (https://futarchy.seer.pm/_next/static/chunks/3408.cf",
+  "[390] [QUOTER SHOWCASE] Helper failed, falling back to legacy? Error: Quote returned no output for this amount\n    at s (https://futarchy.seer.pm/_next/static/chunks/3408.cfa3386b05ffd463.js:1:392573)\n    a",
+  "[390] [QUOTER SHOWCASE] Error: Error: Quote returned no output for this amount\n    at s (https://futarchy.seer.pm/_next/static/chunks/3408.cfa3386b05ffd463.js:1:392573)\n    at l (https://futarchy.seer.pm/_n"
+ ]
+}

@@ -1,0 +1,2277 @@
+{
+ "startUrl": "https://deep.seer.pm",
+ "states": [
+  {
+   "id": "001",
+   "vp": "desktop",
+   "label": "/",
+   "trigger": "page load",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "001-desktop--s0.png",
+    "001-desktop--s1.png"
+   ],
+   "text": "001-desktop-.txt",
+   "dom": "001-desktop-.json",
+   "interactive": 124,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "002",
+   "vp": "desktop",
+   "label": "AI Prediction Markets",
+   "trigger": "click: button \"AI Prediction Markets\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "002-desktop-AI-Prediction-Markets-s0.png",
+    "002-desktop-AI-Prediction-Markets-s1.png"
+   ],
+   "text": "002-desktop-AI-Prediction-Markets.txt",
+   "dom": "002-desktop-AI-Prediction-Markets.json",
+   "interactive": 124,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "003",
+   "vp": "desktop",
+   "label": "AI Prediction Markets hover chart",
+   "trigger": "hover chart",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "003-desktop-AI-Prediction-Markets-hover-chart-s0.png",
+    "003-desktop-AI-Prediction-Markets-hover-chart-s1.png"
+   ],
+   "text": "003-desktop-AI-Prediction-Markets-hover-chart.txt",
+   "dom": "003-desktop-AI-Prediction-Markets-hover-chart.json",
+   "interactive": 124,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "004",
+   "vp": "desktop",
+   "label": "Leaderboard",
+   "trigger": "click: button \"Leaderboard\" on /",
+   "url": "https://deep.seer.pm/leaderboard",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "004-desktop-Leaderboard-s0.png",
+    "004-desktop-Leaderboard-s1.png"
+   ],
+   "text": "004-desktop-Leaderboard.txt",
+   "dom": "004-desktop-Leaderboard.json",
+   "interactive": 17,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "005",
+   "vp": "desktop",
+   "label": "Profile",
+   "trigger": "click: button \"Profile\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "005-desktop-Profile-s0.png",
+    "005-desktop-Profile-s1.png"
+   ],
+   "text": "005-desktop-Profile.txt",
+   "dom": "005-desktop-Profile.json",
+   "interactive": 132,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 1
+  },
+  {
+   "id": "006",
+   "vp": "desktop",
+   "label": "0x0000…dEaD",
+   "trigger": "click: button \"0x0000…dEaD\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "006-desktop-0x0000-dEaD-s0.png",
+    "006-desktop-0x0000-dEaD-s1.png"
+   ],
+   "text": "006-desktop-0x0000-dEaD.txt",
+   "dom": "006-desktop-0x0000-dEaD.json",
+   "interactive": 125,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 1
+  },
+  {
+   "id": "007",
+   "vp": "desktop",
+   "label": "Round 3 · Originality LIVE",
+   "trigger": "click: button \"Round 3 · Originality LIVE\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "007-desktop-Round-3-Originality-LIVE-s0.png",
+    "007-desktop-Round-3-Originality-LIVE-s1.png"
+   ],
+   "text": "007-desktop-Round-3-Originality-LIVE.txt",
+   "dom": "007-desktop-Round-3-Originality-LIVE.json",
+   "interactive": 124,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "008",
+   "vp": "desktop",
+   "label": "Archive",
+   "trigger": "click: button \"Archive\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "008-desktop-Archive-s0.png",
+    "008-desktop-Archive-s1.png"
+   ],
+   "text": "008-desktop-Archive.txt",
+   "dom": "008-desktop-Archive.json",
+   "interactive": 131,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "009",
+   "vp": "desktop",
+   "label": "Refresh volume",
+   "trigger": "click: button \"Refresh volume\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "009-desktop-Refresh-volume-s0.png",
+    "009-desktop-Refresh-volume-s1.png"
+   ],
+   "text": "009-desktop-Refresh-volume.txt",
+   "dom": "009-desktop-Refresh-volume.json",
+   "interactive": 124,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "010",
+   "vp": "desktop",
+   "label": "ethereum/consensus-specs 0.8481",
+   "trigger": "click: button \"ethereum/consensus-specs 0.8481\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "010-desktop-ethereum-consensus-specs-0-8481-s0.png",
+    "010-desktop-ethereum-consensus-specs-0-8481-s1.png"
+   ],
+   "text": "010-desktop-ethereum-consensus-specs-0-8481.txt",
+   "dom": "010-desktop-ethereum-consensus-specs-0-8481.json",
+   "interactive": 124,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "011",
+   "vp": "desktop",
+   "label": "ethers-io/ethers.js 0.8275",
+   "trigger": "click: button \"ethers-io/ethers.js 0.8275\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "011-desktop-ethers-io-ethers-js-0-8275-s0.png",
+    "011-desktop-ethers-io-ethers-js-0-8275-s1.png"
+   ],
+   "text": "011-desktop-ethers-io-ethers-js-0-8275.txt",
+   "dom": "011-desktop-ethers-io-ethers-js-0-8275.json",
+   "interactive": 124,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "012",
+   "vp": "desktop",
+   "label": "sigp/lighthouse 0.8275",
+   "trigger": "click: button \"sigp/lighthouse 0.8275\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "012-desktop-sigp-lighthouse-0-8275-s0.png",
+    "012-desktop-sigp-lighthouse-0-8275-s1.png"
+   ],
+   "text": "012-desktop-sigp-lighthouse-0-8275.txt",
+   "dom": "012-desktop-sigp-lighthouse-0-8275.json",
+   "interactive": 124,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "013",
+   "vp": "desktop",
+   "label": "status-im/nimbus-eth2 0.8262",
+   "trigger": "click: button \"status-im/nimbus-eth2 0.8262\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "013-desktop-status-im-nimbus-eth2-0-8262-s0.png",
+    "013-desktop-status-im-nimbus-eth2-0-8262-s1.png"
+   ],
+   "text": "013-desktop-status-im-nimbus-eth2-0-8262.txt",
+   "dom": "013-desktop-status-im-nimbus-eth2-0-8262.json",
+   "interactive": 124,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "014",
+   "vp": "desktop",
+   "label": "Consensys/gnark-crypto 0.8067",
+   "trigger": "click: button \"Consensys/gnark-crypto 0.8067\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "014-desktop-Consensys-gnark-crypto-0-8067-s0.png",
+    "014-desktop-Consensys-gnark-crypto-0-8067-s1.png"
+   ],
+   "text": "014-desktop-Consensys-gnark-crypto-0-8067.txt",
+   "dom": "014-desktop-Consensys-gnark-crypto-0-8067.json",
+   "interactive": 124,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "015",
+   "vp": "desktop",
+   "label": "foundry-rs/foundry 0.8034",
+   "trigger": "click: button \"foundry-rs/foundry 0.8034\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "015-desktop-foundry-rs-foundry-0-8034-s0.png",
+    "015-desktop-foundry-rs-foundry-0-8034-s1.png"
+   ],
+   "text": "015-desktop-foundry-rs-foundry-0-8034.txt",
+   "dom": "015-desktop-foundry-rs-foundry-0-8034.json",
+   "interactive": 124,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "016",
+   "vp": "desktop",
+   "label": "supranational/blst 0.8033",
+   "trigger": "click: button \"supranational/blst 0.8033\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "016-desktop-supranational-blst-0-8033-s0.png",
+    "016-desktop-supranational-blst-0-8033-s1.png"
+   ],
+   "text": "016-desktop-supranational-blst-0-8033.txt",
+   "dom": "016-desktop-supranational-blst-0-8033.json",
+   "interactive": 124,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "017",
+   "vp": "desktop",
+   "label": "flashbots/mev-boost 0.8028",
+   "trigger": "click: button \"flashbots/mev-boost 0.8028\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "017-desktop-flashbots-mev-boost-0-8028-s0.png",
+    "017-desktop-flashbots-mev-boost-0-8028-s1.png"
+   ],
+   "text": "017-desktop-flashbots-mev-boost-0-8028.txt",
+   "dom": "017-desktop-flashbots-mev-boost-0-8028.json",
+   "interactive": 124,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "018",
+   "vp": "desktop",
+   "label": "consensys/teku 0.8020",
+   "trigger": "click: button \"consensys/teku 0.8020\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "018-desktop-consensys-teku-0-8020-s0.png",
+    "018-desktop-consensys-teku-0-8020-s1.png"
+   ],
+   "text": "018-desktop-consensys-teku-0-8020.txt",
+   "dom": "018-desktop-consensys-teku-0-8020.json",
+   "interactive": 124,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "019",
+   "vp": "desktop",
+   "label": "ethereum/go-ethereum 0.7974",
+   "trigger": "click: button \"ethereum/go-ethereum 0.7974\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "019-desktop-ethereum-go-ethereum-0-7974-s0.png",
+    "019-desktop-ethereum-go-ethereum-0-7974-s1.png"
+   ],
+   "text": "019-desktop-ethereum-go-ethereum-0-7974.txt",
+   "dom": "019-desktop-ethereum-go-ethereum-0-7974.json",
+   "interactive": 124,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "020",
+   "vp": "desktop",
+   "label": "argotorg/solidity 0.7954",
+   "trigger": "click: button \"argotorg/solidity 0.7954\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "020-desktop-argotorg-solidity-0-7954-s0.png",
+    "020-desktop-argotorg-solidity-0-7954-s1.png"
+   ],
+   "text": "020-desktop-argotorg-solidity-0-7954.txt",
+   "dom": "020-desktop-argotorg-solidity-0-7954.json",
+   "interactive": 124,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "021",
+   "vp": "desktop",
+   "label": "arkworks-rs/algebra 0.7954",
+   "trigger": "click: button \"arkworks-rs/algebra 0.7954\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "021-desktop-arkworks-rs-algebra-0-7954-s0.png",
+    "021-desktop-arkworks-rs-algebra-0-7954-s1.png"
+   ],
+   "text": "021-desktop-arkworks-rs-algebra-0-7954.txt",
+   "dom": "021-desktop-arkworks-rs-algebra-0-7954.json",
+   "interactive": 124,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "022",
+   "vp": "desktop",
+   "label": "ethereum/eips 0.7946",
+   "trigger": "click: button \"ethereum/eips 0.7946\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "022-desktop-ethereum-eips-0-7946-s0.png",
+    "022-desktop-ethereum-eips-0-7946-s1.png"
+   ],
+   "text": "022-desktop-ethereum-eips-0-7946.txt",
+   "dom": "022-desktop-ethereum-eips-0-7946.json",
+   "interactive": 124,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "023",
+   "vp": "desktop",
+   "label": "herumi/mcl 0.7903",
+   "trigger": "click: button \"herumi/mcl 0.7903\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "023-desktop-herumi-mcl-0-7903-s0.png",
+    "023-desktop-herumi-mcl-0-7903-s1.png"
+   ],
+   "text": "023-desktop-herumi-mcl-0-7903.txt",
+   "dom": "023-desktop-herumi-mcl-0-7903.json",
+   "interactive": 124,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "024",
+   "vp": "desktop",
+   "label": "nethereum/nethereum 0.7903",
+   "trigger": "click: button \"nethereum/nethereum 0.7903\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "024-desktop-nethereum-nethereum-0-7903-s0.png",
+    "024-desktop-nethereum-nethereum-0-7903-s1.png"
+   ],
+   "text": "024-desktop-nethereum-nethereum-0-7903.txt",
+   "dom": "024-desktop-nethereum-nethereum-0-7903.json",
+   "interactive": 124,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "025",
+   "vp": "desktop",
+   "label": "chainsafe/lodestar 0.7902",
+   "trigger": "click: button \"chainsafe/lodestar 0.7902\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "025-desktop-chainsafe-lodestar-0-7902-s0.png",
+    "025-desktop-chainsafe-lodestar-0-7902-s1.png"
+   ],
+   "text": "025-desktop-chainsafe-lodestar-0-7902.txt",
+   "dom": "025-desktop-chainsafe-lodestar-0-7902.json",
+   "interactive": 124,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "026",
+   "vp": "desktop",
+   "label": "argotorg/act 0.7884",
+   "trigger": "click: button \"argotorg/act 0.7884\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "026-desktop-argotorg-act-0-7884-s0.png",
+    "026-desktop-argotorg-act-0-7884-s1.png"
+   ],
+   "text": "026-desktop-argotorg-act-0-7884.txt",
+   "dom": "026-desktop-argotorg-act-0-7884.json",
+   "interactive": 124,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "027",
+   "vp": "desktop",
+   "label": "skalenetwork/libBLS 0.7828",
+   "trigger": "click: button \"skalenetwork/libBLS 0.7828\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "027-desktop-skalenetwork-libBLS-0-7828-s0.png",
+    "027-desktop-skalenetwork-libBLS-0-7828-s1.png"
+   ],
+   "text": "027-desktop-skalenetwork-libBLS-0-7828.txt",
+   "dom": "027-desktop-skalenetwork-libBLS-0-7828.json",
+   "interactive": 124,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "028",
+   "vp": "desktop",
+   "label": "wevm/viem 0.7776",
+   "trigger": "click: button \"wevm/viem 0.7776\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "028-desktop-wevm-viem-0-7776-s0.png",
+    "028-desktop-wevm-viem-0-7776-s1.png"
+   ],
+   "text": "028-desktop-wevm-viem-0-7776.txt",
+   "dom": "028-desktop-wevm-viem-0-7776.json",
+   "interactive": 124,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "029",
+   "vp": "desktop",
+   "label": "a16z/halmos 0.7741",
+   "trigger": "click: button \"a16z/halmos 0.7741\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "029-desktop-a16z-halmos-0-7741-s0.png",
+    "029-desktop-a16z-halmos-0-7741-s1.png"
+   ],
+   "text": "029-desktop-a16z-halmos-0-7741.txt",
+   "dom": "029-desktop-a16z-halmos-0-7741.json",
+   "interactive": 124,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "030",
+   "vp": "desktop",
+   "label": "Vectorized/solady 0.7734",
+   "trigger": "click: button \"Vectorized/solady 0.7734\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "030-desktop-Vectorized-solady-0-7734-s0.png",
+    "030-desktop-Vectorized-solady-0-7734-s1.png"
+   ],
+   "text": "030-desktop-Vectorized-solady-0-7734.txt",
+   "dom": "030-desktop-Vectorized-solady-0-7734.json",
+   "interactive": 124,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "031",
+   "vp": "desktop",
+   "label": "paradigmxyz/reth 0.7730",
+   "trigger": "click: button \"paradigmxyz/reth 0.7730\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "031-desktop-paradigmxyz-reth-0-7730-s0.png",
+    "031-desktop-paradigmxyz-reth-0-7730-s1.png"
+   ],
+   "text": "031-desktop-paradigmxyz-reth-0-7730.txt",
+   "dom": "031-desktop-paradigmxyz-reth-0-7730.json",
+   "interactive": 124,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "032",
+   "vp": "desktop",
+   "label": "argotorg/hevm 0.7725",
+   "trigger": "click: button \"argotorg/hevm 0.7725\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "032-desktop-argotorg-hevm-0-7725-s0.png",
+    "032-desktop-argotorg-hevm-0-7725-s1.png"
+   ],
+   "text": "032-desktop-argotorg-hevm-0-7725.txt",
+   "dom": "032-desktop-argotorg-hevm-0-7725.json",
+   "interactive": 124,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "033",
+   "vp": "desktop",
+   "label": "ethereum/web3.py 0.7719",
+   "trigger": "click: button \"ethereum/web3.py 0.7719\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "033-desktop-ethereum-web3-py-0-7719-s0.png",
+    "033-desktop-ethereum-web3-py-0-7719-s1.png"
+   ],
+   "text": "033-desktop-ethereum-web3-py-0-7719.txt",
+   "dom": "033-desktop-ethereum-web3-py-0-7719.json",
+   "interactive": 124,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "034",
+   "vp": "desktop",
+   "label": "openzeppelin/openzeppelin-contracts 0.7698",
+   "trigger": "click: button \"openzeppelin/openzeppelin-contracts 0.7698\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "034-desktop-openzeppelin-openzeppelin-contracts-0-7698-s0.png",
+    "034-desktop-openzeppelin-openzeppelin-contracts-0-7698-s1.png"
+   ],
+   "text": "034-desktop-openzeppelin-openzeppelin-contracts-0-7698.txt",
+   "dom": "034-desktop-openzeppelin-openzeppelin-contracts-0-7698.json",
+   "interactive": 124,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "035",
+   "vp": "desktop",
+   "label": "vyperlang/titanoboa 0.7695",
+   "trigger": "click: button \"vyperlang/titanoboa 0.7695\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "035-desktop-vyperlang-titanoboa-0-7695-s0.png",
+    "035-desktop-vyperlang-titanoboa-0-7695-s1.png"
+   ],
+   "text": "035-desktop-vyperlang-titanoboa-0-7695.txt",
+   "dom": "035-desktop-vyperlang-titanoboa-0-7695.json",
+   "interactive": 124,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "036",
+   "vp": "desktop",
+   "label": "paulmillr/noble-curves 0.7692",
+   "trigger": "click: button \"paulmillr/noble-curves 0.7692\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "036-desktop-paulmillr-noble-curves-0-7692-s0.png",
+    "036-desktop-paulmillr-noble-curves-0-7692-s1.png"
+   ],
+   "text": "036-desktop-paulmillr-noble-curves-0-7692.txt",
+   "dom": "036-desktop-paulmillr-noble-curves-0-7692.json",
+   "interactive": 124,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "037",
+   "vp": "desktop",
+   "label": "OffchainLabs/prysm 0.7689",
+   "trigger": "click: button \"OffchainLabs/prysm 0.7689\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "037-desktop-OffchainLabs-prysm-0-7689-s0.png",
+    "037-desktop-OffchainLabs-prysm-0-7689-s1.png"
+   ],
+   "text": "037-desktop-OffchainLabs-prysm-0-7689.txt",
+   "dom": "037-desktop-OffchainLabs-prysm-0-7689.json",
+   "interactive": 124,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "038",
+   "vp": "desktop",
+   "label": "intellij-solidity/intellij-solidity 0.7684",
+   "trigger": "click: button \"intellij-solidity/intellij-solidity 0.7684\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "038-desktop-intellij-solidity-intellij-solidity-0-7684-s0.png",
+    "038-desktop-intellij-solidity-intellij-solidity-0-7684-s1.png"
+   ],
+   "text": "038-desktop-intellij-solidity-intellij-solidity-0-7684.txt",
+   "dom": "038-desktop-intellij-solidity-intellij-solidity-0-7684.json",
+   "interactive": 124,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "039",
+   "vp": "desktop",
+   "label": "vyperlang/vyper 0.7666",
+   "trigger": "click: button \"vyperlang/vyper 0.7666\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "039-desktop-vyperlang-vyper-0-7666-s0.png",
+    "039-desktop-vyperlang-vyper-0-7666-s1.png"
+   ],
+   "text": "039-desktop-vyperlang-vyper-0-7666.txt",
+   "dom": "039-desktop-vyperlang-vyper-0-7666.json",
+   "interactive": 124,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "040",
+   "vp": "desktop",
+   "label": "ethereum/execution-apis 0.7663",
+   "trigger": "click: button \"ethereum/execution-apis 0.7663\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "040-desktop-ethereum-execution-apis-0-7663-s0.png",
+    "040-desktop-ethereum-execution-apis-0-7663-s1.png"
+   ],
+   "text": "040-desktop-ethereum-execution-apis-0-7663.txt",
+   "dom": "040-desktop-ethereum-execution-apis-0-7663.json",
+   "interactive": 124,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "041",
+   "vp": "desktop",
+   "label": "nomicfoundation/hardhat 0.7655",
+   "trigger": "click: button \"nomicfoundation/hardhat 0.7655\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "041-desktop-nomicfoundation-hardhat-0-7655-s0.png",
+    "041-desktop-nomicfoundation-hardhat-0-7655-s1.png"
+   ],
+   "text": "041-desktop-nomicfoundation-hardhat-0-7655.txt",
+   "dom": "041-desktop-nomicfoundation-hardhat-0-7655.json",
+   "interactive": 124,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "042",
+   "vp": "desktop",
+   "label": "erigontech/erigon 0.7652",
+   "trigger": "click: button \"erigontech/erigon 0.7652\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "042-desktop-erigontech-erigon-0-7652-s0.png",
+    "042-desktop-erigontech-erigon-0-7652-s1.png"
+   ],
+   "text": "042-desktop-erigontech-erigon-0-7652.txt",
+   "dom": "042-desktop-erigontech-erigon-0-7652.json",
+   "interactive": 124,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "043",
+   "vp": "desktop",
+   "label": "search e",
+   "trigger": "type \"e\" into search on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "043-desktop-search-e-s0.png",
+    "043-desktop-search-e-s1.png"
+   ],
+   "text": "043-desktop-search-e.txt",
+   "dom": "043-desktop-search-e.json",
+   "interactive": 103,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "044",
+   "vp": "mobile",
+   "label": "/",
+   "trigger": "page load",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "044-mobile--s0.png",
+    "044-mobile--s1.png"
+   ],
+   "text": "044-mobile-.txt",
+   "dom": "044-mobile-.json",
+   "interactive": 123,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "045",
+   "vp": "mobile",
+   "label": "Leaderboard",
+   "trigger": "click: button \"Leaderboard\" on /",
+   "url": "https://deep.seer.pm/leaderboard",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "045-mobile-Leaderboard-s0.png",
+    "045-mobile-Leaderboard-s1.png"
+   ],
+   "text": "045-mobile-Leaderboard.txt",
+   "dom": "045-mobile-Leaderboard.json",
+   "interactive": 16,
+   "charts": 0,
+   "tables": 0,
+   "dialogs": 0
+  },
+  {
+   "id": "046",
+   "vp": "mobile",
+   "label": "Profile",
+   "trigger": "click: button \"Profile\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "046-mobile-Profile-s0.png",
+    "046-mobile-Profile-s1.png"
+   ],
+   "text": "046-mobile-Profile.txt",
+   "dom": "046-mobile-Profile.json",
+   "interactive": 131,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 1
+  },
+  {
+   "id": "047",
+   "vp": "mobile",
+   "label": "Profile hover chart",
+   "trigger": "hover chart",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "047-mobile-Profile-hover-chart-s0.png",
+    "047-mobile-Profile-hover-chart-s1.png"
+   ],
+   "text": "047-mobile-Profile-hover-chart.txt",
+   "dom": "047-mobile-Profile-hover-chart.json",
+   "interactive": 131,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 1
+  },
+  {
+   "id": "048",
+   "vp": "mobile",
+   "label": "0x0000…dEaD",
+   "trigger": "click: button \"0x0000…dEaD\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "048-mobile-0x0000-dEaD-s0.png",
+    "048-mobile-0x0000-dEaD-s1.png"
+   ],
+   "text": "048-mobile-0x0000-dEaD.txt",
+   "dom": "048-mobile-0x0000-dEaD.json",
+   "interactive": 124,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 1
+  },
+  {
+   "id": "049",
+   "vp": "mobile",
+   "label": "Round 3 · Originality LIVE",
+   "trigger": "click: button \"Round 3 · Originality LIVE\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "049-mobile-Round-3-Originality-LIVE-s0.png",
+    "049-mobile-Round-3-Originality-LIVE-s1.png"
+   ],
+   "text": "049-mobile-Round-3-Originality-LIVE.txt",
+   "dom": "049-mobile-Round-3-Originality-LIVE.json",
+   "interactive": 123,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "050",
+   "vp": "mobile",
+   "label": "Archive",
+   "trigger": "click: button \"Archive\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "050-mobile-Archive-s0.png",
+    "050-mobile-Archive-s1.png"
+   ],
+   "text": "050-mobile-Archive.txt",
+   "dom": "050-mobile-Archive.json",
+   "interactive": 130,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "051",
+   "vp": "mobile",
+   "label": "Refresh volume",
+   "trigger": "click: button \"Refresh volume\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "051-mobile-Refresh-volume-s0.png",
+    "051-mobile-Refresh-volume-s1.png"
+   ],
+   "text": "051-mobile-Refresh-volume.txt",
+   "dom": "051-mobile-Refresh-volume.json",
+   "interactive": 123,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "052",
+   "vp": "mobile",
+   "label": "ethereum/consensus-specs 0.8481",
+   "trigger": "click: button \"ethereum/consensus-specs 0.8481\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "052-mobile-ethereum-consensus-specs-0-8481-s0.png",
+    "052-mobile-ethereum-consensus-specs-0-8481-s1.png"
+   ],
+   "text": "052-mobile-ethereum-consensus-specs-0-8481.txt",
+   "dom": "052-mobile-ethereum-consensus-specs-0-8481.json",
+   "interactive": 123,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "053",
+   "vp": "mobile",
+   "label": "ethers-io/ethers.js 0.8275",
+   "trigger": "click: button \"ethers-io/ethers.js 0.8275\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "053-mobile-ethers-io-ethers-js-0-8275-s0.png",
+    "053-mobile-ethers-io-ethers-js-0-8275-s1.png"
+   ],
+   "text": "053-mobile-ethers-io-ethers-js-0-8275.txt",
+   "dom": "053-mobile-ethers-io-ethers-js-0-8275.json",
+   "interactive": 123,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "054",
+   "vp": "mobile",
+   "label": "sigp/lighthouse 0.8275",
+   "trigger": "click: button \"sigp/lighthouse 0.8275\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "054-mobile-sigp-lighthouse-0-8275-s0.png",
+    "054-mobile-sigp-lighthouse-0-8275-s1.png"
+   ],
+   "text": "054-mobile-sigp-lighthouse-0-8275.txt",
+   "dom": "054-mobile-sigp-lighthouse-0-8275.json",
+   "interactive": 123,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "055",
+   "vp": "mobile",
+   "label": "status-im/nimbus-eth2 0.8262",
+   "trigger": "click: button \"status-im/nimbus-eth2 0.8262\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "055-mobile-status-im-nimbus-eth2-0-8262-s0.png",
+    "055-mobile-status-im-nimbus-eth2-0-8262-s1.png"
+   ],
+   "text": "055-mobile-status-im-nimbus-eth2-0-8262.txt",
+   "dom": "055-mobile-status-im-nimbus-eth2-0-8262.json",
+   "interactive": 123,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "056",
+   "vp": "mobile",
+   "label": "Consensys/gnark-crypto 0.8067",
+   "trigger": "click: button \"Consensys/gnark-crypto 0.8067\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "056-mobile-Consensys-gnark-crypto-0-8067-s0.png",
+    "056-mobile-Consensys-gnark-crypto-0-8067-s1.png"
+   ],
+   "text": "056-mobile-Consensys-gnark-crypto-0-8067.txt",
+   "dom": "056-mobile-Consensys-gnark-crypto-0-8067.json",
+   "interactive": 123,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "057",
+   "vp": "mobile",
+   "label": "foundry-rs/foundry 0.8034",
+   "trigger": "click: button \"foundry-rs/foundry 0.8034\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "057-mobile-foundry-rs-foundry-0-8034-s0.png",
+    "057-mobile-foundry-rs-foundry-0-8034-s1.png"
+   ],
+   "text": "057-mobile-foundry-rs-foundry-0-8034.txt",
+   "dom": "057-mobile-foundry-rs-foundry-0-8034.json",
+   "interactive": 123,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "058",
+   "vp": "mobile",
+   "label": "supranational/blst 0.8033",
+   "trigger": "click: button \"supranational/blst 0.8033\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "058-mobile-supranational-blst-0-8033-s0.png",
+    "058-mobile-supranational-blst-0-8033-s1.png"
+   ],
+   "text": "058-mobile-supranational-blst-0-8033.txt",
+   "dom": "058-mobile-supranational-blst-0-8033.json",
+   "interactive": 123,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "059",
+   "vp": "mobile",
+   "label": "flashbots/mev-boost 0.8028",
+   "trigger": "click: button \"flashbots/mev-boost 0.8028\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "059-mobile-flashbots-mev-boost-0-8028-s0.png",
+    "059-mobile-flashbots-mev-boost-0-8028-s1.png"
+   ],
+   "text": "059-mobile-flashbots-mev-boost-0-8028.txt",
+   "dom": "059-mobile-flashbots-mev-boost-0-8028.json",
+   "interactive": 123,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "060",
+   "vp": "mobile",
+   "label": "consensys/teku 0.8020",
+   "trigger": "click: button \"consensys/teku 0.8020\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "060-mobile-consensys-teku-0-8020-s0.png",
+    "060-mobile-consensys-teku-0-8020-s1.png"
+   ],
+   "text": "060-mobile-consensys-teku-0-8020.txt",
+   "dom": "060-mobile-consensys-teku-0-8020.json",
+   "interactive": 123,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "061",
+   "vp": "mobile",
+   "label": "ethereum/go-ethereum 0.7974",
+   "trigger": "click: button \"ethereum/go-ethereum 0.7974\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "061-mobile-ethereum-go-ethereum-0-7974-s0.png",
+    "061-mobile-ethereum-go-ethereum-0-7974-s1.png"
+   ],
+   "text": "061-mobile-ethereum-go-ethereum-0-7974.txt",
+   "dom": "061-mobile-ethereum-go-ethereum-0-7974.json",
+   "interactive": 123,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "062",
+   "vp": "mobile",
+   "label": "argotorg/solidity 0.7954",
+   "trigger": "click: button \"argotorg/solidity 0.7954\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "062-mobile-argotorg-solidity-0-7954-s0.png",
+    "062-mobile-argotorg-solidity-0-7954-s1.png"
+   ],
+   "text": "062-mobile-argotorg-solidity-0-7954.txt",
+   "dom": "062-mobile-argotorg-solidity-0-7954.json",
+   "interactive": 123,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "063",
+   "vp": "mobile",
+   "label": "arkworks-rs/algebra 0.7954",
+   "trigger": "click: button \"arkworks-rs/algebra 0.7954\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "063-mobile-arkworks-rs-algebra-0-7954-s0.png",
+    "063-mobile-arkworks-rs-algebra-0-7954-s1.png"
+   ],
+   "text": "063-mobile-arkworks-rs-algebra-0-7954.txt",
+   "dom": "063-mobile-arkworks-rs-algebra-0-7954.json",
+   "interactive": 123,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "064",
+   "vp": "mobile",
+   "label": "ethereum/eips 0.7946",
+   "trigger": "click: button \"ethereum/eips 0.7946\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "064-mobile-ethereum-eips-0-7946-s0.png",
+    "064-mobile-ethereum-eips-0-7946-s1.png"
+   ],
+   "text": "064-mobile-ethereum-eips-0-7946.txt",
+   "dom": "064-mobile-ethereum-eips-0-7946.json",
+   "interactive": 123,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "065",
+   "vp": "mobile",
+   "label": "herumi/mcl 0.7903",
+   "trigger": "click: button \"herumi/mcl 0.7903\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "065-mobile-herumi-mcl-0-7903-s0.png",
+    "065-mobile-herumi-mcl-0-7903-s1.png"
+   ],
+   "text": "065-mobile-herumi-mcl-0-7903.txt",
+   "dom": "065-mobile-herumi-mcl-0-7903.json",
+   "interactive": 123,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "066",
+   "vp": "mobile",
+   "label": "nethereum/nethereum 0.7903",
+   "trigger": "click: button \"nethereum/nethereum 0.7903\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "066-mobile-nethereum-nethereum-0-7903-s0.png",
+    "066-mobile-nethereum-nethereum-0-7903-s1.png"
+   ],
+   "text": "066-mobile-nethereum-nethereum-0-7903.txt",
+   "dom": "066-mobile-nethereum-nethereum-0-7903.json",
+   "interactive": 123,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "067",
+   "vp": "mobile",
+   "label": "chainsafe/lodestar 0.7902",
+   "trigger": "click: button \"chainsafe/lodestar 0.7902\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "067-mobile-chainsafe-lodestar-0-7902-s0.png",
+    "067-mobile-chainsafe-lodestar-0-7902-s1.png"
+   ],
+   "text": "067-mobile-chainsafe-lodestar-0-7902.txt",
+   "dom": "067-mobile-chainsafe-lodestar-0-7902.json",
+   "interactive": 123,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "068",
+   "vp": "mobile",
+   "label": "argotorg/act 0.7884",
+   "trigger": "click: button \"argotorg/act 0.7884\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "068-mobile-argotorg-act-0-7884-s0.png",
+    "068-mobile-argotorg-act-0-7884-s1.png"
+   ],
+   "text": "068-mobile-argotorg-act-0-7884.txt",
+   "dom": "068-mobile-argotorg-act-0-7884.json",
+   "interactive": 123,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "069",
+   "vp": "mobile",
+   "label": "skalenetwork/libBLS 0.7828",
+   "trigger": "click: button \"skalenetwork/libBLS 0.7828\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "069-mobile-skalenetwork-libBLS-0-7828-s0.png",
+    "069-mobile-skalenetwork-libBLS-0-7828-s1.png"
+   ],
+   "text": "069-mobile-skalenetwork-libBLS-0-7828.txt",
+   "dom": "069-mobile-skalenetwork-libBLS-0-7828.json",
+   "interactive": 123,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "070",
+   "vp": "mobile",
+   "label": "wevm/viem 0.7776",
+   "trigger": "click: button \"wevm/viem 0.7776\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "070-mobile-wevm-viem-0-7776-s0.png",
+    "070-mobile-wevm-viem-0-7776-s1.png"
+   ],
+   "text": "070-mobile-wevm-viem-0-7776.txt",
+   "dom": "070-mobile-wevm-viem-0-7776.json",
+   "interactive": 123,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "071",
+   "vp": "mobile",
+   "label": "a16z/halmos 0.7741",
+   "trigger": "click: button \"a16z/halmos 0.7741\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "071-mobile-a16z-halmos-0-7741-s0.png",
+    "071-mobile-a16z-halmos-0-7741-s1.png"
+   ],
+   "text": "071-mobile-a16z-halmos-0-7741.txt",
+   "dom": "071-mobile-a16z-halmos-0-7741.json",
+   "interactive": 123,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "072",
+   "vp": "mobile",
+   "label": "Vectorized/solady 0.7734",
+   "trigger": "click: button \"Vectorized/solady 0.7734\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "072-mobile-Vectorized-solady-0-7734-s0.png",
+    "072-mobile-Vectorized-solady-0-7734-s1.png"
+   ],
+   "text": "072-mobile-Vectorized-solady-0-7734.txt",
+   "dom": "072-mobile-Vectorized-solady-0-7734.json",
+   "interactive": 123,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "073",
+   "vp": "mobile",
+   "label": "paradigmxyz/reth 0.7730",
+   "trigger": "click: button \"paradigmxyz/reth 0.7730\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "073-mobile-paradigmxyz-reth-0-7730-s0.png",
+    "073-mobile-paradigmxyz-reth-0-7730-s1.png"
+   ],
+   "text": "073-mobile-paradigmxyz-reth-0-7730.txt",
+   "dom": "073-mobile-paradigmxyz-reth-0-7730.json",
+   "interactive": 123,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "074",
+   "vp": "mobile",
+   "label": "argotorg/hevm 0.7725",
+   "trigger": "click: button \"argotorg/hevm 0.7725\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "074-mobile-argotorg-hevm-0-7725-s0.png",
+    "074-mobile-argotorg-hevm-0-7725-s1.png"
+   ],
+   "text": "074-mobile-argotorg-hevm-0-7725.txt",
+   "dom": "074-mobile-argotorg-hevm-0-7725.json",
+   "interactive": 123,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "075",
+   "vp": "mobile",
+   "label": "ethereum/web3.py 0.7719",
+   "trigger": "click: button \"ethereum/web3.py 0.7719\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "075-mobile-ethereum-web3-py-0-7719-s0.png",
+    "075-mobile-ethereum-web3-py-0-7719-s1.png"
+   ],
+   "text": "075-mobile-ethereum-web3-py-0-7719.txt",
+   "dom": "075-mobile-ethereum-web3-py-0-7719.json",
+   "interactive": 123,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "076",
+   "vp": "mobile",
+   "label": "openzeppelin/openzeppelin-contracts 0.7698",
+   "trigger": "click: button \"openzeppelin/openzeppelin-contracts 0.7698\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "076-mobile-openzeppelin-openzeppelin-contracts-0-7698-s0.png",
+    "076-mobile-openzeppelin-openzeppelin-contracts-0-7698-s1.png"
+   ],
+   "text": "076-mobile-openzeppelin-openzeppelin-contracts-0-7698.txt",
+   "dom": "076-mobile-openzeppelin-openzeppelin-contracts-0-7698.json",
+   "interactive": 123,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "077",
+   "vp": "mobile",
+   "label": "vyperlang/titanoboa 0.7695",
+   "trigger": "click: button \"vyperlang/titanoboa 0.7695\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "077-mobile-vyperlang-titanoboa-0-7695-s0.png",
+    "077-mobile-vyperlang-titanoboa-0-7695-s1.png"
+   ],
+   "text": "077-mobile-vyperlang-titanoboa-0-7695.txt",
+   "dom": "077-mobile-vyperlang-titanoboa-0-7695.json",
+   "interactive": 123,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "078",
+   "vp": "mobile",
+   "label": "paulmillr/noble-curves 0.7692",
+   "trigger": "click: button \"paulmillr/noble-curves 0.7692\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "078-mobile-paulmillr-noble-curves-0-7692-s0.png",
+    "078-mobile-paulmillr-noble-curves-0-7692-s1.png"
+   ],
+   "text": "078-mobile-paulmillr-noble-curves-0-7692.txt",
+   "dom": "078-mobile-paulmillr-noble-curves-0-7692.json",
+   "interactive": 123,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "079",
+   "vp": "mobile",
+   "label": "OffchainLabs/prysm 0.7689",
+   "trigger": "click: button \"OffchainLabs/prysm 0.7689\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "079-mobile-OffchainLabs-prysm-0-7689-s0.png",
+    "079-mobile-OffchainLabs-prysm-0-7689-s1.png"
+   ],
+   "text": "079-mobile-OffchainLabs-prysm-0-7689.txt",
+   "dom": "079-mobile-OffchainLabs-prysm-0-7689.json",
+   "interactive": 123,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "080",
+   "vp": "mobile",
+   "label": "intellij-solidity/intellij-solidity 0.7684",
+   "trigger": "click: button \"intellij-solidity/intellij-solidity 0.7684\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "080-mobile-intellij-solidity-intellij-solidity-0-7684-s0.png",
+    "080-mobile-intellij-solidity-intellij-solidity-0-7684-s1.png"
+   ],
+   "text": "080-mobile-intellij-solidity-intellij-solidity-0-7684.txt",
+   "dom": "080-mobile-intellij-solidity-intellij-solidity-0-7684.json",
+   "interactive": 123,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "081",
+   "vp": "mobile",
+   "label": "vyperlang/vyper 0.7666",
+   "trigger": "click: button \"vyperlang/vyper 0.7666\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "081-mobile-vyperlang-vyper-0-7666-s0.png",
+    "081-mobile-vyperlang-vyper-0-7666-s1.png"
+   ],
+   "text": "081-mobile-vyperlang-vyper-0-7666.txt",
+   "dom": "081-mobile-vyperlang-vyper-0-7666.json",
+   "interactive": 123,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "082",
+   "vp": "mobile",
+   "label": "ethereum/execution-apis 0.7663",
+   "trigger": "click: button \"ethereum/execution-apis 0.7663\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "082-mobile-ethereum-execution-apis-0-7663-s0.png",
+    "082-mobile-ethereum-execution-apis-0-7663-s1.png"
+   ],
+   "text": "082-mobile-ethereum-execution-apis-0-7663.txt",
+   "dom": "082-mobile-ethereum-execution-apis-0-7663.json",
+   "interactive": 123,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "083",
+   "vp": "mobile",
+   "label": "nomicfoundation/hardhat 0.7655",
+   "trigger": "click: button \"nomicfoundation/hardhat 0.7655\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "083-mobile-nomicfoundation-hardhat-0-7655-s0.png",
+    "083-mobile-nomicfoundation-hardhat-0-7655-s1.png"
+   ],
+   "text": "083-mobile-nomicfoundation-hardhat-0-7655.txt",
+   "dom": "083-mobile-nomicfoundation-hardhat-0-7655.json",
+   "interactive": 123,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "084",
+   "vp": "mobile",
+   "label": "erigontech/erigon 0.7652",
+   "trigger": "click: button \"erigontech/erigon 0.7652\" on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "084-mobile-erigontech-erigon-0-7652-s0.png",
+    "084-mobile-erigontech-erigon-0-7652-s1.png"
+   ],
+   "text": "084-mobile-erigontech-erigon-0-7652.txt",
+   "dom": "084-mobile-erigontech-erigon-0-7652.json",
+   "interactive": 123,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  },
+  {
+   "id": "085",
+   "vp": "mobile",
+   "label": "search e",
+   "trigger": "type \"e\" into search on /",
+   "url": "https://deep.seer.pm/",
+   "title": "AI Prediction Markets",
+   "shots": [
+    "085-mobile-search-e-s0.png",
+    "085-mobile-search-e-s1.png"
+   ],
+   "text": "085-mobile-search-e.txt",
+   "dom": "085-mobile-search-e.json",
+   "interactive": 102,
+   "charts": 2,
+   "tables": 2,
+   "dialogs": 0
+  }
+ ],
+ "transitions": [
+  {
+   "from": "https://deep.seer.pm",
+   "via": "Guide",
+   "to": "https://deep-pm.gitbook.io/seer-docs",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "Charting by TradingView",
+   "to": "https://www.tradingview.com/?utm_medium=lwc-link&utm_campaign=lwc-chart&utm_source=deep.seer.pm/",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "Browse on Seer",
+   "to": "https://app.seer.pm/?chains=10",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "https://kleros.io/",
+   "to": "https://kleros.io/",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "Telegram",
+   "to": "https://t.me/kleros",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "X",
+   "to": "https://x.com/kleros_io",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "GitHub",
+   "to": "https://github.com/kleros",
+   "external": true,
+   "vp": "desktop"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: AI Prediction Markets",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "002",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: Leaderboard",
+   "to": "https://deep.seer.pm/leaderboard",
+   "newState": true,
+   "state": "004",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: Profile",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "005",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: 0x0000…dEaD",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "006",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: Round 3 · Originality LIVE",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "007",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: Archive",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "008",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: Refresh volume",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "009",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: ethereum/consensus-specs 0.8481",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "010",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: ethers-io/ethers.js 0.8275",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "011",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: sigp/lighthouse 0.8275",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "012",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: status-im/nimbus-eth2 0.8262",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "013",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: Consensys/gnark-crypto 0.8067",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "014",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: foundry-rs/foundry 0.8034",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "015",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: supranational/blst 0.8033",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "016",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: flashbots/mev-boost 0.8028",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "017",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: consensys/teku 0.8020",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "018",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: ethereum/go-ethereum 0.7974",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "019",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: argotorg/solidity 0.7954",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "020",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: arkworks-rs/algebra 0.7954",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "021",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: ethereum/eips 0.7946",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "022",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: herumi/mcl 0.7903",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "023",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: nethereum/nethereum 0.7903",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "024",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: chainsafe/lodestar 0.7902",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "025",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: argotorg/act 0.7884",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "026",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: skalenetwork/libBLS 0.7828",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "027",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: wevm/viem 0.7776",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "028",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: a16z/halmos 0.7741",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "029",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: Vectorized/solady 0.7734",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "030",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: paradigmxyz/reth 0.7730",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "031",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: argotorg/hevm 0.7725",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "032",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: ethereum/web3.py 0.7719",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "033",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: openzeppelin/openzeppelin-contracts 0.7698",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "034",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: vyperlang/titanoboa 0.7695",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "035",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: paulmillr/noble-curves 0.7692",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "036",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: OffchainLabs/prysm 0.7689",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "037",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: intellij-solidity/intellij-solidity 0.7684",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "038",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: vyperlang/vyper 0.7666",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "039",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: ethereum/execution-apis 0.7663",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "040",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: nomicfoundation/hardhat 0.7655",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "041",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: erigontech/erigon 0.7652",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "042",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "search input: e",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "043",
+   "vp": "desktop"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "Charting by TradingView",
+   "to": "https://www.tradingview.com/?utm_medium=lwc-link&utm_campaign=lwc-chart&utm_source=deep.seer.pm/",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "Browse on Seer",
+   "to": "https://app.seer.pm/?chains=10",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "https://kleros.io/",
+   "to": "https://kleros.io/",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "Telegram",
+   "to": "https://t.me/kleros",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "X",
+   "to": "https://x.com/kleros_io",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "GitHub",
+   "to": "https://github.com/kleros",
+   "external": true,
+   "vp": "mobile"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: Leaderboard",
+   "to": "https://deep.seer.pm/leaderboard",
+   "newState": true,
+   "state": "045",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: Profile",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "046",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: 0x0000…dEaD",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "048",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: Round 3 · Originality LIVE",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "049",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: Archive",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "050",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: Refresh volume",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "051",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: ethereum/consensus-specs 0.8481",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "052",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: ethers-io/ethers.js 0.8275",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "053",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: sigp/lighthouse 0.8275",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "054",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: status-im/nimbus-eth2 0.8262",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "055",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: Consensys/gnark-crypto 0.8067",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "056",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: foundry-rs/foundry 0.8034",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "057",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: supranational/blst 0.8033",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "058",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: flashbots/mev-boost 0.8028",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "059",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: consensys/teku 0.8020",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "060",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: ethereum/go-ethereum 0.7974",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "061",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: argotorg/solidity 0.7954",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "062",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: arkworks-rs/algebra 0.7954",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "063",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: ethereum/eips 0.7946",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "064",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: herumi/mcl 0.7903",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "065",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: nethereum/nethereum 0.7903",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "066",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: chainsafe/lodestar 0.7902",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "067",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: argotorg/act 0.7884",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "068",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: skalenetwork/libBLS 0.7828",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "069",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: wevm/viem 0.7776",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "070",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: a16z/halmos 0.7741",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "071",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: Vectorized/solady 0.7734",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "072",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: paradigmxyz/reth 0.7730",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "073",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: argotorg/hevm 0.7725",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "074",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: ethereum/web3.py 0.7719",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "075",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: openzeppelin/openzeppelin-contracts 0.7698",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "076",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: vyperlang/titanoboa 0.7695",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "077",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: paulmillr/noble-curves 0.7692",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "078",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: OffchainLabs/prysm 0.7689",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "079",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: intellij-solidity/intellij-solidity 0.7684",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "080",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: vyperlang/vyper 0.7666",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "081",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: ethereum/execution-apis 0.7663",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "082",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: nomicfoundation/hardhat 0.7655",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "083",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "button: erigontech/erigon 0.7652",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "084",
+   "vp": "mobile"
+  },
+  {
+   "from": "https://deep.seer.pm",
+   "via": "search input: e",
+   "to": "https://deep.seer.pm/",
+   "newState": true,
+   "state": "085",
+   "vp": "mobile"
+  }
+ ],
+ "consoleErrors": []
+}

@@ -1,0 +1,22 @@
+You are building apps/explorer (Seer Explorer redesign). Read, in order:
+products/explorer/DIRECTION.md, products/explorer/design.md (this spec; follow it literally),
+docs/ui-quality-rules.md, docs/coding-rules.md. Copy proven pieces from apps/futarchy/src/components
+(HoverMenu, Tooltip, RollingNumber, Segmented, CommandPalette, GuidedTour, ThemeToggle, Avatar) and adapt
+styling; do not import across apps. Stack: React 19 + TS strict + plain CSS + tokens (@seer/ef) + motion +
+d3-scale/shape/array/time. No new deps. Components < 150 lines; pure math in src/math with formula comments.
+Use ONLY strings from design.md §8 allowed list or data labels/units. Real data only (src/data/*.json and
+src/data/fixtures/*.json). Do not edit other apps or packages/ef/tokens.css. Do not commit.
+You cannot run e2e (no ports). End with the tail of: npm run build -w apps/explorer && npx tsc --noEmit -p apps/explorer
+IGNORE any e2e_last.txt at the repo root: it belongs to another product. Implement ALL files listed below in full; do not stop with "no changes".
+
+Also read products/explorer/design.md sections referenced below. Do not run any dev server.
+
+Files: src/leaderboard/{LeaderboardPage.tsx,LeaderControls.tsx,LeaderTable.tsx,LeaderRow.tsx,ScoreAnatomy.tsx,
+TierPill.tsx}, src/create/CreatePage.tsx, src/collections/CollectionsPage.tsx, src/components/{HoverMenu.tsx,
+PoliciesMenu.tsx,AppMenu.tsx,AccountMenu.tsx,ConnectDialog.tsx,MobileNavSheet.tsx,ThemeToggle.tsx,GuidedTour.tsx},
+src/leaderboard/leaderboard.css.
+Do §4.11–4.15 and §9.7 mobile layouts: fixtures keyed by params (missing → Not in sample data + Retry), real sorting
+and paging, Updating…, Your Rank flow, score anatomy from scoreBreakdown, labelled rows <600; create step 1 with real
+example questions, Next gating + tooltip, ?parent prefill, step-2 plate; collections gate + local star grid; all menus
+with observed hrefs; Account menu with smart-account switch; mobile ≡ sheet; tour 5 steps.
+Acceptance: build+tsc; e2e parity L-*, C-*, CM-*, CL-*, COL-*, M-*, G-*, flows 02/06/08 green.

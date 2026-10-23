@@ -1,0 +1,621 @@
+{
+ "url": "https://deep.seer.pm/",
+ "title": "AI Prediction Markets",
+ "controls": [
+  {
+   "tag": "button",
+   "text": "AI Prediction Markets",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Leaderboard",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Profile",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "0x0000…dEaD",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Create trade wallet",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Round 3 · Originality\nLIVE",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Archive",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Refresh volume",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "input",
+   "text": "Search outcomes",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "ethereum/consensus-specs\n0.8481",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "ethers-io/ethers.js\n0.8275",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "sigp/lighthouse\n0.8275",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "status-im/nimbus-eth2\n0.8262",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Consensys/gnark-crypto\n0.8067",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "foundry-rs/foundry\n0.8034",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "supranational/blst\n0.8033",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "flashbots/mev-boost\n0.8028",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "consensys/teku\n0.8020",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "ethereum/go-ethereum\n0.7974",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "argotorg/solidity\n0.7954",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "arkworks-rs/algebra\n0.7954",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "ethereum/eips\n0.7946",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "herumi/mcl\n0.7903",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "nethereum/nethereum\n0.7903",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "chainsafe/lodestar\n0.7902",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "argotorg/act\n0.7884",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "skalenetwork/libBLS\n0.7828",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "wevm/viem\n0.7776",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "a16z/halmos\n0.7741",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Vectorized/solady\n0.7734",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "paradigmxyz/reth\n0.7730",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "argotorg/hevm\n0.7725",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "ethereum/web3.py\n0.7719",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "openzeppelin/openzeppelin-contracts\n0.7698",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "vyperlang/titanoboa\n0.7695",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "paulmillr/noble-curves\n0.7692",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "OffchainLabs/prysm\n0.7689",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "intellij-solidity/intellij-solidity\n0.7684",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "vyperlang/vyper\n0.7666",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "ethereum/execution-apis\n0.7663",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "nomicfoundation/hardhat\n0.7655",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "erigontech/erigon\n0.7652",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "argotorg/sourcify\n0.7629",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "swiss-knife-xyz/swiss-knife\n0.7619",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "ethereum/py_ecc\n0.7614",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "evmts/tevm-monorepo\n0.7611",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "argotorg/fe\n0.7602",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Certora/CertoraProver\n0.7595",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "alloy-rs/alloy\n0.7594",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "lambdaclass/ethrex\n0.7587",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "apeworx/ape\n0.7585",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "ipsilon/evmone\n0.7585",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "grandinetech/grandine\n0.7573",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "shazow/whatsabi\n0.7511",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "lambdaclass/lambda_ethereum_consensus\n0.7492",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "flashbots/mev-boost-relay\n0.7479",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "erigontech/silkworm\n0.7474",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "ethstaker/ethstaker-deposit-cli\n0.7473",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "EspressoSystems/jellyfish\n0.7468",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "hyperledger/besu\n0.7450",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "libp2p/libp2p\n0.7448",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "hyperledger-web3j/web3j\n0.7447",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "taikoxyz/taiko-mono\n0.7432",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Commit-Boost/commit-boost-client\n0.7422",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "OffchainLabs/stylus-sdk-rs\n0.7393",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Cyfrin/aderyn\n0.7384",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "nethermindeth/nethermind\n0.7383",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "TrueBlocks/trueblocks-core\n0.7369",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "wealdtech/ethdo\n0.7361",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "holiman/goevmlab\n0.7356",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "DefiLlama/DefiLlama-Adapters\n0.7315",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "ethdebug/format\n0.7313",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "wighawag/hardhat-deploy\n0.7299",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "LFDT-web3j/web3j\n0.7294",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "ChainSafe/bls\n0.7283",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "ethereum-lists/chains\n0.7271",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "protofire/solhint\n0.7253",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "remix-project-org/remix-project\n0.7249",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Plonky3/Plonky3\n0.7245",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "0xMiden/miden-vm\n0.7218",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "powdr-labs/powdr\n0.7209",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "flashbots/rbuilder\n0.7180",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "edb-rs/edb\n0.7166",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "lambdaclass/lambdaworks\n0.7164",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "otterscan/otterscan\n0.7106",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "eth-infinitism/account-abstraction\n0.7093",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "dl-solarity/solidity-lib\n0.7089",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "a16z/helios\n0.7044",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "blockscout/blockscout\n0.7027",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "aestus-relay/mev-boost-relay\n0.6998",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "DefiLlama/chainlist\n0.6962",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "ethereum/js-ethereum-cryptography\n0.6915",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "l2beat/l2beat\n0.6898",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "scaffold-eth/scaffold-eth-2\n0.6889",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "axiom-crypto/snark-verifier\n0.6820",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "NethermindEth/juno\n0.6786",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "safe-global/safe-smart-account\n0.6667",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "succinctlabs/sp1\n0.6607",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "ethstaker/eth-docker\n0.6571",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "risc0/risc0-ethereum\n0.6535",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "succinctlabs/rsp\n0.6417",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "ethpandaops/ethereum-helm-charts\n0.6362",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "smartcontracts/simple-optimism-node\n0.6250",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "ethpandaops/ethereum-package\n0.6188",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "dappnode/DAppNode\n0.5665",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "succinctlabs/op-succinct\n0.5451",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "ethpandaops/checkpointz\n0.5446",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Hide all",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Upload predictions",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "Export market weights",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "REPOSITORY",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "MARKET",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "DIFFERENCE",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "How the UP difference is calculated",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "MARKET",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "DIFFERENCE",
+   "disabled": false
+  },
+  {
+   "tag": "button",
+   "text": "How the DOWN difference is calculated",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "Browse on Seer",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "Telegram",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "X",
+   "disabled": false
+  },
+  {
+   "tag": "a",
+   "text": "GitHub",
+   "disabled": false
+  }
+ ]
+}

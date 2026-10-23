@@ -1,0 +1,187 @@
+[
+ {
+  "fact": "Futarchy is a form of government proposed by economist Robin Hanson.",
+  "quote": "Futarchy is a form of government proposed by economist Robin Hanson",
+  "url": "https://en.wikipedia.org/wiki/Futarchy"
+ },
+ {
+  "fact": "In futarchy, elected officials define measures of national wellbeing.",
+  "quote": "in which elected officials define measures of national wellbeing",
+  "url": "https://en.wikipedia.org/wiki/Futarchy"
+ },
+ {
+  "fact": "Prediction markets are used to determine which policies will have the most positive effect.",
+  "quote": "prediction markets are used to determine which policies will have the most positive effect.",
+  "url": "https://en.wikipedia.org/wiki/Futarchy"
+ },
+ {
+  "fact": "The idea has been expanded to blockchains and decentralized autonomous organizations (DAOs).",
+  "quote": "The idea has been subsequently expanded to explore its potential in the context of blockchains and the decentralized autonomous organization (DAO).",
+  "url": "https://en.wikipedia.org/wiki/Futarchy"
+ },
+ {
+  "fact": "The term futarchy combines future with the suffix -archy, reflecting rule by the predicted future.",
+  "quote": "The term \"futarchy\" combines the word \"future\" with the suffix \"-archy,\" reflecting its claim to use market predictions to create a \"rule by the (predicted) future\".",
+  "url": "https://en.wikipedia.org/wiki/Futarchy"
+ },
+ {
+  "fact": "Robin Hanson's 1999 paper Decision Markets proposed using speculative markets to estimate consequences of policy decisions.",
+  "quote": "Robin Hanson first explored related concepts in his 1999 paper \"Decision Markets,\"",
+  "url": "https://en.wikipedia.org/wiki/Futarchy"
+ },
+ {
+  "fact": "In 2000, Hanson formalized futarchy and introduced the slogan vote on values, bet on beliefs.",
+  "quote": "In 2000, Hanson formalized futarchy in \"Futarchy: Vote Values, But Bet Beliefs,\" introducing the slogan \"vote on values, bet on beliefs\"",
+  "url": "https://en.wikipedia.org/wiki/Futarchy"
+ },
+ {
+  "fact": "Hanson's 2013 paper addressed criticisms and proposed conditional markets and welfare measurements.",
+  "quote": "Hanson refined the idea in his 2013 paper \"Shall We Vote on Values, But Bet on Beliefs?,\" addressing criticisms and proposing mechanisms like conditional markets and welfare measurements.",
+  "url": "https://en.wikipedia.org/wiki/Futarchy"
+ },
+ {
+  "fact": "Vitalik Buterin's 2014 blog post explored futarchy for Ethereum-based DAO governance.",
+  "quote": "The concept gained attention in blockchain contexts with Vitalik Buterin 's 2014 blog post \"An Introduction to Futarchy,\"",
+  "url": "https://en.wikipedia.org/wiki/Futarchy"
+ },
+ {
+  "fact": "In futarchy, values are determined democratically while beliefs about policy outcomes are aggregated through prediction markets.",
+  "quote": "In futarchy, values are determined democratically (e.g., via elections defining a welfare metric like augmented GDP), while beliefs about policy outcomes are aggregated through prediction markets.",
+  "url": "https://en.wikipedia.org/wiki/Futarchy"
+ },
+ {
+  "fact": "Conditional assets pay based on outcomes tied to whether a policy is adopted.",
+  "quote": "Conditional assets pay based on outcomes tied to whether a policy is adopted, allowing markets to estimate expected welfare.",
+  "url": "https://en.wikipedia.org/wiki/Futarchy"
+ },
+ {
+  "fact": "Proposals pass if markets predict higher welfare.",
+  "quote": "Proposals pass if markets predict higher welfare.",
+  "url": "https://en.wikipedia.org/wiki/Futarchy"
+ },
+ {
+  "fact": "Refinements include statistical models for price significance, agenda auctions, and veto mechanisms.",
+  "quote": "Refinements include statistical models for price significance, agenda auctions, and veto mechanisms to handle future welfare definitions.",
+  "url": "https://en.wikipedia.org/wiki/Futarchy"
+ },
+ {
+  "fact": "Tyler Cowen argued that values and beliefs cannot be easily separated.",
+  "quote": "Economist Tyler Cowen has argued that \"values and beliefs\" cannot be easily separated:",
+  "url": "https://en.wikipedia.org/wiki/Futarchy"
+ },
+ {
+  "fact": "Critiques include risks of market manipulation, thin liquidity, and challenges in defining comprehensive welfare metrics.",
+  "quote": "Other critiques include risks of market manipulation, thin liquidity, and challenges in defining comprehensive welfare metrics.",
+  "url": "https://en.wikipedia.org/wiki/Futarchy"
+ },
+ {
+  "fact": "MetaDAO is a fundraising and governance platform for high-quality founders and their communities.",
+  "quote": "A fundraising and governance platform for high-quality founders and their communities",
+  "url": "https://docs.metadao.fi"
+ },
+ {
+  "fact": "The documentation includes a 'How Governance Works' section.",
+  "quote": "How Governance Works",
+  "url": "https://docs.metadao.fi"
+ },
+ {
+  "fact": "The documentation includes an 'Introduction to Decision Markets' page.",
+  "quote": "Introduction to Decision Markets",
+  "url": "https://docs.metadao.fi"
+ },
+ {
+  "fact": "The documentation includes a 'Creating Proposals' page.",
+  "quote": "Creating Proposals",
+  "url": "https://docs.metadao.fi"
+ },
+ {
+  "fact": "The documentation includes a 'Trading Proposals' page.",
+  "quote": "Trading Proposals",
+  "url": "https://docs.metadao.fi"
+ },
+ {
+  "fact": "The documentation includes a 'Finalizing Proposals' page.",
+  "quote": "Finalizing Proposals",
+  "url": "https://docs.metadao.fi"
+ },
+ {
+  "fact": "MetaDAO emphasizes real ownership and unruggability as a core principle.",
+  "quote": "Real ownership and unruggability",
+  "url": "https://docs.metadao.fi"
+ },
+ {
+  "fact": "The most important project assets\u2014IP, funds, and token minting\u2014are controlled by market-driven governance.",
+  "quote": "the most important parts of the project - the intellectual property, the funds, and the ability to mint new tokens - are controlled by market-driven governance",
+  "url": "https://docs.metadao.fi"
+ },
+ {
+  "fact": "Market-driven governance is intended to give the token value and reduce treasury rug risk.",
+  "quote": "This imbues the token with value and mitigates the risk of malicious teams rugging the treasury.",
+  "url": "https://docs.metadao.fi"
+ },
+ {
+  "fact": "MetaDAO lists core principles in its welcome documentation.",
+  "quote": "MetaDAO\u2019s core principles are:",
+  "url": "https://docs.metadao.fi"
+ },
+ {
+  "fact": "A core principle is launching early with high-float ICOs instead of a high FDV.",
+  "quote": "Fair launch early : instead of launching at a high FDV, projects launch early with high-float ICOs so that they can grow over time.",
+  "url": "https://docs.metadao.fi"
+ },
+ {
+  "fact": "Insider unlocks are tied to performance via premium over launch price.",
+  "quote": "insiders unlocks are proportional to the premium over the launch price",
+  "url": "https://docs.metadao.fi"
+ },
+ {
+  "fact": "MetaDAO targets founders who want to launch a token the right way.",
+  "quote": "MetaDAO is for founders who want to launch a token the right way",
+  "url": "https://docs.metadao.fi"
+ },
+ {
+  "fact": "The docs include META token details, token mechanics, and a MiCA white paper.",
+  "quote": "META Token Details Token Mechanics MiCA White Paper",
+  "url": "https://docs.metadao.fi"
+ },
+ {
+  "fact": "The fundraising docs include 'The ICO Bid Wall'.",
+  "quote": "The ICO Bid Wall",
+  "url": "https://docs.metadao.fi"
+ },
+ {
+  "fact": "Gnosis engineers first brought the constant product formula on-chain to price prediction markets.",
+  "quote": "Gnosis engineers first brought the constant product formula on-chain, to price prediction markets.",
+  "url": "https://www.gnosis.io"
+ },
+ {
+  "fact": "The constant product market maker design was foundational for Uniswap and the rest of DeFi.",
+  "quote": "Uniswap and the rest of DeFi were built on it.",
+  "url": "https://www.gnosis.io"
+ },
+ {
+  "fact": "Gnosis created the Conditional Token Framework in 2018 as an open standard for tokenizing outcomes.",
+  "quote": "Conditional Token Framework Open standard for tokenizing outcomes, created by Gnosis in 2018.",
+  "url": "https://www.gnosis.io"
+ },
+ {
+  "fact": "The Conditional Token Framework underpins every market on Polymarket and most on-chain prediction markets.",
+  "quote": "It underpins every market on Polymarket and most on-chain prediction markets.",
+  "url": "https://www.gnosis.io"
+ },
+ {
+  "fact": "Gnosis lists prediction markets as an area it helped enable.",
+  "quote": "Enabling prediction markets",
+  "url": "https://www.gnosis.io"
+ },
+ {
+  "fact": "Projects built inside Gnosis were released by GnosisDAO vote.",
+  "quote": "Built inside Gnosis, released by GnosisDAO vote.",
+  "url": "https://www.gnosis.io"
+ },
+ {
+  "fact": "Gnosis provides a governance route through GnosisDAO voting.",
+  "quote": "Vote on all of it at Vote on all of it at GnosisDAO",
+  "url": "https://www.gnosis.io"
+ }
+]

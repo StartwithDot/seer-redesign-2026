@@ -1,0 +1,460 @@
+{
+ "title": "Seer",
+ "url": "https://seer.pm/",
+ "scrollHeight": 5143,
+ "headings": [],
+ "interactive": [
+  {
+   "i": 0,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Announcing the Seer Initial Airdrop Distribution: Learn More",
+   "href": "https://seer-pm.medium.com/announcing-the-seer-initial-airdrop-distribution-58d38e1ec8f9",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    478,
+    12,
+    483,
+    24
+   ]
+  },
+  {
+   "i": 1,
+   "tag": "button",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1369,
+    12,
+    24,
+    24
+   ]
+  },
+  {
+   "i": 2,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Documentation",
+   "href": "https://seer-3.gitbook.io/seer-documentation",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    870,
+    91,
+    115,
+    24
+   ]
+  },
+  {
+   "i": 3,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Blog",
+   "href": "https://seer-pm.medium.com/",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1017,
+    91,
+    32,
+    24
+   ]
+  },
+  {
+   "i": 4,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Launch App",
+   "href": "https://app.seer.pm/",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1160,
+    79,
+    154,
+    48
+   ]
+  },
+  {
+   "i": 5,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Start Now",
+   "href": "https://app.seer.pm/",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    127,
+    598,
+    140,
+    48
+   ]
+  },
+  {
+   "i": 6,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Learn More",
+   "href": "https://seer-3.gitbook.io/seer-documentation",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    298,
+    610,
+    125,
+    24
+   ]
+  },
+  {
+   "i": 7,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Create A Market",
+   "href": "https://app.seer.pm/create-market",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    158,
+    1823,
+    518,
+    36
+   ]
+  },
+  {
+   "i": 8,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Start Trading",
+   "href": "https://app.seer.pm/",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    764,
+    1823,
+    518,
+    36
+   ]
+  },
+  {
+   "i": 9,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "View Example",
+   "href": "https://app.seer.pm/markets/100/0x43d881f5920ed29fc5cd4917d6817496abbba6d9",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    158,
+    3382,
+    518,
+    36
+   ]
+  },
+  {
+   "i": 10,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "View Example",
+   "href": "https://app.seer.pm/markets/100/0x528c5535136ce58611dc347ae88e40a420fa67cc",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    764,
+    3382,
+    518,
+    36
+   ]
+  },
+  {
+   "i": 11,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "View Example",
+   "href": "https://app.seer.pm/markets/100/0xe12f48ecdd6e64d95d1d8f1d5d7aa37e14f2888b",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    158,
+    3769,
+    518,
+    36
+   ]
+  },
+  {
+   "i": 12,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "View Example",
+   "href": "https://app.seer.pm/markets/100/0x8df5b3a628b3d7703164620418159e83c3697ea5",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    764,
+    3769,
+    518,
+    36
+   ]
+  },
+  {
+   "i": 13,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Start Now",
+   "href": "https://app.seer.pm/",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    650,
+    4090,
+    140,
+    48
+   ]
+  },
+  {
+   "i": 14,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "info@seer.pm",
+   "href": "mailto:info@seer.pm",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    127,
+    4439,
+    509,
+    36
+   ]
+  },
+  {
+   "i": 15,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Seer App",
+   "href": "https://app.seer.pm/",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    568,
+    4768,
+    86,
+    24
+   ]
+  },
+  {
+   "i": 16,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Blog",
+   "href": "https://seer-pm.medium.com/",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    568,
+    4807,
+    86,
+    24
+   ]
+  },
+  {
+   "i": 17,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Community",
+   "href": "https://discord.com/invite/rBEB4MYQwV",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    568,
+    4847,
+    86,
+    24
+   ]
+  },
+  {
+   "i": 18,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Documentation",
+   "href": "https://seer-3.gitbook.io/seer-documentation",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    733,
+    4768,
+    140,
+    24
+   ]
+  },
+  {
+   "i": 19,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Images & Branding",
+   "href": "https://drive.google.com/drive/folders/1EOGhjj_jHJ5PPt86VEDuGZ2dovJpfY-l",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    733,
+    4807,
+    140,
+    24
+   ]
+  },
+  {
+   "i": 20,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://github.com/seer-pm",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    595,
+    4959,
+    24,
+    26
+   ]
+  },
+  {
+   "i": 21,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://x.com/seer_pm",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    651,
+    4959,
+    24,
+    26
+   ]
+  },
+  {
+   "i": 22,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://t.me/Seerpredictionmarket",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    706,
+    4959,
+    24,
+    26
+   ]
+  },
+  {
+   "i": 23,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://discord.com/invite/rBEB4MYQwV",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    762,
+    4959,
+    28,
+    26
+   ]
+  },
+  {
+   "i": 24,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://seer-pm.medium.com/",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    821,
+    4959,
+    24,
+    26
+   ]
+  },
+  {
+   "i": 25,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://kleros.io/",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    127,
+    5084,
+    1187,
+    24
+   ]
+  }
+ ],
+ "charts": [],
+ "tables": [],
+ "fonts": [
+  "Open Sans"
+ ],
+ "colors": {
+  "bg": "rgba(0, 0, 0, 0)",
+  "text": "rgb(0, 0, 0)"
+ },
+ "dialogs": 0
+}

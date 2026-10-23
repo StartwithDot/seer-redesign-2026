@@ -1,0 +1,160 @@
+Note that this is a Beta version and can still be unstable
+Markets
+Leaderboard
+Create Market
+Policies
+App
+0x0000...dEaD
+
+24.69 xDAI
+
+/
+Market
+Conditional Market
+This market is conditional on the resolution of "Will Marine Le Pen be the National Rally’s candidate in the next French presidential election?" being "Yes".
+If the main market resolves to a different outcome, the tokens of this market will be worthless.
+Reports open
+Will the National Rally’s candidate win the next French presidential election?
+Answer on Reality.eth!
+Categorical
+Liquidity:
+7.54k
+Volume:
+11.75k
+Verified
+1D
+1W
+1M
+All
+Custom
+No
+74.5%
+Yes
+35.3%
+	
+	
+
+	
+	
+Outcomes
+
+#1 No
+
+Add Liquidity
+View pool details
+New conditional market
+74.5%
+
+#2 Yes
+
+Add Liquidity
+View pool details
+New conditional market
+35.3%
+
+#3 Invalid
+
+Add Liquidity
+View pool details
+New conditional market
+0%
+No
+Market
+
+You pay
+
+LEPEN_NRYES
+
+0 LEPEN_NRYES
+
+Max
+
+You will get
+
+No
+
+Avg price
+0 LEPEN_NRYES
+Potential return
+0.00 LEPEN_NRYES (0.00%)
+Parameters:
+
+Max slippage 1%
+
+Enter an amount
+
+More
+
+Mint
+Mint
+Merge
+Redeem
+Amount
+Max
+Balance:
+0 LEPEN_NRYES
+Mint
+Major Events
+1 UPCOMING
+
+MAY 31, 2027 · 00:00 UTC
+
+Reality.eth Resolution
+
+Expected resolution date
+
+Comments
+Related Conditional Markets
+Top Holders
+Activity
+Yes	Balance
+
+total-electronic-snake
+	5.73k
+
+voluminous-worldwide-boar
+	1.49k
+
+slimy-correct-hedgehog
+	0.14
+
+@mr-froggert
+	<0.001
+No	Balance
+
+voluminous-worldwide-boar
+	7.17k
+
+ripotche.eth
+	33.77
+
+@mr-froggert
+	11.67
+
+adequate-bitter-lemur
+	1.06
+
+respectable-scientific-otter
+	0.40
+
+slimy-correct-hedgehog
+	0.40
+
+tense-individual-impala
+	<0.001
+Invalid	Balance
+
+voluminous-worldwide-boar
+	3.70k
+
+total-electronic-snake
+	3.37k
+
+stormy-dull-puffin
+	100.00
+
+tense-individual-impala
+	36.53
+
+@mr-froggert
+	10.00

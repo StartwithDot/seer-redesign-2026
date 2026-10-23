@@ -1,0 +1,118 @@
+# Interactive controls seen (tag | role | text | href | where)
+- a |  | Futarchy | / | 001d, 002d, 003d, 004d, 005d, 006d, 007d, 008d
+- button |  | Refresh RPC Connection |  | 001d, 002d, 003d, 004d, 005d, 006d, 007d, 008d
+- button |  | Switch to dark mode |  | 001d, 007d, 008d, 009d, 010d, 025d, 026d, 027d
+- button |  | Chain Selector |  | 001d, 002d, 003d, 004d, 005d, 006d, 007d, 008d
+- button |  | 👾 0x00…dEaD |  | 001d, 002d, 003d, 004d, 005d, 006d, 007d, 008d
+- a |  | Gnosis What will the impact on GNO price be if GIP-152 is passed? Awaiting Resol | /markets/0xee8878d0a7136c5cd109554f06bb780e225badef | 001d, 002d, 003d, 004d, 005d, 006d, 007d, 008d
+- a |  | Gnosis What will the impact on PNK price be if KIP-90 is approved? ✓ Resolved Ou | /markets/0x84412fe9d088c1d8dd676a7be9a3d5d0291ab1cf | 001d, 002d, 003d, 004d, 005d, 006d, 007d, 008d
+- a |  | Gnosis What will the impact on GNO price be if GIP-151 is passed? ✓ Resolved Out | /markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0 | 001d, 002d, 003d, 004d, 005d, 006d, 007d, 008d
+- a |  | Gnosis What will the impact on PNK price be if KIP-88 is approved? ✓ Resolved Ou | /markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31 | 001d, 002d, 003d, 004d, 005d, 006d, 007d, 008d
+- a |  | Gnosis What will the impact on PNK price be if KIP-86 is approved? ✓ Resolved Ou | /markets/0xb607bd7c7201e966e6a150cd6ef1d08db55cad5d | 001d, 002d, 003d, 004d, 005d, 006d, 007d, 008d
+- a |  | Gnosis What will the impact on GNO price be if GIP-149 is approved? ✓ Resolved O | /markets/0x47c80f5f701ebc5f25cab64e660f0577890729c2 | 001d, 002d, 003d, 004d, 005d, 006d, 007d, 008d
+- a |  | Gnosis What will the impact on GNO price be if GIP-145 is approved? ✓ Resolved O | /markets/0x45e1064348fD8A407D6D1F59Fc64B05F633b28FC | 001d, 002d, 003d, 004d, 005d, 006d, 007d, 008d
+- a |  | Gnosis What will be the price of PNK if KIP-81 is approved? ✓ Resolved Outcome N | /markets/0x2C1e08674f3F78f8a1426a41C41B8BF546fA481a | 001d, 002d, 003d, 004d, 005d, 006d, 007d, 008d
+- a |  | Gnosis What will the impact on GNO price be if GIP-153 is passed? ✓ Resolved Out | /markets/0x4120de9931fd29c8a6effea4df57a7c8760c1677 | 001d, 002d, 003d, 004d, 005d, 006d, 007d, 008d
+- button |  | (no text) |  | 001d, 002d, 003d, 004d, 005d, 006d, 007d, 008d
+- a |  | Create market | /markets/new | 001d, 002d, 003d, 004d, 005d, 006d, 007d, 008d
+- input |  | Filter by name... |  | 001d, 002d, 003d, 004d, 006d, 007d, 008d
+- a |  | Liquidity | /flm/gnosis | 001d, 002d, 003d, 004d, 006d, 007d, 008d
+- a |  | Liquidity | /flm/kleros | 001d, 002d, 003d, 004d, 005d, 006d, 007d, 008d
+- a |  | (no text) | https://x.com/seer_pm | 001d, 002d, 003d, 004d, 005d, 006d, 007d, 008d
+- a |  | (no text) | https://github.com/seer-pm/futarchy | 001d, 002d, 003d, 004d, 005d, 006d, 007d, 008d
+- button |  | Switch to light mode |  | 002d, 003d, 004d, 005d, 006d, 011d, 012d, 013d
+- a |  | ETH What will the impact on ETH price be if EIP-8363 is Scheduled for Inclusion  | /markets/0x0d78b95fca9f3e1b588271a330b0d6f731ec38aa | 002d, 003d, 004d, 005d, 006d, 007d, 008d, 009d
+- button |  | Close |  | 003d, 004d, 007d, 008d, 011d, 012d, 026d, 027d
+- button |  | Ethereum |  | 003d, 007d, 011d, 026d, 036d, 046d, 059m, 068m
+- button |  | Gnosis Connected |  | 003d, 007d, 011d, 026d, 036d, 046d, 059m, 068m | DISABLED
+- button |  | Copy Address |  | 004d, 008d, 012d, 027d, 037d, 047d
+- button |  | Disconnect |  | 004d, 008d, 012d, 027d, 037d, 047d
+- a |  | View more on explorer | https://gnosisscan.io/address/0x0000000000000000000000000000 | 004d, 008d, 012d, 027d, 037d, 047d
+- input |  | e |  | 005d, 009d
+- a |  | Resolve Question | https://reality.eth.limo/#!/network/100/question/0xe78996a23 | 010d, 011d, 012d, 013d, 016d, 017d, 018d, 019d
+- a |  | Snapshot Vote | https://snapshot.box/#/s:gnosis.eth/proposal/0xd3300b62e9aab | 010d, 011d, 012d, 013d, 016d, 017d, 018d, 019d
+- button |  | Add Liquidity |  | 010d, 011d, 012d, 013d, 016d, 017d, 018d, 019d
+- a |  | View final results on Snapshot | https://snapshot.box/#/s:gnosis.eth/proposal/0xd3300b62e9aab | 010d, 011d, 012d, 013d, 016d, 017d, 018d, 019d
+- a |  | Charting by TradingView | https://www.tradingview.com/?utm_medium=lwc-link&utm_campaig | 010d, 011d, 012d, 013d, 014d, 015d, 016d, 017d
+- button |  | Recent Activity |  | 010d, 011d, 012d, 013d, 014d, 015d, 016d, 017d
+- button |  | My Trades |  | 010d, 011d, 012d, 013d, 014d, 015d, 016d, 017d
+- button |  | Position |  | 010d, 011d, 012d, 013d, 014d, 015d, 016d, 017d
+- select |  | Last 30 trades Last 60 trades Last 90 trades |  | 010d, 011d, 012d, 013d, 014d, 017d, 018d, 019d
+- button |  | If Yes |  | 010d, 011d, 012d, 013d, 014d, 015d, 016d, 017d
+- button |  | If No |  | 010d, 011d, 012d, 013d, 014d, 015d, 016d, 017d
+- button |  | Buy |  | 010d, 011d, 012d, 013d, 014d, 015d, 016d, 017d
+- button |  | Sell |  | 010d, 011d, 012d, 013d, 014d, 015d, 016d, 017d
+- input |  | 1 |  | 010d, 011d, 012d, 013d, 014d, 015d, 016d, 017d
+- button |  | Max |  | 010d, 011d, 012d, 013d, 014d, 015d, 016d, 017d
+- button |  | Insufficient balance |  | 010d, 011d, 012d, 013d, 014d, 015d, 016d, 017d | DISABLED
+- a |  | Wallet: 0 sDAI | https://swap.cow.fi/#/100/swap/_/0xaf204776c7245bf4147c2612b | 010d, 011d, 012d, 013d, 014d, 015d, 016d, 017d
+- a |  | Wallet: 0.0004 GNO | https://swap.cow.fi/#/100/swap/_/0x9c58bacc331c9aa871afd802d | 010d, 011d, 012d, 013d, 014d, 015d, 016d, 017d
+- button |  | Split Collateral |  | 010d, 011d, 012d, 013d, 014d, 015d, 016d, 017d
+- button |  | Merge Collateral |  | 010d, 011d, 012d, 013d, 014d, 015d, 016d, 017d
+- a |  | YES GNO / YES sDAI | https://v3.swapr.eth.limo/#/add/0xf8293bd722635f163f218ca555 | 013d, 060m
+- a |  | NO GNO / NO sDAI | https://v3.swapr.eth.limo/#/add/0xfe84fc926ef9d2ff951ab5c840 | 013d, 060m
+- a |  | YES sDAI / sDAI | https://v3.swapr.eth.limo/#/add/0xa2324465fc48a919849008e8b6 | 013d, 060m
+- a |  | NO sDAI / sDAI | https://v3.swapr.eth.limo/#/add/0x756e45c37fa53400473de549b4 | 013d, 060m
+- a |  | YES GNO / sDAI | https://v3.swapr.eth.limo/#/add/0xf8293bd722635f163f218ca555 | 013d, 060m
+- a |  | NO GNO / sDAI | https://v3.swapr.eth.limo/#/add/0xfe84fc926ef9d2ff951ab5c840 | 013d, 060m
+- input |  | 0.0 |  | 019d, 020d, 021d, 022d, 023d, 030d, 031d, 032d
+- button |  | Quote Unavailable |  | 019d, 064m | DISABLED
+- button |  | sDAI |  | 020d, 021d, 022d, 023d, 030d, 031d, 032d, 033d
+- button |  | GNO |  | 020d, 021d, 022d, 023d, 040d, 041d, 042d, 043d
+- a |  | BUY sDAI | https://swap.cow.fi/#/100/swap/_/0xaf204776c7245bf4147c2612b | 020d, 021d, 022d, 023d, 030d, 031d, 032d, 033d
+- input |  | on |  | 020d, 021d, 022d, 023d, 030d, 031d, 032d, 033d
+- a |  | Resolution Question | https://reality.eth.limo/#!/network/100/question/0xe78996a23 | 024d, 025d, 026d, 027d, 028d, 029d, 031d, 033d
+- a |  | Snapshot Vote | https://snapshot.box/#/s:kleros.eth/proposal/0xba2749a4f1283 | 024d, 025d, 026d, 027d, 028d, 029d, 031d, 033d
+- a |  | View final results on Snapshot | https://snapshot.box/#/s:kleros.eth/proposal/0xba2749a4f1283 | 024d, 025d, 026d, 027d, 028d, 029d, 031d, 033d
+- button |  | TWAP Complete (TWAP impact -0.98%) |  | 024d, 025d, 026d, 027d, 028d, 029d, 030d, 031d
+- button |  | Redeem Tokens |  | 024d, 025d, 026d, 027d, 028d, 029d, 030d, 031d
+- button |  | More info |  | 024d, 025d, 026d, 027d, 028d, 029d, 030d, 031d
+- a |  | Wallet: 0 PNK | https://swap.cow.fi/#/100/swap/_/0x37b60f4e9a31a64ccc0024dce | 024d, 025d, 026d, 027d, 028d, 029d, 030d, 031d
+- a |  | YES PNK / YES sDAI | https://v3.swapr.eth.limo/#/add/0x2ae4413e87ea8b0cd946160dcc | 028d
+- a |  | NO PNK / NO sDAI | https://v3.swapr.eth.limo/#/add/0x4ba54c7e655cd02af669de1fad | 028d
+- a |  | YES sDAI / sDAI | https://v3.swapr.eth.limo/#/add/0x5b9f62ddd60305f467b2605adf | 028d
+- a |  | NO sDAI / sDAI | https://v3.swapr.eth.limo/#/add/0xa431618ef0621a1c114303add3 | 028d
+- a |  | YES PNK / sDAI | https://v3.swapr.eth.limo/#/add/0x2ae4413e87ea8b0cd946160dcc | 028d
+- a |  | NO PNK / sDAI | https://v3.swapr.eth.limo/#/add/0x4ba54c7e655cd02af669de1fad | 028d
+- button |  | PNK |  | 030d, 031d, 032d, 033d, 051d, 052d
+- a |  | Snapshot Vote | https://snapshot.box/#/s:gnosis.eth/proposal/0x657fbf8892200 | 034d, 035d, 036d, 037d, 038d, 039d, 041d, 043d
+- a |  | View final results on Snapshot | https://snapshot.box/#/s:gnosis.eth/proposal/0x657fbf8892200 | 034d, 035d, 036d, 037d, 038d, 039d, 041d, 043d
+- button |  | TWAP Complete (TWAP impact +0.01%) |  | 034d, 035d, 036d, 037d, 038d, 039d, 040d, 041d
+- a |  | YES GNO / YES sDAI | https://v3.swapr.eth.limo/#/add/0x01c210cc58916199e93e8e9875 | 038d, 070m
+- a |  | NO GNO / NO sDAI | https://v3.swapr.eth.limo/#/add/0xcc6fc61c926e95426c0dc1503f | 038d, 070m
+- a |  | YES sDAI / sDAI | https://v3.swapr.eth.limo/#/add/0xe4040ce392ef51c18737aa42be | 038d, 070m
+- a |  | NO sDAI / sDAI | https://v3.swapr.eth.limo/#/add/0xf55318b3965f7c9cb1cec3e11f | 038d, 070m
+- a |  | YES GNO / sDAI | https://v3.swapr.eth.limo/#/add/0x01c210cc58916199e93e8e9875 | 038d, 070m
+- a |  | NO GNO / sDAI | https://v3.swapr.eth.limo/#/add/0xcc6fc61c926e95426c0dc1503f | 038d, 070m
+- a |  | Snapshot Vote | https://snapshot.box/#/s:kleros.eth/proposal/0x27955d7c1e46d | 044d, 045d, 046d, 047d, 048d, 049d, 052d, 074m
+- a |  | View final results on Snapshot | https://snapshot.box/#/s:kleros.eth/proposal/0x27955d7c1e46d | 044d, 045d, 046d, 047d, 048d, 049d, 052d, 074m
+- button |  | TWAP Complete (TWAP impact +2.23%) |  | 044d, 045d, 046d, 047d, 048d, 049d, 051d, 052d
+- a |  | YES PNK / YES sDAI | https://v3.swapr.eth.limo/#/add/0x45da0089e53f41998449edc7a6 | 048d, 077m
+- a |  | NO PNK / NO sDAI | https://v3.swapr.eth.limo/#/add/0xf29b93318a819fe99677076b8f | 048d, 077m
+- a |  | YES sDAI / sDAI | https://v3.swapr.eth.limo/#/add/0x43daa59fa6f6c32bedfbbdfb00 | 048d, 077m
+- a |  | NO sDAI / sDAI | https://v3.swapr.eth.limo/#/add/0x3b3c35025fd20fb71acd8da9d9 | 048d, 077m
+- a |  | YES PNK / sDAI | https://v3.swapr.eth.limo/#/add/0x45da0089e53f41998449edc7a6 | 048d, 077m
+- a |  | NO PNK / sDAI | https://v3.swapr.eth.limo/#/add/0xf29b93318a819fe99677076b8f | 048d, 077m
+- a |  | VeloraDAO Milestones 0 | /milestones?company_id=0x2f345ce868cc7840a89472f2503944e4ef8 | 053m, 054m
+- a |  | Gnosis DAO Milestones 6 | /milestones?company_id=0x3fd2e8e71f75eed4b5c507706c413e33e06 | 053m, 054m
+- a |  | Kleros DAO Milestones 4 | /milestones?company_id=0xaab097ead5c2db1ca7b1e5034224a2118ed | 053m, 054m
+- a |  | Aave DAO Milestones 0 | /milestones?company_id=0xb84b41518806b70fee6dae06982abd9526c | 053m, 054m
+- a |  | Ethereum Milestones 1 | /milestones?company_id=0xe27f436c4ca24944bda49d18020aec44cc7 | 053m, 054m
+- button |  | Switch to Ethereum |  | 055m
+- button |  | Go back to companies |  | 055m, 056m
+- button |  | Switch network |  | 055m, 056m, 057m, 058m, 059m, 060m, 061m, 062m
+- a |  | Resolve Question | https://reality.eth.limo/#!/network/1/question/0x5b7dd1e8662 | 055m, 056m
+- button |  | TWAP Complete |  | 055m, 056m
+- button |  | Confirm Swap |  | 055m, 056m
+- a |  | Wallet: 3.6144 USDS | https://swap.cow.fi/#/1/swap/_/0xdc035d45d973e3ec169d2276dda | 055m, 056m
+- a |  | Wallet: 280.4597 WETH | https://swap.cow.fi/#/1/swap/_/0xc02aaa39b223fe8d0a0e5c4f27e | 055m, 056m
+- button |  | Switching networks… |  | 056m | DISABLED
+- a |  | Snapshot Vote | https://snapshot.box/#/s:gnosis.eth/proposal/0x4b0b6bb0ba3ca | 080m, 081m, 082m, 083m, 084m
+- a |  | View final results on Snapshot | https://snapshot.box/#/s:gnosis.eth/proposal/0x4b0b6bb0ba3ca | 080m, 081m, 082m, 083m, 084m
+- button |  | TWAP Complete (TWAP impact +0.08%) |  | 080m, 081m, 082m, 083m, 084m
+- a |  | YES GNO / YES sDAI | https://v3.swapr.eth.limo/#/add/0xcbd75765b52c278a61a481e8c7 | 083m
+- a |  | NO GNO / NO sDAI | https://v3.swapr.eth.limo/#/add/0x4339e3e5168c9bb2ec6e7ab66b | 083m
+- a |  | YES sDAI / sDAI | https://v3.swapr.eth.limo/#/add/0x75c292eb27e33d36b087c84ad3 | 083m
+- a |  | NO sDAI / sDAI | https://v3.swapr.eth.limo/#/add/0x26853f7b8f70dce83326a12317 | 083m
+- a |  | YES GNO / sDAI | https://v3.swapr.eth.limo/#/add/0xcbd75765b52c278a61a481e8c7 | 083m
+- a |  | NO GNO / sDAI | https://v3.swapr.eth.limo/#/add/0x4339e3e5168c9bb2ec6e7ab66b | 083m

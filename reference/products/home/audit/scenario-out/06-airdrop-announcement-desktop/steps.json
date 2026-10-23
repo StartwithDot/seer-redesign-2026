@@ -1,0 +1,36 @@
+{
+ "cfg": {
+  "product": "home",
+  "name": "06-airdrop-announcement",
+  "url": "https://seer.pm/",
+  "vp": "desktop",
+  "mockWallet": ""
+ },
+ "steps": [
+  {
+   "label": "find and reveal flow entry",
+   "ok": true,
+   "url": "https://seer.pm/"
+  },
+  {
+   "label": "follow homepage link",
+   "ok": true,
+   "url": "https://seer-pm.medium.com/announcing-the-seer-initial-airdrop-distribution-58d38e1ec8f9"
+  },
+  {
+   "label": "verify destination rendered",
+   "ok": true,
+   "url": "https://seer-pm.medium.com/announcing-the-seer-initial-airdrop-distribution-58d38e1ec8f9"
+  }
+ ],
+ "errors": [
+  "Failed to load resource: the server responded with a status of 403 ()"
+ ],
+ "api": [
+  {
+   "url": "https://seer-pm.medium.com/cdn-cgi/challenge-platform/h/b/precursor/d2d3316b729e/0.1503623241111698:1792339240:Xx7b8wNOlPkCDrXCxifYRy3XcvM8aDgh5k8UcZfkjPI/a4c91c451a41ca42",
+   "status": 200,
+   "body": "{\"i\":60,\"n\":false}"
+  }
+ ]
+}

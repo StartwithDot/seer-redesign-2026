@@ -1,0 +1,420 @@
+{
+ "title": "Futarchy - Markets Know Better Than Experts",
+ "url": "https://futarchy.seer.pm/",
+ "scrollHeight": 1871,
+ "headings": [
+  "h2: Active Milestones",
+  "h3: What will the impact on ETH price be if EIP-8363 is Scheduled for Inclusion in Hegotá?",
+  "h2: Recently Closed",
+  "h3: What will the impact on GNO price be if GIP-152 is passed?",
+  "h3: What will the impact on PNK price be if KIP-90 is approved?",
+  "h3: What will the impact on GNO price be if GIP-151 is passed?",
+  "h3: What will the impact on PNK price be if KIP-88 is approved?",
+  "h3: What will the impact on PNK price be if KIP-86 is approved?",
+  "h3: What will the impact on GNO price be if GIP-149 is approved?",
+  "h3: What will the impact on GNO price be if GIP-145 is approved?",
+  "h3: What will be the price of PNK if KIP-81 is approved?",
+  "h3: What will the impact on GNO price be if GIP-153 is passed?",
+  "h2: Organizations"
+ ],
+ "interactive": [
+  {
+   "i": 0,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Futarchy",
+   "href": "/",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    100,
+    25,
+    115,
+    28
+   ]
+  },
+  {
+   "i": 1,
+   "tag": "button",
+   "role": "",
+   "type": "",
+   "text": "Refresh RPC Connection",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    938,
+    22,
+    34,
+    34
+   ]
+  },
+  {
+   "i": 2,
+   "tag": "button",
+   "role": "",
+   "type": "",
+   "text": "Switch to light mode",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    988,
+    21,
+    36,
+    36
+   ]
+  },
+  {
+   "i": 3,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "Chain Selector",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1040,
+    19,
+    123,
+    40
+   ]
+  },
+  {
+   "i": 4,
+   "tag": "button",
+   "role": "",
+   "type": "button",
+   "text": "👾 0x00…dEaD",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1175,
+    19,
+    165,
+    40
+   ]
+  },
+  {
+   "i": 5,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "ETH What will the impact on ETH price be if EIP-8363 is Scheduled for Inclusion ",
+   "href": "/markets/0x0d78b95fca9f3e1b588271a330b0d6f731ec38aa",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    102,
+    154,
+    376,
+    352
+   ]
+  },
+  {
+   "i": 6,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Gnosis What will the impact on GNO price be if GIP-152 is passed? Awaiting Resol",
+   "href": "/markets/0xee8878d0a7136c5cd109554f06bb780e225badef",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    100,
+    652,
+    340,
+    398
+   ]
+  },
+  {
+   "i": 7,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Gnosis What will the impact on PNK price be if KIP-90 is approved? ✓ Resolved Ou",
+   "href": "/markets/0x84412fe9d088c1d8dd676a7be9a3d5d0291ab1cf",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    464,
+    652,
+    340,
+    398
+   ]
+  },
+  {
+   "i": 8,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Gnosis What will the impact on GNO price be if GIP-151 is passed? ✓ Resolved Out",
+   "href": "/markets/0xece80208cb8376be311ce0f5ea4ef73850a0dcf0",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    828,
+    652,
+    340,
+    398
+   ]
+  },
+  {
+   "i": 9,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Gnosis What will the impact on PNK price be if KIP-88 is approved? ✓ Resolved Ou",
+   "href": "/markets/0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1192,
+    652,
+    340,
+    398
+   ]
+  },
+  {
+   "i": 10,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Gnosis What will the impact on PNK price be if KIP-86 is approved? ✓ Resolved Ou",
+   "href": "/markets/0xb607bd7c7201e966e6a150cd6ef1d08db55cad5d",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1556,
+    652,
+    340,
+    398
+   ]
+  },
+  {
+   "i": 11,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Gnosis What will the impact on GNO price be if GIP-149 is approved? ✓ Resolved O",
+   "href": "/markets/0x47c80f5f701ebc5f25cab64e660f0577890729c2",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1920,
+    652,
+    340,
+    398
+   ]
+  },
+  {
+   "i": 12,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Gnosis What will the impact on GNO price be if GIP-145 is approved? ✓ Resolved O",
+   "href": "/markets/0x45e1064348fD8A407D6D1F59Fc64B05F633b28FC",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    2284,
+    652,
+    340,
+    398
+   ]
+  },
+  {
+   "i": 13,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Gnosis What will be the price of PNK if KIP-81 is approved? ✓ Resolved Outcome N",
+   "href": "/markets/0x2C1e08674f3F78f8a1426a41C41B8BF546fA481a",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    2648,
+    652,
+    340,
+    398
+   ]
+  },
+  {
+   "i": 14,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Gnosis What will the impact on GNO price be if GIP-153 is passed? ✓ Resolved Out",
+   "href": "/markets/0x4120de9931fd29c8a6effea4df57a7c8760c1677",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    3012,
+    652,
+    340,
+    398
+   ]
+  },
+  {
+   "i": 15,
+   "tag": "button",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1352,
+    827,
+    48,
+    48
+   ]
+  },
+  {
+   "i": 16,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Create market",
+   "href": "/markets/new",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1212,
+    1146,
+    128,
+    40
+   ]
+  },
+  {
+   "i": 17,
+   "tag": "input",
+   "role": "",
+   "type": "text",
+   "text": "Filter by name...",
+   "href": "",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    100,
+    1210,
+    448,
+    44
+   ]
+  },
+  {
+   "i": 18,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Liquidity",
+   "href": "/flm/gnosis",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1102,
+    1331,
+    103,
+    36
+   ]
+  },
+  {
+   "i": 19,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "Liquidity",
+   "href": "/flm/kleros",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1102,
+    1404,
+    103,
+    36
+   ]
+  },
+  {
+   "i": 20,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://x.com/seer_pm",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1250,
+    1799,
+    40,
+    40
+   ]
+  },
+  {
+   "i": 21,
+   "tag": "a",
+   "role": "",
+   "type": "",
+   "text": "",
+   "href": "https://github.com/seer-pm/futarchy",
+   "disabled": false,
+   "selected": "",
+   "expanded": "",
+   "box": [
+    1300,
+    1799,
+    40,
+    40
+   ]
+  }
+ ],
+ "charts": [],
+ "tables": [
+  {
+   "rows": 6,
+   "head": [
+    "",
+    "NAME",
+    "ACTIVE",
+    "PROPOSALS\n↓",
+    "CHAIN",
+    "LIQUIDITY"
+   ]
+  }
+ ],
+ "fonts": [
+  "__Oxanium_5a9590",
+  "-apple-system",
+  "ui-sans-serif"
+ ],
+ "colors": {
+  "bg": "rgba(0, 0, 0, 0)",
+  "text": "rgb(255, 255, 255)"
+ },
+ "dialogs": 0
+}

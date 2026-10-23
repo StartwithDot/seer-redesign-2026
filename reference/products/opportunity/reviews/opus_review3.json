@@ -1,0 +1,45 @@
+```json
+{
+  "slop_score_0_to_10_where_10_is_pure_slop": 3,
+  "verdict": "This is clearly better than round 2. The Cut chart with its sponsor rail is a distinctive core: a purple area rises to the cut handle, a gold line runs across to the lock, and you can tell the market triages and the sponsor decides without reading anything. The design is still undercut by four things: the outcomes list puts its 'Review cut' line under row 8 when the cut is at 27, the chart axis labels look unfinished, the Past markets block is unbalanced, and the home page ends on a generic three-column strip. These are craft problems, not concept problems.",
+  "would_this_win_against_a_polished_competitor": "Likely yes on concept and memorability, because no competitor will have the cut and sponsor-rail visual. It is at risk on polish if a judge scrolls the outcomes list and sees the cut line in the wrong place, or opens the home page and sees a half-empty Past markets grid.",
+  "high_impact_remaining": [
+    "The dashed 'Review cut · 27 of 235' line sits right under row 8 in every list (d-home-0, d-mlive-1, m-live-1). That says the cut is after 8, which contradicts the chart and the thesis.",
+    "Chart axis looks unfinished: the '1' tick sits a line below the other ticks, the hatch and '130 without odds' collide with the '235' tick and the sponsor rail, and '46 tied at 0.4%' floats with no anchor.",
+    "Past markets on home and Archive mixes two treatments: a half-width card next to empty space, then a full-width row reading 'No data'.",
+    "The mobile home chart draws the 60.4% line in white, but mobile live and desktop draw it in gold. That breaks the one color code the thesis depends on."
+  ],
+  "fixes": [
+    {
+      "where": "Outcomes list (home d-home-0, market d-mlive-1/2, mobile m-live-1)",
+      "problem": "The dashed purple 'Review cut · 27 of 235' rule is the bottom edge of the scroll box, so it shows up under row 8. The purple left rail also stops there.",
+      "change": "Draw the dashed rule only between row 27 and row 28, in the list itself. Pin a small 'Cut at 27 ↓' chip at the bottom edge of the scroll box while the cut is out of view. Run the purple rail through rows 1–27 only, and dim rows 28 and below a little.",
+      "impact": "High. The list becomes a second, wordless proof of the triage thesis instead of contradicting it."
+    },
+    {
+      "where": "Cut chart x-axis (d-home-0, d-mlive-0, m-home-0, m-live-0)",
+      "problem": "The '1' label sits about 18px below the 27/50/100/235 baseline. The hatch block and '130 without odds' crowd the '235' tick and nearly touch the sponsor rail. '46 tied at 0.4%' floats in the plot with no leader line.",
+      "change": "Put all ticks, including 1, on one baseline. Move the hatched no-odds block onto its own lane below the axis with an 8px gap, ending at least 16px before the rail. Anchor '46 tied at 0.4%' to the flat tail segment with a short bracket or tick.",
+      "impact": "Medium-high. This is the hero visual, and judges will zoom in on it."
+    },
+    {
+      "where": "Home 'Past markets' (d-home-1) and Archive (d-archive-0)",
+      "problem": "One rich card fills half the width with dead space beside it. The next market is a full-width row with a 'No data' label. The two treatments don't match, and the layout looks broken.",
+      "change": "Use one treatment for both: either both as equal-width cards in a 2-up grid, or both as full-width compact rows (status · title · winner · top 3 odds · open). Replace 'No data' with something useful, such as 'Resolved without market' or the resolution date.",
+      "impact": "Medium. Removes the most obvious layout imbalance on the two pages a judge sees first."
+    },
+    {
+      "where": "Home footer strip 'TODAY / NEXT / ANY DECISION' (d-home-1)",
+      "problem": "Three equal columns with an eyebrow label and a short phrase ('Seer One operates it', 'Anyone launches', 'One shared layer') is a stock AI landing-page pattern. It also says in words what the chart already shows.",
+      "change": "Delete the strip, or fold it into a single muted line in the footer. Also close the empty gap under the stat tiles in the home left panel, either by top-aligning that panel to its content or by giving the list a matching max height.",
+      "impact": "Medium. Removes the last clear slop tell and tightens the home page rhythm."
+    },
+    {
+      "where": "Mobile home chart (m-home-0) and mobile market header (m-live-0)",
+      "problem": "The 60.4% coverage line is white on mobile home but gold everywhere else. The mobile header meta line ends with a dangling '·', and Rules / Contract drop to an orphaned right-aligned row.",
+      "change": "Use the same gold token for the coverage line at every breakpoint. On mobile, remove the trailing separator and put Rules and Contract left-aligned on the meta line, or as a second left-aligned line.",
+      "impact": "Low-medium. Keeps the sponsor color code consistent and removes a visible mobile wrapping bug."
+    }
+  ]
+}
+```
