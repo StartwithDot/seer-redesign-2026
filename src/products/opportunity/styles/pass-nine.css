@@ -1,0 +1,22 @@
+.opportunity-shell :is(button, select, summary, input:not([type='checkbox']):not([type='range']), textarea) { min-height:44px; }
+.opportunity-shell :is(a,button,summary,input,select,textarea,[tabindex]):focus-visible { outline:3px solid var(--product-accent); outline-offset:3px; }
+.opportunity-shell input:is([type='checkbox'],[type='radio']) { width:24px; height:24px; margin:10px; flex-shrink:0; accent-color:var(--product-accent); }
+.opportunity-shell input[type='range'] { min-height:44px; }
+.opportunity-shell label:has(input:is([type='checkbox'],[type='radio'])) { min-height:44px; display:flex; align-items:center; }
+.opportunity-shell .trade-order-review { padding:20px; background:var(--product-surface-soft); border-radius:16px; }
+.opportunity-shell .trade-order-review dl { display:grid; gap:16px; }
+.opportunity-shell .trade-order-review dd { margin:4px 0 0; overflow-wrap:anywhere; }
+.opportunity-shell .trade-order-review dt { color:var(--product-secondary); }
+.opportunity-shell .trade-order-review :is(a,button) { margin-top:12px; }
+.opportunity-shell .trade-mode button[aria-pressed='true'] { background:#6c47ff; color:#fff; }
+.opportunity-shell .primary-action { color:#fff; background:#6c47ff; }
+.opportunity-shell .trade-field > span,.opportunity-shell .trade-amount legend { font-size:12px; color:var(--product-secondary); }
+.opportunity-shell .field-accessible-selection { display:grid; gap:8px; margin-bottom:16px; }
+.opportunity-shell .field-accessible-selection select { width:100%; min-width:0; background:var(--product-surface); color:var(--product-ink); padding:8px; border:1px solid var(--product-border); border-radius:8px; }
+/* Dense chart marks retain a 44px hit area while the visual mark scales independently. */
+.opportunity-shell .submission-field-mark { min-width:44px; min-height:44px; }
+.opportunity-shell .review-field-viewport:focus-visible { outline-offset:-4px; }
+.opportunity-shell .command-results [role='option'] { scroll-margin:8px; }
+@media(prefers-reduced-motion:reduce) {
+ .opportunity-shell *, .opportunity-shell *::before, .opportunity-shell *::after { animation:none!important; transition:none!important; scroll-behavior:auto!important; }
+}

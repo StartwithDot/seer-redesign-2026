@@ -1,0 +1,347 @@
+@import "./records-responsive.css";
+@import "./record-data.css";
+@import "./chart-controls.css";
+@import "./market-record-workbench.css";
+@import "./market-record-evidence.css";
+@import "./market-record-trade.css";
+@import "./market-record-responsive.css";
+.record-breadcrumb {
+  display: flex;
+  min-height: 36px;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 28px;
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.record-breadcrumb button {
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: var(--secondary);
+  cursor: pointer;
+}
+
+.policy-record {
+  overflow: hidden;
+  border: 1px solid var(--hairline);
+  border-radius: 22px;
+  background: var(--surface);
+}
+
+.policy-title {
+  display: flex;
+  min-height: 300px;
+  align-items: end;
+  justify-content: space-between;
+  gap: 36px;
+  padding: 48px;
+}
+
+.policy-title > div:first-child {
+  max-width: 850px;
+}
+
+.policy-title h1 {
+  max-width: 820px;
+}
+
+.policy-title p:last-child {
+  max-width: 720px;
+  font-size: 18px;
+}
+
+.policy-actions,
+.error-plate > div {
+  display: flex;
+  gap: 10px;
+}
+
+.policy-sections {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  border-top: 1px solid var(--hairline);
+  border-bottom: 1px solid var(--hairline);
+}
+
+.policy-sections article {
+  min-height: 250px;
+  padding: 32px;
+  border-right: 1px solid var(--hairline);
+}
+
+.policy-sections article:last-child {
+  border-right: 0;
+}
+
+.policy-sections article > span {
+  color: var(--violet-ink);
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.policy-sections h2 {
+  margin-top: 42px;
+  font-size: 24px;
+}
+
+.policy-record-footer {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 16px;
+  padding: 22px 32px;
+}
+
+.policy-record-footer > div {
+  display: grid;
+  gap: 6px;
+}
+
+.record-identity {
+  display: grid;
+  grid-template-columns: minmax(300px, .72fr) minmax(0, 1.28fr);
+  gap: 42px;
+  align-items: center;
+  margin-bottom: 34px;
+}
+
+.record-identity .market-visual {
+  min-height: 390px;
+  border-radius: 22px;
+}
+
+.record-identity .tonal-market-art {
+  min-height: 390px;
+}
+
+.record-status-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 18px;
+  color: var(--secondary);
+  font-size: 12px;
+}
+
+.record-status-row .verification-mark {
+  text-transform: capitalize;
+}
+
+.record-identity h1 {
+  max-width: 1050px;
+}
+
+.record-identity > div > p:not(.eyebrow) {
+  max-width: 850px;
+  font-size: 18px;
+}
+
+.record-creator {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 14px;
+  color: var(--secondary);
+  font-size: 13px;
+}
+
+.record-creator code {
+  color: var(--muted);
+}
+
+.record-workbench {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 320px;
+  gap: 18px;
+  align-items: start;
+}
+
+.record-evidence {
+  display: grid;
+  gap: 14px;
+}
+
+.price-history,
+.outcome-table,
+.record-facts,
+.record-trade-card {
+  border: 1px solid var(--hairline);
+  border-radius: 18px;
+  background: var(--surface);
+}
+
+.price-history {
+  padding: 22px;
+}
+
+.chart-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.chart-heading > div:first-child {
+  display: grid;
+}
+
+.chart-heading strong {
+  font-size: 32px;
+  font-variant-numeric: tabular-nums;
+}
+
+.price-history svg {
+  display: block;
+  width: 100%;
+  height: 260px;
+  overflow: visible;
+}
+
+.chart-grid-line {
+  stroke: var(--hairline);
+  stroke-width: 1;
+}
+
+.chart-line {
+  fill: none;
+  stroke: var(--violet);
+  stroke-width: 3;
+  vector-effect: non-scaling-stroke;
+}
+
+.chart-crosshair {
+  stroke: var(--secondary);
+  stroke-dasharray: 3 5;
+}
+
+.chart-point {
+  fill: var(--surface);
+  stroke: var(--violet);
+  stroke-width: 3;
+}
+
+.chart-axis {
+  display: flex;
+  justify-content: space-between;
+  color: var(--muted);
+  font-size: 11px;
+}
+
+.outcome-table {
+  overflow: hidden;
+}
+
+.outcome-table > div {
+  display: grid;
+  min-height: 58px;
+  grid-template-columns: 12px 1fr 110px 70px;
+  align-items: center;
+  gap: 12px;
+  padding: 0 18px;
+  border-bottom: 1px solid var(--hairline);
+}
+
+.outcome-table > div:last-child {
+  border-bottom: 0;
+}
+
+.outcome-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+}
+
+.outcome-table button {
+  min-height: 32px;
+  border: 1px solid var(--hairline);
+  border-radius: 9px;
+  background: var(--nested);
+  cursor: pointer;
+}
+
+.record-facts {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  overflow: hidden;
+}
+
+.record-facts div {
+  display: grid;
+  min-height: 92px;
+  align-content: center;
+  gap: 5px;
+  padding: 18px;
+  border-right: 1px solid var(--hairline);
+}
+
+.record-facts div:last-child {
+  border-right: 0;
+}
+
+.record-facts span {
+  color: var(--muted);
+  font-size: 11px;
+  text-transform: uppercase;
+}
+
+.evidence-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.evidence-links a {
+  min-height: 38px;
+  padding: 10px 13px;
+  border: 1px solid var(--hairline);
+  border-radius: 11px;
+  background: var(--surface);
+  font-size: 12px;
+}
+
+.record-trade-card {
+  position: sticky;
+  top: 106px;
+  display: grid;
+  gap: 10px;
+  padding: 24px;
+}
+
+.record-price {
+  font-size: 58px;
+  font-weight: 520;
+  font-variant-numeric: tabular-nums;
+  letter-spacing: -.05em;
+}
+
+.record-trade-card > span {
+  color: var(--secondary);
+}
+
+.record-trade-card .secondary-button {
+  margin-top: -2px;
+}
+
+.error-plate {
+  display: grid;
+  min-height: 540px;
+  place-items: center;
+  align-content: center;
+  padding: 48px;
+  border-radius: 24px;
+  background: var(--surface);
+  text-align: center;
+}
+
+.error-plate h1 {
+  max-width: 900px;
+}
+
+.error-plate code {
+  margin-bottom: 18px;
+  padding: 8px 11px;
+  border-radius: 8px;
+  background: var(--nested);
+  color: var(--secondary);
+}

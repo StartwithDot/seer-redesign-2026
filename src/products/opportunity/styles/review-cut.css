@@ -1,0 +1,389 @@
+.review-cut-view {
+  display: grid;
+  gap: 14px;
+}
+
+.review-cut-header {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 24px;
+}
+
+.review-cut-header h2 {
+  margin: 0;
+}
+
+.review-cut-header > p {
+  max-width: 390px;
+  margin: 0;
+  font-size: 12px;
+  text-align: right;
+}
+
+.review-cut-controls,
+.review-cut-summary,
+.review-cut-recommendation,
+.review-cut-queue {
+  padding: 18px;
+  border: 1px solid var(--product-border);
+  border-radius: 20px;
+  background: var(--product-surface);
+}
+
+.review-cut-controls {
+  display: grid;
+  grid-template-columns: 1.35fr 1fr;
+  gap: 14px 18px;
+}
+
+.review-cut-slider {
+  display: grid;
+  grid-template-columns: auto minmax(160px, 1fr) 48px;
+  gap: 12px;
+  align-items: center;
+}
+
+.review-cut-slider strong {
+  display: block;
+  margin-top: 3px;
+  font-size: 22px;
+  font-variant-numeric: tabular-nums;
+}
+
+.review-cut-slider input[type='range'] {
+  width: 100%;
+  accent-color: var(--product-accent);
+}
+
+.review-cut-slider output {
+  color: var(--product-accent);
+  font-weight: 750;
+  font-variant-numeric: tabular-nums;
+  text-align: right;
+}
+
+.review-cut-strategy {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+.review-cut-strategy legend {
+  margin-bottom: 6px;
+  color: var(--product-muted);
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.review-cut-strategy > div,
+.review-cut-checkpoints,
+.review-cut-actions {
+  display: flex;
+  gap: 5px;
+}
+
+.review-cut-strategy button,
+.review-cut-checkpoints button {
+  min-height: 40px;
+  padding: 0 11px;
+  border: 1px solid var(--product-border);
+  border-radius: 10px;
+  background: var(--product-surface-soft);
+  cursor: pointer;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.review-cut-strategy button[aria-pressed='true'],
+.review-cut-checkpoints button.is-active {
+  border-color: var(--product-accent);
+  background: var(--product-accent-soft);
+  color: var(--product-accent);
+}
+
+.review-cut-checkpoints {
+  align-items: center;
+}
+
+.review-cut-actions {
+  justify-content: flex-end;
+}
+
+.review-cut-actions .secondary-action {
+  min-height: 40px;
+}
+
+.review-cut-actions .secondary-action span {
+  display: grid;
+  min-width: 24px;
+  height: 24px;
+  place-items: center;
+  border-radius: 999px;
+  background: var(--product-accent-soft);
+  color: var(--product-accent);
+  font-variant-numeric: tabular-nums;
+}
+
+.review-cut-summary {
+  display: grid;
+  grid-template-columns: .7fr 1.4fr 1fr;
+  gap: 18px;
+  align-items: center;
+}
+
+.review-cut-summary h2 {
+  margin: 0;
+  font-size: 34px;
+}
+
+.review-cut-summary dl {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 8px;
+  margin: 0;
+}
+
+.review-cut-summary dl > div,
+.coverage-checkpoints > div {
+  padding: 10px;
+  border-radius: 11px;
+  background: var(--product-surface-soft);
+}
+
+.review-cut-summary dt,
+.coverage-checkpoints span {
+  color: var(--product-muted);
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.review-cut-summary dd {
+  margin: 4px 0 0;
+  font-size: 15px;
+  font-weight: 750;
+  font-variant-numeric: tabular-nums;
+}
+
+.coverage-checkpoints {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 6px;
+}
+
+.coverage-checkpoints > div.is-covered {
+  background: var(--product-accent-soft);
+}
+
+.coverage-checkpoints strong {
+  display: block;
+  margin-top: 4px;
+  font-variant-numeric: tabular-nums;
+}
+
+.review-cut-recommendation {
+  display: grid;
+  grid-template-columns: minmax(180px, .55fr) 1.45fr;
+  gap: 22px;
+  align-items: center;
+}
+
+.recommendation-media {
+  aspect-ratio: 16 / 10;
+  overflow: hidden;
+  border-radius: 15px;
+  background: var(--product-surface-soft);
+}
+
+.recommendation-media img,
+.recommendation-placeholder {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.recommendation-placeholder {
+  display: grid;
+  place-items: center;
+  background: var(--product-accent-soft);
+  color: var(--product-accent);
+  font-size: 38px;
+  font-weight: 750;
+}
+
+.review-cut-recommendation h2 {
+  margin-bottom: 8px;
+  font-size: 31px;
+}
+
+.review-cut-recommendation p {
+  max-width: 520px;
+}
+
+.review-cut-recommendation ol {
+  display: grid;
+  gap: 5px;
+  margin: 14px 0;
+  padding: 0;
+  list-style: none;
+}
+
+.review-cut-recommendation li {
+  display: grid;
+  grid-template-columns: 42px 1fr auto;
+  gap: 10px;
+  align-items: center;
+  min-height: 38px;
+  border-top: 1px solid var(--product-border);
+}
+
+.review-cut-recommendation output {
+  color: var(--product-accent);
+  font-weight: 750;
+  font-variant-numeric: tabular-nums;
+}
+
+.review-cut-queue > div:first-child {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+}
+
+.review-cut-queue h3 {
+  margin: 0;
+}
+
+.review-cut-queue ol {
+  display: grid;
+  gap: 6px;
+  margin: 14px 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.review-cut-queue li {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 10px;
+  align-items: center;
+  min-height: 56px;
+  padding: 5px 7px 5px 12px;
+  border-radius: 12px;
+  background: var(--product-surface-soft);
+}
+
+.review-cut-queue li.is-selected {
+  background: var(--product-accent-soft);
+}
+
+.review-cut-candidate {
+  display: grid;
+  grid-template-columns: 42px minmax(130px, 1fr) minmax(130px, .8fr) 64px;
+  gap: 10px;
+  align-items: center;
+  min-height: 44px;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  text-align: left;
+  cursor: pointer;
+}
+
+.review-cut-candidate > span,
+.review-cut-candidate output {
+  color: var(--product-accent);
+  font-weight: 750;
+  font-variant-numeric: tabular-nums;
+}
+
+.review-cut-candidate small {
+  color: var(--product-muted);
+}
+
+.review-cut-queue li > div {
+  display: flex;
+  gap: 5px;
+}
+
+.review-cut-queue li > div button {
+  min-height: 36px;
+  padding: 0 8px;
+  border: 1px solid var(--product-border);
+  border-radius: 9px;
+  background: var(--product-surface);
+  cursor: pointer;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+@media (max-width: 980px) {
+  .review-cut-summary {
+    grid-template-columns: 1fr 2fr;
+  }
+
+  .coverage-checkpoints {
+    grid-column: 1 / -1;
+  }
+
+  .review-cut-recommendation {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 700px) {
+  .review-cut-header,
+  .review-cut-queue > div:first-child {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .review-cut-header > p {
+    text-align: left;
+  }
+
+  .review-cut-controls,
+  .review-cut-summary {
+    grid-template-columns: 1fr;
+  }
+
+  .review-cut-slider {
+    grid-template-columns: 1fr 48px;
+  }
+
+  .review-cut-slider input {
+    grid-column: 1 / -1;
+    grid-row: 2;
+  }
+
+  .review-cut-strategy > div {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .review-cut-actions {
+    justify-content: stretch;
+  }
+
+  .review-cut-actions button {
+    flex: 1;
+  }
+
+  .review-cut-summary dl {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .review-cut-queue li {
+    grid-template-columns: 1fr;
+    padding: 10px;
+  }
+
+  .review-cut-candidate {
+    grid-template-columns: 38px 1fr 58px;
+  }
+
+  .review-cut-candidate small {
+    display: none;
+  }
+}

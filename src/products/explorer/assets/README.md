@@ -1,0 +1,3 @@
+# Market image provenance
+
+Searched original Explorer previews, product data, research, kit, and the supplied UI DESIGN ASSETS directory. These contain reference screenshots, brand imagery, and source files, but no suitable standalone market photographs to vendor for this pass. Existing captured market image URLs remain the image source. Fetching a captured French-election photo from cdn.kleros.link failed DNS resolution in the sandbox. Missing or failed images use a subject initial on a tonal duotone surface; sample marketing illustrations are not substituted for market photos. No imagery from the supplied arrangement reference was copied.

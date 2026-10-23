@@ -1,0 +1,171 @@
+/* Risk-only route density, source inspection, and touch composition. */
+.risk-shell :is(.risk-workspace, .risk-predict-layout, .risk-tide-layout, .risk-explorer-toolbar) > * { min-width: 0; }
+.risk-shell .risk-round-details { margin-top: 8px; }
+.risk-shell .risk-round-details summary { min-height: 40px; cursor: pointer; color: var(--product-secondary); font-size: 13px; }
+.risk-shell .risk-round-details p { color: var(--product-secondary); font-size: 13px; line-height: 1.5; }
+.risk-shell .risk-market-context.is-compact { gap: 8px; }
+.risk-shell .risk-wallet-options { display: grid; gap: 12px; margin-block: 24px; }
+.risk-shell .risk-wallet-options p { margin: 0; color: var(--product-secondary); font-size: 13px; line-height: 1.5; }
+.risk-shell .risk-wallet-option { display: grid; grid-template-columns: 20px minmax(0, 1fr) auto; align-items: center; gap: 12px; min-height: 56px; padding: 12px 16px; border: 1px solid var(--product-border); border-radius: 12px; color: var(--product-ink); background: var(--product-surface-soft); cursor: pointer; text-align: left; }
+.risk-shell .risk-wallet-option span { color: var(--product-accent); font-size: 12px; }
+.risk-shell .risk-wallet-option:hover { background: var(--product-accent-soft); }
+.risk-shell .risk-wallet-options summary { min-height: 40px; cursor: pointer; }
+.risk-shell .risk-oracle-provenance { margin-block: 16px; padding: 16px; border: 1px solid var(--product-border); border-radius: 12px; background: var(--product-surface-soft); }
+.risk-shell .risk-oracle-provenance summary { min-height: 40px; cursor: pointer; font-size: 13px; font-weight: 600; }
+.risk-shell .risk-oracle-provenance section { padding-block: 12px; }
+.risk-shell .risk-oracle-heading { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 16px; margin-bottom: 16px; font-size: 13px; }
+.risk-shell .risk-oracle-heading span { color: var(--product-secondary); font-size: 12px; }
+.risk-shell .risk-oracle-provenance label { display: grid; gap: 8px; color: var(--product-secondary); font-size: 12px; }
+.risk-shell .risk-oracle-provenance input { min-height: 40px; width: 100%; min-width: 0; padding: 8px; border: 1px solid var(--product-border); border-radius: 8px; color: var(--product-ink); background: var(--product-surface); }
+.risk-shell .risk-oracle-provenance dl { display: grid; gap: 12px; font-size: 12px; }
+.risk-shell .risk-oracle-provenance dl > div { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 2fr); gap: 12px; }
+.risk-shell .risk-oracle-provenance dt { color: var(--product-secondary); }
+.risk-shell .risk-oracle-provenance dd { margin: 0; overflow-wrap: anywhere; }
+.risk-shell .risk-oracle-provenance a { display: inline-flex; gap: 8px; align-items: center; min-height: 40px; color: var(--product-accent); }
+.risk-mobile-route-bar, .risk-mobile-asset-list { display: none; }
+.risk-shell .risk-history-inspection > div { max-height: 160px; overflow-y: auto; }
+.risk-shell :is(.risk-predict-advanced, .risk-source-data, .risk-market-record) { overflow-wrap: anywhere; }
+.risk-shell .risk-predict-advanced[open] { max-height: 260px; overflow-y: auto; }
+.risk-shell .risk-prediction-group-name { flex: 1; }
+.risk-shell .risk-prediction-row-identity, .risk-shell .risk-prediction-identity { min-width: 0; }
+.risk-shell .risk-asset-table tbody th { height: 56px; }
+.risk-shell .risk-asset-table tbody td { height: 56px; }
+.risk-shell .risk-asset-table tbody th > span:last-child > button { min-height: 40px; }
+.risk-shell .risk-asset-table tbody th small { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.risk-shell .risk-asset-table tbody th > span:last-child { min-width: 0; gap: 0; }
+.risk-shell .risk-asset-table tbody th > span:last-child > button { display: grid; align-content: center; gap: 2px; min-height: 40px; min-width: 40px; max-width: 100%; text-align: left; }
+.risk-shell .risk-table-identity { position: relative; flex: 0 0 28px; }
+.risk-shell .risk-table-identity .risk-asset-portrait { width: 28px; height: 28px; font-size: 10px; }
+.risk-shell .risk-table-identity > svg { position: absolute; bottom: -2px; right: -4px; background: var(--product-surface); border-radius: 4px; }
+.risk-shell .risk-resolution-trigger { justify-self: start; min-height: 40px; font-size: 12px; color: var(--product-accent); }
+.risk-shell .risk-resolution-status { display: grid; gap: 12px; padding-block: 16px; font-size: 13px; }
+.risk-shell .risk-resolution-status > div { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 8px; }
+.risk-shell .risk-resolution-status dt { color: var(--product-secondary); }
+.risk-shell .risk-resolution-status dd { margin: 0; }
+.risk-shell .risk-predict-utilities[open] { display: block; }
+.risk-shell .risk-predict-utilities summary { min-height: 40px; cursor: pointer; font-size: 13px; font-weight: 600; }
+.risk-shell .risk-predict-utilities > button { width: 100%; margin-bottom: 12px; }
+.risk-shell :is(.risk-horizon-control, .risk-header-actions, .risk-prediction-row-header, .risk-section-header, .risk-account-grid, .risk-modal, .risk-mobile-asset-heading) { min-width: 0; }
+.risk-shell :is(.risk-inline-button, .risk-text-button, .risk-horizon-actions button, .risk-segmented button, .risk-footer a, .risk-table-wrap thead th button) { min-height: 40px; }
+.risk-shell input[type='range'] { min-height: 40px; min-width: 0; }
+.risk-shell .risk-header-button, .risk-shell .risk-icon-button { min-width: 40px; }
+.risk-shell .risk-bar-row { grid-template-columns: 76px minmax(0, 1fr) 104px 88px; }
+.risk-shell .risk-modal { max-width: 100%; }
+.risk-shell .risk-guide-links a { min-height: 40px; }
+.risk-shell .risk-guide-links { gap: 8px 16px; }
+.risk-shell .risk-history-plot-scroll, .risk-shell .risk-picker-roster, .risk-shell .risk-table-wrap, .risk-shell .risk-prediction-list { scrollbar-gutter: stable; }
+.risk-shell .risk-help-menu { max-width: calc(100vw - 32px); }
+.risk-shell :is(.risk-band-label, .risk-grade, .risk-snapshot-note, .risk-slider-scale, .risk-predict-summary, .risk-canonical-link, .risk-history-source, .risk-history-inspection span, .risk-prediction-metrics dt, .risk-prediction-slider-scale, .risk-tide-mobile-assets button, .risk-table-wrap thead th, .risk-table-wrap small) { font-size: 12px; }
+
+@media (max-width: 820px) {
+  .risk-shell .product-menu-toggle { display: none; }
+  .risk-shell .product-header.s26-header.is-condensed { height: 64px; min-height: 64px; flex-wrap: nowrap; }
+  .risk-shell .product-header-actions { width: auto; order: initial; gap: 8px; }
+  .risk-shell .product-header-actions > .risk-icon-button[aria-label^='Use'] { display: none; }
+  .risk-shell .risk-wallet-button { width: 40px; min-width: 40px; min-height: 40px; padding: 0; }
+  .risk-shell .risk-wallet-button span { display: none; }
+  .risk-shell .risk-icon-button { min-width: 40px; min-height: 40px; }
+  .risk-shell .product-content { padding-top: 104px; padding-bottom: 96px; }
+  .risk-shell .risk-mobile-route-bar { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); position: fixed; z-index: 80; left: 0; right: 0; bottom: 0; padding: 8px 12px max(8px, env(safe-area-inset-bottom)); border-top: 1px solid var(--product-border); background: var(--product-surface); }
+  .risk-shell .risk-mobile-route-bar button { min-height: 44px; padding: 4px; border: 0; border-radius: 8px; background: transparent; color: var(--product-secondary); font-size: 12px; cursor: pointer; }
+  .risk-shell .risk-mobile-route-bar button[aria-current='page'] { color: var(--product-accent); background: var(--product-accent-soft); }
+  .risk-shell .risk-predict-intro { grid-template-columns: 1fr; }
+  .risk-shell .risk-predict-intro > div { grid-column: 1; grid-row: auto; min-width: 0; }
+  .risk-shell .risk-predict-layout { display: flex; flex-direction: column; gap: 16px; }
+  .risk-shell .risk-predict-panel { order: -1; position: static; width: 100%; }
+  .risk-shell .risk-prediction-list-wrap { width: 100%; }
+  .risk-shell .risk-explorer-header { flex-direction: column; align-items: stretch; }
+  .risk-shell .risk-explorer-search { width: 100%; min-width: 0; }
+}
+
+@media (max-width: 720px) {
+  .risk-shell .risk-market-context { gap: 16px; }
+  .risk-shell .risk-question h1 { font-size: clamp(28px, 7vw, 40px); line-height: 1.08; }
+  .risk-shell .risk-question-copy { font-size: 14px; margin-top: 12px; }
+  .risk-shell .risk-context-strip { grid-template-columns: 1fr 1fr; }
+  .risk-shell .risk-context-strip > div { min-height: 72px; padding: 12px; }
+  .risk-shell .risk-context-strip strong { font-size: 12px; }
+  .risk-shell .risk-context-strip span { font-size: 12px; letter-spacing: 0; text-transform: none; }
+  .risk-shell .risk-hero-copy { padding: 20px; }
+  .risk-shell .risk-hero-copy h2 { font-size: 28px; }
+  .risk-shell .risk-hero-copy > p:not(.risk-kicker) { display: none; }
+  .risk-shell .risk-hero-actions { flex-wrap: wrap; gap: 8px; }
+  .risk-shell .risk-aggregate { min-height: 384px; }
+  .risk-shell .risk-aggregate-dial { top: 24px; left: 16px; right: 16px; width: auto; max-width: 260px; margin-inline: auto; }
+  .risk-shell .risk-aggregate figcaption { padding: 12px; gap: 8px; }
+  .risk-shell .risk-aggregate figcaption strong { font-size: 18px; }
+  .risk-shell .risk-workspace-title > p { display: none; }
+  .risk-shell .risk-toolbar { gap: 12px; }
+  .risk-shell .risk-predict-intro { padding: 20px; }
+  .risk-shell .risk-predict-intro h2 { font-size: 28px; }
+  .risk-shell .risk-predict-intro > div { display: flex; flex-wrap: wrap; }
+  .risk-shell .risk-predict-intro > div span { padding: 8px; }
+  .risk-shell .risk-predict-mobile-action { bottom: calc(60px + env(safe-area-inset-bottom)); padding: 8px 12px; }
+  .risk-shell .risk-predict-mobile-action > span { display: block; text-align: center; margin-top: 4px; font-size: 12px; color: var(--product-secondary); }
+  .risk-shell .risk-predict-workspace { padding-bottom: 136px; }
+  .risk-shell .risk-modal { scroll-padding-top: 64px; scroll-padding-bottom: 24px; }
+  .risk-shell .risk-modal-close { position: sticky; top: 0; float: right; margin-left: 8px; }
+  .risk-shell .risk-modal > .risk-kicker { padding-right: 48px; }
+  .risk-shell .risk-modal .risk-modal-close { min-width: 40px; min-height: 40px; }
+  .risk-shell .risk-csv-modal { width: 100%; }
+  .risk-shell .risk-oracle-provenance { padding: 12px; }
+  .risk-shell .risk-oracle-provenance dl > div { grid-template-columns: 1fr; gap: 4px; }
+  .risk-shell .risk-section-header h2 { font-size: 28px; }
+  .risk-shell .risk-section-header > p { margin: 0; font-size: 13px; }
+  .risk-shell .risk-prediction-row-toggle { grid-template-columns: 20px minmax(0, 1fr) auto 18px; }
+  .risk-shell .risk-prediction-metrics { gap: 12px; }
+  .risk-shell .risk-status { flex-wrap: wrap; padding: 8px 12px; }
+  .risk-shell .risk-dossier-breadcrumb { flex-wrap: wrap; padding-right: 0; gap: 8px; }
+  .risk-shell .risk-history-inspection > div { max-height: 120px; }
+  .risk-shell .risk-aggregate-dial > div { gap: 4px; }
+  .risk-shell .risk-aggregate-dial strong { font-size: clamp(32px, 10vw, 44px); }
+  .risk-shell .risk-aggregate-prompt { top: 8px; font-size: 10px !important; }
+  .risk-shell .risk-survival-tide { padding: 12px; }
+  .risk-shell .risk-survival-tide figcaption > p { display: none; }
+  .risk-shell .risk-survival-tide h2 { font-size: 24px; }
+  .risk-shell .risk-tide-depth-labels { display: none; }
+  .risk-shell .risk-bars { min-height: 0; padding: 16px 12px; }
+  .risk-shell .risk-bar-row { grid-template-columns: 64px minmax(0, 1fr) 88px; gap: 8px; }
+  .risk-shell .risk-bar-row small { display: none; }
+  .risk-shell .risk-predict-utilities { max-height: 36svh; overflow-y: auto; }
+  .risk-shell .risk-explorer-actions > button { flex: 1 1 auto; }
+  .risk-shell .risk-prediction-row-toggle { gap: 4px; padding-inline: 8px; }
+  .risk-shell .risk-prediction-row-header { gap: 4px; }
+  .risk-shell .risk-prediction-details-button { min-width: 40px; padding-inline: 4px; }
+}
+
+@media (max-width: 600px) {
+  .risk-shell .risk-mobile-asset-list { display: grid; max-height: 68svh; overflow-y: auto; overscroll-behavior: contain; margin: 0; padding: 0; list-style: none; border: 1px solid var(--product-border); border-radius: 12px; background: var(--product-surface); }
+  .risk-shell .risk-mobile-asset-list > li { padding: 16px; border-bottom: 1px solid var(--product-border); }
+  .risk-shell .risk-mobile-asset-list + .risk-table-wrap { display: none; }
+  .risk-shell .risk-mobile-asset-heading { display: grid; grid-template-columns: 32px minmax(0, 1fr) 40px; align-items: center; gap: 12px; }
+  .risk-shell .risk-mobile-asset-heading .risk-asset-portrait { width: 32px; height: 32px; font-size: 12px; }
+  .risk-shell .risk-mobile-asset-heading .risk-inline-button { display: grid; justify-content: start; justify-items: start; gap: 4px; text-align: left; }
+  .risk-shell .risk-mobile-asset-heading small { color: var(--product-secondary); font-size: 12px; overflow-wrap: anywhere; }
+  .risk-shell .risk-mobile-asset-group { display: flex; gap: 4px; align-items: center; }
+  .risk-shell .risk-mobile-asset-list dl { display: grid; grid-template-columns: 1fr 1fr; gap: 16px 12px; margin: 16px 0 0; }
+  .risk-shell .risk-mobile-asset-list dl > div { min-width: 0; }
+  .risk-shell .risk-mobile-asset-list dt { color: var(--product-secondary); font-size: 12px; }
+  .risk-shell .risk-mobile-asset-list dd { margin: 4px 0 0; font-size: 14px; font-weight: 600; }
+  .risk-shell .risk-mobile-asset-list dd svg { width: 100%; max-width: 120px; height: 28px; }
+  .risk-shell .risk-explorer-toolbar { grid-template-columns: minmax(0, 1fr) 80px; }
+  .risk-shell .risk-explorer-search input { width: 100%; min-width: 0; }
+  .risk-shell .risk-explorer-actions { gap: 8px; }
+  .risk-shell .risk-history-toolbar { padding: 12px; }
+  .risk-shell .risk-history-toolbar .risk-segmented button { min-width: 0; padding-inline: 8px; }
+  .risk-shell .risk-history-toolbar { display: grid; grid-template-columns: 1fr; }
+  .risk-shell .risk-history-toolbar > .risk-segmented:first-child { width: auto; }
+  .risk-shell .risk-history-toolbar .risk-segmented { min-width: 0; }
+  .risk-shell .risk-zoom-controls { justify-content: end; }
+  .risk-shell .risk-history-movers header { flex-wrap: wrap; min-width: 0; }
+  .risk-shell .risk-history-movers li { grid-template-columns: 20px minmax(0, 1fr) 40px 64px; }
+  .risk-shell .risk-history-movers li > small:last-child { display: none; }
+  .risk-shell .risk-guide-stage { padding: 20px 16px; }
+  .risk-shell .risk-guide-steps { gap: 8px; margin-top: 16px; }
+  .risk-shell .risk-guide-steps li { grid-template-columns: 24px 1fr; gap: 8px 12px; padding: 12px; }
+  .risk-shell .risk-guide-steps li > span:last-child { grid-column: 2; font-size: 13px; }
+  .risk-shell .risk-step-index { width: 24px; height: 24px; font-size: 12px; }
+  .risk-shell .risk-empty-selection { min-height: 280px; padding: 24px; gap: 16px; }
+}
+
+@media (prefers-reduced-motion: reduce) { .risk-shell *, .risk-shell *::before, .risk-shell *::after { scroll-behavior: auto !important; animation: none !important; transition: none !important; } }

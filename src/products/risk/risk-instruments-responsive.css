@@ -1,0 +1,187 @@
+@media (max-width: 1100px) {
+  .risk-tide-layout {
+    grid-template-columns: minmax(0, 1fr) 240px;
+  }
+
+  .risk-overview-secondary {
+    grid-template-columns: 1fr;
+  }
+
+  .risk-payment-methods {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 820px) {
+  .risk-overview {
+    grid-template-columns: 1fr;
+    min-height: 0;
+  }
+
+  .risk-aggregate {
+    min-height: 430px;
+  }
+
+  .risk-tide-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .risk-asset-preview {
+    grid-template-columns: 1fr 1.4fr;
+    align-items: start;
+  }
+
+  .risk-asset-preview-head,
+  .risk-asset-preview > .risk-secondary-button {
+    grid-column: 1;
+  }
+
+  .risk-asset-preview dl {
+    grid-column: 2;
+    grid-row: 1 / span 2;
+  }
+
+  .risk-preview-estimate {
+    grid-column: 1 / -1;
+  }
+
+  .risk-empty-selection {
+    min-height: 360px;
+  }
+}
+
+@media (max-width: 620px) {
+  .risk-toolbar {
+    grid-template-columns: 1fr;
+  }
+
+  .risk-toolbar > .risk-secondary-button {
+    width: 100%;
+  }
+
+  .risk-survival-tide {
+    padding: 18px;
+  }
+
+  .risk-survival-tide figcaption {
+    display: grid;
+    gap: 10px;
+  }
+
+  .risk-survival-tide figcaption > p {
+    max-width: none;
+  }
+
+  .risk-tide-stage svg {
+    min-width: 660px;
+  }
+
+  .risk-tide-stage {
+    overflow-x: auto;
+  }
+
+  .risk-tide-mobile-assets {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 7px;
+    margin-top: 12px;
+  }
+
+  .risk-tide-mobile-assets button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    min-height: 42px;
+    padding: 0 11px;
+    border: 1px solid var(--product-border);
+    border-radius: 11px;
+    background: var(--product-surface-soft);
+    color: var(--product-ink);
+    font-size: 10px;
+    font-weight: 750;
+  }
+
+  .risk-tide-mobile-assets button[aria-pressed='true'] {
+    border-color: var(--product-accent);
+    background: var(--product-accent-soft);
+    color: var(--product-accent);
+  }
+
+  .risk-tide-mobile-assets button span {
+    color: var(--product-muted);
+    font-variant-numeric: tabular-nums;
+  }
+
+  .risk-asset-preview {
+    grid-template-columns: 1fr;
+  }
+
+  .risk-asset-preview-head,
+  .risk-asset-preview dl,
+  .risk-asset-preview > .risk-secondary-button,
+  .risk-preview-estimate {
+    grid-column: 1;
+    grid-row: auto;
+  }
+
+  .risk-empty-selection {
+    grid-template-columns: 1fr;
+    justify-items: start;
+    min-height: 420px;
+  }
+
+  .risk-empty-selection .risk-primary-button {
+    justify-self: start;
+  }
+
+  .risk-aggregate {
+    min-height: 560px;
+  }
+
+  .risk-aggregate-dial {
+    top: 76px;
+    right: 24px;
+    left: 24px;
+    width: auto;
+  }
+
+  .risk-aggregate figcaption {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .risk-aggregate figcaption > span {
+    grid-column: 1 / -1;
+  }
+
+  .risk-aggregate figcaption strong {
+    text-align: left;
+  }
+
+  .risk-dossier-summary {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .risk-history-spark,
+  .risk-dossier-footer {
+    grid-template-columns: 1fr;
+    display: grid;
+  }
+
+  .risk-history-spark span {
+    max-width: none;
+  }
+
+  .risk-dossier-footer .risk-primary-button {
+    width: 100%;
+  }
+
+  .risk-payment-methods,
+  .risk-payment-context.is-compact .risk-payment-methods {
+    grid-template-columns: 1fr;
+  }
+
+  .risk-payment-context.is-compact .risk-payment-methods > div {
+    grid-template-columns: 110px 1fr;
+    align-items: center;
+  }
+}

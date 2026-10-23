@@ -1,0 +1,352 @@
+[
+  {
+    "file": "lb-1d-all-100-pnl-desc-0.json",
+    "period": "1d",
+    "app": "all",
+    "chain": "100",
+    "sort": "pnl",
+    "direction": "desc",
+    "offset": 0,
+    "limit": 25
+  },
+  {
+    "file": "lb-1d-all-100-roi-desc-0.json",
+    "period": "1d",
+    "app": "all",
+    "chain": "100",
+    "sort": "roi",
+    "direction": "desc",
+    "offset": 0,
+    "limit": 25
+  },
+  {
+    "file": "lb-1d-all-100-score-desc-0.json",
+    "period": "1d",
+    "app": "all",
+    "chain": "100",
+    "sort": "score",
+    "direction": "desc",
+    "offset": 0,
+    "limit": 25
+  },
+  {
+    "file": "lb-1d-all-100-volume-desc-0.json",
+    "period": "1d",
+    "app": "all",
+    "chain": "100",
+    "sort": "volume",
+    "direction": "desc",
+    "offset": 0,
+    "limit": 25
+  },
+  {
+    "file": "lb-1d-all-all-pnl-desc-0.json",
+    "period": "1d",
+    "app": "all",
+    "chain": "all",
+    "sort": "pnl",
+    "direction": "desc",
+    "offset": 0,
+    "limit": 25
+  },
+  {
+    "file": "lb-1d-all-all-roi-desc-0.json",
+    "period": "1d",
+    "app": "all",
+    "chain": "all",
+    "sort": "roi",
+    "direction": "desc",
+    "offset": 0,
+    "limit": 25
+  },
+  {
+    "file": "lb-1d-all-all-score-desc-0.json",
+    "period": "1d",
+    "app": "all",
+    "chain": "all",
+    "sort": "score",
+    "direction": "desc",
+    "offset": 0,
+    "limit": 25
+  },
+  {
+    "file": "lb-1d-all-all-volume-desc-0.json",
+    "period": "1d",
+    "app": "all",
+    "chain": "all",
+    "sort": "volume",
+    "direction": "desc",
+    "offset": 0,
+    "limit": 25
+  },
+  {
+    "file": "lb-1m-all-100-pnl-desc-0.json",
+    "period": "1m",
+    "app": "all",
+    "chain": "100",
+    "sort": "pnl",
+    "direction": "desc",
+    "offset": 0,
+    "limit": 25
+  },
+  {
+    "file": "lb-1m-all-100-roi-desc-0.json",
+    "period": "1m",
+    "app": "all",
+    "chain": "100",
+    "sort": "roi",
+    "direction": "desc",
+    "offset": 0,
+    "limit": 25
+  },
+  {
+    "file": "lb-1m-all-100-score-desc-0.json",
+    "period": "1m",
+    "app": "all",
+    "chain": "100",
+    "sort": "score",
+    "direction": "desc",
+    "offset": 0,
+    "limit": 25
+  },
+  {
+    "file": "lb-1m-all-100-volume-desc-0.json",
+    "period": "1m",
+    "app": "all",
+    "chain": "100",
+    "sort": "volume",
+    "direction": "desc",
+    "offset": 0,
+    "limit": 25
+  },
+  {
+    "file": "lb-1m-all-all-pnl-desc-0.json",
+    "period": "1m",
+    "app": "all",
+    "chain": "all",
+    "sort": "pnl",
+    "direction": "desc",
+    "offset": 0,
+    "limit": 25
+  },
+  {
+    "file": "lb-1m-all-all-roi-desc-0.json",
+    "period": "1m",
+    "app": "all",
+    "chain": "all",
+    "sort": "roi",
+    "direction": "desc",
+    "offset": 0,
+    "limit": 25
+  },
+  {
+    "file": "lb-1m-all-all-score-desc-0.json",
+    "period": "1m",
+    "app": "all",
+    "chain": "all",
+    "sort": "score",
+    "direction": "desc",
+    "offset": 0,
+    "limit": 25
+  },
+  {
+    "file": "lb-1m-all-all-volume-desc-0.json",
+    "period": "1m",
+    "app": "all",
+    "chain": "all",
+    "sort": "volume",
+    "direction": "desc",
+    "offset": 0,
+    "limit": 25
+  },
+  {
+    "file": "lb-1w-all-100-pnl-desc-0.json",
+    "period": "1w",
+    "app": "all",
+    "chain": "100",
+    "sort": "pnl",
+    "direction": "desc",
+    "offset": 0,
+    "limit": 25
+  },
+  {
+    "file": "lb-1w-all-100-roi-desc-0.json",
+    "period": "1w",
+    "app": "all",
+    "chain": "100",
+    "sort": "roi",
+    "direction": "desc",
+    "offset": 0,
+    "limit": 25
+  },
+  {
+    "file": "lb-1w-all-100-score-desc-0.json",
+    "period": "1w",
+    "app": "all",
+    "chain": "100",
+    "sort": "score",
+    "direction": "desc",
+    "offset": 0,
+    "limit": 25
+  },
+  {
+    "file": "lb-1w-all-100-volume-desc-0.json",
+    "period": "1w",
+    "app": "all",
+    "chain": "100",
+    "sort": "volume",
+    "direction": "desc",
+    "offset": 0,
+    "limit": 25
+  },
+  {
+    "file": "lb-1w-all-all-pnl-desc-0.json",
+    "period": "1w",
+    "app": "all",
+    "chain": "all",
+    "sort": "pnl",
+    "direction": "desc",
+    "offset": 0,
+    "limit": 25
+  },
+  {
+    "file": "lb-1w-all-all-roi-desc-0.json",
+    "period": "1w",
+    "app": "all",
+    "chain": "all",
+    "sort": "roi",
+    "direction": "desc",
+    "offset": 0,
+    "limit": 25
+  },
+  {
+    "file": "lb-1w-all-all-score-desc-0.json",
+    "period": "1w",
+    "app": "all",
+    "chain": "all",
+    "sort": "score",
+    "direction": "desc",
+    "offset": 0,
+    "limit": 25
+  },
+  {
+    "file": "lb-1w-all-all-volume-desc-0.json",
+    "period": "1w",
+    "app": "all",
+    "chain": "all",
+    "sort": "volume",
+    "direction": "desc",
+    "offset": 0,
+    "limit": 25
+  },
+  {
+    "file": "lb-all-all-100-pnl-desc-0.json",
+    "period": "all",
+    "app": "all",
+    "chain": "100",
+    "sort": "pnl",
+    "direction": "desc",
+    "offset": 0,
+    "limit": 25
+  },
+  {
+    "file": "lb-all-all-100-roi-desc-0.json",
+    "period": "all",
+    "app": "all",
+    "chain": "100",
+    "sort": "roi",
+    "direction": "desc",
+    "offset": 0,
+    "limit": 25
+  },
+  {
+    "file": "lb-all-all-100-score-desc-0.json",
+    "period": "all",
+    "app": "all",
+    "chain": "100",
+    "sort": "score",
+    "direction": "desc",
+    "offset": 0,
+    "limit": 25
+  },
+  {
+    "file": "lb-all-all-100-volume-desc-0.json",
+    "period": "all",
+    "app": "all",
+    "chain": "100",
+    "sort": "volume",
+    "direction": "desc",
+    "offset": 0,
+    "limit": 25
+  },
+  {
+    "file": "lb-all-all-all-pnl-desc-0.json",
+    "period": "all",
+    "app": "all",
+    "chain": "all",
+    "sort": "pnl",
+    "direction": "desc",
+    "offset": 0,
+    "limit": 25
+  },
+  {
+    "file": "lb-all-all-all-pnl-desc-25.json",
+    "period": "all",
+    "app": "all",
+    "chain": "all",
+    "sort": "pnl",
+    "direction": "desc",
+    "offset": 25,
+    "limit": 25
+  },
+  {
+    "file": "lb-all-all-all-roi-desc-0.json",
+    "period": "all",
+    "app": "all",
+    "chain": "all",
+    "sort": "roi",
+    "direction": "desc",
+    "offset": 0,
+    "limit": 25
+  },
+  {
+    "file": "lb-all-all-all-score-desc-0.json",
+    "period": "all",
+    "app": "all",
+    "chain": "all",
+    "sort": "score",
+    "direction": "desc",
+    "offset": 0,
+    "limit": 25
+  },
+  {
+    "file": "lb-all-all-all-volume-desc-0.json",
+    "period": "all",
+    "app": "all",
+    "chain": "all",
+    "sort": "volume",
+    "direction": "desc",
+    "offset": 0,
+    "limit": 25
+  },
+  {
+    "file": "lb-all-foresight-all-pnl-desc-0.json",
+    "period": "all",
+    "app": "foresight",
+    "chain": "all",
+    "sort": "pnl",
+    "direction": "desc",
+    "offset": 0,
+    "limit": 25
+  },
+  {
+    "file": "lb-all-opportunity-all-pnl-desc-0.json",
+    "period": "all",
+    "app": "opportunity",
+    "chain": "all",
+    "sort": "pnl",
+    "direction": "desc",
+    "offset": 0,
+    "limit": 25
+  }
+]

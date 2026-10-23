@@ -1,0 +1,21 @@
+overnight/mimo.key
+overnight/mimo.key
+
+# --- repo hygiene (added for GitHub push) ---
+node_modules/
+dist/
+shots/
+*.log
+overnight/logs/
+overnight/state*/
+overnight/*.key
+overnight/prompts/_*
+public/video/
+render/**/frames/
+render/**/*.blend
+render/**/*.blend1
+render/**/*.png
+render/**/blender_*.log
+research/crawl/
+.DS_Store
+.vite/

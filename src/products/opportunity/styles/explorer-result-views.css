@@ -1,0 +1,179 @@
+.market-ledger table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  table-layout: fixed;
+}
+
+.market-ledger th {
+  height: 46px;
+  padding: 0 16px;
+  background: var(--product-surface-soft);
+  color: var(--product-muted);
+  font-size: 12px;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+.market-ledger th:first-child { width: 34%; }
+.market-ledger th:nth-child(2) { width: 13%; }
+.market-ledger th:nth-child(3),
+.market-ledger th:nth-child(4),
+.market-ledger th:nth-child(5) { width: 13%; }
+.market-ledger th:last-child { width: 14%; }
+
+.market-ledger tbody tr {
+  height: 72px;
+  border-bottom: 1px solid var(--product-border);
+  cursor: pointer;
+}
+
+.market-ledger tbody tr:hover,
+.market-ledger tbody tr:focus-visible { background: var(--product-surface-soft); }
+.market-ledger td {
+  padding: 10px 16px;
+  vertical-align: middle;
+}
+
+.market-ledger td strong,
+.market-ledger td small { display: block; }
+.market-ledger td strong {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.market-ledger td small {
+  margin-top: 4px;
+  color: var(--product-muted);
+}
+
+.numeric-cell { font-variant-numeric: tabular-nums; }
+.compact-market-list {
+  display: grid;
+  gap: 8px;
+}
+
+.compact-market-list > button {
+  display: grid;
+  grid-template-columns: 82px minmax(220px, 1.8fr) repeat(3, minmax(110px, .6fr)) 20px;
+  align-items: center;
+  gap: 14px;
+  min-height: 64px;
+  padding: 8px 14px;
+  border: 1px solid var(--product-border);
+  border-radius: 13px;
+  background: var(--product-surface);
+  color: var(--product-ink);
+  cursor: pointer;
+  text-align: left;
+}
+
+.compact-market-list > button:hover { background: var(--product-surface-soft); }
+.compact-market-title strong,
+.compact-market-title small,
+.compact-market-metric strong,
+.compact-market-metric small { display: block; }
+.compact-market-title small,
+.compact-market-metric small {
+  margin-top: 3px;
+  color: var(--product-muted);
+  font-size: 12px;
+}
+
+.compact-market-metric { text-align: right; }
+.compact-market-metric strong { font-variant-numeric: tabular-nums; }
+.analytical-field {
+  display: grid;
+  grid-template-columns: minmax(250px, .65fr) minmax(420px, 1.35fr);
+  gap: 24px;
+  margin: 0;
+  padding: 22px;
+  border: 1px solid var(--product-border);
+  border-radius: 18px;
+  background: var(--product-surface);
+}
+
+.analytical-field figcaption p:last-child { max-width: 360px; }
+.analytical-plot {
+  position: relative;
+  min-height: 340px;
+  overflow: hidden;
+  border-left: 1px solid var(--product-border);
+  border-bottom: 1px solid var(--product-border);
+}
+
+.field-gridline {
+  position: absolute;
+  right: 0;
+  left: 0;
+  height: 1px;
+  background: var(--product-border);
+}
+
+.field-axis {
+  position: absolute;
+  z-index: 1;
+  color: var(--product-muted);
+  font-size: 12px;
+  text-transform: uppercase;
+}
+
+.field-axis--y { top: 8px; left: 8px; }
+.field-axis--x { right: 8px; bottom: 7px; }
+.field-mark {
+  position: absolute;
+  z-index: 2;
+  display: grid;
+  width: 34px;
+  height: 34px;
+  place-items: center;
+  transform: translate(-50%, 50%);
+  border: 1px solid color-mix(in srgb, var(--product-accent) 55%, transparent);
+  border-radius: 50%;
+  background: var(--product-accent-soft);
+  color: var(--product-accent);
+  cursor: pointer;
+  font-size: 12px;
+  font-weight: 800;
+}
+
+.field-mark:hover,
+.field-mark:focus-visible {
+  background: var(--product-accent);
+  color: white;
+}
+
+.explorer-loading-rows {
+  display: grid;
+  gap: 8px;
+}
+
+.explorer-loading-rows span {
+  height: 64px;
+  border: 1px solid var(--product-border);
+  border-radius: 12px;
+  background: var(--product-surface);
+}
+
+.explorer-pagination {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+}
+
+.explorer-pagination button {
+  min-height: 40px;
+  padding: 0 15px;
+  border: 1px solid var(--product-border);
+  border-radius: 10px;
+  background: var(--product-surface);
+  cursor: pointer;
+}
+
+.explorer-pagination span {
+  color: var(--product-secondary);
+  font-size: 13px;
+  font-variant-numeric: tabular-nums;
+}

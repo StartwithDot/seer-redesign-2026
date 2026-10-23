@@ -1,0 +1,71 @@
+/* Focused prediction editor, using the shared light and charcoal tokens. */
+.risk-prediction-list-wrap { min-width: 0; }
+.risk-prediction-list-tools, .risk-prediction-list-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 12px; }
+.risk-prediction-list-tools { justify-content: space-between; margin-bottom: 12px; }
+.risk-prediction-list-tools button, .risk-predict-edit-actions button { min-height: 40px; }
+.risk-prediction-list > section > header { display: block; padding: 0; }
+.risk-prediction-group-toggle { display: flex; align-items: center; gap: 10px; width: 100%; min-height: 48px; padding: 8px 16px; background: transparent; border: 0; color: var(--product-ink); text-align: left; cursor: pointer; }
+.risk-prediction-group-toggle h3 { flex: 1; }
+.risk-group-edited.is-edited { color: var(--product-accent); font-weight: 650; }
+.risk-prediction-row { display: block; min-height: 64px; padding: 0; }
+.risk-prediction-row-header { display: flex; align-items: center; gap: 8px; padding-inline: 12px; }
+.risk-prediction-row-toggle { display: grid; grid-template-columns: 20px minmax(70px, 1fr) auto 18px; align-items: center; gap: 12px; flex: 1; min-width: 0; min-height: 64px; padding: 8px 0; background: transparent; border: 0; color: var(--product-ink); text-align: left; cursor: pointer; }
+.risk-prediction-state { display: grid; place-items: center; width: 20px; height: 20px; border: 1px solid var(--product-border); border-radius: 50%; }
+.risk-prediction-state.is-edited { color: var(--product-accent); border-color: currentColor; }
+.risk-prediction-identity { display: grid; grid-template-columns: 1fr; gap: 4px; }
+.risk-prediction-identity strong { font-size: 14px; }
+.risk-prediction-identity small { font-size: 11px; color: var(--product-secondary); }
+.risk-prediction-market { font-size: 14px; font-variant-numeric: tabular-nums; }
+.risk-prediction-market small { font-size: 10px; color: var(--product-secondary); }
+.risk-prediction-row.is-expanded .risk-prediction-row-toggle > svg { transform: rotate(180deg); }
+.risk-prediction-row-details { display: grid; gap: 20px; padding: 8px 20px 24px 44px; }
+.risk-prediction-metrics { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; margin: 0; }
+.risk-prediction-metrics dt { font-size: 11px; color: var(--product-secondary); }
+.risk-prediction-metrics dd { margin: 6px 0 0; font-size: 15px; font-variant-numeric: tabular-nums; }
+.risk-prediction-row label > span { font-size: 12px; color: var(--product-secondary); }
+.risk-prediction-slider input, .risk-aggregate-slider input { min-height: 40px; cursor: pointer; }
+.risk-prediction-slider-scale { display: flex; justify-content: space-between; font-size: 10px; }
+.risk-prediction-slider-scale b { font-weight: 450; }
+.risk-prediction-row .risk-prediction-band small { font-size: 11px; color: var(--product-secondary); }
+.risk-predict-state { display: flex; justify-content: space-between; gap: 12px; padding-block: 12px; color: var(--product-secondary); font-size: 12px; }
+.risk-predict-state strong { color: var(--product-ink); text-transform: capitalize; }
+.risk-predict-edit-actions { display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+.risk-predict-advanced { border-top: 1px solid var(--product-border); padding-top: 16px; }
+.risk-predict-advanced summary { cursor: pointer; min-height: 40px; font-size: 13px; }
+.risk-predict-advanced > div { display: none; }
+.risk-predict-advanced p { font-size: 12px; color: var(--product-secondary); line-height: 1.5; }
+.risk-predict-advanced a { margin: 4px; }
+.risk-predict-notice { min-height: 24px; font-size: 13px; color: var(--product-secondary); }
+.risk-prediction-empty { padding: 24px; color: var(--product-secondary); }
+.risk-csv-modal { padding: 24px; width: min(600px, calc(100vw - 32px)); }
+.risk-csv-header { padding-right: 36px; }
+.risk-csv-header h2 { margin: 8px 0; font-size: 32px; letter-spacing: -.03em; }
+.risk-csv-header > button { display: none; }
+.risk-csv-copy { color: var(--product-secondary); line-height: 1.6; }
+.risk-csv-dropzone { display: grid; justify-items: center; gap: 12px; padding: 28px 20px; border: 1px dashed var(--product-border); border-radius: 12px; background: var(--product-surface-soft); text-align: center; overflow-wrap: anywhere; }
+.risk-csv-dropzone.is-dragging { border-color: var(--product-accent); background: var(--product-accent-soft); }
+.risk-csv-dropzone > span { font-size: 13px; color: var(--product-secondary); }
+.risk-csv-file-input { position: absolute; width: 1px; height: 1px; opacity: 0; overflow: hidden; }
+.risk-csv-file-input:focus-visible + strong { outline: 2px solid var(--product-accent); outline-offset: 4px; }
+.risk-csv-schema { display: grid; gap: 12px; padding-block: 24px; }
+.risk-csv-schema-title { display: flex; align-items: center; gap: 8px; }
+.risk-csv-schema code { padding: 12px; border-radius: 8px; background: var(--product-surface-soft); }
+.risk-csv-schema small { color: var(--product-secondary); line-height: 1.5; }
+.risk-csv-actions { display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+.risk-csv-modal .risk-error { margin-bottom: 16px; font-size: 13px; overflow-wrap: anywhere; }
+.risk-predict-panel .risk-aggregate-prediction-values small { font-size: 11px; color: var(--product-secondary); }
+.risk-predict-panel .risk-predict-action-note { font-size: 12px; color: var(--product-secondary); }
+@media (max-width: 720px) {
+  .risk-prediction-list { max-height: 62svh; overflow-y: auto; }
+  .risk-predict-panel { position: static; }
+  .risk-prediction-row-details { padding: 8px 16px 20px; }
+  .risk-prediction-metrics { grid-template-columns: repeat(2, 1fr); }
+  .risk-prediction-row-toggle { gap: 8px; }
+  .risk-prediction-details-button { font-size: 12px; }
+  .risk-prediction-market { font-size: 12px; }
+  .risk-prediction-market small { display: none; }
+  .risk-prediction-filters { width: 100%; justify-content: space-between; }
+  .risk-prediction-filters button { padding-inline: 10px; }
+}
+
+.risk-modal-layer { color: var(--product-ink); font-family: inherit; }

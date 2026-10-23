@@ -1,0 +1,410 @@
+{
+  "pools": [
+    {
+      "id": "0x1a71f40856cfb23a4ed3ac1571cb1a7472c34961",
+      "proposal": {
+        "id": "0xece80208cb8376be311ce0f5ea4ef73850a0dcf0"
+      },
+      "type": "CONDITIONAL",
+      "outcomeSide": "NO"
+    },
+    {
+      "id": "0x1e3174fc4a1f5bdc995acb38b83c9b9040f14b2d",
+      "proposal": {
+        "id": "0xb607bd7c7201e966e6a150cd6ef1d08db55cad5d"
+      },
+      "type": "CONDITIONAL",
+      "outcomeSide": "YES"
+    },
+    {
+      "id": "0x242fa8eecd3d18c725505ae32fbfe340cabe9168",
+      "proposal": {
+        "id": "0x84412fe9d088c1d8dd676a7be9a3d5d0291ab1cf"
+      },
+      "type": "CONDITIONAL",
+      "outcomeSide": "NO"
+    },
+    {
+      "id": "0x25e4044c0375c694daaa4cb55aa5288c489f9192",
+      "proposal": {
+        "id": "0xece80208cb8376be311ce0f5ea4ef73850a0dcf0"
+      },
+      "type": "PREDICTION",
+      "outcomeSide": "YES"
+    },
+    {
+      "id": "0x28cd28f854bfbe763388a0aa25f3cc2de850e18f",
+      "proposal": {
+        "id": "0xece80208cb8376be311ce0f5ea4ef73850a0dcf0"
+      },
+      "type": "PREDICTION",
+      "outcomeSide": "NO"
+    },
+    {
+      "id": "0x2a41aae6a3207eb51f63255c0dea1edfdcd1c9fc",
+      "proposal": {
+        "id": "0xece80208cb8376be311ce0f5ea4ef73850a0dcf0"
+      },
+      "type": "CONDITIONAL",
+      "outcomeSide": "YES"
+    },
+    {
+      "id": "0x2f5f6cc5d3c5a927ae59b2460913df49d9f91a2d",
+      "proposal": {
+        "id": "0x84412fe9d088c1d8dd676a7be9a3d5d0291ab1cf"
+      },
+      "type": "EXPECTED_VALUE",
+      "outcomeSide": "YES"
+    },
+    {
+      "id": "0x33b04ed9607e5e6ea5b3ecd8f28daa9abb5d320a",
+      "proposal": {
+        "id": "0x2c1e08674f3f78f8a1426a41c41b8bf546fa481a"
+      },
+      "type": "EXPECTED_VALUE",
+      "outcomeSide": "NO"
+    },
+    {
+      "id": "0x36d46321ca07e822a6b71e31046dbb4a6f09e415",
+      "proposal": {
+        "id": "0x2c1e08674f3f78f8a1426a41c41b8bf546fa481a"
+      },
+      "type": "CONDITIONAL",
+      "outcomeSide": "YES"
+    },
+    {
+      "id": "0x378c89534aeb7bd86005563743e814c64b5c5d3b",
+      "proposal": {
+        "id": "0x4120de9931fd29c8a6effea4df57a7c8760c1677"
+      },
+      "type": "CONDITIONAL",
+      "outcomeSide": "YES"
+    },
+    {
+      "id": "0x3b99a763e073b72539eaff4d5d5c1c7d64e2d66c",
+      "proposal": {
+        "id": "0x45e1064348fd8a407d6d1f59fc64b05f633b28fc"
+      },
+      "type": "PREDICTION",
+      "outcomeSide": "NO"
+    },
+    {
+      "id": "0x46171a43e96ba8dd8238b25aafc0bc6aa68872f3",
+      "proposal": {
+        "id": "0x1a0f209fa9730a4668ce43ce18982cb0010a972a"
+      },
+      "type": "EXPECTED_VALUE",
+      "outcomeSide": "NO"
+    },
+    {
+      "id": "0x462bb6bb0261b2159b0e3cc763a1499e29afc1f8",
+      "proposal": {
+        "id": "0x2c1e08674f3f78f8a1426a41c41b8bf546fa481a"
+      },
+      "type": "CONDITIONAL",
+      "outcomeSide": "NO"
+    },
+    {
+      "id": "0x48562c47e56a45b20222d0b5b008c5b1ad14cdd1",
+      "proposal": {
+        "id": "0x84412fe9d088c1d8dd676a7be9a3d5d0291ab1cf"
+      },
+      "type": "PREDICTION",
+      "outcomeSide": "NO"
+    },
+    {
+      "id": "0x49244405ccb1696e0c24d100045f67f2606a2a5d",
+      "proposal": {
+        "id": "0xee8878d0a7136c5cd109554f06bb780e225badef"
+      },
+      "type": "CONDITIONAL",
+      "outcomeSide": "YES"
+    },
+    {
+      "id": "0x4f45aade5c05513acb38e7d4174def8547cc9f3f",
+      "proposal": {
+        "id": "0x84412fe9d088c1d8dd676a7be9a3d5d0291ab1cf"
+      },
+      "type": "PREDICTION",
+      "outcomeSide": "YES"
+    },
+    {
+      "id": "0x5256aa32169614a4ebe44a58912c11b6e7cbcd3f",
+      "proposal": {
+        "id": "0xece80208cb8376be311ce0f5ea4ef73850a0dcf0"
+      },
+      "type": "EXPECTED_VALUE",
+      "outcomeSide": "YES"
+    },
+    {
+      "id": "0x5ce6e5bb8866b30ffba342a9d988788a4011182f",
+      "proposal": {
+        "id": "0x47c80f5f701ebc5f25cab64e660f0577890729c2"
+      },
+      "type": "CONDITIONAL",
+      "outcomeSide": "YES"
+    },
+    {
+      "id": "0x6d6a245d834024c4ebf62c64a88629f9fafe67af",
+      "proposal": {
+        "id": "0x4120de9931fd29c8a6effea4df57a7c8760c1677"
+      },
+      "type": "CONDITIONAL",
+      "outcomeSide": "NO"
+    },
+    {
+      "id": "0x76f78ec457c1b14bcf972f16eae44c7aa21d578f",
+      "proposal": {
+        "id": "0x45e1064348fd8a407d6d1f59fc64b05f633b28fc"
+      },
+      "type": "CONDITIONAL",
+      "outcomeSide": "NO"
+    },
+    {
+      "id": "0x79ed63944c1d692cb7c12fe0c4817b4065adfeef",
+      "proposal": {
+        "id": "0x45e1064348fd8a407d6d1f59fc64b05f633b28fc"
+      },
+      "type": "EXPECTED_VALUE",
+      "outcomeSide": "NO"
+    },
+    {
+      "id": "0x83a337e14a4b191ec20562d3777ebfc3f40f84e1",
+      "proposal": {
+        "id": "0x1a0f209fa9730a4668ce43ce18982cb0010a972a"
+      },
+      "type": "CONDITIONAL",
+      "outcomeSide": "NO"
+    },
+    {
+      "id": "0x85aa1cd6bf200b91d88f1ecc831a50f7f31598ba",
+      "proposal": {
+        "id": "0x1a0f209fa9730a4668ce43ce18982cb0010a972a"
+      },
+      "type": "PREDICTION",
+      "outcomeSide": "YES"
+    },
+    {
+      "id": "0x8f5d5a43a8950d92a65e12c3a15ea10dc30b4e26",
+      "proposal": {
+        "id": "0x45e1064348fd8a407d6d1f59fc64b05f633b28fc"
+      },
+      "type": "EXPECTED_VALUE",
+      "outcomeSide": "YES"
+    },
+    {
+      "id": "0x951d458bf87c4fc404ed87da83e737dc829fe950",
+      "proposal": {
+        "id": "0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31"
+      },
+      "type": "CONDITIONAL",
+      "outcomeSide": "NO"
+    },
+    {
+      "id": "0x97c5d51a120b7c937f002fac51a4c6c842ae3f0e",
+      "proposal": {
+        "id": "0xee8878d0a7136c5cd109554f06bb780e225badef"
+      },
+      "type": "CONDITIONAL",
+      "outcomeSide": "NO"
+    },
+    {
+      "id": "0xb4f95f99ff661b26f13a6f6d61bb535e61df783f",
+      "proposal": {
+        "id": "0x0cae5e6f520e52e3d6a93c856bb6dbf7781f2e31"
+      },
+      "type": "CONDITIONAL",
+      "outcomeSide": "YES"
+    },
+    {
+      "id": "0xc9152487ba3d93bba8ab3ee9e05bcb3a4c4a87d6",
+      "proposal": {
+        "id": "0x2c1e08674f3f78f8a1426a41c41b8bf546fa481a"
+      },
+      "type": "EXPECTED_VALUE",
+      "outcomeSide": "YES"
+    },
+    {
+      "id": "0xd6ae41f05da5b06deab725ce651ee92981728af1",
+      "proposal": {
+        "id": "0x84412fe9d088c1d8dd676a7be9a3d5d0291ab1cf"
+      },
+      "type": "EXPECTED_VALUE",
+      "outcomeSide": "NO"
+    },
+    {
+      "id": "0xd78ea40dc62e763a41dbdac744005192b57412e6",
+      "proposal": {
+        "id": "0x47c80f5f701ebc5f25cab64e660f0577890729c2"
+      },
+      "type": "CONDITIONAL",
+      "outcomeSide": "NO"
+    },
+    {
+      "id": "0xdfca9e6d1f557244cc4ec5871e975c7e0632b4a2",
+      "proposal": {
+        "id": "0xb607bd7c7201e966e6a150cd6ef1d08db55cad5d"
+      },
+      "type": "CONDITIONAL",
+      "outcomeSide": "NO"
+    },
+    {
+      "id": "0xe68858941fafd91286bc26250acced17d4eb2ba3",
+      "proposal": {
+        "id": "0xece80208cb8376be311ce0f5ea4ef73850a0dcf0"
+      },
+      "type": "EXPECTED_VALUE",
+      "outcomeSide": "NO"
+    },
+    {
+      "id": "0xea8874f12b2a287b688ccc456031770a8727d87f",
+      "proposal": {
+        "id": "0x1a0f209fa9730a4668ce43ce18982cb0010a972a"
+      },
+      "type": "PREDICTION",
+      "outcomeSide": "NO"
+    },
+    {
+      "id": "0xeb96dc321604aa7d82d34047281bd1ac7c4eac42",
+      "proposal": {
+        "id": "0x1a0f209fa9730a4668ce43ce18982cb0010a972a"
+      },
+      "type": "CONDITIONAL",
+      "outcomeSide": "YES"
+    },
+    {
+      "id": "0xf04367c02ee90a52658e37415dcec42d668f9e7b",
+      "proposal": {
+        "id": "0x2c1e08674f3f78f8a1426a41c41b8bf546fa481a"
+      },
+      "type": "PREDICTION",
+      "outcomeSide": "NO"
+    },
+    {
+      "id": "0xf14664900a243132ede81d3c643ccf33d900e793",
+      "proposal": {
+        "id": "0x84412fe9d088c1d8dd676a7be9a3d5d0291ab1cf"
+      },
+      "type": "CONDITIONAL",
+      "outcomeSide": "YES"
+    },
+    {
+      "id": "0xf8346e622557763a62cc981187d084695ee296c3",
+      "proposal": {
+        "id": "0x45e1064348fd8a407d6d1f59fc64b05f633b28fc"
+      },
+      "type": "CONDITIONAL",
+      "outcomeSide": "YES"
+    },
+    {
+      "id": "0xfa8d15f6dc51890b9cd91d4dac44c3fe7dddefd0",
+      "proposal": {
+        "id": "0x45e1064348fd8a407d6d1f59fc64b05f633b28fc"
+      },
+      "type": "PREDICTION",
+      "outcomeSide": "YES"
+    },
+    {
+      "id": "0xfa9171ef6451f5e15099c824ceb268d1fee5672e",
+      "proposal": {
+        "id": "0x1a0f209fa9730a4668ce43ce18982cb0010a972a"
+      },
+      "type": "EXPECTED_VALUE",
+      "outcomeSide": "YES"
+    },
+    {
+      "id": "0xfea7f91d491f51197aeb9c6ab0cbcb67a4db806a",
+      "proposal": {
+        "id": "0x2c1e08674f3f78f8a1426a41c41b8bf546fa481a"
+      },
+      "type": "PREDICTION",
+      "outcomeSide": "YES"
+    },
+    {
+      "id": "0x2f5abf2e579d72c2a442b5ef9db953867773a4ed",
+      "proposal": {
+        "id": "0x0d78b95fca9f3e1b588271a330b0d6f731ec38aa"
+      },
+      "type": "EXPECTED_VALUE",
+      "outcomeSide": "YES"
+    },
+    {
+      "id": "0x4774720b126277dfee4cbc05391e0fb4f71b5387",
+      "proposal": {
+        "id": "0x0d78b95fca9f3e1b588271a330b0d6f731ec38aa"
+      },
+      "type": "PREDICTION",
+      "outcomeSide": "NO"
+    },
+    {
+      "id": "0x7a3b5f6592186c5d121ec4e48fc9e5d020a0b2df",
+      "proposal": {
+        "id": "0x0d78b95fca9f3e1b588271a330b0d6f731ec38aa"
+      },
+      "type": "CONDITIONAL",
+      "outcomeSide": "NO"
+    },
+    {
+      "id": "0x9c502d45a09473ceca897e24c6ffdbc5af279b0f",
+      "proposal": {
+        "id": "0x0d78b95fca9f3e1b588271a330b0d6f731ec38aa"
+      },
+      "type": "EXPECTED_VALUE",
+      "outcomeSide": "NO"
+    },
+    {
+      "id": "0xa95d30c125c20d001f6aed9f2eff1b8e5577dca3",
+      "proposal": {
+        "id": "0x0d78b95fca9f3e1b588271a330b0d6f731ec38aa"
+      },
+      "type": "CONDITIONAL",
+      "outcomeSide": "YES"
+    },
+    {
+      "id": "0xee75113d3a0c3f5864b51d618a0b2a494bacc6d4",
+      "proposal": {
+        "id": "0x0d78b95fca9f3e1b588271a330b0d6f731ec38aa"
+      },
+      "type": "PREDICTION",
+      "outcomeSide": "YES"
+    }
+  ],
+  "tokens": [
+    {
+      "id": "0x642a8d92b4fc8ecd504dfc169fbd15275354e620",
+      "proposal": {
+        "id": "0x0d78b95fca9f3e1b588271a330b0d6f731ec38aa"
+      },
+      "decimals": "18",
+      "role": "YES_COMPANY",
+      "symbol": "YES_WETH"
+    },
+    {
+      "id": "0x6c833e3787d024048f357eba54134c358ebb1971",
+      "proposal": {
+        "id": "0x0d78b95fca9f3e1b588271a330b0d6f731ec38aa"
+      },
+      "decimals": "18",
+      "role": "NO_CURRENCY",
+      "symbol": "NO_USDS"
+    },
+    {
+      "id": "0x98c4c36aaba743c5a320355111ba51559fdd8e21",
+      "proposal": {
+        "id": "0x0d78b95fca9f3e1b588271a330b0d6f731ec38aa"
+      },
+      "decimals": "18",
+      "role": "NO_COMPANY",
+      "symbol": "NO_WETH"
+    },
+    {
+      "id": "0xee3db3b2f2296a92d8e57bf61e9423b0e7f5e7e1",
+      "proposal": {
+        "id": "0x0d78b95fca9f3e1b588271a330b0d6f731ec38aa"
+      },
+      "decimals": "18",
+      "role": "YES_CURRENCY",
+      "symbol": "YES_USDS"
+    }
+  ]
+}

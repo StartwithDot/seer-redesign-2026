@@ -1,0 +1,9 @@
+# Archive assets
+
+The two JSON files contain the complete asset manifests from the official [Opportunity Markets IPFS manifest](https://github.com/seer-pm/opportunity-markets/blob/main/submissions/ipfs-manifest.json), generated August 4, 2026. No image CIDs or submission names were generated. Rebrand contains 144 images and four PDFs across 16 submissions. Merch contains 18 images and two PDFs across 17 submissions. The full-set merchandise submission is PDF-only; the gallery links its proposal rather than inventing an image.
+
+Outcome mappings and the recorded rebrand creator handles come from [market configuration](https://github.com/seer-pm/opportunity-markets/blob/main/src/config/market.ts). The merchandise manifest does not record creator identities, so those remain unavailable. Winner flags come from the captured markets-search payout numerators in `archiveEvidence.ts`.
+
+`archiveTokens.json` is a focused extraction of the two root market records in `products/opportunity/audit_archive/network.json`. It retains contract, collateral, condition, parent collection and wrapped-outcome addresses. Live reads verify the condition and parent, wrapped token addresses and decimals, then read payout numerators, denominator, balances and allowances at a single block. Historical settlement values are never used as live wallet balances.
+
+Redemption uses the published [GnosisRouter deployment](https://github.com/seer-pm/demo/blob/main/docs/developers/contracts/deployed-contracts.mdx) and [Router ABI](https://github.com/seer-pm/demo/blob/main/contracts/src/Router.sol). The [official guide](https://github.com/seer-pm/demo/blob/main/docs/developers/guides/split-merge-and-redeem.mdx) documents approvals followed by `redeemPositions(collateral, market, outcomeIndexes, amounts)`. Exact-amount approval and redemption are distinct wallet confirmations. No transactions are broadcast during verification.

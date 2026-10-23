@@ -1,0 +1,22 @@
+.market-analytics { min-width: 0; }
+.analysis-controls, .analysis-legend { display: flex; flex-wrap: wrap; gap: 8px; margin-block: 16px; }
+.analysis-controls button, .analysis-legend button, .archive-filters button { min-height: 44px; padding: 8px 12px; border: 1px solid var(--product-border); border-radius: 10px; background: var(--product-surface); color: var(--product-secondary); cursor: pointer; }
+.analysis-controls [aria-pressed='true'], .analysis-legend [aria-pressed='true'] { color: var(--product-accent); background: var(--product-accent-soft); border-color: var(--product-accent); }
+.analysis-plot svg { width: 100%; display: block; touch-action: pan-y; }
+.analysis-plot text { fill: var(--product-secondary); font-size: 12px; }
+.analysis-crosshair { stroke: var(--product-secondary); stroke-dasharray: 3 4; }
+.analysis-readout { display: flex; flex-wrap: wrap; gap: 8px 16px; font-size: 12px; font-variant-numeric: tabular-nums; min-height: 64px; }
+.analysis-readout strong { width: 100%; }
+.analysis-scrubber { display: grid; gap: 8px; font-size: 12px; color: var(--product-secondary); }
+.analysis-scrubber input { min-height: 44px; width: 100%; accent-color: var(--product-accent); }
+.market-analytics .chart-note { font-size: 12px; line-height: 1.5; color: var(--product-secondary); }
+.archive-filters { padding: 16px; border-block: 1px solid var(--product-border); }
+.archive-filters summary { cursor: pointer; min-height: 44px; align-content: center; }
+.archive-filter-grid { display: grid; grid-template-columns: repeat(4,minmax(0,1fr)); gap: 16px; margin-block: 16px; }
+.archive-filter-grid label { display: grid; gap: 8px; font-size: 13px; }
+.archive-filter-grid input, .archive-filter-grid select { width: 100%; min-width: 0; min-height: 44px; padding: 8px; color: var(--product-ink); background: var(--product-surface); border: 1px solid var(--product-border); border-radius: 8px; }
+.archive-sample-toggle { display: flex; align-items: center; gap: 8px; min-height: 48px; margin-top: 12px; }
+.archive-view .archive-record { grid-template-columns: minmax(0,1fr) minmax(0,1fr) auto; }
+.archive-view .archive-record h2 { font-size: clamp(24px,3vw,36px); margin-block: 16px; }
+.archive-record dd { overflow-wrap: anywhere; }
+@media(max-width: 720px) { .archive-filter-grid { grid-template-columns: repeat(2,minmax(0,1fr)); } .archive-view .archive-record { grid-template-columns: 1fr; } .analysis-readout { min-height: 100px; } }

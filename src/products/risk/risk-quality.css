@@ -1,0 +1,75 @@
+/* Risk-local theme roles: contrast on both white and charcoal, including portals. */
+.risk-shell {
+  --product-bg: #fafafa;
+  --product-muted: #656570;
+  --product-authority: #875000;
+  --risk-teal: #0c756c;
+  --risk-error: #a52620;
+  font-variant-numeric: tabular-nums;
+}
+html[data-theme='dark'] .risk-shell {
+  --product-bg: #0e0e12;
+  --product-muted: #a0a0ad;
+  --product-border: #ffffff14;
+  --risk-teal: #76d6c6;
+  --risk-error: #ffb3ab;
+  --product-authority: #f1b75d;
+}
+.risk-shell :is(.risk-market-context, .risk-workspace, .risk-footer) { --risk-teal: #0c756c; }
+html[data-theme='dark'] .risk-shell :is(.risk-market-context, .risk-workspace, .risk-footer) { --risk-teal: #76d6c6; }
+.risk-shell .risk-primary-button,
+.risk-shell .risk-wallet-button { background: #6c47ff; color: #fff; }
+.risk-shell .risk-error { color: var(--risk-error); background: color-mix(in srgb, var(--risk-error) 9%, var(--product-surface)); }
+.risk-shell .risk-success { color: var(--risk-teal); }
+.risk-shell :is(button, a, input, select, summary, [tabindex]):focus-visible { outline: 3px solid var(--product-accent); outline-offset: 3px; }
+.risk-shell :is(button, a, input, select) { touch-action: manipulation; }
+.risk-shell button:disabled { cursor: not-allowed; opacity: .6; }
+.risk-shell :is(.risk-info-button, .risk-icon-button) { min-width: 40px; min-height: 40px; }
+.risk-shell .risk-help-menu a { min-height: 40px; }
+.risk-shell .risk-info-button { vertical-align: middle; }
+.risk-shell .risk-modal-close { background: var(--product-surface); }
+.risk-shell .risk-modal-layer { overscroll-behavior: contain; }
+.risk-shell .risk-modal { overscroll-behavior: contain; scrollbar-gutter: stable; }
+.risk-shell .risk-csv-file-input { min-height: 1px; }
+.risk-empty-recovery, .risk-data-error { padding: 24px; background: var(--product-surface-soft); border-radius: 12px; }
+.risk-empty-recovery p, .risk-data-error p { color: var(--product-secondary); line-height: 1.6; }
+.risk-data-error button { margin: 8px 8px 0 0; }
+.risk-data-skeleton { min-height: 280px; padding: 24px; background: var(--product-surface); color: var(--product-secondary); border-radius: 16px; }
+.risk-data-skeleton > div { display: grid; gap: 16px; margin-top: 24px; }
+.risk-data-skeleton i { display: block; height: 40px; border-radius: 8px; background: var(--product-surface-soft); animation: risk-loading 1.2s ease-in-out infinite alternate; }
+.risk-data-skeleton i:nth-child(2n) { width: 72%; }
+.risk-data-skeleton.is-history i { height: 48px; }
+@keyframes risk-loading { to { opacity: .45; } }
+.risk-source-data { margin-top: 24px; padding: 16px; border: 1px solid var(--product-border); border-radius: 12px; background: var(--product-surface); }
+.risk-source-data summary { min-height: 40px; padding-block: 10px; cursor: pointer; font-weight: 600; }
+.risk-source-data p { color: var(--product-secondary); font-size: 13px; line-height: 1.6; }
+.risk-source-data pre { white-space: pre-wrap; overflow-wrap: anywhere; max-height: 360px; overflow: auto; background: var(--product-surface-soft); padding: 16px; font-size: 12px; }
+.risk-source-series { max-height: 360px; overflow: auto; overscroll-behavior: contain; }
+.risk-source-series details { border-bottom: 1px solid var(--product-border); }
+.risk-source-series dl { margin: 0; font-size: 12px; }
+.risk-source-series dl > div { display: grid; grid-template-columns: minmax(120px, 1fr) minmax(0, 2fr); gap: 16px; padding: 8px 0; }
+.risk-source-series dt { color: var(--product-secondary); }
+.risk-source-series dd { margin: 0; overflow-wrap: anywhere; }
+.risk-source-series a { color: var(--product-accent); }
+@media (max-width: 720px) {
+  .risk-shell :is(.risk-primary-button, .risk-secondary-button, .risk-text-button, .risk-inline-button, .risk-check-button, summary) { min-height: 40px; }
+  .risk-shell .risk-modal-layer { padding: 0; align-items: end; }
+  .risk-shell .risk-modal { width: 100%; max-height: 92svh; border-radius: 20px 20px 0 0; padding-bottom: max(24px, env(safe-area-inset-bottom)); }
+  .risk-source-series dl > div { grid-template-columns: 1fr; gap: 4px; }
+  .risk-shell .risk-predict-layout { display: flex; flex-direction: column; }
+  .risk-shell .risk-predict-panel { order: -1; width: 100%; }
+  .risk-shell .risk-prediction-list { width: 100%; }
+  .risk-shell .risk-predict-panel > .risk-primary-button { position: sticky; bottom: 12px; z-index: 3; }
+}
+@media (max-width: 420px) {
+  .risk-shell .risk-prediction-filters { flex-wrap: wrap; justify-content: start; }
+  .risk-shell .risk-explorer-toolbar { gap: 12px; }
+  .risk-shell .risk-filter-tabs { flex-wrap: wrap; }
+  .risk-shell .risk-explorer-actions { flex-wrap: wrap; }
+  .risk-shell .risk-section-header { align-items: stretch; flex-direction: column; }
+  .risk-shell .risk-csv-actions > button { width: 100%; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .risk-shell *, .risk-shell *::before, .risk-shell *::after { animation: none !important; transition: none !important; scroll-behavior: auto !important; }
+  .risk-shell .risk-rain-drops, .risk-shell .risk-tide-spark { display: none; }
+}

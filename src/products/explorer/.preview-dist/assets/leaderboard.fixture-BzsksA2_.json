@@ -1,0 +1,59 @@
+{
+  "source": "Illustrative local settlement ledger; not captured API data",
+  "rows": [
+    {
+      "rank": 1,
+      "address": "0x8f1F3A182A92078520dB730224650e25552d42D8",
+      "label": "signal.eth",
+      "volume": 1480200,
+      "profit": 182400,
+      "accuracy": 71.4,
+      "markets": 146
+    },
+    {
+      "rank": 2,
+      "address": "0xA7C97472b20b2c1A6284b431Cb1B965c1a866371",
+      "label": "Event Drift",
+      "volume": 1184500,
+      "profit": 151900,
+      "accuracy": 68.9,
+      "markets": 121
+    },
+    {
+      "rank": 3,
+      "address": "0x17D9A8Dd762C3584F1561c2202809e46C9731e73",
+      "label": "Signal Ridge",
+      "volume": 990300,
+      "profit": 127100,
+      "accuracy": 67.2,
+      "markets": 108
+    },
+    {
+      "rank": 4,
+      "address": "0x5685A410049cEe3Fb7E2C0F12F37216524281a09",
+      "label": "Quiet Capital",
+      "volume": 887100,
+      "profit": 105700,
+      "accuracy": 65.8,
+      "markets": 97
+    },
+    {
+      "rank": 5,
+      "address": "0x19c15F8B16B6F3a38f452e5B641B8d6cC4e312C1",
+      "label": "Base Rate",
+      "volume": 781450,
+      "profit": 91600,
+      "accuracy": 64.3,
+      "markets": 89
+    },
+    {
+      "rank": 6,
+      "address": "0x3c5522A49742fFA134bAd4B628d0aB9c4F005836",
+      "label": "",
+      "volume": 698000,
+      "profit": 80300,
+      "accuracy": 63.7,
+      "markets": 82
+    }
+  ]
+}

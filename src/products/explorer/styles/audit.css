@@ -1,0 +1,191 @@
+/* Step 3 audit overrides: compact, bounded, and interaction-safe primary views. */
+.explorer-shell .index-intro {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 24px;
+}
+
+.explorer-shell .index-create-action {
+  flex: 0 0 auto;
+}
+
+.explorer-shell .market-board {
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+}
+
+.explorer-shell .market-card {
+  contain: layout paint;
+}
+
+.explorer-shell .market-card.has-open-drawer {
+  border-color: color-mix(in srgb, var(--violet) 38%, var(--hairline));
+}
+
+.explorer-shell .market-card-actions {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.explorer-shell .market-card-actions .secondary-button {
+  min-width: 0;
+  padding-inline: 10px;
+}
+
+.explorer-shell .instrument-live {
+  display: inline-flex;
+  min-height: 24px;
+  align-items: center;
+  gap: 7px;
+  color: var(--secondary);
+  font-size: 11px;
+  font-weight: 650;
+  letter-spacing: .04em;
+  text-transform: uppercase;
+}
+
+.explorer-shell .instrument-live i {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--green);
+  box-shadow: 0 0 0 4px var(--green-soft);
+}
+
+.explorer-shell .micro-binary-instrument {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 6px;
+}
+
+.explorer-shell .micro-binary-instrument .instrument-buy {
+  min-width: 0;
+  padding-inline: 8px;
+  font-size: 11px;
+}
+
+.explorer-shell .head-to-head-instrument {
+  position: relative;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 8px;
+}
+
+.explorer-shell .head-to-head-side,
+.explorer-shell .three-way-instrument button {
+  display: grid;
+  min-width: 0;
+  min-height: 72px;
+  align-content: center;
+  gap: 2px;
+  padding: 9px;
+  border: 1px solid var(--hairline);
+  border-radius: 11px;
+  background: var(--nested);
+  cursor: pointer;
+  text-align: left;
+}
+
+.explorer-shell .head-to-head-side strong,
+.explorer-shell .three-way-instrument strong {
+  font-variant-numeric: tabular-nums;
+}
+
+.explorer-shell .head-to-head-side small {
+  color: var(--secondary);
+}
+
+.explorer-shell .head-to-head-versus {
+  position: absolute;
+  z-index: 1;
+  top: 50%;
+  left: 50%;
+  display: grid;
+  width: 28px;
+  height: 28px;
+  place-items: center;
+  border-radius: 50%;
+  background: var(--surface);
+  color: var(--secondary);
+  font-size: 10px;
+  font-weight: 750;
+  transform: translate(-50%, -50%);
+}
+
+.explorer-shell .three-way-instrument {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 5px;
+}
+
+.explorer-shell .three-way-instrument button {
+  min-height: 76px;
+  font-size: 11px;
+  text-align: center;
+}
+
+.explorer-shell .three-way-instrument span {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.explorer-shell .chart-help {
+  width: 40px;
+  height: 40px;
+  flex: 0 0 auto;
+  border: 1px solid var(--hairline);
+  border-radius: 50%;
+  background: var(--nested);
+  color: var(--secondary);
+  cursor: help;
+}
+
+.explorer-shell .market-card-drawer {
+  overscroll-behavior: contain;
+}
+
+.explorer-shell .footer-links {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+@media (min-width: 1800px) {
+  .explorer-shell .market-board {
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 1100px) {
+  .explorer-shell .market-board {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 760px) {
+  .explorer-shell .index-intro {
+    align-items: stretch;
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .explorer-shell .index-create-action {
+    width: 100%;
+  }
+
+  .explorer-shell .market-board {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .explorer-shell .market-card-actions .secondary-button {
+    padding-inline: 6px;
+    font-size: 11px;
+    white-space: normal;
+  }
+
+  .explorer-shell .market-card-footer {
+    gap: 4px 6px;
+  }
+
+  .explorer-shell .footer-links {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}

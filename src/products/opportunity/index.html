@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Opportunity Markets | Seer</title>
+    <meta name="description" content="Find promising submissions, review the market signal, and put capital behind your forecast." />
+    <script>
+      (() => {
+        let theme = 'light';
+        try {
+          const stored = localStorage.getItem('seer-theme');
+          const preference = localStorage.getItem('seer-theme-preference');
+          theme = stored === 'light' || stored === 'dark' ? stored : preference === 'system' && matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+        } catch {}
+        document.documentElement.dataset.theme = theme;
+        document.documentElement.style.colorScheme = theme;
+      })();
+    </script>
+    <style>
+      html,body{margin:0;background:#fdfdfd;color:#0e0e12}html[data-theme='dark'],html[data-theme='dark'] body{background:#0e0e12;color:#ededf2}.preview-loading{padding:96px 32px;font:24px/1.4 sans-serif}
+    </style>
+  </head>
+  <body>
+    <div id="root"><p class="preview-loading" role="status">Opening Opportunity Markets…</p></div>
+    <noscript>Enable JavaScript to explore opportunity markets and review submissions.</noscript>
+    <script type="module" src="./preview.tsx"></script>
+  </body>
+</html>

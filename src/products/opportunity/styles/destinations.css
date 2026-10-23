@@ -1,0 +1,219 @@
+.destination-view {
+  display: grid;
+  gap: 22px;
+}
+
+.destination-header {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 32px;
+  padding: 28px 0 12px;
+}
+
+.destination-header h1 {
+  max-width: 920px;
+}
+
+.destination-header > div > p:last-child {
+  max-width: 720px;
+  margin-bottom: 0;
+  font-size: 18px;
+}
+
+.destination-count {
+  flex: 0 0 auto;
+  padding: 9px 12px;
+  border: 1px solid var(--product-border);
+  border-radius: 999px;
+  color: var(--product-secondary);
+  font-size: 12px;
+}
+
+.explorer-controls {
+  display: grid;
+  grid-template-columns: minmax(280px, 1fr) repeat(2, minmax(150px, .35fr)) auto;
+  gap: 10px;
+  padding: 12px;
+  border: 1px solid var(--product-border);
+  border-radius: 18px;
+  background: var(--product-surface);
+}
+
+.explorer-controls label {
+  display: grid;
+  gap: 5px;
+}
+
+.explorer-controls label > span:not(.sr-only),
+.archive-filter > span {
+  color: var(--product-muted);
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.explorer-controls input,
+.explorer-controls select,
+.archive-filter select {
+  min-height: 46px;
+  padding: 0 12px;
+  border: 1px solid var(--product-border);
+  border-radius: 12px;
+  background: var(--product-surface-soft);
+  color: var(--product-ink);
+}
+
+.explorer-controls > button {
+  align-self: end;
+  min-height: 46px;
+  padding: 0 15px;
+  border: 1px solid var(--product-border);
+  border-radius: 12px;
+  background: transparent;
+  cursor: pointer;
+}
+
+.market-ledger,
+.submission-ledger {
+  overflow: hidden;
+  border: 1px solid var(--product-border);
+  border-radius: 19px;
+  background: var(--product-surface);
+}
+
+.ledger-row {
+  display: grid;
+  grid-template-columns: minmax(280px, 1.6fr) 120px repeat(3, 100px) 86px;
+  align-items: center;
+  gap: 16px;
+  width: 100%;
+  min-height: 78px;
+  padding: 12px 18px;
+  border: 0;
+  border-top: 1px solid var(--product-border);
+  background: transparent;
+  color: var(--product-ink);
+  cursor: pointer;
+  text-align: left;
+}
+
+button.ledger-row:hover {
+  background: var(--product-surface-soft);
+}
+
+.ledger-head {
+  min-height: 46px;
+  border-top: 0;
+  background: var(--product-surface-soft);
+  color: var(--product-muted);
+  cursor: default;
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.ledger-row strong,
+.ledger-row small {
+  display: block;
+}
+
+.ledger-row small {
+  margin-top: 5px;
+  color: var(--product-muted);
+}
+
+.destination-empty {
+  margin: 16px;
+}
+
+.archive-filter {
+  display: grid;
+  min-width: 190px;
+  gap: 6px;
+}
+
+.archive-list {
+  display: grid;
+  gap: 12px;
+}
+
+.archive-record {
+  display: grid;
+  grid-template-columns: 56px 1fr 1.1fr;
+  gap: 18px;
+  align-items: start;
+  padding: 22px;
+  border: 1px solid var(--product-border);
+  border-radius: 20px;
+  background: var(--product-surface);
+}
+
+.archive-record--lead {
+  min-height: 270px;
+  background: var(--product-surface);
+}
+
+.archive-number {
+  display: grid;
+  width: 44px;
+  height: 44px;
+  place-items: center;
+  border: 1px solid var(--product-border);
+  border-radius: 13px;
+  color: var(--product-accent);
+  font-size: 12px;
+  font-weight: 750;
+}
+
+.archive-record p {
+  margin-bottom: 8px;
+  color: var(--product-accent);
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.archive-record h2 {
+  margin-bottom: 12px;
+}
+
+.archive-record > div > span {
+  color: var(--product-secondary);
+  font-size: 13px;
+}
+
+.archive-record dl {
+  display: grid;
+  gap: 9px;
+  margin: 0;
+}
+
+.archive-record dl > div {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  padding-bottom: 9px;
+  border-bottom: 1px solid var(--product-border);
+  font-size: 12px;
+}
+
+.archive-record dt {
+  color: var(--product-muted);
+}
+
+.archive-record dd {
+  margin: 0;
+  max-width: 250px;
+  font-weight: 650;
+  text-align: right;
+}
+
+.archive-record details {
+  grid-column: 2 / -1;
+}
+
+.archive-record summary {
+  min-height: 42px;
+  cursor: pointer;
+}

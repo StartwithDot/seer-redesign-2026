@@ -1,0 +1,11 @@
+{
+  "extends": "../../../tsconfig.json",
+  "include": [
+    "./**/*.ts",
+    "./**/*.tsx",
+    "../shared/Shell.tsx"
+  ],
+  "compilerOptions": {
+    "resolveJsonModule": true
+  }
+}

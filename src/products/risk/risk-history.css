@@ -1,0 +1,324 @@
+.risk-history-dashboard {
+  display: grid;
+  gap: 18px;
+}
+
+.risk-history-chart {
+  overflow: hidden;
+  border: 1px solid var(--product-border);
+  border-radius: 18px;
+  background: var(--product-surface);
+}
+
+.risk-history-toolbar {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  min-height: 62px;
+  padding: 10px 14px;
+  border-bottom: 1px solid var(--product-border);
+}
+
+.risk-history-toolbar > .risk-segmented:first-child {
+  margin-right: auto;
+}
+
+.risk-zoom-controls {
+  display: flex;
+  gap: 4px;
+}
+
+.risk-zoom-controls button {
+  width: 40px;
+  height: 40px;
+  border: 1px solid var(--product-border);
+  border-radius: 10px;
+  background: var(--product-surface-soft);
+  color: var(--product-secondary);
+  cursor: pointer;
+}
+
+.risk-history-plot-scroll {
+  max-height: 640px;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+}
+
+.risk-history-chart.is-compact .risk-history-plot-scroll {
+  max-height: 390px;
+}
+
+.risk-history-plot {
+  display: block;
+  width: 100%;
+  min-width: 0;
+  touch-action: pan-y;
+  cursor: crosshair;
+}
+
+.risk-history-plot:focus-visible {
+  outline: 3px solid var(--product-accent);
+  outline-offset: -3px;
+}
+
+.risk-history-lane-label,
+.risk-history-end-label,
+.risk-history-group-label {
+  fill: var(--product-ink);
+  font-family: 'Inter Tight Variable', sans-serif;
+  font-size: 11px;
+  font-weight: 700;
+}
+
+.risk-history-lane-scale {
+  fill: var(--product-muted);
+  font-family: 'Inter Tight Variable', sans-serif;
+  font-size: 9px;
+  font-variant-numeric: tabular-nums;
+}
+
+.risk-history-market-line,
+.risk-history-log-line {
+  fill: none;
+  stroke: var(--product-accent);
+  stroke-width: 2;
+  vector-effect: non-scaling-stroke;
+}
+
+.risk-history-log-line {
+  stroke: var(--product-secondary);
+  stroke-width: 1.35;
+}
+
+.risk-history-user-line {
+  fill: none;
+  stroke: var(--risk-teal);
+  stroke-width: 2;
+  stroke-dasharray: 5 4;
+  vector-effect: non-scaling-stroke;
+}
+
+.risk-history-market-point,
+.risk-history-log-point {
+  fill: var(--product-accent);
+  stroke: var(--product-surface);
+  stroke-width: 2;
+}
+
+.risk-history-user-point {
+  fill: var(--risk-teal);
+  stroke: var(--product-surface);
+  stroke-width: 2;
+}
+
+.risk-history-end-label.is-market {
+  fill: var(--product-accent);
+}
+
+.risk-history-end-label.is-user {
+  fill: var(--risk-teal);
+}
+
+.risk-history-crosshair {
+  stroke: var(--product-ink);
+  stroke-width: 1;
+  stroke-dasharray: 3 4;
+  opacity: .55;
+  vector-effect: non-scaling-stroke;
+}
+
+.risk-history-axis line,
+.risk-history-group-lane {
+  stroke: var(--product-border);
+  stroke-width: 1;
+  vector-effect: non-scaling-stroke;
+}
+
+.risk-history-axis text,
+.risk-history-group-label {
+  fill: var(--product-muted);
+  font-family: 'Inter Tight Variable', sans-serif;
+  font-size: 9px;
+  font-variant-numeric: tabular-nums;
+}
+
+.risk-history-inspection {
+  display: grid;
+  gap: 10px;
+  min-height: 86px;
+  padding: 14px;
+  border-top: 1px solid var(--product-border);
+  background: var(--product-surface-soft);
+}
+
+.risk-history-inspection > strong {
+  font-size: 12px;
+  font-variant-numeric: tabular-nums;
+}
+
+.risk-history-inspection > div {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+}
+
+.risk-history-inspection span {
+  display: inline-flex;
+  gap: 6px;
+  min-height: 28px;
+  align-items: center;
+  padding: 0 9px;
+  border: 1px solid var(--product-border);
+  border-radius: 8px;
+  background: var(--product-surface);
+  color: var(--product-secondary);
+  font-size: 10px;
+  font-variant-numeric: tabular-nums;
+}
+
+.risk-history-inspection span.is-active {
+  border-color: var(--product-accent);
+  color: var(--product-ink);
+}
+
+.risk-history-source {
+  margin: 0;
+  padding: 0 14px 14px;
+  color: var(--product-muted);
+  font-size: 10px;
+  line-height: 1.5;
+}
+
+.risk-history-empty {
+  display: grid;
+  min-height: 320px;
+  place-content: center;
+  justify-items: center;
+  gap: 8px;
+  padding: 24px;
+  border: 1px solid var(--product-border);
+  border-radius: 18px;
+  background: var(--product-surface);
+  color: var(--product-secondary);
+  text-align: center;
+}
+
+.risk-history-movers {
+  padding: 18px;
+  border: 1px solid var(--product-border);
+  border-radius: 18px;
+  background: var(--product-surface);
+}
+
+.risk-history-movers header {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 18px;
+}
+
+.risk-history-movers h3 {
+  margin: 0;
+  font-size: 24px;
+  letter-spacing: -.03em;
+}
+
+.risk-history-movers ol {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 8px;
+  margin: 18px 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.risk-history-movers li {
+  display: grid;
+  grid-template-columns: 30px minmax(100px, 1fr) 72px 72px;
+  grid-template-rows: auto auto;
+  align-items: center;
+  gap: 2px 10px;
+  min-height: 68px;
+  padding: 10px;
+  border: 1px solid var(--product-border);
+  border-radius: 12px;
+}
+
+.risk-mover-rank {
+  grid-row: 1 / 3;
+  color: var(--product-muted);
+  font-size: 11px;
+  font-variant-numeric: tabular-nums;
+}
+
+.risk-history-movers li > span:nth-child(2) {
+  display: grid;
+}
+
+.risk-history-movers li small {
+  color: var(--product-muted);
+  font-size: 10px;
+}
+
+.risk-history-movers li svg {
+  grid-row: 1 / 3;
+  width: 72px;
+}
+
+.risk-history-movers li svg path {
+  fill: none;
+  stroke: var(--product-muted);
+  stroke-width: 2;
+}
+
+.risk-history-movers li.is-up svg path { stroke: var(--product-authority); }
+.risk-history-movers li.is-down svg path { stroke: var(--risk-teal); }
+
+.risk-history-movers li > b {
+  text-align: right;
+  font-size: 12px;
+  font-variant-numeric: tabular-nums;
+}
+
+.risk-history-movers li > small:last-child {
+  grid-column: 3 / 5;
+  text-align: right;
+}
+
+@media (max-width: 760px) {
+  .risk-history-toolbar {
+    align-items: stretch;
+    flex-wrap: wrap;
+  }
+
+  .risk-history-toolbar > .risk-segmented:first-child {
+    width: 100%;
+    margin-right: 0;
+  }
+
+  .risk-history-toolbar .risk-segmented {
+    flex: 1;
+  }
+
+  .risk-history-toolbar .risk-segmented button {
+    flex: 1;
+  }
+
+  .risk-history-plot-scroll,
+  .risk-history-chart.is-compact .risk-history-plot-scroll {
+    max-height: 340px;
+  }
+
+  .risk-history-movers header {
+    align-items: start;
+    flex-direction: column;
+  }
+
+  .risk-history-movers ol {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .risk-history-plot * { transition: none !important; animation: none !important; }
+}

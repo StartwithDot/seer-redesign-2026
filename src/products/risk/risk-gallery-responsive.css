@@ -1,0 +1,55 @@
+@media (max-width: 1080px) {
+  .risk-explorer-toolbar {
+    grid-template-columns: 1fr 120px 88px;
+  }
+
+  .risk-filter-tabs {
+    grid-column: 1 / -1;
+  }
+
+  .risk-asset-gallery {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 700px) {
+  .risk-explorer-header {
+    align-items: stretch;
+  }
+
+  .risk-explorer-toolbar {
+    grid-template-columns: 1fr 96px;
+  }
+
+  .risk-sort-control {
+    grid-column: 1;
+  }
+
+  .risk-count-control {
+    grid-column: 2;
+  }
+
+  .risk-explorer-toolbar > .risk-segmented {
+    grid-column: 1 / -1;
+  }
+
+  .risk-explorer-actions {
+    flex-wrap: wrap;
+    padding-block: 12px;
+  }
+
+  .risk-explorer-actions > span {
+    width: 100%;
+  }
+
+  .risk-asset-gallery {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .risk-asset-tile,
+  .risk-asset-tile-select svg path {
+    transition: none;
+  }
+}

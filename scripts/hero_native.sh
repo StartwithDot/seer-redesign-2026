@@ -1,0 +1,7 @@
+#!/bin/zsh
+cd /Users/leo/Documents/POIDH/poidh2
+for i in 1 2 3 4; do
+  node scripts/shot.mjs http://127.0.0.1:5188/seer-2026 1440 900 shots/cur_d.png 0 || true
+  node scripts/shot.mjs http://127.0.0.1:5188/seer-2026 390 844 shots/cur_m.png 0 || true
+  print -r -- "Images: 1=design reference (target look), 2=current desktop 1440x900 of OUR hero, 3=current mobile. Read BUILD_BRIEF.md Phase 1. The owner says our hero looks washed out: no colour, weak shadow, no depth. Make it clearly closer to image 1: richer volumetric depth (stronger directional key light with soft shadows and real ambient occlusion where rings meet, clear light-to-shadow gradients on cylinder walls, bright top rims), violet glass panel that is a believable thick curved translucent glass sheet (refraction-like tint, visible spiral ramp behind it, violet light spilling onto the white ramp and floor), a large soft violet floor glow and a grounded contact shadow, warm-white background with subtle vignette so the sculpture pops. Also headline letter-spacing still too tight (letters touching; use ~-0.03em) and headline must not collide with the sculpture. Edit only hero files (Seer2026Hero.tsx, SeerSculptureCanvas.tsx, sculptureGeometry*, SculptureFallback.tsx, seer2026.css). Keep session focused; end with npx tsc --noEmit. Report in 4 lines." | codex exec --skip-git-repo-check -s workspace-write -i assets/reference-hero.webp -i shots/cur_d.png -i shots/cur_m.png - > shots/hero_native_$i.log 2>&1
+done

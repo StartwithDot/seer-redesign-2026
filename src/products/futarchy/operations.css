@@ -1,0 +1,293 @@
+.operation-tabs,
+.activity-tabs {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 4px;
+  margin: 2px 0 18px;
+  padding: 4px;
+  border: 1px solid var(--f-border);
+  border-radius: 14px;
+  background: var(--f-soft);
+}
+
+.operation-tabs button,
+.activity-tabs button {
+  min-height: 42px;
+  padding: 8px 10px;
+  border: 0;
+  border-radius: 10px;
+  background: transparent;
+  color: var(--f-secondary);
+  cursor: pointer;
+  font-size: 11px;
+  font-weight: 700;
+}
+
+.operation-tabs button[aria-pressed='true'],
+.activity-tabs button[aria-selected='true'] {
+  background: var(--f-paper);
+  color: var(--f-ink);
+  box-shadow: 0 2px 8px var(--f-shadow);
+}
+
+.operation-form,
+.liquidity-form,
+.liquidity-review,
+.resolution-summary,
+.lifecycle-panel,
+.activity-section,
+.position-engine,
+.contract-provenance {
+  padding: 18px;
+  border: 1px solid var(--f-border);
+  border-radius: 18px;
+  background: var(--f-soft);
+}
+
+.operation-state,
+.wallet-chip,
+.engine-standard {
+  display: inline-flex;
+  align-items: center;
+  min-height: 28px;
+  padding: 5px 9px;
+  border: 1px solid var(--f-border);
+  border-radius: 999px;
+  background: var(--f-paper);
+  color: var(--f-secondary);
+  font-size: 10px;
+  font-weight: 760;
+  white-space: nowrap;
+}
+
+.operation-state.is-success { color: var(--f-good); }
+.operation-state.is-failure { color: var(--f-bad); }
+.operation-state.is-approval,
+.operation-state.is-submitting,
+.operation-state.is-checking { color: var(--f-violet); }
+
+.collateral-token-tabs,
+.pool-category-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 7px;
+  margin: 16px 0;
+}
+
+.collateral-token-tabs button,
+.pool-category-grid button {
+  display: grid;
+  gap: 5px;
+  min-height: 74px;
+  padding: 12px;
+  border: 1px solid var(--f-border);
+  border-radius: 13px;
+  background: var(--f-paper);
+  color: var(--f-secondary);
+  cursor: pointer;
+  text-align: left;
+}
+
+.collateral-token-tabs button[aria-pressed='true'],
+.pool-category-grid button[aria-pressed='true'] {
+  border-color: var(--f-violet);
+  box-shadow: inset 0 0 0 1px var(--f-violet);
+  color: var(--f-ink);
+}
+
+.collateral-token-tabs strong,
+.pool-category-grid strong { color: var(--f-ink); font-size: 12px; }
+.collateral-token-tabs small,
+.pool-category-grid small,
+.pool-category-grid span { color: var(--f-muted); font-size: 10px; line-height: 1.35; }
+
+.operation-balance-grid,
+.engine-metrics,
+.liquidity-meta,
+.resolution-summary dl,
+.lifecycle-meta {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 7px;
+  margin: 14px 0;
+}
+
+.operation-balance-grid > div,
+.engine-metrics > div,
+.liquidity-meta > div,
+.resolution-summary dl > div,
+.lifecycle-meta > div {
+  display: grid;
+  gap: 5px;
+  padding: 11px;
+  border: 1px solid var(--f-border);
+  border-radius: 12px;
+  background: var(--f-paper);
+}
+
+.operation-balance-grid span,
+.engine-metrics dt,
+.liquidity-meta dt,
+.resolution-summary dt,
+.lifecycle-meta dt {
+  color: var(--f-muted);
+  font-size: 9px;
+  font-weight: 760;
+  letter-spacing: .04em;
+  text-transform: uppercase;
+}
+
+.operation-balance-grid strong,
+.engine-metrics dd,
+.liquidity-meta dd,
+.resolution-summary dd,
+.lifecycle-meta dd {
+  margin: 0;
+  color: var(--f-ink);
+  font-size: 13px;
+  font-variant-numeric: tabular-nums;
+}
+
+.field-label {
+  display: grid;
+  gap: 7px;
+  margin-top: 15px;
+  color: var(--f-secondary);
+  font-size: 11px;
+  font-weight: 700;
+}
+
+.field-label input,
+.activity-range select {
+  width: 100%;
+  min-height: 46px;
+  padding: 0 12px;
+  border: 1px solid var(--f-border);
+  border-radius: 11px;
+  outline: 0;
+  background: var(--f-paper);
+  color: var(--f-ink);
+  font-variant-numeric: tabular-nums;
+}
+
+.field-label input:focus,
+.activity-range select:focus { border-color: var(--f-violet); box-shadow: 0 0 0 3px var(--f-violet-soft); }
+
+.input-with-action {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 7px;
+}
+
+.input-with-action button,
+.quick-amounts button {
+  min-height: 42px;
+  padding: 0 11px;
+  border: 1px solid var(--f-border);
+  border-radius: 10px;
+  background: var(--f-paper);
+  color: var(--f-violet);
+  cursor: pointer;
+  font-size: 10px;
+  font-weight: 760;
+}
+
+.approval-choice {
+  display: grid;
+  gap: 7px;
+  margin: 17px 0 0;
+  padding: 12px;
+  border: 1px solid var(--f-border);
+  border-radius: 13px;
+  background: var(--f-paper);
+}
+
+.approval-choice legend { padding: 0 4px; color: var(--f-muted); font-size: 10px; font-weight: 760; }
+.approval-choice label { display: flex; align-items: flex-start; gap: 8px; color: var(--f-secondary); font-size: 11px; }
+.approval-choice label span { display: grid; gap: 3px; }
+.approval-choice label small { color: var(--f-muted); font-size: 10px; line-height: 1.35; }
+.approval-choice input { accent-color: var(--f-violet); margin-top: 2px; }
+
+.operation-plan {
+  display: grid;
+  gap: 8px;
+  margin-top: 16px;
+  padding: 13px;
+  border-radius: 13px;
+  background: var(--f-violet-soft);
+}
+
+.operation-plan > div { display: flex; justify-content: space-between; gap: 12px; color: var(--f-secondary); font-size: 11px; }
+.operation-plan > div small { color: var(--f-muted); text-align: right; }
+.operation-plan p { margin: 3px 0 0; color: var(--f-secondary); font-size: 11px; }
+.collateral-explainer { margin-top: 15px; padding-top: 13px; border-top: 1px solid var(--f-border); }
+.collateral-explainer strong { font-size: 12px; }
+.collateral-explainer p { margin: 5px 0 0; color: var(--f-secondary); font-size: 11px; line-height: 1.5; }
+.operation-notice { margin: 13px 0 0; color: var(--f-good); font-size: 11px; line-height: 1.45; }
+
+.engine-disclosure,
+.contract-disclosure,
+.engine-footnote,
+.trade-preview-disclosure {
+  color: var(--f-muted);
+  font-size: 11px;
+  line-height: 1.5;
+}
+
+.engine-controls { display: grid; grid-template-columns: 1fr 1fr; gap: 9px; align-items: end; margin-top: 15px; }
+.engine-controls fieldset { display: flex; gap: 13px; min-height: 46px; align-items: center; padding: 0 11px; border: 1px solid var(--f-border); border-radius: 11px; background: var(--f-paper); }
+.engine-controls legend { padding: 0 4px; color: var(--f-muted); font-size: 9px; font-weight: 760; }
+.engine-controls label:not(.field-label) { color: var(--f-secondary); font-size: 11px; }
+.engine-controls input { accent-color: var(--f-violet); }
+.engine-metrics { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+.engine-status { display: flex; align-items: baseline; gap: 8px; margin-top: 13px; padding: 11px 12px; border-radius: 11px; background: var(--f-paper); font-size: 11px; }
+.engine-status.is-ready { color: var(--f-good); }
+.engine-status.is-blocked { color: var(--f-bad); }
+.engine-status span { color: var(--f-secondary); }
+.negative { color: var(--f-bad); }
+
+.pool-category-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.liquidity-fields { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+.liquidity-fields .field-label { margin-top: 0; }
+.quick-amounts { display: flex; flex-wrap: wrap; gap: 5px; margin-top: 8px; }
+.liquidity-meta { grid-template-columns: 1fr 1fr; }
+.liquidity-review dl { display: grid; grid-template-columns: repeat(2, 1fr); gap: 7px; margin: 16px 0; }
+.liquidity-review dl > div { display: flex; justify-content: space-between; gap: 12px; padding: 11px; border: 1px solid var(--f-border); border-radius: 11px; background: var(--f-paper); }
+.liquidity-review dt { color: var(--f-muted); font-size: 10px; }
+.liquidity-review dd { margin: 0; font-size: 12px; font-variant-numeric: tabular-nums; }
+
+.resolution-summary > p { color: var(--f-secondary); font-size: 12px; line-height: 1.5; }
+.resolution-summary dl { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.lifecycle-meta { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.lifecycle-steps { display: grid; gap: 1px; margin: 17px 0 0; padding: 1px; border-radius: 13px; background: var(--f-border); list-style: none; overflow: hidden; }
+.lifecycle-steps li { display: grid; grid-template-columns: 22px 1fr; gap: 8px; min-height: 58px; padding: 11px; background: var(--f-paper); color: var(--f-secondary); }
+.lifecycle-steps li.is-complete > span { color: var(--f-good); }
+.lifecycle-steps li.is-current > span { color: var(--f-violet); }
+.lifecycle-steps li > div { display: grid; gap: 3px; }
+.lifecycle-steps strong { color: var(--f-ink); font-size: 12px; }
+.lifecycle-steps p { margin: 0; font-size: 11px; line-height: 1.35; }
+.lifecycle-steps small { color: var(--f-muted); font-size: 10px; }
+
+.activity-range { display: flex; align-items: center; gap: 7px; color: var(--f-muted); font-size: 10px; }
+.activity-range select { width: auto; min-height: 38px; padding-right: 28px; }
+.activity-table td small { display: block; margin-top: 3px; color: var(--f-muted); font-size: 9px; }
+.contract-provenance { margin-top: 22px; }
+.contract-market-link { display: grid; gap: 6px; margin: 15px 0; padding: 12px; border: 1px solid var(--f-border); border-radius: 12px; background: var(--f-paper); }
+.contract-market-link > span { color: var(--f-muted); font-size: 9px; font-weight: 760; }
+.contract-market-link a { color: var(--f-violet); font-size: 11px; overflow-wrap: anywhere; }
+.contract-list { display: grid; gap: 5px; margin: 0; padding: 0; list-style: none; }
+.contract-list li { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 10px 11px; border: 1px solid var(--f-border); border-radius: 11px; background: var(--f-paper); }
+.contract-list li > div { display: grid; gap: 3px; }
+.contract-list strong { font-size: 11px; }
+.contract-list small { color: var(--f-muted); font-size: 10px; }
+.contract-list a { color: var(--f-violet); font-size: 10px; font-weight: 700; text-align: right; }
+
+@media (max-width: 760px) {
+  .operation-tabs, .activity-tabs { grid-template-columns: 1fr; }
+  .collateral-token-tabs, .pool-category-grid, .operation-balance-grid, .engine-metrics, .liquidity-meta, .resolution-summary dl, .lifecycle-meta { grid-template-columns: 1fr; }
+  .engine-controls, .liquidity-fields, .liquidity-review dl { grid-template-columns: 1fr; }
+  .contract-list li { align-items: flex-start; flex-direction: column; }
+  .contract-list a { text-align: left; }
+  .operation-plan > div { align-items: flex-start; flex-direction: column; gap: 3px; }
+  .operation-plan > div small { text-align: left; }
+}

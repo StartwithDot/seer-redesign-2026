@@ -1,0 +1,31 @@
+.data-list { min-width:0; }
+.list-loading { display:grid; gap:12px; min-height:216px; padding:16px 0; }
+.list-skeleton-row { display:flex; align-items:center; gap:16px; padding:16px; min-height:64px; background:var(--f-paper); border-radius:12px; }
+.list-skeleton-row>div { display:grid; gap:12px; flex:1; min-width:0; }
+.list-skeleton-mark { width:32px; height:32px; border-radius:10px; flex-shrink:0; }
+.list-skeleton-line { display:block; height:12px; width:80%; border-radius:4px; }
+.list-skeleton-line.is-short { width:48%; }
+.list-skeleton-value { width:56px; height:24px; border-radius:4px; }
+.list-skeleton-mark,.list-skeleton-line,.list-skeleton-value { background:var(--f-soft); animation:list-skeleton .8s var(--f-ease) infinite alternate; }
+.list-loading.is-cards { grid-template-columns:repeat(3,minmax(0,1fr)); }
+.list-loading.is-cards .list-skeleton-row { min-height:300px; flex-wrap:wrap; align-content:center; }
+.list-loading.is-cards .list-skeleton-row>div { flex-basis:100%; }
+.list-loading.is-signal { min-height:380px; background:var(--f-paper); border-radius:20px; padding:24px; }
+.list-notice { display:grid; justify-items:start; align-content:center; gap:12px; min-height:176px; padding:24px; background:var(--f-soft); border-radius:16px; }
+.list-notice strong { font-size:20px; line-height:1.3; font-weight:600; }
+.list-notice p { max-width:520px; margin:0; color:var(--f-secondary); font-size:14px; line-height:1.5; }
+.list-notice .quiet-button { margin-top:4px; min-height:40px; }
+.list-notice.is-error { border-left:2px solid var(--f-bad); }
+.data-list[aria-busy='true'] { cursor:progress; }
+.wallet-data-status { margin:16px 0; }
+.wallet-data-status .list-notice { min-height:220px; }
+.activity-section .data-list { min-height:420px; }
+.activity-section .list-notice,.activity-section .list-loading { min-height:420px; }
+@keyframes list-skeleton { to { opacity:.45; } }
+@media(max-width:700px) {
+  .list-loading.is-cards { grid-template-columns:1fr; }
+  .list-loading.is-cards .list-skeleton-row { min-height:112px; }
+  .list-loading.is-cards .list-skeleton-row>div { flex-basis:auto; }
+  .activity-section .data-list,.activity-section .list-notice,.activity-section .list-loading { min-height:360px; }
+}
+@media(prefers-reduced-motion:reduce) { .list-skeleton-mark,.list-skeleton-line,.list-skeleton-value { animation:none; } }

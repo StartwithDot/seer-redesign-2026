@@ -1,0 +1,5 @@
+# Electric Foundation Brand Audit: Risk Pricing
+
+Risk uses the official light and dark surface ladder, Inter Tight, hairline borders, controlled `#6C47FF` violet actions, and the landing's `cubic-bezier(.16, 1, .3, 1)` motion character. The architecture artwork is an existing Seer 2026 asset and is composed with the same negative-space principle as the landing rather than as a decorative dashboard thumbnail. The Survival Tide is the product expression of the reversed EF line motif: survival begins as one condition at the left edge and separates into saved-market, history, and user-estimate paths toward the asset outcomes on the right.
+
+Two semantic extensions are deliberate. Teal is used only for a user's estimate so authorship cannot be confused with the violet saved market signal. Risk severity uses named bands plus density, line, dot, and cross patterns; the supporting green, amber, orange, and red values are never used as brand accents and remain redundant to text labels. These extensions support financial comparison, color-vision accessibility, and user-versus-market attribution without changing the Seer brand hierarchy.

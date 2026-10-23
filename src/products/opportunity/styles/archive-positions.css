@@ -1,0 +1,15 @@
+.opportunity-shell :is(.archive-positions,.redeem-ticket,.wallet-transaction) { display:grid; gap:16px; min-width:0; }
+.opportunity-shell .archive-positions h3 { margin-bottom:0; }
+.opportunity-shell .archive-position-list { display:grid; gap:16px; max-height:55vh; overflow:auto; padding:4px; }
+.opportunity-shell .archive-position-list article { display:grid; gap:12px; padding:16px; background:var(--product-surface-soft); border-radius:16px; }
+.opportunity-shell .archive-position-list article > div { display:grid; gap:4px; }
+.opportunity-shell .archive-position-list span { color:var(--product-secondary); font-size:12px; }
+.opportunity-shell :is(.archive-position-list,.redeem-ticket) dl { display:grid; gap:16px; margin:0; grid-template-columns:repeat(2,minmax(0,1fr)); }
+.opportunity-shell :is(.archive-position-list,.redeem-ticket) dt { color:var(--product-secondary); font-size:12px; }
+.opportunity-shell :is(.archive-position-list,.redeem-ticket) dd { margin:4px 0 0; overflow-wrap:anywhere; font-variant-numeric:tabular-nums; }
+.opportunity-shell .archive-position-list button { min-height:44px; padding:8px 16px; border:1px solid var(--product-border); border-radius:12px; background:var(--product-surface); cursor:pointer; }
+.opportunity-shell .redeem-ticket label { color:var(--product-secondary); font-size:14px; }
+.opportunity-shell .wallet-transaction { padding:16px; border-radius:16px; border:1px solid var(--product-border); background:var(--product-surface-soft); }
+.opportunity-shell :is(.wallet-transaction,.redeem-ticket) p { margin:0; }
+.opportunity-shell .archive-positions p { margin-bottom:0; }
+.opportunity-shell .redeem-ticket > a { display:inline-flex; min-height:44px; align-items:center; color:var(--product-accent); text-decoration:underline; }

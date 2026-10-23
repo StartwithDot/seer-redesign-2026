@@ -1,0 +1,1934 @@
+[
+  {
+    "id": "F001",
+    "checked": true,
+    "file": "components/OpportunityApp.tsx",
+    "line": 53,
+    "importPath": [
+      "index",
+      "OpportunityApp"
+    ]
+  },
+  {
+    "id": "F002",
+    "checked": true,
+    "file": "components/OpportunityApp.tsx",
+    "line": 53,
+    "importPath": [
+      "index",
+      "OpportunityApp"
+    ]
+  },
+  {
+    "id": "F003",
+    "checked": true,
+    "file": "components/OpportunityApp.tsx",
+    "line": 53,
+    "importPath": [
+      "index",
+      "OpportunityApp"
+    ]
+  },
+  {
+    "id": "F004",
+    "checked": true,
+    "file": "components/StatusStrip.tsx",
+    "line": 16,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "BoardView",
+      "StatusStrip"
+    ]
+  },
+  {
+    "id": "F005",
+    "checked": true,
+    "file": "components/MarketHero.tsx",
+    "line": 10,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "BoardView",
+      "MarketHero"
+    ]
+  },
+  {
+    "id": "F006",
+    "checked": true,
+    "file": "components/ProtocolDrawer.tsx",
+    "line": 4,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ProtocolDrawer"
+    ]
+  },
+  {
+    "id": "F007",
+    "checked": true,
+    "file": "components/HelpTour.tsx",
+    "line": 7,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "HelpTour"
+    ]
+  },
+  {
+    "id": "F008",
+    "checked": true,
+    "file": "components/CommandPalette.tsx",
+    "line": 22,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "CommandPalette"
+    ]
+  },
+  {
+    "id": "F009",
+    "checked": true,
+    "file": "components/CommandPalette.tsx",
+    "line": 22,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "CommandPalette"
+    ]
+  },
+  {
+    "id": "F010",
+    "checked": true,
+    "file": "components/AppearanceMenu.tsx",
+    "line": 16,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "HeaderActions",
+      "AppearanceMenu"
+    ]
+  },
+  {
+    "id": "F011",
+    "checked": true,
+    "file": "components/OpportunityApp.tsx",
+    "line": 53,
+    "importPath": [
+      "index",
+      "OpportunityApp"
+    ]
+  },
+  {
+    "id": "F012",
+    "checked": true,
+    "file": "components/WalletDrawer.tsx",
+    "line": 22,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "WalletDrawer"
+    ]
+  },
+  {
+    "id": "F013",
+    "checked": true,
+    "file": "components/WalletDrawer.tsx",
+    "line": 22,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "WalletDrawer"
+    ]
+  },
+  {
+    "id": "F014",
+    "checked": true,
+    "file": "components/WalletDrawer.tsx",
+    "line": 22,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "WalletDrawer"
+    ]
+  },
+  {
+    "id": "F015",
+    "checked": true,
+    "file": "components/HeaderActions.tsx",
+    "line": 16,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "HeaderActions"
+    ]
+  },
+  {
+    "id": "F016",
+    "checked": true,
+    "file": "components/OpportunityApp.tsx",
+    "line": 53,
+    "importPath": [
+      "index",
+      "OpportunityApp"
+    ]
+  },
+  {
+    "id": "F017",
+    "checked": true,
+    "file": "components/OpportunityApp.tsx",
+    "line": 53,
+    "importPath": [
+      "index",
+      "OpportunityApp"
+    ]
+  },
+  {
+    "id": "F018",
+    "checked": true,
+    "file": "components/OverlayDialog.tsx",
+    "line": 25,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ArchiveView",
+      "OverlayDialog"
+    ]
+  },
+  {
+    "id": "F019",
+    "checked": true,
+    "file": "components/BoardView.tsx",
+    "line": 17,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "BoardView"
+    ]
+  },
+  {
+    "id": "F020",
+    "checked": true,
+    "file": "components/MarketHero.tsx",
+    "line": 10,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "BoardView",
+      "MarketHero"
+    ]
+  },
+  {
+    "id": "F021",
+    "checked": true,
+    "file": "components/MarketRail.tsx",
+    "line": 10,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "BoardView",
+      "MarketRail"
+    ]
+  },
+  {
+    "id": "F022",
+    "checked": true,
+    "file": "components/MarketTicker.tsx",
+    "line": 10,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "BoardView",
+      "MarketTicker"
+    ]
+  },
+  {
+    "id": "F023",
+    "checked": true,
+    "file": "hooks/useSelectedMarket.ts",
+    "line": 15,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "BoardView",
+      "useSelectedMarket"
+    ]
+  },
+  {
+    "id": "F024",
+    "checked": true,
+    "file": "components/MarketRail.tsx",
+    "line": 10,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "BoardView",
+      "MarketRail"
+    ]
+  },
+  {
+    "id": "F025",
+    "checked": true,
+    "file": "components/MarketRail.tsx",
+    "line": 10,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "BoardView",
+      "MarketRail"
+    ]
+  },
+  {
+    "id": "F026",
+    "checked": true,
+    "file": "components/BoardSignalStrip.tsx",
+    "line": 7,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "BoardView",
+      "SignalSummary",
+      "BoardSignalStrip"
+    ]
+  },
+  {
+    "id": "F027",
+    "checked": true,
+    "file": "components/BoardCoverage.tsx",
+    "line": 7,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "BoardView",
+      "SignalSummary",
+      "BoardCoverage"
+    ]
+  },
+  {
+    "id": "F028",
+    "checked": true,
+    "file": "components/BoardSignalStrip.tsx",
+    "line": 7,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "BoardView",
+      "SignalSummary",
+      "BoardSignalStrip"
+    ]
+  },
+  {
+    "id": "F029",
+    "checked": true,
+    "file": "components/BoardSignalStrip.tsx",
+    "line": 7,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "BoardView",
+      "SignalSummary",
+      "BoardSignalStrip"
+    ]
+  },
+  {
+    "id": "F030",
+    "checked": true,
+    "file": "components/DecisionRail.tsx",
+    "line": 8,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "BoardView",
+      "DecisionRail"
+    ]
+  },
+  {
+    "id": "F031",
+    "checked": true,
+    "file": "components/DecisionRail.tsx",
+    "line": 8,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "BoardView",
+      "DecisionRail"
+    ]
+  },
+  {
+    "id": "F032",
+    "checked": true,
+    "file": "components/StatusStrip.tsx",
+    "line": 16,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "BoardView",
+      "StatusStrip"
+    ]
+  },
+  {
+    "id": "F033",
+    "checked": true,
+    "file": "components/BoardDataState.tsx",
+    "line": 6,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "BoardView",
+      "BoardDataState"
+    ]
+  },
+  {
+    "id": "F034",
+    "checked": true,
+    "file": "components/BoardDataState.tsx",
+    "line": 6,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "BoardView",
+      "BoardDataState"
+    ]
+  },
+  {
+    "id": "F035",
+    "checked": true,
+    "file": "components/BoardDataState.tsx",
+    "line": 6,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "BoardView",
+      "BoardDataState"
+    ]
+  },
+  {
+    "id": "F036",
+    "checked": true,
+    "file": "components/ExplorerView.tsx",
+    "line": 28,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ExplorerView"
+    ]
+  },
+  {
+    "id": "F037",
+    "checked": true,
+    "file": "components/ExplorerFilterBar.tsx",
+    "line": 61,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ExplorerView",
+      "ExplorerFilters",
+      "ExplorerFilterBar"
+    ]
+  },
+  {
+    "id": "F038",
+    "checked": true,
+    "file": "components/ExplorerFilterBar.tsx",
+    "line": 61,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ExplorerView",
+      "ExplorerFilters",
+      "ExplorerFilterBar"
+    ]
+  },
+  {
+    "id": "F039",
+    "checked": true,
+    "file": "components/ExplorerFilterBar.tsx",
+    "line": 61,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ExplorerView",
+      "ExplorerFilters",
+      "ExplorerFilterBar"
+    ]
+  },
+  {
+    "id": "F040",
+    "checked": true,
+    "file": "components/ExplorerFilterBar.tsx",
+    "line": 61,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ExplorerView",
+      "ExplorerFilters",
+      "ExplorerFilterBar"
+    ]
+  },
+  {
+    "id": "F041",
+    "checked": true,
+    "file": "components/ExplorerFilterBar.tsx",
+    "line": 61,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ExplorerView",
+      "ExplorerFilters",
+      "ExplorerFilterBar"
+    ]
+  },
+  {
+    "id": "F042",
+    "checked": true,
+    "file": "components/ExplorerFilterBar.tsx",
+    "line": 61,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ExplorerView",
+      "ExplorerFilters",
+      "ExplorerFilterBar"
+    ]
+  },
+  {
+    "id": "F043",
+    "checked": true,
+    "file": "components/ExplorerResultsHeader.tsx",
+    "line": 36,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ExplorerView",
+      "ExplorerResultsHeader"
+    ]
+  },
+  {
+    "id": "F044",
+    "checked": true,
+    "file": "components/ExplorerResultsHeader.tsx",
+    "line": 36,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ExplorerView",
+      "ExplorerResultsHeader"
+    ]
+  },
+  {
+    "id": "F045",
+    "checked": true,
+    "file": "components/ExplorerFilterBar.tsx",
+    "line": 61,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ExplorerView",
+      "ExplorerFilters",
+      "ExplorerFilterBar"
+    ]
+  },
+  {
+    "id": "F046",
+    "checked": true,
+    "file": "hooks/useExplorerQueryState.ts",
+    "line": 83,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ExplorerView",
+      "useExplorerQueryState"
+    ]
+  },
+  {
+    "id": "F047",
+    "checked": true,
+    "file": "components/ExplorerResultsHeader.tsx",
+    "line": 36,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ExplorerView",
+      "ExplorerResultsHeader"
+    ]
+  },
+  {
+    "id": "F048",
+    "checked": true,
+    "file": "components/ExplorerLedger.tsx",
+    "line": 22,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ExplorerView",
+      "ExplorerLedger"
+    ]
+  },
+  {
+    "id": "F049",
+    "checked": true,
+    "file": "components/ExplorerRecordDrawer.tsx",
+    "line": 13,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ExplorerView",
+      "ExplorerRecordDrawer"
+    ]
+  },
+  {
+    "id": "F050",
+    "checked": true,
+    "file": "components/MarketTimeline.tsx",
+    "line": 25,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ArchiveView",
+      "MarketDossierPanel",
+      "MarketTimeline"
+    ]
+  },
+  {
+    "id": "F051",
+    "checked": true,
+    "file": "components/RecordActions.tsx",
+    "line": 10,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ArchiveView",
+      "MarketDossierPanel",
+      "RecordActions"
+    ]
+  },
+  {
+    "id": "F052",
+    "checked": true,
+    "file": "components/ExplorerDataState.tsx",
+    "line": 9,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ExplorerView",
+      "ExplorerDataState"
+    ]
+  },
+  {
+    "id": "F053",
+    "checked": true,
+    "file": "components/MarketDossierPanel.tsx",
+    "line": 16,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ArchiveView",
+      "MarketDossierPanel"
+    ]
+  },
+  {
+    "id": "F054",
+    "checked": true,
+    "file": "components/MarketDossierPanel.tsx",
+    "line": 16,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ArchiveView",
+      "MarketDossierPanel"
+    ]
+  },
+  {
+    "id": "F055",
+    "checked": true,
+    "file": "components/MarketDossierPanel.tsx",
+    "line": 16,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ArchiveView",
+      "MarketDossierPanel"
+    ]
+  },
+  {
+    "id": "F056",
+    "checked": true,
+    "file": "components/MarketDossierPanel.tsx",
+    "line": 16,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ArchiveView",
+      "MarketDossierPanel"
+    ]
+  },
+  {
+    "id": "F057",
+    "checked": true,
+    "file": "components/ReviewSubmissionDossier.tsx",
+    "line": 24,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "ReviewSubmissionDossier"
+    ]
+  },
+  {
+    "id": "F058",
+    "checked": true,
+    "file": "components/SubmissionDossierPanel.tsx",
+    "line": 20,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ExplorerView",
+      "ExplorerRecordDrawer",
+      "SubmissionDossierPanel"
+    ]
+  },
+  {
+    "id": "F059",
+    "checked": false,
+    "file": "components/SubmissionDossierPanel.tsx",
+    "line": 20,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ExplorerView",
+      "ExplorerRecordDrawer",
+      "SubmissionDossierPanel"
+    ]
+  },
+  {
+    "id": "F060",
+    "checked": true,
+    "file": "components/SubmissionDossierPanel.tsx",
+    "line": 20,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ExplorerView",
+      "ExplorerRecordDrawer",
+      "SubmissionDossierPanel"
+    ]
+  },
+  {
+    "id": "F061",
+    "checked": true,
+    "file": "components/SubmissionEvidencePanel.tsx",
+    "line": 9,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "ReviewSubmissionDossier",
+      "SubmissionEvidencePanel"
+    ]
+  },
+  {
+    "id": "F062",
+    "checked": true,
+    "file": "components/SponsorReviewPanel.tsx",
+    "line": 12,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "ReviewSubmissionDossier",
+      "SponsorReviewPanel"
+    ]
+  },
+  {
+    "id": "F063",
+    "checked": true,
+    "file": "components/SubmissionCommunityPanel.tsx",
+    "line": 14,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "ReviewSubmissionDossier",
+      "SubmissionCommunityPanel"
+    ]
+  },
+  {
+    "id": "F064",
+    "checked": true,
+    "file": "components/SubmissionTimelinePanel.tsx",
+    "line": 53,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "ReviewSubmissionDossier",
+      "SubmissionTimelinePanel"
+    ]
+  },
+  {
+    "id": "F065",
+    "checked": true,
+    "file": "components/ValueState.tsx",
+    "line": 17,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "ReviewCutView",
+      "ValueState"
+    ]
+  },
+  {
+    "id": "F066",
+    "checked": true,
+    "file": "components/ReviewField.tsx",
+    "line": 5,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "ReviewField"
+    ]
+  },
+  {
+    "id": "F067",
+    "checked": true,
+    "file": "components/ReviewField.tsx",
+    "line": 5,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "ReviewField"
+    ]
+  },
+  {
+    "id": "F068",
+    "checked": true,
+    "file": "components/ReviewField.tsx",
+    "line": 5,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "ReviewField"
+    ]
+  },
+  {
+    "id": "F069",
+    "checked": true,
+    "file": "components/ReviewField.tsx",
+    "line": 5,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "ReviewField"
+    ]
+  },
+  {
+    "id": "F070",
+    "checked": true,
+    "file": "components/ReviewField.tsx",
+    "line": 5,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "ReviewField"
+    ]
+  },
+  {
+    "id": "F071",
+    "checked": true,
+    "file": "components/ReviewField.tsx",
+    "line": 5,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "ReviewField"
+    ]
+  },
+  {
+    "id": "F072",
+    "checked": true,
+    "file": "components/ReviewField.tsx",
+    "line": 5,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "ReviewField"
+    ]
+  },
+  {
+    "id": "F073",
+    "checked": true,
+    "file": "components/ReviewField.tsx",
+    "line": 5,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "ReviewField"
+    ]
+  },
+  {
+    "id": "F074",
+    "checked": true,
+    "file": "components/ReviewField.tsx",
+    "line": 5,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "ReviewField"
+    ]
+  },
+  {
+    "id": "F075",
+    "checked": true,
+    "file": "components/ReviewField.tsx",
+    "line": 5,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "ReviewField"
+    ]
+  },
+  {
+    "id": "F076",
+    "checked": true,
+    "file": "components/ReviewField.tsx",
+    "line": 5,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "ReviewField"
+    ]
+  },
+  {
+    "id": "F077",
+    "checked": true,
+    "file": "hooks/useReviewPreferences.ts",
+    "line": 56,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "useReviewPreferences"
+    ]
+  },
+  {
+    "id": "F078",
+    "checked": true,
+    "file": "components/ReviewList.tsx",
+    "line": 51,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "ReviewList"
+    ]
+  },
+  {
+    "id": "F079",
+    "checked": true,
+    "file": "components/ReviewListRows.tsx",
+    "line": 102,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "ReviewList",
+      "ReviewListRows"
+    ]
+  },
+  {
+    "id": "F080",
+    "checked": true,
+    "file": "components/ReviewListRows.tsx",
+    "line": 102,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "ReviewList",
+      "ReviewListRows"
+    ]
+  },
+  {
+    "id": "F081",
+    "checked": true,
+    "file": "components/ReviewListControls.tsx",
+    "line": 15,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "ReviewList",
+      "ReviewListControls"
+    ]
+  },
+  {
+    "id": "F082",
+    "checked": true,
+    "file": "components/ReviewListRows.tsx",
+    "line": 102,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "ReviewList",
+      "ReviewListRows"
+    ]
+  },
+  {
+    "id": "F083",
+    "checked": true,
+    "file": "components/ReviewListRows.tsx",
+    "line": 102,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "ReviewList",
+      "ReviewListRows"
+    ]
+  },
+  {
+    "id": "F084",
+    "checked": true,
+    "file": "components/ReviewListRows.tsx",
+    "line": 102,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "ReviewList",
+      "ReviewListRows"
+    ]
+  },
+  {
+    "id": "F085",
+    "checked": true,
+    "file": "components/ReviewListControls.tsx",
+    "line": 15,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "ReviewList",
+      "ReviewListControls"
+    ]
+  },
+  {
+    "id": "F086",
+    "checked": true,
+    "file": "components/ReviewListPagination.tsx",
+    "line": 10,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "ReviewList",
+      "ReviewListPagination"
+    ]
+  },
+  {
+    "id": "F087",
+    "checked": true,
+    "file": "components/ReviewListRows.tsx",
+    "line": 102,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "ReviewList",
+      "ReviewListRows"
+    ]
+  },
+  {
+    "id": "F088",
+    "checked": true,
+    "file": "components/ReviewCutControls.tsx",
+    "line": 21,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "ReviewCutView",
+      "ReviewCutControls"
+    ]
+  },
+  {
+    "id": "F089",
+    "checked": true,
+    "file": "components/ReviewCutSummary.tsx",
+    "line": 10,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "ReviewCutView",
+      "ReviewCutSummary"
+    ]
+  },
+  {
+    "id": "F090",
+    "checked": true,
+    "file": "components/ReviewCutSummary.tsx",
+    "line": 10,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "ReviewCutView",
+      "ReviewCutSummary"
+    ]
+  },
+  {
+    "id": "F091",
+    "checked": true,
+    "file": "components/ReviewCutControls.tsx",
+    "line": 21,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "ReviewCutView",
+      "ReviewCutControls"
+    ]
+  },
+  {
+    "id": "F092",
+    "checked": true,
+    "file": "components/ShortlistDrawer.tsx",
+    "line": 18,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "ShortlistDrawer"
+    ]
+  },
+  {
+    "id": "F093",
+    "checked": true,
+    "file": "components/ShortlistDrawer.tsx",
+    "line": 18,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "ShortlistDrawer"
+    ]
+  },
+  {
+    "id": "F094",
+    "checked": true,
+    "file": "hooks/useReviewWorkspace.ts",
+    "line": 29,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "useReviewWorkspace"
+    ]
+  },
+  {
+    "id": "F095",
+    "checked": true,
+    "file": "components/ReviewCutRecommendation.tsx",
+    "line": 10,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "ReviewCutView",
+      "ReviewCutRecommendation"
+    ]
+  },
+  {
+    "id": "F096",
+    "checked": true,
+    "file": "components/ReviewCompareDialog.tsx",
+    "line": 13,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "ReviewCompareDialog"
+    ]
+  },
+  {
+    "id": "F097",
+    "checked": true,
+    "file": "components/SponsorDecisionDrawer.tsx",
+    "line": 34,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "SponsorDecisionDrawer"
+    ]
+  },
+  {
+    "id": "F098",
+    "checked": true,
+    "file": "components/SponsorDecisionDrawer.tsx",
+    "line": 34,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "SponsorDecisionDrawer"
+    ]
+  },
+  {
+    "id": "F099",
+    "checked": false,
+    "file": "components/SponsorDecisionDrawer.tsx",
+    "line": 34,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "SponsorDecisionDrawer"
+    ]
+  },
+  {
+    "id": "F100",
+    "checked": true,
+    "file": "components/DecisionLane.tsx",
+    "line": 20,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "DecisionLane"
+    ]
+  },
+  {
+    "id": "F101",
+    "checked": true,
+    "file": "components/DecisionStepper.tsx",
+    "line": 18,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "DecisionLane",
+      "DecisionStepper"
+    ]
+  },
+  {
+    "id": "F102",
+    "checked": true,
+    "file": "components/DecisionStepper.tsx",
+    "line": 18,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "DecisionLane",
+      "DecisionStepper"
+    ]
+  },
+  {
+    "id": "F103",
+    "checked": true,
+    "file": "components/SponsorAuthorityPanel.tsx",
+    "line": 9,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "DecisionLane",
+      "SponsorAuthorityPanel"
+    ]
+  },
+  {
+    "id": "F104",
+    "checked": true,
+    "file": "components/DecisionLane.tsx",
+    "line": 20,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "DecisionLane"
+    ]
+  },
+  {
+    "id": "F105",
+    "checked": true,
+    "file": "components/ResolutionContext.tsx",
+    "line": 7,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "DecisionLane",
+      "ResolutionContext"
+    ]
+  },
+  {
+    "id": "F106",
+    "checked": true,
+    "file": "components/SubmissionDossierDrawer.tsx",
+    "line": 27,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "SubmissionDossierDrawer"
+    ]
+  },
+  {
+    "id": "F107",
+    "checked": true,
+    "file": "components/ReviewSubmissionDossier.tsx",
+    "line": 24,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "ReviewSubmissionDossier"
+    ]
+  },
+  {
+    "id": "F108",
+    "checked": true,
+    "file": "components/SubmissionPriceChart.tsx",
+    "line": 24,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "ReviewSubmissionDossier",
+      "SubmissionPriceChart"
+    ]
+  },
+  {
+    "id": "F109",
+    "checked": true,
+    "file": "components/SubmissionTimelinePanel.tsx",
+    "line": 53,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "ReviewSubmissionDossier",
+      "SubmissionTimelinePanel"
+    ]
+  },
+  {
+    "id": "F110",
+    "checked": true,
+    "file": "components/SubmissionExternalLinks.tsx",
+    "line": 9,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "ReviewSubmissionDossier",
+      "SubmissionExternalLinks"
+    ]
+  },
+  {
+    "id": "F111",
+    "checked": true,
+    "file": "components/SubmissionCommunityPanel.tsx",
+    "line": 14,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "ReviewSubmissionDossier",
+      "SubmissionCommunityPanel"
+    ]
+  },
+  {
+    "id": "F112",
+    "checked": true,
+    "file": "components/SubmissionActionBar.tsx",
+    "line": 15,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "SubmissionDossierDrawer",
+      "SubmissionActionBar"
+    ]
+  },
+  {
+    "id": "F113",
+    "checked": true,
+    "file": "components/SubmissionDossierDrawer.tsx",
+    "line": 27,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "SubmissionDossierDrawer"
+    ]
+  },
+  {
+    "id": "F114",
+    "checked": true,
+    "file": "components/TradeDrawer.tsx",
+    "line": 21,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "TradeDrawer"
+    ]
+  },
+  {
+    "id": "F115",
+    "checked": true,
+    "file": "components/TradeDrawer.tsx",
+    "line": 21,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "TradeDrawer"
+    ]
+  },
+  {
+    "id": "F116",
+    "checked": true,
+    "file": "components/TradeDrawer.tsx",
+    "line": 21,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "TradeDrawer"
+    ]
+  },
+  {
+    "id": "F117",
+    "checked": true,
+    "file": "components/TradeDrawer.tsx",
+    "line": 21,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "TradeDrawer"
+    ]
+  },
+  {
+    "id": "F118",
+    "checked": true,
+    "file": "components/LiveTradeQuoteSummary.tsx",
+    "line": 4,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "TradeDrawer",
+      "LiveTradeQuoteSummary"
+    ]
+  },
+  {
+    "id": "F119",
+    "checked": true,
+    "file": "hooks/useLiveTrade.ts",
+    "line": 6,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "TradeDrawer",
+      "useLiveTrade"
+    ]
+  },
+  {
+    "id": "F120",
+    "checked": true,
+    "file": "components/TradeDrawer.tsx",
+    "line": 21,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "TradeDrawer"
+    ]
+  },
+  {
+    "id": "F121",
+    "checked": true,
+    "file": "components/TradeDrawer.tsx",
+    "line": 21,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "TradeDrawer"
+    ]
+  },
+  {
+    "id": "F122",
+    "checked": true,
+    "file": "components/TradeConfirmation.tsx",
+    "line": 8,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "TradeDrawer",
+      "TradeConfirmation"
+    ]
+  },
+  {
+    "id": "F123",
+    "checked": true,
+    "file": "components/RedeemDrawer.tsx",
+    "line": 9,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ArchiveView",
+      "MarketDossierPanel",
+      "ArchivePositions",
+      "RedeemDrawer"
+    ]
+  },
+  {
+    "id": "F124",
+    "checked": true,
+    "file": "components/RedeemDrawer.tsx",
+    "line": 9,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ArchiveView",
+      "MarketDossierPanel",
+      "ArchivePositions",
+      "RedeemDrawer"
+    ]
+  },
+  {
+    "id": "F125",
+    "checked": true,
+    "file": "components/MarketAnalytics.tsx",
+    "line": 8,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ArchiveView",
+      "MarketDossierPanel",
+      "MarketAnalytics"
+    ]
+  },
+  {
+    "id": "F126",
+    "checked": true,
+    "file": "components/MarketAnalytics.tsx",
+    "line": 8,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ArchiveView",
+      "MarketDossierPanel",
+      "MarketAnalytics"
+    ]
+  },
+  {
+    "id": "F127",
+    "checked": true,
+    "file": "components/MarketAnalytics.tsx",
+    "line": 8,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ArchiveView",
+      "MarketDossierPanel",
+      "MarketAnalytics"
+    ]
+  },
+  {
+    "id": "F128",
+    "checked": true,
+    "file": "components/MarketAnalytics.tsx",
+    "line": 8,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ArchiveView",
+      "MarketDossierPanel",
+      "MarketAnalytics"
+    ]
+  },
+  {
+    "id": "F129",
+    "checked": true,
+    "file": "components/SubmissionPriceChart.tsx",
+    "line": 24,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "ReviewSubmissionDossier",
+      "SubmissionPriceChart"
+    ]
+  },
+  {
+    "id": "F130",
+    "checked": true,
+    "file": "components/AnalysisPlot.tsx",
+    "line": 6,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ArchiveView",
+      "MarketDossierPanel",
+      "MarketAnalytics",
+      "AnalysisPlot"
+    ]
+  },
+  {
+    "id": "F131",
+    "checked": true,
+    "file": "components/ChartWindowControls.tsx",
+    "line": 3,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "ReviewSubmissionDossier",
+      "SubmissionPriceChart",
+      "ChartWindowControls"
+    ]
+  },
+  {
+    "id": "F132",
+    "checked": true,
+    "file": "hooks/useChartEvidence.ts",
+    "line": 5,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "ReviewSubmissionDossier",
+      "SubmissionPriceChart",
+      "useChartEvidence"
+    ]
+  },
+  {
+    "id": "F133",
+    "checked": true,
+    "file": "components/ArchiveView.tsx",
+    "line": 9,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ArchiveView"
+    ]
+  },
+  {
+    "id": "F134",
+    "checked": true,
+    "file": "components/ArchiveView.tsx",
+    "line": 9,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ArchiveView"
+    ]
+  },
+  {
+    "id": "F135",
+    "checked": true,
+    "file": "components/ArchiveResolution.tsx",
+    "line": 4,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ArchiveView",
+      "MarketDossierPanel",
+      "ArchiveResolution"
+    ]
+  },
+  {
+    "id": "F136",
+    "checked": true,
+    "file": "components/ArchiveGallery.tsx",
+    "line": 6,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ArchiveView",
+      "MarketDossierPanel",
+      "ArchiveGallery"
+    ]
+  },
+  {
+    "id": "F137",
+    "checked": true,
+    "file": "components/GalleryLightbox.tsx",
+    "line": 7,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ArchiveView",
+      "MarketDossierPanel",
+      "ArchiveGallery",
+      "GalleryLightbox"
+    ]
+  },
+  {
+    "id": "F138",
+    "checked": true,
+    "file": "components/ArchivePositions.tsx",
+    "line": 7,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ArchiveView",
+      "MarketDossierPanel",
+      "ArchivePositions"
+    ]
+  },
+  {
+    "id": "F139",
+    "checked": true,
+    "file": "components/SubmissionCommunityPanel.tsx",
+    "line": 14,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "ReviewSubmissionDossier",
+      "SubmissionCommunityPanel"
+    ]
+  },
+  {
+    "id": "F140",
+    "checked": true,
+    "file": "components/SubmissionExternalLinks.tsx",
+    "line": 9,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "ReviewSubmissionDossier",
+      "SubmissionExternalLinks"
+    ]
+  },
+  {
+    "id": "F141",
+    "checked": true,
+    "file": "components/OpportunityApp.tsx",
+    "line": 53,
+    "importPath": [
+      "index",
+      "OpportunityApp"
+    ]
+  },
+  {
+    "id": "F142",
+    "checked": true,
+    "file": "components/OpportunityApp.tsx",
+    "line": 53,
+    "importPath": [
+      "index",
+      "OpportunityApp"
+    ]
+  },
+  {
+    "id": "F143",
+    "checked": true,
+    "file": "components/ExplorerFilters.tsx",
+    "line": 5,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ExplorerView",
+      "ExplorerFilters"
+    ]
+  },
+  {
+    "id": "F144",
+    "checked": true,
+    "file": "components/SubmissionDossierDrawer.tsx",
+    "line": 27,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "SubmissionDossierDrawer"
+    ]
+  },
+  {
+    "id": "F145",
+    "checked": true,
+    "file": "components/RouteAnnouncement.tsx",
+    "line": 4,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "RouteAnnouncement"
+    ]
+  },
+  {
+    "id": "F146",
+    "checked": true,
+    "file": "components/RouteStates.tsx",
+    "line": 3,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "RouteStates"
+    ]
+  },
+  {
+    "id": "F147",
+    "checked": true,
+    "file": "components/WalletDrawer.tsx",
+    "line": 22,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "WalletDrawer"
+    ]
+  },
+  {
+    "id": "F148",
+    "checked": true,
+    "file": "data/sampleMarkets.ts",
+    "line": 14,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "GuidedTour",
+      "markets",
+      "sampleMarkets"
+    ]
+  },
+  {
+    "id": "F149",
+    "checked": true,
+    "file": "hooks/useOpportunityRoute.ts",
+    "line": 10,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "useOpportunityRoute"
+    ]
+  },
+  {
+    "id": "F150",
+    "checked": true,
+    "file": "hooks/useReviewPreferences.ts",
+    "line": 56,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ReviewView",
+      "useReviewPreferences"
+    ]
+  },
+  {
+    "id": "F151",
+    "checked": true,
+    "file": "components/MarketExplainer.tsx",
+    "line": 5,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "HelpTour",
+      "MarketExplainer"
+    ]
+  },
+  {
+    "id": "F152",
+    "checked": true,
+    "file": "components/ExplorerSearchResults.tsx",
+    "line": 13,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ExplorerView",
+      "ExplorerSearchResults"
+    ]
+  },
+  {
+    "id": "F153",
+    "checked": true,
+    "file": "components/MarketRail.tsx",
+    "line": 10,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "BoardView",
+      "MarketRail"
+    ]
+  },
+  {
+    "id": "F154",
+    "checked": true,
+    "file": "components/OpportunityApp.tsx",
+    "line": 53,
+    "importPath": [
+      "index",
+      "OpportunityApp"
+    ]
+  },
+  {
+    "id": "F155",
+    "checked": true,
+    "file": "components/ProtocolDrawer.tsx",
+    "line": 4,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ProtocolDrawer"
+    ]
+  },
+  {
+    "id": "F156",
+    "checked": true,
+    "file": "components/MarketExplainer.tsx",
+    "line": 20,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "HelpTour",
+      "MarketExplainer"
+    ]
+  },
+  {
+    "id": "F157",
+    "checked": true,
+    "file": "components/MarketHero.tsx",
+    "line": 10,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "BoardView",
+      "MarketHero"
+    ]
+  },
+  {
+    "id": "F158",
+    "checked": true,
+    "file": "components/SubmissionDossierPanel.tsx",
+    "line": 20,
+    "importPath": [
+      "index",
+      "OpportunityApp",
+      "ExplorerView",
+      "ExplorerRecordDrawer",
+      "SubmissionDossierPanel"
+    ]
+  }
+]

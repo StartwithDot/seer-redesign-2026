@@ -1,0 +1,240 @@
+.risk-signature-panel {
+  position: relative;
+  min-width: 0;
+}
+
+.risk-signature-switch {
+  position: absolute;
+  z-index: 4;
+  top: 18px;
+  right: 18px;
+  display: inline-flex;
+  padding: 4px;
+  border: 1px solid var(--product-border);
+  border-radius: 12px;
+  background: var(--product-surface-soft);
+}
+
+.risk-signature-switch button {
+  min-width: 58px;
+  min-height: 34px;
+  border: 0;
+  border-radius: 8px;
+  background: transparent;
+  color: var(--product-secondary);
+  font: inherit;
+  font-size: 11px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.risk-signature-switch button[aria-pressed='true'] {
+  background: var(--product-surface);
+  color: var(--product-accent);
+}
+
+.risk-hazard-rain {
+  display: grid;
+  min-height: 540px;
+  margin: 0;
+  overflow: hidden;
+  border: 1px solid var(--product-border);
+  border-radius: 21px;
+  background: var(--product-surface);
+}
+
+.risk-hazard-rain > figcaption:first-child {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 18px;
+  padding: 28px;
+}
+
+.risk-hazard-rain h2 {
+  margin: 0;
+  font-size: 25px;
+  letter-spacing: -.035em;
+}
+
+.risk-hazard-rain > figcaption:first-child p:last-child {
+  max-width: 310px;
+  margin: 0;
+  color: var(--product-secondary);
+  font-size: 12px;
+}
+
+.risk-rain-stage {
+  position: relative;
+  min-height: 375px;
+  margin: 0 18px;
+  overflow: hidden;
+  border: 1px solid var(--product-border);
+  border-radius: 15px;
+  background: var(--product-surface-soft);
+}
+
+.risk-rain-zones {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  grid-template-rows: repeat(4, 1fr);
+  pointer-events: none;
+}
+
+.risk-rain-zones span {
+  display: flex;
+  align-items: center;
+  padding-left: 10px;
+  border-bottom: 1px solid var(--product-border);
+  color: var(--product-muted);
+  font-size: 9px;
+  font-weight: 750;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+
+.risk-rain-zones span:nth-child(1) { background: repeating-linear-gradient(45deg, #dff4ed, #dff4ed 5px, #cbe9df 5px, #cbe9df 7px); }
+.risk-rain-zones span:nth-child(2) { background: repeating-linear-gradient(90deg, #fff0c7, #fff0c7 8px, #f4df9b 8px, #f4df9b 10px); }
+.risk-rain-zones span:nth-child(3) { background: radial-gradient(circle, #e4a56e 1.4px, #ffe0c2 1.5px) 0 0 / 9px 9px; }
+.risk-rain-zones span:nth-child(4) { background: repeating-linear-gradient(135deg, #f8d7d5, #f8d7d5 5px, #e8b7b3 5px, #e8b7b3 7px); }
+
+html[data-theme='dark'] .risk-rain-zones span:nth-child(1) { background: repeating-linear-gradient(45deg, #163c34, #163c34 5px, #214b42 5px, #214b42 7px); }
+html[data-theme='dark'] .risk-rain-zones span:nth-child(2) { background: repeating-linear-gradient(90deg, #3d3215, #3d3215 8px, #57481f 8px, #57481f 10px); }
+html[data-theme='dark'] .risk-rain-zones span:nth-child(3) { background: radial-gradient(circle, #b96b3d 1.4px, #422718 1.5px) 0 0 / 9px 9px; }
+html[data-theme='dark'] .risk-rain-zones span:nth-child(4) { background: repeating-linear-gradient(135deg, #3f1d1d, #3f1d1d 5px, #5b2927 5px, #5b2927 7px); }
+
+.risk-rain-drops {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+}
+
+.risk-rain-drops i {
+  position: absolute;
+  width: 2px;
+  height: 18px;
+  border-radius: 999px;
+  background: var(--product-accent);
+  opacity: .55;
+  animation: risk-rain-fall var(--drop-duration) var(--drop-delay) linear infinite;
+}
+
+.risk-rain-assets {
+  position: absolute;
+  right: 12px;
+  bottom: 12px;
+  left: 12px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(82px, 1fr));
+  gap: 6px;
+}
+
+.risk-rain-assets button {
+  display: grid;
+  grid-template-columns: 18px 1fr;
+  gap: 2px 6px;
+  min-height: 52px;
+  padding: 7px 8px;
+  border: 1px solid var(--product-border);
+  border-radius: 10px;
+  background: var(--product-surface);
+  color: var(--product-ink);
+  font: inherit;
+  text-align: left;
+  transform: translateY(var(--rain-offset, 0));
+}
+
+.risk-rain-assets strong {
+  font-size: 11px;
+}
+
+.risk-rain-assets span {
+  grid-column: 2;
+  color: var(--product-muted);
+  font-size: 9px;
+}
+
+.risk-rain-readout {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 2px 12px;
+  align-items: center;
+  padding: 14px 28px 22px;
+  color: var(--product-muted);
+  font-size: 10px;
+}
+
+.risk-rain-readout output {
+  grid-row: 1 / 3;
+  grid-column: 2;
+  color: var(--product-ink);
+  font-size: 22px;
+  font-variant-numeric: tabular-nums;
+}
+
+.risk-band-sweep {
+  position: absolute;
+  z-index: 3;
+  inset: 0 auto 0 0;
+  min-width: 2px;
+  border-right: 2px solid var(--product-accent);
+  background: color-mix(in srgb, var(--product-accent) 18%, transparent);
+  transform-origin: left;
+  animation: risk-band-sweep 420ms cubic-bezier(.16, 1, .3, 1) both;
+  pointer-events: none;
+}
+
+.risk-band-sweep.is-low { border-color: #12915f; }
+.risk-band-sweep.is-moderate { border-color: #b9770e; }
+.risk-band-sweep.is-high { border-color: #c2551a; }
+.risk-band-sweep.is-critical { border-color: #d1334a; }
+
+html[data-theme='dark'] .risk-band-sweep.is-low { border-color: #3ddc97; }
+html[data-theme='dark'] .risk-band-sweep.is-moderate { border-color: #f5b84a; }
+html[data-theme='dark'] .risk-band-sweep.is-high { border-color: #ff8a4c; }
+html[data-theme='dark'] .risk-band-sweep.is-critical { border-color: #ff5c72; }
+
+@keyframes risk-rain-fall {
+  from { transform: translate3d(0, -180px, 0); opacity: 0; }
+  20% { opacity: .58; }
+  to { transform: translate3d(-24px, 370px, 0); opacity: 0; }
+}
+
+@keyframes risk-band-sweep {
+  from { clip-path: inset(0 100% 0 0); opacity: 1; }
+  to { clip-path: inset(0); opacity: .16; }
+}
+
+@media (max-width: 720px) {
+  .risk-hazard-rain > figcaption:first-child {
+    display: grid;
+    padding: 22px;
+  }
+
+  .risk-rain-stage {
+    min-height: 410px;
+    margin: 0 10px;
+  }
+
+  .risk-rain-assets {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .risk-signature-switch {
+    top: 12px;
+    right: 12px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .risk-rain-drops i {
+    animation: none;
+    opacity: .38;
+  }
+
+  .risk-band-sweep {
+    animation: none;
+    opacity: .18;
+  }
+}

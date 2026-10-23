@@ -1,0 +1,11 @@
+{
+  "scope": "global",
+  "period": "1w",
+  "sortBy": "pnl",
+  "sortDir": "desc",
+  "unit": "USD",
+  "updatedAt": "2026-10-18T18:41:35.278+00:00",
+  "total": 34,
+  "limit": 100,
+  "offset": 0
+}

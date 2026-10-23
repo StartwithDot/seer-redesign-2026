@@ -1,0 +1,180 @@
+.dossier-description {
+  margin: 12px 0;
+  color: var(--product-secondary);
+  font-size: 12px;
+  line-height: 1.5;
+}
+
+.dossier-market-evidence {
+  position: relative;
+  height: 116px;
+  margin: 0 0 12px;
+  overflow: hidden;
+  border-radius: 14px;
+  background: var(--product-surface-soft);
+}
+
+.dossier-market-evidence img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: top center;
+}
+
+.dossier-market-evidence figcaption {
+  position: absolute;
+  right: 8px;
+  bottom: 8px;
+  padding: 5px 8px;
+  border-radius: 8px;
+  background: color-mix(in srgb, var(--product-surface) 88%, transparent);
+  color: var(--product-secondary);
+  font-size: 8px;
+}
+
+.review-submission-dossier .selected-signal {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.submission-external-links {
+  padding: 14px;
+  border: 1px solid var(--product-border);
+  border-radius: 14px;
+  background: var(--product-surface-soft);
+}
+
+.submission-external-links ul {
+  display: grid;
+  gap: 6px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.submission-external-links li {
+  display: flex;
+  min-height: 38px;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 7px 9px;
+  border: 1px solid var(--product-border);
+  border-radius: 9px;
+  background: var(--product-surface);
+  font-size: 12px;
+}
+
+.submission-external-links a {
+  color: var(--product-accent);
+  font-weight: 750;
+}
+
+.submission-action-bar {
+  display: grid;
+  gap: 8px;
+  margin-top: 12px;
+  padding: 12px;
+  border: 1px solid var(--product-border);
+  border-radius: 14px;
+  background: var(--product-surface-soft);
+}
+
+.submission-action-bar > div {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.submission-action-bar button {
+  min-height: 40px;
+  padding: 0 11px;
+  border: 1px solid var(--product-border);
+  border-radius: 10px;
+  background: var(--product-surface);
+  color: var(--product-ink);
+  cursor: pointer;
+  font-size: 12px;
+  font-weight: 750;
+}
+
+.submission-action-bar button[aria-pressed='true'] {
+  border-color: var(--product-accent);
+  background: var(--product-accent-soft);
+  color: var(--product-accent);
+}
+
+.submission-action-bar .trade-action {
+  border-color: color-mix(in srgb, var(--product-accent) 32%, var(--product-border));
+  color: var(--product-accent);
+}
+
+.submission-action-bar .authority-action {
+  flex: 1;
+  min-width: 132px;
+}
+
+.submission-action-bar > p {
+  min-height: 14px;
+  margin: 0;
+  color: var(--product-muted);
+  font-size: 12px;
+}
+
+.comment-composer {
+  display: grid;
+  gap: 7px;
+  margin-bottom: 12px;
+  padding: 11px;
+  border: 1px solid var(--product-border);
+  border-radius: 12px;
+  background: var(--product-surface-soft);
+}
+
+.comment-composer label {
+  color: var(--product-muted);
+  font-size: 12px;
+  font-weight: 750;
+  text-transform: uppercase;
+}
+
+.comment-composer textarea {
+  width: 100%;
+  min-height: 72px;
+  padding: 10px;
+  border: 1px solid var(--product-border);
+  border-radius: 9px;
+  background: var(--product-surface);
+  color: var(--product-ink);
+  resize: vertical;
+}
+
+.comment-composer button {
+  justify-self: start;
+  min-height: 40px;
+}
+
+.dossier-navigation {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.dossier-navigation button {
+  min-width: 128px;
+}
+
+@media (max-width: 620px) {
+  .review-submission-dossier .selected-signal {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .submission-action-bar > div {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .submission-action-bar .authority-action {
+    grid-column: 1 / -1;
+  }
+}

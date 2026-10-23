@@ -1,0 +1,63 @@
+@media (max-width: 900px) {
+  .policy-title,
+  .record-identity {
+    align-items: stretch;
+    grid-template-columns: 1fr;
+  }
+
+  .policy-title {
+    display: grid;
+  }
+
+  .policy-sections {
+    grid-template-columns: 1fr;
+  }
+
+  .policy-sections article {
+    min-height: 190px;
+    border-right: 0;
+    border-bottom: 1px solid var(--hairline);
+  }
+
+  .record-workbench {
+    grid-template-columns: 1fr;
+  }
+
+  .record-trade-card {
+    position: static;
+  }
+}
+
+@media (max-width: 700px) {
+  .policy-title {
+    padding: 28px 22px;
+  }
+
+  .policy-actions,
+  .error-plate > div {
+    align-items: stretch;
+    flex-direction: column;
+  }
+
+  .policy-record-footer,
+  .record-facts {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .record-identity .market-visual,
+  .record-identity .tonal-market-art {
+    min-height: 250px;
+  }
+
+  .outcome-table > div {
+    grid-template-columns: 10px 1fr 70px;
+  }
+
+  .outcome-table button {
+    display: none;
+  }
+
+  .evidence-links {
+    display: grid;
+  }
+}

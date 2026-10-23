@@ -1,0 +1,378 @@
+.risk-roll-number {
+  font-variant-numeric: tabular-nums;
+}
+
+.risk-aggregate-dial {
+  width: min(330px, 52%);
+  padding: 0;
+  border: 0;
+  color: var(--product-ink);
+  cursor: pointer;
+  font: inherit;
+}
+
+.risk-aggregate-dial.is-active {
+  box-shadow: 0 22px 65px #6c47ff42, 0 0 0 3px var(--product-accent-soft);
+}
+
+.risk-aggregate-prompt {
+  position: absolute;
+  top: 18px;
+  left: 50%;
+  width: max-content;
+  padding: 5px 9px;
+  border: 1px solid var(--product-border);
+  border-radius: 999px;
+  background: var(--product-surface);
+  color: var(--product-secondary) !important;
+  font-size: 9px !important;
+  font-weight: 750;
+  letter-spacing: .04em;
+  transform: translateX(-50%);
+}
+
+.risk-aggregate figcaption {
+  grid-template-columns: 1fr repeat(3, auto);
+}
+
+.risk-aggregate figcaption strong {
+  display: grid;
+  gap: 2px;
+  text-align: right;
+}
+
+.risk-aggregate figcaption strong small {
+  color: var(--product-muted);
+  font-size: 9px;
+}
+
+.risk-aggregate figcaption .is-user {
+  color: var(--risk-teal);
+}
+
+.risk-horizon-control {
+  display: grid;
+  gap: 7px;
+}
+
+.risk-horizon-heading,
+.risk-horizon-actions {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.risk-horizon-heading span,
+.risk-horizon-actions span {
+  color: var(--product-muted);
+  font-size: 11px;
+}
+
+.risk-horizon-heading output {
+  color: var(--product-ink);
+  font-size: 13px;
+  font-weight: 750;
+}
+
+.risk-horizon-control input {
+  width: 100%;
+  accent-color: var(--product-accent);
+}
+
+.risk-horizon-actions button {
+  min-height: 30px;
+  padding: 0 10px;
+  border: 1px solid var(--product-border);
+  border-radius: 999px;
+  background: transparent;
+  color: var(--product-secondary);
+  cursor: pointer;
+  font-size: 10px;
+  font-weight: 750;
+}
+
+.risk-horizon-actions button[aria-pressed='true'] {
+  border-color: var(--product-accent);
+  background: var(--product-accent-soft);
+  color: var(--product-accent);
+}
+
+.risk-empty-selection {
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  align-items: center;
+  gap: 22px;
+  min-height: 480px;
+  padding: 42px;
+  border: 1px solid var(--product-border);
+  border-radius: 24px;
+  background: var(--product-surface);
+}
+
+.risk-empty-mark {
+  display: grid;
+  width: 92px;
+  aspect-ratio: 1;
+  place-items: center;
+  border: 1px solid var(--product-border);
+  border-radius: 50%;
+  background: repeating-linear-gradient(135deg, var(--product-surface-soft), var(--product-surface-soft) 7px, var(--product-surface) 7px, var(--product-surface) 10px);
+  color: var(--product-muted);
+  font-size: 38px;
+  font-weight: 650;
+}
+
+.risk-empty-selection h3 {
+  margin: 0;
+  font-size: 31px;
+  letter-spacing: -.035em;
+}
+
+.risk-empty-selection p {
+  max-width: 520px;
+  margin: 9px 0 0;
+  color: var(--product-secondary);
+  line-height: 1.55;
+}
+
+.risk-overview-grid {
+  grid-template-columns: 1fr;
+}
+
+.risk-tide-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 280px;
+  gap: 18px;
+}
+
+.risk-survival-tide {
+  min-width: 0;
+  margin: 0;
+  padding: 26px;
+  border: 1px solid var(--product-border);
+  border-radius: 21px;
+  background: var(--product-surface);
+}
+
+.risk-survival-tide figcaption {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 24px;
+  margin-bottom: 18px;
+}
+
+.risk-survival-tide h2 {
+  margin: 0;
+  font-size: 29px;
+  letter-spacing: -.04em;
+}
+
+.risk-survival-tide figcaption > p {
+  max-width: 430px;
+  margin: 0;
+  color: var(--product-secondary);
+  font-size: 12px;
+  line-height: 1.5;
+}
+
+.risk-tide-stage {
+  position: relative;
+  overflow: hidden;
+  border: 1px solid var(--product-border);
+  border-radius: 16px;
+  background: var(--product-surface-soft);
+}
+
+.risk-tide-stage svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.risk-tide-grid {
+  stroke: var(--product-border);
+  stroke-width: 1;
+}
+
+.risk-tide-grid.is-vertical {
+  stroke-dasharray: 3 6;
+}
+
+.risk-tide-axis-label,
+.risk-tide-label,
+.risk-tide-share,
+.risk-tide-end-label {
+  fill: var(--product-muted);
+  font-family: inherit;
+  font-size: 10px;
+}
+
+.risk-tide-label {
+  fill: var(--product-ink);
+  font-size: 9px;
+  font-weight: 750;
+}
+
+.risk-tide-share {
+  fill: var(--product-accent);
+  font-size: 8px;
+}
+
+.risk-tide-ghost,
+.risk-tide-market,
+.risk-tide-user {
+  fill: none;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.risk-tide-ghost {
+  stroke: var(--product-muted);
+  stroke-width: 1.2;
+  opacity: .28;
+}
+
+.risk-tide-ghost.is-second {
+  stroke-dasharray: 2 6;
+  opacity: .2;
+}
+
+.risk-tide-market {
+  stroke: var(--product-accent);
+  stroke-width: 2.4;
+}
+
+.risk-tide-user {
+  stroke: var(--risk-teal);
+  stroke-width: 2;
+  stroke-dasharray: 7 6;
+}
+
+.risk-tide-end-label.is-market { fill: var(--product-accent); }
+.risk-tide-end-label.is-user { fill: var(--risk-teal); }
+
+.risk-depth-zone {
+  color: var(--product-muted);
+}
+
+.risk-tide-asset {
+  cursor: pointer;
+  opacity: calc(.62 + var(--hazard-share) * 2.2);
+  transition: opacity .25s;
+}
+
+.risk-tide-asset.is-hazard-highlight {
+  opacity: calc(.42 + var(--hazard-share) * 3.5);
+}
+
+.risk-tide-connector {
+  stroke: var(--product-muted);
+  stroke-width: 1;
+}
+
+.risk-tide-hit {
+  fill: transparent;
+}
+
+.risk-tide-buoy {
+  fill: var(--product-surface);
+  stroke: var(--product-accent);
+  stroke-width: 2.2;
+}
+
+.risk-tide-asset.is-active .risk-tide-buoy {
+  fill: var(--product-accent);
+  stroke: var(--product-surface);
+}
+
+.risk-tide-spark {
+  fill: none;
+  stroke: var(--product-accent);
+  stroke-width: 1.2;
+  opacity: .32;
+  transform-box: fill-box;
+  transform-origin: center;
+  animation: risk-spark 2.4s var(--spark-delay) infinite ease-out;
+}
+
+@keyframes risk-spark {
+  0% { opacity: .35; transform: scale(.55); }
+  70%, 100% { opacity: 0; transform: scale(calc(1.8 + var(--spark-scale))); }
+}
+
+.risk-tide-depth-labels {
+  position: absolute;
+  top: 13%;
+  right: 9px;
+  bottom: 14%;
+  display: grid;
+  justify-items: end;
+  color: var(--product-muted);
+  font-size: 8px;
+  font-weight: 750;
+  letter-spacing: .08em;
+  pointer-events: none;
+  text-transform: uppercase;
+}
+
+.risk-tide-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 13px;
+  padding: 12px 3px 0;
+  color: var(--product-muted);
+  font-size: 10px;
+}
+
+.risk-tide-legend .is-market::before,
+.risk-tide-legend .is-user::before,
+.risk-tide-legend .is-ghost::before {
+  display: inline-block;
+  width: 17px;
+  height: 2px;
+  margin-right: 6px;
+  background: currentColor;
+  content: '';
+  vertical-align: middle;
+}
+
+.risk-tide-legend .is-market { color: var(--product-accent); }
+.risk-tide-legend .is-user { color: var(--risk-teal); }
+.risk-tide-legend .is-ghost { color: var(--product-muted); }
+
+.risk-tide-mobile-assets {
+  display: none;
+}
+
+.risk-overview-secondary {
+  display: grid;
+  grid-template-columns: 1.1fr .9fr;
+  gap: 18px;
+}
+
+.risk-bar-row {
+  grid-template-columns: 76px 1fr 104px 88px;
+}
+
+.risk-bar-values {
+  display: grid;
+  gap: 2px;
+}
+
+.risk-bar-values b {
+  font-size: 11px;
+}
+
+.risk-bar-values small {
+  text-align: left;
+}
+
+.risk-bar-axis {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 87px;
+  color: var(--product-muted);
+  font-size: 9px;
+}

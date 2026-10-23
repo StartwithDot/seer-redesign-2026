@@ -1,0 +1,199 @@
+/* Deep uses the landing's paper, charcoal and controlled violet vocabulary. */
+.deep-app {
+  --ef-bg-page: #fdfdfd;
+  --ef-bg-card: #ffffff;
+  --ef-bg-nested: #f0f0f3;
+  --ef-bg-elevated: #e8e8ee;
+  --ef-text-primary: #0e0e12;
+  --ef-text-secondary: #555560;
+  --ef-text-muted: #60606c;
+  --ef-primary: #6c47ff;
+  --ef-primary-hover: #5831e6;
+  --ef-primary-soft: #eee9ff;
+  --ef-secondary-bg: #eee9ff;
+  --ef-secondary-text: #5831d2;
+  --ef-sem-positive: #08734c;
+  --ef-sem-warning: #8c5909;
+  --ef-sem-danger: #bb2941;
+  --deep-gap: #8c5909;
+  --deep-over: #bb2941;
+  --ef-focus-ring: #5831d2;
+  --ef-ease-out: cubic-bezier(.16, 1, .3, 1);
+  --ef-font-sans: 'Inter Tight Variable', 'Inter Tight', sans-serif;
+  font-variant-numeric: tabular-nums;
+  font-optical-sizing: auto;
+  transition: background-color .5s var(--ef-ease-out), color .5s var(--ef-ease-out);
+}
+html[data-theme='dark'] .deep-app {
+  --ef-bg-page: #0e0e12;
+  --ef-bg-card: #1a1a1e;
+  --ef-bg-nested: #1f1f24;
+  --ef-bg-elevated: #26262d;
+  --ef-text-primary: #ededf2;
+  --ef-text-secondary: #b6b6c1;
+  --ef-text-muted: #a4a4b0;
+  --ef-primary: #6c47ff;
+  --ef-primary-hover: #7350ff;
+  --ef-primary-soft: #2c2445;
+  --ef-secondary-bg: #2c2445;
+  --ef-secondary-text: #b79aff;
+  --ef-sem-positive: #3ddc97;
+  --ef-sem-warning: #f5b84a;
+  --ef-sem-danger: #ff7890;
+  --deep-gap: #f5b84a;
+  --deep-over: #ff7890;
+  --ef-focus-ring: #b79aff;
+}
+.deep-app :is(.deep-header, .deep-field, .deep-rail, .deep-desk, .deep-dialog, .deep-menu,
+  .deep-time-figure, .deep-time-figure__canvas, .deep-mobile-nav, .deep-table-wrap) {
+  transition: background-color .5s var(--ef-ease-out), border-color .5s var(--ef-ease-out), color .5s var(--ef-ease-out);
+}
+.deep-overlay-root { min-height: 0; background: transparent; overflow: visible; }
+.deep-overlay-root .deep-dialog-layer { z-index: 150; }
+.deep-dialog { overscroll-behavior: contain; }
+.deep-app .deep-button--primary { color: #fff; }
+.deep-app button:disabled { cursor: not-allowed; }
+.deep-app :is(input, select, textarea) { font: inherit; }
+.deep-app :is(button, a, summary, input, select, textarea) { touch-action: manipulation; }
+.deep-main:focus { outline: none; }
+.deep-state-notice { padding: 16px; border-left: 3px solid var(--ef-secondary-text); background: var(--ef-bg-nested); }
+.deep-state-notice strong { font-size: 14px; }
+.deep-state-notice p { margin: 8px 0 0; color: var(--ef-text-secondary); font-size: 12px; line-height: 1.5; }
+.deep-state-notice.is-error { border-color: var(--ef-sem-danger); }
+.deep-state-notice.is-success { border-color: var(--ef-sem-positive); }
+.deep-state-notice.is-loading { border-left-style: dashed; }
+.deep-market-holdings { min-width: 0; padding-block: 16px; border-block: 1px solid var(--ef-hairline); }
+.deep-market-holdings header { display: grid; gap: 12px; }
+.deep-market-holdings h4 { margin: 0; font-size: 14px; }
+.deep-market-holdings p { color: var(--ef-text-secondary); font-size: 12px; line-height: 1.5; }
+.deep-partial-reads { font-size: 12px; color: var(--ef-text-secondary); }
+.deep-partial-reads summary { min-height: 44px; cursor: pointer; }
+.deep-partial-reads ul { max-height: 180px; overflow: auto; padding-left: 20px; overflow-wrap: anywhere; }
+.deep-holding-rows { max-height: 240px; overflow: auto; }
+.deep-holding-rows > div { padding-block: 12px; border-top: 1px solid var(--ef-hairline); }
+.deep-holding-rows dt { font-size: 12px; overflow-wrap: anywhere; }
+.deep-holding-rows dd { margin: 4px 0 0; color: var(--ef-text-secondary); font-size: 12px; }
+.deep-market-holdings a { text-decoration: underline; text-underline-offset: 3px; }
+.deep-funds-list > div { min-width: 0; }
+.deep-funds-list > div > span { min-width: 0; }
+.deep-funds-list > div > strong { flex-shrink: 0; }
+.deep-funds-footer-actions { display: grid; gap: 8px; margin-top: 16px; }
+.deep-funds-form { margin-block: 16px; }
+.deep-funds-form select { width: 100%; min-height: 44px; background: var(--ef-bg-nested); color: var(--ef-text-primary); border: 1px solid var(--ef-hairline-strong); border-radius: 8px; }
+.deep-funds-form > .deep-field, .deep-strategy-panel > .deep-field {
+  padding: 0; margin-block: 12px; border: 0; border-radius: 0; background: transparent;
+}
+.deep-desk [role='tabpanel'] { min-width: 0; }
+.deep-menu { max-height: min(650px, calc(100svh - 160px)); overflow-y: auto; overscroll-behavior: contain; }
+.deep-field-header dl { flex-wrap: wrap; }
+.deep-repo-header__identity > div { min-width: 0; }
+.deep-repo-header h1 { overflow-wrap: anywhere; }
+.deep-command-bar { padding: 8px clamp(16px, 3.2vw, 48px); }
+.deep-main { min-height: 0; }
+.deep-desk [role='tabpanel'] > .deep-button { width: 100%; margin-top: 12px; font-size: 12px; }
+.deep-desk .deep-holding-rows > div { display: grid; gap: 4px; }
+.deep-markets { padding-top: 48px; }
+.deep-page { padding-top: 48px; }
+.deep-desk .deep-preview-disclaimer, .deep-desk .deep-strategy-panel__note { font-size: 11px; line-height: 1.5; }
+.deep-desk :is(.deep-setup small, .deep-upload-status, .deep-funds-list small, .deep-field small) { font-size: 11px; }
+.deep-desk :is(.deep-checklist li, .deep-funds-list strong, .deep-field > span, .deep-csv-drop strong) { font-size: 12px; }
+.deep-swarm__dot.is-gap { stroke-dasharray: 2 2; }
+.deep-swarm__dot.is-over { stroke-dasharray: 5 2; }
+.deep-swarm__tail.is-down { stroke-dasharray: 4 3; }
+.deep-swarm__residual.is-gap { stroke-dasharray: 2 2; }
+.deep-swarm__residual.is-over { stroke-dasharray: 5 2; }
+.deep-rail__split { position: relative; }
+.deep-rail__split i.deep-split__down { background: var(--deep-down); }
+.deep-rail__split i.deep-split__residual { background: repeating-linear-gradient(45deg, var(--deep-gap) 0 2px, transparent 2px 5px); }
+.deep-rail__split i.deep-split-overlap { position: absolute; right: 0; top: 0; background: repeating-linear-gradient(135deg, var(--deep-over) 0 2px, var(--ef-bg-card) 2px 4px); }
+html[data-theme='dark'] .deep-setup li.is-complete > span { color: var(--ef-bg-page); }
+html[data-theme='dark'] .deep-rail :is([aria-sort='ascending'], [aria-sort='descending']),
+html[data-theme='dark'] .deep-rail .deep-search button { color: var(--ef-secondary-text); }
+@media (min-width: 1181px) {
+  .deep-workspace { grid-template-columns: minmax(0, 1.5fr) minmax(340px, 1fr) 300px; }
+  .deep-workspace > :is(.deep-field, .deep-rail, .deep-desk) { max-height: 780px; overflow: auto; overscroll-behavior: contain; }
+  .deep-rail__columns, .deep-rail__row-main { grid-template-columns: minmax(100px, 1fr) 48px 48px 54px; }
+  .deep-rail__table[data-mode='positions'] :is(.deep-rail__columns, .deep-rail__row-main) { grid-template-columns: minmax(90px, 1fr) 54px 58px 70px 80px; }
+}
+@media (min-width: 761px) and (max-width: 1180px) {
+  .deep-header { grid-template-columns: 150px minmax(0, 1fr) auto; gap: 12px; }
+  .deep-nav > a, .deep-nav__preview > a { padding-inline: 8px; font-size: 13px; }
+  .deep-workspace { grid-template-columns: minmax(0, 1fr) 320px; }
+  .deep-workspace > .deep-field { grid-column: 1 / -1; }
+  .deep-workspace > .deep-rail { grid-column: 1; }
+  .deep-workspace > .deep-desk { grid-column: 2; max-height: 780px; overflow: auto; }
+}
+@media (max-width: 760px) {
+  .deep-header { grid-template-columns: minmax(0, 1fr) auto auto; }
+  .deep-brand { gap: 8px; }
+  .deep-header__actions .deep-guide-button { display: inline-flex; width: 44px; padding: 0; justify-content: center; font-size: 0; }
+  .deep-header__actions .deep-guide-button svg { width: 18px; height: 18px; }
+  .deep-header .deep-icon-button { width: 44px; height: 44px; }
+  .deep-wallet__connect, .deep-wallet__identity { min-height: 44px; font-size: 12px; }
+  .deep-wallet__setup, .deep-wallet__connect > svg { display: none; }
+  .deep-menu--wallet { width: min(300px, calc(100vw - 24px)); }
+  .deep-command-bar { padding-inline: 12px; gap: 8px; }
+  .deep-command-bar button { font-size: 12px; padding-inline: 12px; }
+  .deep-markets { padding-top: 16px; padding-bottom: 16px; }
+  .deep-page { padding-top: 24px; padding-bottom: 24px; }
+  .deep-contest-tabs { max-width: 100%; overflow-x: auto; }
+  .deep-field-header { padding-block: 16px; gap: 16px; }
+  .deep-field-header p:last-child { font-size: 13px; line-height: 1.5; }
+  .deep-field-header dl { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .deep-field-header dl div { min-width: 0; }
+  .deep-context-strip { gap: 8px; font-size: 12px; }
+  .deep-mobile-view-tabs { display: none; }
+  .deep-workspace { grid-template-columns: minmax(0, 1fr); }
+  .deep-workspace > :is(.deep-field, .deep-rail, .deep-desk) { grid-column: 1; max-height: none; }
+  .deep-workspace > .deep-field { padding: 12px; }
+  .deep-time-figure { padding: 0; border: 0; background: transparent; }
+  .deep-time-figure__controls, .deep-swarm__toolbar { gap: 8px; }
+  .deep-app .deep-segmented { max-width: 100%; flex-wrap: wrap; }
+  .deep-app .deep-segmented button { min-height: 44px; padding-inline: 12px; font-size: 12px; }
+  .deep-replay-controls { flex-wrap: wrap; }
+  .deep-replay-controls button, .deep-time-figure__visibility button { min-height: 44px; }
+  .deep-swarm__canvas { overflow: hidden; }
+  .deep-swarm__canvas svg { min-width: 0; width: 100%; }
+  .deep-swarm__readout { position: static; max-width: none; margin: 12px; font-size: 12px; }
+  .deep-replay-strip__controls { grid-template-columns: auto minmax(0, 1fr); }
+  .deep-replay-strip__controls output { grid-column: 1 / -1; }
+  .deep-replay-strip__controls label { min-width: 0; grid-template-columns: 1fr; gap: 8px; }
+  .deep-replay-strip__controls input { min-width: 0; min-height: 44px; }
+  .deep-rail__columns { grid-template-columns: minmax(0, 1fr) 50px 50px 58px; padding-right: 48px; }
+  .deep-rail__table[data-mode='positions'] .deep-rail__columns { display: flex; flex-wrap: wrap; gap: 16px; padding-inline: 16px; }
+  .deep-rail__row-main, .deep-rail__table[data-mode='positions'] .deep-rail__row-main { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; padding: 16px 8px 16px 16px; }
+  .deep-rail__identity { grid-column: 1 / -1; }
+  .deep-rail__identity > strong { font-size: 14px; }
+  .deep-rail__identity > small, .deep-rail__value small, .deep-rail__change small, .deep-rail__differences small { font-size: 11px; }
+  .deep-rail__value strong, .deep-rail__change strong, .deep-rail__differences strong { font-size: 13px; }
+  .deep-rail__table[data-mode='positions'] .deep-rail__row-main { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .deep-rail__row { grid-template-columns: minmax(0, 1fr) 44px; }
+  .deep-rail__row > .deep-icon-button { width: 44px; height: 44px; }
+  .deep-rail__list { max-height: 65svh; }
+  .deep-rail__tools { flex-wrap: wrap; }
+  .deep-rail__tools > * { flex: 1; }
+  .deep-desk { padding: 16px; }
+  .deep-desk__tabs button { min-height: 44px; }
+  .deep-setup li { grid-template-columns: 20px minmax(0, 1fr) auto; }
+  .deep-setup li button { min-height: 44px; }
+  .deep-dialog-layer { align-items: end; padding: 0; }
+  .deep-dialog-layer .deep-dialog { width: 100%; max-height: calc(100dvh - 24px); padding: 20px 16px calc(20px + env(safe-area-inset-bottom)); border-radius: 20px 20px 0 0; }
+  .deep-dialog__header { position: sticky; top: -20px; z-index: 10; background: var(--ef-bg-card); padding-block: 16px; }
+  .deep-mobile-nav { bottom: max(8px, env(safe-area-inset-bottom)); }
+  .deep-footer { padding-bottom: calc(96px + env(safe-area-inset-bottom)); }
+  .deep-repo-header h1 { font-size: 34px; }
+  .deep-price-pair { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .deep-price-pair > div { padding: 12px 8px; }
+  .deep-price-pair strong { font-size: 22px; }
+  .deep-inspector-stats { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .deep-difference-help__panel { position: fixed; inset: auto 16px 80px; width: auto; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .deep-app *, .deep-app *::before, .deep-app *::after { animation: none !important; transition: none !important; scroll-behavior: auto !important; }
+}
+/* Archive data stays within the instrument instead of extending the page. */
+.deep-archive-chart { min-width: 0; }
+.deep-archive-chart > svg { display: block; width: 100%; max-height: 320px; }
+.deep-archive-workspace .deep-table-wrap { max-height: min(540px, 60svh); overflow: auto; overscroll-behavior: contain; }
+.deep-archive-table thead { position: sticky; top: 0; z-index: 1; background: var(--ef-bg-card); }
+.deep-archive-toolbar { flex-wrap: wrap; }

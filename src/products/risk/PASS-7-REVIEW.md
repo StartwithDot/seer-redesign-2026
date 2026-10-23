@@ -1,0 +1,28 @@
+# Build pass 7
+
+Completed 19 items: F116, F124, F125, F127, F131–F138, F144–F150. Remaining: 10.
+
+Entity inspection now exposes full IDs and copyable canonical links for contracts, wrapped outcome tokens, collateral, factory, creator, condition, market and oracle questions, parent collection and creation transaction. Contract and transaction records open on Gnosisscan; bytes32 identifiers link to their recorded creation events, not invented address pages. Asset and Seer market links have copy/share actions and readable fallback URLs. An entity deep link opens the entity disclosure on reload, preserves dossier state and responds to Back/Forward.
+
+Source inspection uses separate focused components for every original pool observation and the complete market record. All 35 API series retain their point counts and exact original prices, IDs and liquidity. The 35 market outcomes reconcile to 33 assets, No To All and Invalid. Original market and pool records are exportable. Large integer supplies remain strings. Canonical observed market PD feeds list, dossier, history and CSV; no live feed or financial activity is fabricated.
+
+Survival Tide now samples the actual selected month horizon, starts at 100% survival and ends at the same portfolio value as the aggregate. Its two historical ridges use recorded first/middle pool observations. Synthetic vertical history offsets and the user-estimate floor were removed. The 0%/100% and extreme-target rescale boundaries remain accurate. Motion is cleared under runtime reduced motion, viewport exit and document hiding. Static picker/gallery entrance states remain visible. Rapid number changes continue from the current displayed value.
+
+Theme and interaction work includes separately contrasted light/dark severity text, charcoal hairline borders, violet actions, teal user values, hover/pressed/focus/disabled states and reversible persisted toggles. The canonical theme key synchronizes across tabs. Risk toggles also persist the existing host preference key so a reload retains a user toggle. F126 remains open because index.html can overwrite a canonical theme set before startup; that file is outside the authorized folder.
+
+Dossier loading and load failures use labelled modal drawers with Escape, focus trapping, background inertness and focus restoration. Real lazy loading provides asset/history/dossier/prediction skeletons and retry after a rejected import. CSV covers empty, selected, reading, valid, invalid and loaded states with cancelled stale reads. Tooltips work on hover/focus/touch and consume Escape before a parent dialog. Search gains an accessible input, arrow navigation and recovery. Group selector state derives from actual selection. Upcoming Q4 deep links show unpublished terms and a Q3 recovery action, never Q3 data labelled Q4. Closed-round submission remains disabled with its reason. Wallet errors have retry. Storage failure preserves in-memory estimate editing.
+
+Mobile CSS now provides a fixed prediction action, full-width sheets, bounded ticker roster and responsive source records. F129/F130/F139 remain open pending real browser layout/control checks. F095 remains open because submitting/confirmed require a transaction adapter; F117–F119 require authentication/WalletConnect configuration; F122 requires real notification sign-in/delivery; F115 needs the oracle contract/deep-link provenance missing from the saved record. No unused simulated lifecycle or sign-in controls were added.
+
+USDC/USDT artwork uses verified existing CC0 token-image URLs with an initial fallback on download failure. Other tokens use the Design Book's permitted tonal fallback; aggregate imagery retains the existing landing architecture asset. See DEPARTURES.md for sources and semantic extensions.
+
+References read: overnight/DESIGN_BOOK.md; all seven shots/land_d*.png (all blank white); landing and shared-shell CSS; parent research protocol, quality/identity/coding rules, handoff/resources/design template; Risk RESEARCH_READY, REQUIREMENTS, BUILD_SPEC, HANDOFF, flow and chart/data audit artifacts; existing Risk/shared code. Opened the original dossier/CSV/connect captures and EF palette. The user's explicit build-pass request authorizes continuation of the existing approved implementation. No landing, shared, root, other product, commit or push changes.
+
+Validation:
+- `npx tsc --noEmit -p src/products/risk/tsconfig.json`: clean.
+- Root `npx tsc --noEmit` passed earlier in this turn. The final `npm run build -- --outDir /private/tmp/risk-pass7-final-dist` fails on Opportunity's `components/RedeemDrawer.tsx:39`: TS2550 (`findLast` requires ES2023) and TS7006 (implicit `r`). That file changed outside this task; no out-of-scope fix was made. Risk's scoped typecheck remains clean.
+- `node src/products/risk/tests/pass6.cjs`: passes prior dossier/routes/wallet coverage.
+- `node src/products/risk/tests/pass7.cjs`: passes full saved-data/point/market reconciliation, canonical values, math extremes, source surfaces, CSV races, theme/storage, reduced motion, entity state/deep links, retry recovery, tooltip focus/Escape, disabled submission, modal focus trap/background/restoration. These are deterministic component/hook checks, not browser e2e.
+- Production Vite build: passes when run after Risk's scoped typecheck. The combined npm build is blocked by the Opportunity errors above. Shared application retains bundle-size and Futarchy mixed-import warnings.
+- Browser QA attempted: Vite listen fails EPERM at 127.0.0.1:5188; Playwright system Chrome exits before creating a page. No viewport captures, responsive approval or exhaustive dead-control browser coverage claimed.
+- All Risk TypeScript, CSS and test files are fewer than 400 lines.
