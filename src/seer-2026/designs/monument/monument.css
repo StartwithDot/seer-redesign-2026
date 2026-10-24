@@ -47,7 +47,7 @@
 /* hero */
 .mn-hero { position: relative; height: 100svh; min-height: 720px; overflow: hidden; background: #e9e8ee; }
 .mn-stage { position: absolute; inset: 0; will-change: transform; }
-.mn-art { position: absolute; top: 0; right: 0; width: max(100vw, 177.78svh); height: max(100svh, 56.25vw); will-change: transform; }
+.mn-art { position: absolute; top: 0; right: 0; width: max(100vw, 177.78svh); height: max(100svh, 56.25vw); transform: scale(1.08); transform-origin: 50% 50%; will-change: transform; }
 .mn-art > img { display: block; width: 100%; height: 100%; object-fit: cover; }
 .mn-clouds { position: absolute; left: -2%; top: 0; width: 76%; height: 50%; -webkit-mask-image: radial-gradient(ellipse 58% 82% at 27% 14%, #000 28%, transparent 100%); mask-image: radial-gradient(ellipse 58% 82% at 27% 14%, #000 28%, transparent 100%); }
 .mn-shimmer { position: absolute; left: 71.6%; top: 16%; width: 8.6%; height: 58%; mix-blend-mode: soft-light; opacity: .75; pointer-events: none; background: linear-gradient(100deg, transparent 30%, #fffffff0 50%, transparent 70%); background-size: 320% 100%; animation: mn-glint 8s var(--ease) infinite; }

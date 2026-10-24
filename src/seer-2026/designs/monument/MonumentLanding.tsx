@@ -148,7 +148,7 @@ function Hero() {
       if (reduced()) return;
       gsap.from('.mn-h1 .ln', { yPercent: 112, duration: 1.3, ease: 'power4.out', stagger: 0.1, delay: 0.2 });
       gsap.from('.mn-hero-copy .fade', { y: 24, opacity: 0, filter: 'blur(6px)', duration: 1, ease: 'power3.out', stagger: 0.1, delay: 0.9 });
-      gsap.fromTo(art.current, { scale: 1.14 }, { scale: 1, duration: 2.8, ease: 'power3.out' });
+      gsap.fromTo(art.current, { scale: 1.2 }, { scale: 1.08, duration: 2.8, ease: 'power3.out' });
       gsap.to(stage.current, { yPercent: 9, ease: 'none', scrollTrigger: { trigger: root.current, start: 'top top', end: 'bottom top', scrub: 0.8 } });
       const qx = gsap.quickTo(art.current, 'x', { duration: 1.4, ease: 'power3' }), qy = gsap.quickTo(art.current, 'y', { duration: 1.4, ease: 'power3' });
       const mv = (e: PointerEvent) => { qx((e.clientX / window.innerWidth - 0.5) * -22); qy((e.clientY / window.innerHeight - 0.5) * -14); };
