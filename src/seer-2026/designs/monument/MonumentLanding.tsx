@@ -69,17 +69,40 @@ function useMagnetic(ref: React.RefObject<HTMLElement | null>) {
   }, [ref]);
 }
 
-function Nav({ dark }: { dark: boolean }) {
-  const el = useRef<HTMLElement>(null);
+const APP_DESC = ['Explore and trade every market', 'Many-outcome markets for people and agents', 'Decisions priced before the vote', 'Odds that shortlist submissions', 'Protocol risk, side by side'];
+function Nav() {
+  const el = useRef<HTMLElement>(null); const [open, setOpen] = useState(false); const t = useRef<number>(0);
   useEffect(() => {
-    const on = () => el.current?.classList.toggle('is-solid', window.scrollY > 48);
-    on(); window.addEventListener('scroll', on, { passive: true }); return () => window.removeEventListener('scroll', on);
+    let cur = 0, raf = 0, last = performance.now(); const y = 62;
+    const loop = (now: number) => {
+      raf = requestAnimationFrame(loop); const dt = Math.min(0.1, (now - last) / 1000); last = now; let target = 0;
+      const how = document.getElementById('how'), kl = document.getElementById('kleros');
+      if (how) { const r = how.getBoundingClientRect(); if (r.top <= y && r.bottom > y) target = (window as unknown as { __mnDusk?: number }).__mnDusk ?? 0; else if (r.bottom <= y) target = 1; }
+      if (kl) { const r = kl.getBoundingClientRect(); if (r.top <= y && r.bottom > y) target = Math.min(1, (r.bottom - y) / 260); else if (r.bottom <= y) target = 0; }
+      cur += (target - cur) * (1 - Math.exp(-dt * 7)); el.current?.style.setProperty('--nt', cur.toFixed(4)); el.current?.classList.toggle('is-solid', window.scrollY > 48);
+    };
+    raf = requestAnimationFrame(loop); return () => cancelAnimationFrame(raf);
   }, []);
+  const show = () => { window.clearTimeout(t.current); setOpen(true); }; const hide = () => { window.clearTimeout(t.current); t.current = window.setTimeout(() => setOpen(false), 140); };
   return (
-    <header className={`mn-nav ${dark ? 'is-dark' : ''}`} ref={el}>
-      <span className="mn-nav-bg" aria-hidden="true" /><span className="mn-nav-bg mn-nav-bg--dark" aria-hidden="true" />
-      <a href="#mn-top" aria-label="Seer home"><img src={logo} alt="Seer" width="112" height="52" /></a>
-      <nav aria-label="Primary"><a href="#surfaces">Apps</a><a className="mn-wallet" href={SEER}>Connect Wallet</a></nav>
+    <header className="mn-nav" ref={el} onKeyDown={(e) => e.key === 'Escape' && setOpen(false)}>
+      <span className="mn-nav-bg" aria-hidden="true" />
+      <a className="mn-logo" href="#mn-top" aria-label="Seer home"><img src={logo} alt="Seer" width="112" height="52" /></a>
+      <nav aria-label="Primary">
+        <div className={`mn-apps ${open ? 'is-open' : ''}`} onMouseEnter={show} onMouseLeave={hide} onFocus={show} onBlur={(e) => { if (!e.currentTarget.contains(e.relatedTarget as Node)) hide(); }}>
+          <button className="mn-apps-btn" aria-expanded={open} aria-haspopup="true" onClick={() => setOpen((o) => !o)}>Apps <svg viewBox="0 0 12 12" width="10" height="10" aria-hidden="true"><path d="M2 4.2 6 8l4-3.8" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round" /></svg></button>
+          <div className="mn-apps-panel" role="menu">
+            {APPS.map((p, k) => (
+              <a key={p.name} role="menuitem" className="mn-ap" href={p.href} style={{ ['--i' as string]: k }}>
+                <img src={p.pic} alt="" decoding="async" />
+                <span className="mn-ap-t"><b>{p.name}</b><em>{APP_DESC[k]}</em></span>
+                <svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true"><path d="M3 8h9m-4-4 4 4-4 4" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round" /></svg>
+              </a>
+            ))}
+          </div>
+        </div>
+        <a className="mn-wallet" href={SEER}><span className="mn-w-fill" aria-hidden="true" /><span className="mn-w-ico" aria-hidden="true"><i /><i /><i /><i /></span><span className="mn-w-txt">Connect Wallet</span></a>
+      </nav>
     </header>
   );
 }
@@ -208,8 +231,13 @@ function Surfaces() {
   }, []);
   useEffect(() => {
     const ctx = gsap.context(() => {
-      gsap.fromTo('.mn-row-in', { yPercent: 115, opacity: 0, filter: 'blur(8px)' }, { yPercent: 0, opacity: 1, filter: 'blur(0px)', duration: 1, ease: 'power4.out', stagger: 0.1 });
-      gsap.fromTo('.mn-detail .mn-open', { opacity: 0, y: 16, scale: 0.96 }, { opacity: 1, y: 0, scale: 1, duration: 0.9, ease: 'power3.out', delay: 0.38 });
+      const tl = gsap.timeline();
+      tl.fromTo('.mn-fact-line', { scaleX: 0 }, { scaleX: 1, duration: 1, ease: 'power4.out', stagger: 0.13 }, 0)
+        .fromTo('.mn-fact-ico', { scale: 0.5, opacity: 0, rotate: -14 }, { scale: 1, opacity: 1, rotate: 0, duration: 0.9, ease: 'power3.out', stagger: 0.13 }, 0.05)
+        .fromTo('.mn-fact-l', { opacity: 0, x: -10 }, { opacity: 1, x: 0, duration: 0.7, ease: 'power3.out', stagger: 0.13 }, 0.12)
+        .fromTo('.mn-row-in', { yPercent: 115, opacity: 0, filter: 'blur(8px)' }, { yPercent: 0, opacity: 1, filter: 'blur(0px)', duration: 1, ease: 'power4.out', stagger: 0.13 }, 0.18)
+        .fromTo('.mn-open--cta', { clipPath: 'inset(0 100% 0 0 round 999px)', opacity: 1 }, { clipPath: 'inset(0 0% 0 0 round 999px)', duration: 1.15, ease: 'power4.inOut' }, 0.42)
+        .fromTo('.mn-oc', { scale: 0.55, rotate: -120 }, { scale: 1, rotate: 0, duration: 1.1, ease: 'power4.out' }, 0.42);
     }, detail);
     return () => ctx.revert();
   }, [i]);
@@ -223,10 +251,19 @@ function Surfaces() {
           {APPS.map((p, k) => <li key={p.name}><button role="tab" aria-selected={k === i} className={k === i ? 'is-on' : ''} onClick={() => go(k)}>{p.name}</button></li>)}
         </ul>
         <div className="mn-detail" ref={detail} aria-live="polite">
-          <p className="mn-row"><span className="mn-row-in"><b>Asked by</b> {a.ask}</span></p>
-          <p className="mn-row"><span className="mn-row-in"><b>Prices</b> {a.prices}</span></p>
-          <p className="mn-row"><span className="mn-row-in"><b>How to use it</b> {a.use}</span></p>
-          <a className="mn-open" href={a.href}>Open {a.name} <span aria-hidden="true">&rarr;</span></a>
+          <div className="mn-facts">
+            {([['Asked by', a.ask, 0], ['Prices', a.prices, 1], ['How to use it', a.use, 2]] as [string, string, number][]).map(([l, tx, n]) => (
+              <div className="mn-fact" key={l}>
+                <i className="mn-fact-ico">{n === 0 ? <svg viewBox="0 0 24 24"><circle cx="12" cy="8.5" r="3.4" /><path d="M5.2 19.5c.9-3.6 3.6-5.4 6.8-5.4s5.9 1.8 6.8 5.4" /></svg> : n === 1 ? <svg viewBox="0 0 24 24"><path d="M4.5 18.5V13M10 18.5V8.5M15.5 18.5v-6M21 18.5V5.5" /></svg> : <svg viewBox="0 0 24 24"><path d="M5 12h12.5m-5-5.5 5.5 5.5-5.5 5.5" /></svg>}</i>
+                <div className="mn-fact-b"><span className="mn-fact-l">{l}</span><p className="mn-fact-t"><span className="mn-row-in">{tx}</span></p></div>
+                <i className="mn-fact-line" />
+              </div>
+            ))}
+          </div>
+          <a className="mn-open mn-open--cta" href={a.href}>
+            <span className="mn-oc"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M3 8h9m-4-4 4 4-4 4" /></svg><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M3 8h9m-4-4 4 4-4 4" /></svg></span>
+            <span className="mn-ol">Open {a.name}</span>
+          </a>
         </div>
       </div>
       <div className="mn-surf-art">
@@ -255,11 +292,11 @@ function How({ onNight }: { onNight: (n: boolean) => void }) {
     mm.add('(min-width: 900px) and (min-height: 600px)', () => {
       const st = ScrollTrigger.create({
         trigger: sec.current, start: 'top top', end: '+=260%', pin: true, anticipatePin: 1,
-        onUpdate: (s) => { const p = s.progress; gsap.set(dusk.current, { opacity: reduced() ? (p > 0.5 ? 1 : 0) : Math.min(1, Math.max(0, (p - 0.1) / 0.7)) }); setK(Math.min(2, Math.floor(p * 3))); setNight(p > 0.44); },
+        onUpdate: (s) => { const p = s.progress; const o = reduced() ? (p > 0.5 ? 1 : 0) : Math.min(1, Math.max(0, (p - 0.1) / 0.7)); gsap.set(dusk.current, { opacity: o }); (window as unknown as { __mnDusk: number }).__mnDusk = o; setK(Math.min(2, Math.floor(p * 3))); setNight(p > 0.44); },
       });
       return () => { st.kill(); gsap.set(dusk.current, { clearProps: 'all' }); };
     });
-    mm.add('(max-width: 899px), (max-height: 599px)', () => { gsap.set(dusk.current, { opacity: 1 }); setNight(true); });
+    mm.add('(max-width: 899px), (max-height: 599px)', () => { gsap.set(dusk.current, { opacity: 1 }); (window as unknown as { __mnDusk: number }).__mnDusk = 1; setNight(true); });
     return () => mm.revert();
   }, []);
   return (
@@ -355,5 +392,5 @@ export function MonumentLanding() {
     ['how', 'kleros'].forEach((id) => { const el = document.getElementById(id); if (el) io.observe(el); });
     return () => { io.disconnect(); l.remove(); };
   }, []);
-  return <main className="mn"><Nav dark={(howIn && howNight) || klIn} /><Hero /><Statement /><Surfaces /><How onNight={setHowNight} /><Kleros /><Final /></main>;
+  return <main className="mn"><Nav /><Hero /><Statement /><Surfaces /><How onNight={setHowNight} /><Kleros /><Final /></main>;
 }
