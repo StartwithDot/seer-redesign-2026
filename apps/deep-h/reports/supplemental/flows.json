@@ -1,0 +1,122 @@
+{
+  "expected": 16,
+  "covered": 16,
+  "passed": 16,
+  "failed": 0,
+  "unverified": 0,
+  "records": [
+    {
+      "group": "flows",
+      "name": "fund conversion withdrawal and guarded amounts",
+      "theme": "dark",
+      "width": 1440,
+      "status": "PASS"
+    },
+    {
+      "group": "flows",
+      "name": "fund conversion withdrawal and guarded amounts",
+      "theme": "dark",
+      "width": 390,
+      "status": "PASS"
+    },
+    {
+      "group": "flows",
+      "name": "fund conversion withdrawal and guarded amounts",
+      "theme": "light",
+      "width": 1440,
+      "status": "PASS"
+    },
+    {
+      "group": "flows",
+      "name": "fund conversion withdrawal and guarded amounts",
+      "theme": "light",
+      "width": 390,
+      "status": "PASS"
+    },
+    {
+      "group": "flows",
+      "name": "CSV pending commit errors and exact export bytes",
+      "theme": "dark",
+      "width": 1440,
+      "status": "PASS"
+    },
+    {
+      "group": "flows",
+      "name": "CSV pending commit errors and exact export bytes",
+      "theme": "dark",
+      "width": 390,
+      "status": "PASS"
+    },
+    {
+      "group": "flows",
+      "name": "CSV pending commit errors and exact export bytes",
+      "theme": "light",
+      "width": 1440,
+      "status": "PASS"
+    },
+    {
+      "group": "flows",
+      "name": "CSV pending commit errors and exact export bytes",
+      "theme": "light",
+      "width": 390,
+      "status": "PASS"
+    },
+    {
+      "group": "flows",
+      "name": "Profile exact file limits HTTPS validation and cancel",
+      "theme": "dark",
+      "width": 1440,
+      "status": "PASS"
+    },
+    {
+      "group": "flows",
+      "name": "Profile exact file limits HTTPS validation and cancel",
+      "theme": "dark",
+      "width": 390,
+      "status": "PASS"
+    },
+    {
+      "group": "flows",
+      "name": "Profile exact file limits HTTPS validation and cancel",
+      "theme": "light",
+      "width": 1440,
+      "status": "PASS"
+    },
+    {
+      "group": "flows",
+      "name": "Profile exact file limits HTTPS validation and cancel",
+      "theme": "light",
+      "width": 390,
+      "status": "PASS"
+    },
+    {
+      "group": "flows",
+      "name": "all six Guide shortcuts reach their intended target",
+      "theme": "dark",
+      "width": 1440,
+      "status": "PASS"
+    },
+    {
+      "group": "flows",
+      "name": "all six Guide shortcuts reach their intended target",
+      "theme": "dark",
+      "width": 390,
+      "status": "PASS"
+    },
+    {
+      "group": "flows",
+      "name": "all six Guide shortcuts reach their intended target",
+      "theme": "light",
+      "width": 1440,
+      "status": "PASS"
+    },
+    {
+      "group": "flows",
+      "name": "all six Guide shortcuts reach their intended target",
+      "theme": "light",
+      "width": 390,
+      "status": "PASS"
+    }
+  ],
+  "measurements": {}
+}

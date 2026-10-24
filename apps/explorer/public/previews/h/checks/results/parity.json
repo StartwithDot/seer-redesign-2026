@@ -1,0 +1,322 @@
+{
+  "name": "parity",
+  "testedAt": "2026-10-24T23:01:50.966Z",
+  "pass": true,
+  "checks": [
+    {
+      "label": "G source hashes unchanged",
+      "pass": true,
+      "data": {
+        "files": 7
+      }
+    },
+    {
+      "label": "control parity: home",
+      "pass": true,
+      "data": {
+        "expected": 106,
+        "current": 190
+      }
+    },
+    {
+      "label": "control parity: index",
+      "pass": true,
+      "data": {
+        "expected": 151,
+        "current": 153
+      }
+    },
+    {
+      "label": "control parity: activity",
+      "pass": true,
+      "data": {
+        "expected": 138,
+        "current": 140
+      }
+    },
+    {
+      "label": "control parity: details",
+      "pass": true,
+      "data": {
+        "expected": 112,
+        "current": 196
+      }
+    },
+    {
+      "label": "control parity: agent",
+      "pass": true,
+      "data": {
+        "expected": 98,
+        "current": 182
+      }
+    },
+    {
+      "label": "control parity: filters",
+      "pass": true,
+      "data": {
+        "expected": 112,
+        "current": 196
+      }
+    },
+    {
+      "label": "control parity: more",
+      "pass": true,
+      "data": {
+        "expected": 109,
+        "current": 193
+      }
+    },
+    {
+      "label": "control parity: empty",
+      "pass": true,
+      "data": {
+        "expected": 47,
+        "current": 48
+      }
+    },
+    {
+      "label": "control parity: wallet",
+      "pass": true,
+      "data": {
+        "expected": 112,
+        "current": 196
+      }
+    },
+    {
+      "label": "control parity: apps",
+      "pass": true,
+      "data": {
+        "expected": 106,
+        "current": 190
+      }
+    },
+    {
+      "label": "control parity: binary",
+      "pass": true,
+      "data": {
+        "expected": 57,
+        "current": 58
+      }
+    },
+    {
+      "label": "control parity: scalar",
+      "pass": true,
+      "data": {
+        "expected": 57,
+        "current": 58
+      }
+    },
+    {
+      "label": "control parity: many",
+      "pass": true,
+      "data": {
+        "expected": 134,
+        "current": 135
+      }
+    },
+    {
+      "label": "control parity: history",
+      "pass": true,
+      "data": {
+        "expected": 63,
+        "current": 64
+      }
+    },
+    {
+      "label": "control parity: pools",
+      "pass": true,
+      "data": {
+        "expected": 64,
+        "current": 65
+      }
+    },
+    {
+      "label": "control parity: market-agent",
+      "pass": true,
+      "data": {
+        "expected": 61,
+        "current": 62
+      }
+    },
+    {
+      "label": "control parity: confirm",
+      "pass": true,
+      "data": {
+        "expected": 60,
+        "current": 61
+      }
+    },
+    {
+      "label": "control parity: leaderboard",
+      "pass": true,
+      "data": {
+        "expected": 61,
+        "current": 62
+      }
+    },
+    {
+      "label": "control parity: leaderboard-page3",
+      "pass": true,
+      "data": {
+        "expected": 51,
+        "current": 52
+      }
+    },
+    {
+      "label": "control parity: score",
+      "pass": true,
+      "data": {
+        "expected": 62,
+        "current": 63
+      }
+    },
+    {
+      "label": "control parity: create",
+      "pass": true,
+      "data": {
+        "expected": 29,
+        "current": 30
+      }
+    },
+    {
+      "label": "control parity: create-step2",
+      "pass": true,
+      "data": {
+        "expected": 30,
+        "current": 31
+      }
+    },
+    {
+      "label": "control parity: policies",
+      "pass": true,
+      "data": {
+        "expected": 26,
+        "current": 27
+      }
+    },
+    {
+      "label": "control parity: order-console",
+      "pass": true,
+      "data": {
+        "expected": 57,
+        "current": 58
+      }
+    },
+    {
+      "label": "control parity: order-details",
+      "pass": true,
+      "data": {
+        "expected": 57,
+        "current": 58
+      }
+    },
+    {
+      "label": "control parity: related",
+      "pass": true,
+      "data": {
+        "expected": 72,
+        "current": 73
+      }
+    },
+    {
+      "label": "control parity: conditional",
+      "pass": true,
+      "data": {
+        "expected": 58,
+        "current": 59
+      }
+    },
+    {
+      "label": "control parity: help",
+      "pass": true,
+      "data": {
+        "expected": 108,
+        "current": 192
+      }
+    },
+    {
+      "label": "control parity: leader-filter",
+      "pass": true,
+      "data": {
+        "expected": 66,
+        "current": 67
+      }
+    },
+    {
+      "label": "control parity: leader-explainer",
+      "pass": true,
+      "data": {
+        "expected": 61,
+        "current": 62
+      }
+    },
+    {
+      "label": "control parity: simulation-success",
+      "pass": true,
+      "data": {
+        "expected": 60,
+        "current": 61
+      }
+    },
+    {
+      "label": "control parity: create-handoff",
+      "pass": true,
+      "data": {
+        "expected": 32,
+        "current": 33
+      }
+    },
+    {
+      "label": "real captured data and history stay exact",
+      "pass": true,
+      "data": {
+        "raw": 100,
+        "history": [
+          17,
+          30,
+          49
+        ]
+      }
+    },
+    {
+      "label": "quick amount, outcome, Buy/Sell, simulation and validation",
+      "pass": true
+    },
+    {
+      "label": "record variants and original outcome indices",
+      "pass": true
+    },
+    {
+      "label": "table sorting, Activity, search, asker and clear",
+      "pass": true
+    },
+    {
+      "label": "Agent copy, theme persistence, dialogs and unavailable history",
+      "pass": true
+    },
+    {
+      "label": "leaderboard pages and no invented period breakdown",
+      "pass": true
+    },
+    {
+      "label": "Create remains a two-step preview and policies keep their handoffs",
+      "pass": true
+    },
+    {
+      "label": "scalar endpoint language and fixed percentage unit",
+      "pass": true
+    },
+    {
+      "label": "history range, crosshair, CSV and related tabs",
+      "pass": true
+    },
+    {
+      "label": "phone search expansion, Agent, sheets and focus recovery",
+      "pass": true
+    },
+    {
+      "label": "no external runtime request, console error or 404 across routes",
+      "pass": true
+    }
+  ]
+}

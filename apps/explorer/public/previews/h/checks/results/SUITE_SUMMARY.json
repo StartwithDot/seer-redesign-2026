@@ -1,0 +1,30 @@
+[
+  {
+    "name": "open-trade",
+    "exit": 0
+  },
+  {
+    "name": "scroll-panel",
+    "exit": 0
+  },
+  {
+    "name": "dropdowns",
+    "exit": 0
+  },
+  {
+    "name": "parity",
+    "exit": 0
+  },
+  {
+    "name": "alignment",
+    "exit": 0
+  },
+  {
+    "name": "contrast",
+    "exit": 0
+  },
+  {
+    "name": "perf",
+    "exit": 0
+  }
+]

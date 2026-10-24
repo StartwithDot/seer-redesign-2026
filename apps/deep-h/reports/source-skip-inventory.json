@@ -1,0 +1,56 @@
+{
+  "dispositions": {
+    "skipped-hidden": 3690,
+    "inert-with-affordance": 125,
+    "changed": 4704,
+    "download": 16,
+    "external-tab": 10,
+    "skipped-covered-by-overlay": 325
+  },
+  "sourceLines": [
+    {
+      "file": "e2e/specs/ui-law.mjs",
+      "line": 16,
+      "text": "law(11,'UI11 themes contrast',async t=>{/* Deep intentionally has no light theme; verify the shipped dark palette. */ for(const theme of ['dark']){await t.go();await t.page.evaluate(theme=>document.documentElement.dataset.theme=theme,theme);const ratios=await t.page.locator('button,input,.muted,.optimism').evaluateAll(es=>{const rgb=s=>s.match(/[\\d.]+/g)?.slice(0,3).map(Number);const luminance=rgb=>rgb.map(v=>{v/=255;return v<=.04045?v/12.92:((v+.055)/1.055)**2.4;}).reduce((s,v,i)=>s+v*[.2126,.7152,.0722][i],0);return es.filter(e=>e.checkVisibility()&&!e.disabled).map(e=>{const fg=rgb(getComputedStyle(e).color);let bg=e;while(bg.parentElement&&getComputedStyle(bg).backgroundColor==='rgba(0, 0, 0, 0)')bg=bg.parentElement;const background=rgb(getComputedStyle(bg).backgroundColor);if(!fg||!background)return {text:e.textContent,ratio:0};const a=luminance(fg),b=luminance(background);return {text:e.textContent?.trim().slice(0,50),ratio:(Math.max(a,b)+.05)/(Math.min(a,b)+.05)};});});assert.deepEqual(ratios.filter(r=>r.ratio<4.5),[],`${theme} low contrast`);}});"
+    },
+    {
+      "file": "e2e/specs/ui-law.mjs",
+      "line": 17,
+      "text": "law(12,'UI12 touch targets',async t=>{await t.page.setViewportSize({width:390,height:844});for(const route of ['/','/leaderboard','/repo/ethereum/consensus-specs']){await t.go(route);const controls=await visibleGeometry(t.page.locator('button,a[href],input:not([type=hidden]),select,[role=tab]'));assert.deepEqual(controls.filter(c=>(c.h<39.5||c.w<39.5)&&!['sort-name','sort-market'].includes(c.id)&&!/^Δ /.test(c.text||'')/* KNOWN SKIP (design-blocked): list sort headers are 28px high; see design_proposals_deep.md */),[],`${route} touch targets`);}});"
+    },
+    {
+      "file": "e2e/specs/ui-law.mjs",
+      "line": 24,
+      "text": "await t.go();const collisions=await t.page.evaluate(()=>{const es=[...document.querySelectorAll('button,input,a[href],.chart-title h2,.chart-title p')].filter(e=>e.checkVisibility()&&!e.closest('#seer-global-header')&&e.getBoundingClientRect().width&&(()=>{const r=e.getBoundingClientRect();let p=e.parentElement;while(p){const c=getComputedStyle(p);if(/auto|scroll|hidden|clip/.test(c.overflowY)){const b=p.getBoundingClientRect();if(r.top<b.top||r.bottom>b.bottom)return false;}p=p.parentElement;}return true;})());const bad=[];for(let i=0;i<es.length;i++)for(let j=i+1;j<es.length;j++){const a=es[i],b=es[j];if(a.contains(b)||b.contains(a)||a.closest('[data-overlay]')||b.closest('[data-overlay]'))continue;const x=a.getBoundingClientRect(),y=b.getBoundingClientRect();if(Math.min(x.right,y.right)-Math.max(x.left,y.left)>1&&Math.min(x.bottom,y.bottom)-Math.max(x.top,y.top)>1)bad.push([a.outerHTML.slice(0,150),b.outerHTML.slice(0,150)]);}return bad;});/* KNOWN SKIP (design-blocked, 390): scrolling chart-controls row slides Hide all under the Split tab; see design_proposals_deep.md */assert.deepEqual(collisions.filter(([x,y])=>!(t.viewport.width<=700&&/hide-all/.test(x+y)&&/view-tab/.test(x+y))),[]);"
+    },
+    {
+      "file": "e2e/specs/dead-controls.mjs",
+      "line": 85,
+      "text": "}catch(e){results.push({...entry,disposition:state==='leaderboard-skeleton'/* KNOWN SKIP: transient loading state cannot be held steady for a 48-control sweep */||(/-menu$/.test(state)&&/Timeout|intercepts pointer events/.test(e.message))||(signature.id==='lb-dot'&&/intercepts pointer events/.test(e.message))||/element is not visible/.test(e.message)||/locator\\.elementHandle: Timeout/.test(e.message)?'skipped-covered-by-overlay':'FAIL',error:e.message});}"
+    },
+    {
+      "file": "e2e/specs/parity.mjs",
+      "line": 161,
+      "text": "assert((await t.id('time-figure').boundingBox()).y<(await t.id('split-table').boundingBox()).y);/* KNOWN SKIP (design-blocked): the 390 table no longer scrolls horizontally (stacked UP/delta cell); see design_proposals_deep.md */await t.mobileTab('List');assert((await t.id('split-row').evaluateAll(es=>es.map(e=>e.getBoundingClientRect().height))).every(h=>Math.abs(h-44)<=.5));"
+    },
+    {
+      "file": "e2e/specs/screenshots.mjs",
+      "line": 32,
+      "text": "/* KNOWN SKIP (design-blocked): setup strip/sheet no longer exist (desk always open); see design_proposals_deep.md */"
+    },
+    {
+      "file": "e2e/specs/screenshots.mjs",
+      "line": 33,
+      "text": "/* KNOWN SKIP (design-blocked): table no longer scrolls horizontally at 390 */"
+    }
+  ],
+  "coverageElsewhere": {
+    "shared-header-exclusion": "shared-header.json: Apps, native Deep load, seven links, theme, copy success/rejection and separate disconnect",
+    "sort-target-exception": "supplemental/accessibility.json checks visible mobile buttons without old sort-header exclusions",
+    "overlay-and-menu-skips": "menu-matrix.json covers all seven App menu types in both themes/sizes",
+    "overlapping-wallet-dot-pointer-skips": "semantic-controls/results.json verifies all 76 dot addresses by keyboard plus equivalent table selection",
+    "transient-skeleton": "state manifest captures loading in all four theme/size combinations; transient sweep skips retained",
+    "dark-only-source-suite": "supplemental, semantic-control, menu and state checks explicitly repeat dark/light"
+  },
+  "remaining": "Copied sweep uses mutation as weak generic evidence and retains its overlay/transient skips. Supplemental semantic assertions provide stronger evidence for the listed contracts; no claim of independently clicking every overlapping dot at its center."
+}
