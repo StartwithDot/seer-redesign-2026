@@ -33,6 +33,19 @@ const STEPS = [
   { w: 'Read', t: 'The signal is open to everyone. Use it to decide; trading is optional.' },
 ];
 
+/* drifting photographic clouds (alpha cut-outs): slow, sparse, never in front of type */
+const BANK = [
+  { src: 'c1', w: 34, t: 2, o: 0.68, d: 95, s: -38, flip: false }, { src: 'c2', w: 26, t: 22, o: 0.58, d: 80, s: -52, flip: true },
+  { src: 'c5', w: 22, t: 9, o: 0.52, d: 110, s: -70, flip: false }, { src: 'c4', w: 40, t: 28, o: 0.4, d: 130, s: -30, flip: false }, { src: 'c3', w: 30, t: 0, o: 0.36, d: 100, s: -80, flip: true },
+];
+function CloudBank({ className, tone = 'day', n = 5 }: { className?: string; tone?: 'day' | 'dusk' | 'night'; n?: number }) {
+  return (
+    <div className={`mn-cb mn-cb--${tone} ${className ?? ''}`} aria-hidden="true">
+      {BANK.slice(0, n).map((c, i) => <img key={i} src={`/img/clouds/${c.src}.webp`} alt="" loading="lazy" decoding="async" style={{ ['--w' as string]: `${c.w}%`, ['--t' as string]: `${c.t}%`, ['--o' as string]: c.o, ['--d' as string]: `${c.d}s`, ['--s' as string]: `${c.s}s`, transform: c.flip ? 'scaleX(-1)' : undefined }} />)}
+    </div>
+  );
+}
+
 /* smooth, watery scroll */
 function useSmooth() {
   useEffect(() => {
@@ -125,7 +138,7 @@ function Hero() {
       <div className="mn-stage" ref={stage}>
         <div className="mn-art" ref={art}>
           <img src={IMG.day} alt="" fetchPriority="high" decoding="async" />
-          <Clouds className="mn-clouds" {...SKY_DAY} cover={0.34} alpha={1} speed={1} />
+          <CloudBank className="mn-cb--hero" tone="day" />
           <i className="mn-shimmer" aria-hidden="true" /><i className="mn-floorlight" aria-hidden="true" /><i className="mn-cshadow" aria-hidden="true" />
         </div>
         <div className="mn-veil" aria-hidden="true" />
@@ -158,7 +171,7 @@ function Statement() {
   }, []);
   return (
     <section className="mn-statement" id="statement" ref={root}>
-      <Clouds className="mn-st-sky" {...SKY_DAY} cover={0.46} alpha={0.9} speed={0.7} />
+      <CloudBank className="mn-st-sky" tone="day" n={3} />
       <p className="mn-statement-text">{words.map((w, i) => <span key={i} className="mn-w">{w} </span>)}</p>
       <p className="mn-sub">A person asks. Traders price every outcome. Anyone reads the signal, and nobody has to trade to use it.</p>
       <figure className="mn-macro">
@@ -252,8 +265,8 @@ function How({ onNight }: { onNight: (n: boolean) => void }) {
   return (
     <section className={`mn-how ${night ? 'is-night' : ''}`} id="how" ref={sec} aria-labelledby="mn-how-title">
       <div className="mn-how-art" aria-hidden="true">
-        <div className="mn-how-layer"><img src={IMG.day} alt="" loading="lazy" decoding="async" /><Clouds className="mn-clouds" {...SKY_DAY} cover={0.34} alpha={1} speed={0.9} /></div>
-        <div className="mn-how-layer mn-dusk" ref={dusk}><img src={IMG.dusk} alt="" loading="lazy" decoding="async" /><Clouds className="mn-clouds" {...SKY_DUSK} cover={0.42} alpha={0.95} speed={0.8} /></div>
+        <div className="mn-how-layer"><img src={IMG.day} alt="" loading="lazy" decoding="async" /><CloudBank className="mn-cb--hero" tone="day" n={4} /></div>
+        <div className="mn-how-layer mn-dusk" ref={dusk}><img src={IMG.dusk} alt="" loading="lazy" decoding="async" /><CloudBank className="mn-cb--hero" tone="dusk" n={4} /></div>
       </div>
       <div className="mn-how-copy">
         <h2 id="mn-how-title">How a question becomes a signal.</h2>
@@ -284,12 +297,12 @@ function Kleros() {
       </div>
       <div className="mn-k-copy">
         <img className="mn-k-logo" src={IMG.kleros} alt="Kleros" width="184" height="48" />
-        <h2 id="mn-k-title">Secured by Kleros.</h2>
-        <p>Kleros takes its name from the voting tokens of ancient Greece. Outcomes are reported through Reality.eth; when one is disputed, Kleros jurors review the evidence and rule on-chain. The ruling is final.</p>
+        <h2 id="mn-k-title">Disputes end <em>here.</em></h2>
+        <p>Every Seer market resolves through Reality.eth. If an answer is challenged, the case goes to Kleros, a decentralized court. Jurors review the evidence and vote, and their ruling settles the market for everyone.</p>
         <a className="mn-open mn-open--light" href="https://kleros.io">Explore Kleros <span aria-hidden="true">&rarr;</span></a>
       </div>
       <ol className="mn-k-flow">
-        {['Reality.eth reports', 'Anyone can dispute', 'Kleros jurors rule', 'The result is final'].map((t) => <li key={t} className="mn-k-node"><i className="mn-k-bar" /><span>{t}</span></li>)}
+        {['The outcome is reported', 'Anyone can challenge it', 'Kleros jurors rule', 'The market settles'].map((t) => <li key={t} className="mn-k-node"><i className="mn-k-bar" /><span>{t}</span></li>)}
       </ol>
     </section>
   );
@@ -314,7 +327,7 @@ function Final() {
   return (
     <>
       <section className="mn-final" ref={root}>
-        <Clouds className="mn-final-sky" {...SKY_DAY} cover={0.34} alpha={1} speed={0.8} />
+        <CloudBank className="mn-final-sky" tone="day" n={4} />
         <div className="mn-final-obj" ref={obj}><img src={IMG.object} alt="" loading="lazy" decoding="async" /><i className="mn-shimmer mn-shimmer--obj" aria-hidden="true" /><i className="mn-spot" ref={glow as React.RefObject<HTMLElement>} aria-hidden="true" /></div>
         <h2><span className="mask"><span className="ln">A new foundation</span></span><span className="mask"><span className="ln">for <em>information</em> markets.</span></span></h2>
         <div className="mn-cta"><a className="mn-primary" ref={c1} href={SEER}>Explore Seer</a><a className="mn-link" ref={c2} href={SEER}>Connect Wallet</a></div>

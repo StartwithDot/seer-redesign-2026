@@ -57,8 +57,8 @@
 .mn-st-sky { position: absolute; left: 0; top: 0; width: 100%; height: 520px; z-index: 0; opacity: .8; -webkit-mask-image: linear-gradient(180deg, #000 20%, transparent); mask-image: linear-gradient(180deg, #000 20%, transparent); }
 .mn-statement-text, .mn-sub, .mn-macro { position: relative; z-index: 1; }
 .mn-statement-text { max-width: 1180px; margin: 0 auto; font: 400 clamp(44px, 6.4vw, 104px)/1 'Instrument Serif', serif; letter-spacing: -.02em; text-wrap: balance; }
-.mn-w { display: inline-block; will-change: transform, opacity, filter; }
-.mn-sub { max-width: 560px; margin: 36px auto 0; margin-left: max(0px, calc((100% - 1180px) / 2)); font-size: 19px; line-height: 1.5; color: var(--body); text-wrap: pretty; }
+.mn-w { display: inline-block; margin-right: .24em; will-change: transform, opacity, filter; }
+.mn .mn-sub { max-width: 560px; margin: 64px auto 0; margin-left: max(0px, calc((100% - 1180px) / 2)); font-size: 19px; line-height: 1.5; color: var(--body); text-wrap: pretty; }
 .mn-macro { position: relative; margin: 140px calc(-1 * var(--gutter)) 0; height: min(88svh, 760px); overflow: hidden; will-change: clip-path; }
 .mn-macro img { width: 100%; height: 118%; object-fit: cover; display: block; will-change: transform; }
 .mn-macro figcaption { position: absolute; left: var(--gutter); bottom: 44px; display: flex; flex-wrap: wrap; align-items: baseline; gap: 0; max-width: 620px; font: italic 400 clamp(28px, 3vw, 46px)/1.12 'Instrument Serif', serif; color: #fff; text-shadow: 0 2px 24px #1a0f5099; will-change: transform; }
@@ -118,6 +118,7 @@
 .mn-k-veil { position: absolute; inset: 0; background: linear-gradient(90deg, #0a0a10f2 0, #0a0a10c4 30%, transparent 62%), linear-gradient(0deg, #0a0a10f0 0, transparent 34%); }
 .mn-k-copy { position: absolute; z-index: 2; left: var(--gutter); top: 46%; transform: translateY(-50%); max-width: 520px; }
 .mn-k-logo { display: block; height: 38px; width: auto; margin-bottom: 34px; }
+.mn-kleros h2 em { color: #cbbdff; }
 .mn-kleros h2 { font: 400 clamp(52px, 6.4vw, 100px)/.96 'Instrument Serif', serif; letter-spacing: -.02em; }
 .mn-k-copy p { margin-top: 24px; font-size: 18px; line-height: 1.55; color: #d4cfe4; text-wrap: pretty; }
 .mn-k-copy .mn-open { margin-top: 30px; }
@@ -127,7 +128,7 @@
 @keyframes mn-seam { 0% { background-position: 0 -160%; opacity: .25; } 50% { opacity: .9; } 100% { background-position: 0 160%; opacity: .25; } }
 
 /* final + footer */
-.mn-final { position: relative; text-align: center; padding: 140px var(--gutter) 90px; background: linear-gradient(180deg, #fff 0, #f5f2ff 46%, #fff 100%); overflow: hidden; }
+.mn-final { position: relative; text-align: center; padding: 140px var(--gutter) 90px; background: #fff; overflow: hidden; }
 .mn-final-sky { position: absolute; left: 0; top: 0; width: 100%; height: 55%; opacity: .75; -webkit-mask-image: linear-gradient(180deg, #000 30%, transparent); mask-image: linear-gradient(180deg, #000 30%, transparent); }
 .mn-final-obj { position: relative; z-index: 1; width: min(980px, 100%); margin: 0 auto; will-change: transform; overflow: hidden; }
 .mn-final-obj img { display: block; width: 100%; mix-blend-mode: multiply; -webkit-mask-image: radial-gradient(ellipse closest-side at 50% 50%, #000 72%, transparent 100%); mask-image: radial-gradient(ellipse closest-side at 50% 50%, #000 72%, transparent 100%); }
@@ -136,7 +137,7 @@
 .mn-final h2 { position: relative; z-index: 2; margin: -10px auto 0; max-width: 1100px; font: 400 clamp(48px, 6.6vw, 104px)/.98 'Instrument Serif', serif; letter-spacing: -.02em; }
 .mn-final h2 em { color: var(--violet); }
 .mn-final .mn-cta { position: relative; z-index: 2; justify-content: center; margin-top: 40px; }
-.mn-footer { padding: 90px var(--gutter) 0; background: var(--paper); overflow: hidden; }
+.mn-footer { padding: 90px var(--gutter) 0; background: #fff; overflow: hidden; }
 .mn-foot-grid { display: grid; grid-template-columns: 1.4fr 1fr 1fr; gap: 48px; max-width: 1328px; margin: 0 auto; }
 .mn-foot-grid img { filter: brightness(0); display: block; margin-bottom: 18px; }
 .mn-foot-grid p { max-width: 320px; font-size: 16px; line-height: 1.5; color: var(--body); }
@@ -172,3 +173,13 @@
   .mn-foot-grid { grid-template-columns: 1fr; gap: 32px; }
 }
 @media (prefers-reduced-motion: reduce) { .mn-shimmer, .mn-floorlight, .mn-cshadow { animation: none; } }
+
+/* cloud bank */
+.mn-cb { position: absolute; overflow: hidden; pointer-events: none; }
+.mn-cb--hero { left: 0; top: 0; width: 76%; height: 46%; -webkit-mask-image: linear-gradient(90deg, #000 0, #000 62%, transparent 100%), linear-gradient(180deg, #000 0, #000 70%, transparent 100%); -webkit-mask-composite: source-in; mask-image: linear-gradient(90deg, #000 0, #000 62%, transparent 100%), linear-gradient(180deg, #000 0, #000 70%, transparent 100%); mask-composite: intersect; }
+.mn-cb img { position: absolute; left: -45%; top: var(--t); width: var(--w); height: auto; opacity: 0; animation: mn-cloud var(--d) linear infinite; animation-delay: var(--s); will-change: transform, opacity; user-select: none; }
+.mn-cb--dusk img { filter: brightness(.62) sepia(.55) saturate(2.4) hue-rotate(-18deg); mix-blend-mode: screen; }
+.mn-st-sky { left: 0; top: 0; width: 100%; height: 420px; z-index: 0; -webkit-mask-image: linear-gradient(180deg, #000 30%, transparent); mask-image: linear-gradient(180deg, #000 30%, transparent); }
+.mn-final-sky { left: 0; top: 0; width: 100%; height: 42%; z-index: 0; -webkit-mask-image: linear-gradient(180deg, #000 30%, transparent); mask-image: linear-gradient(180deg, #000 30%, transparent); }
+@keyframes mn-cloud { 0% { transform: translate3d(0, 0, 0); opacity: 0; } 12% { opacity: var(--o); } 88% { opacity: var(--o); } 100% { transform: translate3d(420%, 0, 0); opacity: 0; } }
+@media (prefers-reduced-motion: reduce) { .mn-cb img { animation: none; left: 12%; opacity: var(--o); } }
