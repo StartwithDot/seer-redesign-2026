@@ -682,3 +682,21 @@
 10-23 17:34 [v3] STAGE v4_explorer rc=0
 10-23 17:34 [v3] PRODUCTS v4 DONE
 10-23 17:34 [v3] === DRIVER v4 DONE ===
+10-24 18:48 [v3] === v5 START ===
+10-24 18:48 [v3] agent v5_question via mp failed (rc=1) -> next
+10-24 18:48 [v3] agent v5_product via mp failed (rc=1) -> next
+10-24 18:50 [v3] agent v5_question ok via nat
+10-24 18:51 [v3] agent v5_crit_question_1 via mp failed (rc=1) -> next
+10-24 18:53 [v3] agent v5_product ok via nat
+10-24 18:54 [v3] agent v5_crit_product_1 via mp failed (rc=1) -> next
+10-24 18:55 [v3] agent v5_crit_question_1 ok via nat
+10-24 18:56 [v3] agent v5_crit_question_2 via mp failed (rc=1) -> next
+10-24 18:56 [v3] agent v5_crit_product_1 ok via nat
+10-24 18:57 [v3] agent v5_crit_product_2 via mp failed (rc=1) -> next
+10-24 18:58 [v3] agent v5_crit_question_2 ok via nat
+10-24 18:59 [v3] agent v5_crit_question_3 via mp failed (rc=1) -> next
+10-24 19:00 [v3] agent v5_crit_product_2 ok via nat
+10-24 19:00 [v3] agent v5_crit_question_3 ok via nat
+10-24 19:01 [v3] agent v5_crit_product_3 via mp failed (rc=1) -> next
+10-24 19:03 [v3] agent v5_crit_product_3 ok via nat
+10-24 19:03 [v3] === v5 DONE ===
