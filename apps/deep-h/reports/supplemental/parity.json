@@ -1,0 +1,130 @@
+{
+  "expected": 5,
+  "covered": 5,
+  "passed": 5,
+  "failed": 0,
+  "unverified": 0,
+  "records": [
+    {
+      "group": "parity",
+      "name": "98 exact independent pairs",
+      "theme": "dark",
+      "width": 1440,
+      "status": "PASS"
+    },
+    {
+      "group": "parity",
+      "name": "98 exact independent pairs",
+      "theme": "dark",
+      "width": 390,
+      "status": "PASS"
+    },
+    {
+      "group": "parity",
+      "name": "98 exact independent pairs",
+      "theme": "light",
+      "width": 1440,
+      "status": "PASS"
+    },
+    {
+      "group": "parity",
+      "name": "98 exact independent pairs",
+      "theme": "light",
+      "width": 390,
+      "status": "PASS"
+    },
+    {
+      "group": "parity",
+      "name": "fixtures remain byte faithful",
+      "theme": "dark",
+      "width": 1440,
+      "status": "PASS"
+    }
+  ],
+  "measurements": {
+    "pairRecords": 98,
+    "fixtureFiles": 16,
+    "fixtureHashes": [
+      {
+        "path": "contests/octant.json",
+        "sha256": "e19fc13620f71c1be40c76c9d1a7d1d111c93d665546a117b930bb0fdd76c3a5",
+        "sourceSha256": "e19fc13620f71c1be40c76c9d1a7d1d111c93d665546a117b930bb0fdd76c3a5"
+      },
+      {
+        "path": "contests/round2-l1.json",
+        "sha256": "8ed9ca1565e1cdf157da0b45528008b63fd358d1c265365a0dccfab17504074c",
+        "sourceSha256": "8ed9ca1565e1cdf157da0b45528008b63fd358d1c265365a0dccfab17504074c"
+      },
+      {
+        "path": "contests/round2-l2.json",
+        "sha256": "544953ada1f84ac1f71c73ce59445497b3b4b3cf1909f29c21d37c0eab3ffa14",
+        "sourceSha256": "544953ada1f84ac1f71c73ce59445497b3b4b3cf1909f29c21d37c0eab3ffa14"
+      },
+      {
+        "path": "contests/round2.json",
+        "sha256": "199cf9b804b5c48a7dbe822b158eb6e672982831a067f9cc7d3dbb83dd5724f8",
+        "sourceSha256": "199cf9b804b5c48a7dbe822b158eb6e672982831a067f9cc7d3dbb83dd5724f8"
+      },
+      {
+        "path": "contests/zcash-nu7.json",
+        "sha256": "a60c8fd68ac49cdb289655e58f8c1b8eac8dd1e3a39ea0412fef79e220b35e18",
+        "sourceSha256": "a60c8fd68ac49cdb289655e58f8c1b8eac8dd1e3a39ea0412fef79e220b35e18"
+      },
+      {
+        "path": "contests/zcash.json",
+        "sha256": "eaf6cdf1593ff0e26a5f148abbc480b09ef8573c99ad0c6c28720e5333a6ef6a",
+        "sourceSha256": "eaf6cdf1593ff0e26a5f148abbc480b09ef8573c99ad0c6c28720e5333a6ef6a"
+      },
+      {
+        "path": "get-market-charts.json",
+        "sha256": "96983c1a77e158f1b73a33898eb72b5fc04706d6037adcf656bc804d85af54a5",
+        "sourceSha256": "96983c1a77e158f1b73a33898eb72b5fc04706d6037adcf656bc804d85af54a5"
+      },
+      {
+        "path": "get-profiles.json",
+        "sha256": "d062c746623c76c66ec61ac421c9a897c9916d846a0c80d1f6cf29f85616de53",
+        "sourceSha256": "d062c746623c76c66ec61ac421c9a897c9916d846a0c80d1f6cf29f85616de53"
+      },
+      {
+        "path": "leaderboard-1d.json",
+        "sha256": "b184978b2c76c5189e0827566470a79ab216093c68469d5311da11e5e19955a6",
+        "sourceSha256": "b184978b2c76c5189e0827566470a79ab216093c68469d5311da11e5e19955a6"
+      },
+      {
+        "path": "leaderboard-1m.json",
+        "sha256": "b0cc54fd3cd8c2438d37159b514fe6b46c1b1b60597a8482599a1a3dea6dba86",
+        "sourceSha256": "b0cc54fd3cd8c2438d37159b514fe6b46c1b1b60597a8482599a1a3dea6dba86"
+      },
+      {
+        "path": "leaderboard-1w.json",
+        "sha256": "712ca176829ffda8c29e919228a3d1478b9a46a0a27b646f33bcd1c9fbfc913d",
+        "sourceSha256": "712ca176829ffda8c29e919228a3d1478b9a46a0a27b646f33bcd1c9fbfc913d"
+      },
+      {
+        "path": "leaderboard-all.json",
+        "sha256": "b66a331bd5a2c30fecd6601f202a823930708dbbc448bb6bfcca8d8c17650409",
+        "sourceSha256": "b66a331bd5a2c30fecd6601f202a823930708dbbc448bb6bfcca8d8c17650409"
+      },
+      {
+        "path": "markets-data.json",
+        "sha256": "2a848293788dc720e9e3c2d384e6d28509ec8b52f8a2be87107d4827c3c30b45",
+        "sourceSha256": "2a848293788dc720e9e3c2d384e6d28509ec8b52f8a2be87107d4827c3c30b45"
+      },
+      {
+        "path": "profiles-leaderboard.json",
+        "sha256": "767d360211a0c882b211229e45473d8020b943397ad4618de29a5dfb72e79ca5",
+        "sourceSha256": "767d360211a0c882b211229e45473d8020b943397ad4618de29a5dfb72e79ca5"
+      },
+      {
+        "path": "refresh-market-volume.json",
+        "sha256": "b63a8adf365232f49f6f67facc7c01f535ba53a1a5b287df38744f6d0856a73a",
+        "sourceSha256": "b63a8adf365232f49f6f67facc7c01f535ba53a1a5b287df38744f6d0856a73a"
+      },
+      {
+        "path": "rows.json",
+        "sha256": "d4fe7c9d556506172bd31c8407e76c23b30a11ad3f1ac9e4d5ba2003b38d34fd",
+        "sourceSha256": "d4fe7c9d556506172bd31c8407e76c23b30a11ad3f1ac9e4d5ba2003b38d34fd"
+      }
+    ]
+  }
+}

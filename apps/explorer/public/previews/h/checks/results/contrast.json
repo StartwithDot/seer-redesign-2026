@@ -1,0 +1,821 @@
+{
+  "name": "contrast",
+  "testedAt": "2026-10-24T23:02:34.728Z",
+  "pass": true,
+  "checks": [
+    {
+      "label": "dark home",
+      "pass": true,
+      "data": {
+        "textSamples": 544,
+        "minText": 5.4,
+        "graphics": 107,
+        "minGraphic": 3.62,
+        "failures": []
+      }
+    },
+    {
+      "label": "dark index",
+      "pass": true,
+      "data": {
+        "textSamples": 467,
+        "minText": 5.4,
+        "graphics": 0,
+        "minGraphic": null,
+        "failures": []
+      }
+    },
+    {
+      "label": "dark activity",
+      "pass": true,
+      "data": {
+        "textSamples": 333,
+        "minText": 5.4,
+        "graphics": 0,
+        "minGraphic": null,
+        "failures": []
+      }
+    },
+    {
+      "label": "dark details",
+      "pass": true,
+      "data": {
+        "textSamples": 544,
+        "minText": 5.4,
+        "graphics": 109,
+        "minGraphic": 3.62,
+        "failures": []
+      }
+    },
+    {
+      "label": "dark agent",
+      "pass": true,
+      "data": {
+        "textSamples": 559,
+        "minText": 5.4,
+        "graphics": 107,
+        "minGraphic": 3.62,
+        "failures": []
+      }
+    },
+    {
+      "label": "dark filters",
+      "pass": true,
+      "data": {
+        "textSamples": 557,
+        "minText": 5.4,
+        "graphics": 107,
+        "minGraphic": 3.62,
+        "failures": []
+      }
+    },
+    {
+      "label": "dark more",
+      "pass": true,
+      "data": {
+        "textSamples": 549,
+        "minText": 5.4,
+        "graphics": 107,
+        "minGraphic": 3.62,
+        "failures": []
+      }
+    },
+    {
+      "label": "dark empty",
+      "pass": true,
+      "data": {
+        "textSamples": 54,
+        "minText": 5.4,
+        "graphics": 0,
+        "minGraphic": null,
+        "failures": []
+      }
+    },
+    {
+      "label": "dark wallet",
+      "pass": true,
+      "data": {
+        "textSamples": 552,
+        "minText": 5.4,
+        "graphics": 107,
+        "minGraphic": 3.62,
+        "failures": []
+      }
+    },
+    {
+      "label": "dark apps",
+      "pass": true,
+      "data": {
+        "textSamples": 556,
+        "minText": 5.4,
+        "graphics": 107,
+        "minGraphic": 3.62,
+        "failures": []
+      }
+    },
+    {
+      "label": "dark binary",
+      "pass": true,
+      "data": {
+        "textSamples": 138,
+        "minText": 5.4,
+        "graphics": 19,
+        "minGraphic": 4.93,
+        "failures": []
+      }
+    },
+    {
+      "label": "dark scalar",
+      "pass": true,
+      "data": {
+        "textSamples": 130,
+        "minText": 5.4,
+        "graphics": 1,
+        "minGraphic": 3.92,
+        "failures": []
+      }
+    },
+    {
+      "label": "dark many",
+      "pass": true,
+      "data": {
+        "textSamples": 370,
+        "minText": 5.4,
+        "graphics": 20,
+        "minGraphic": 4.93,
+        "failures": []
+      }
+    },
+    {
+      "label": "dark history",
+      "pass": true,
+      "data": {
+        "textSamples": 162,
+        "minText": 4.93,
+        "graphics": 21,
+        "minGraphic": 4.93,
+        "failures": []
+      }
+    },
+    {
+      "label": "dark pools",
+      "pass": true,
+      "data": {
+        "textSamples": 162,
+        "minText": 4.93,
+        "graphics": 21,
+        "minGraphic": 4.93,
+        "failures": []
+      }
+    },
+    {
+      "label": "dark market-agent",
+      "pass": true,
+      "data": {
+        "textSamples": 191,
+        "minText": 4.93,
+        "graphics": 21,
+        "minGraphic": 4.93,
+        "failures": []
+      }
+    },
+    {
+      "label": "dark confirm",
+      "pass": true,
+      "data": {
+        "textSamples": 153,
+        "minText": 5.4,
+        "graphics": 19,
+        "minGraphic": 4.93,
+        "failures": []
+      }
+    },
+    {
+      "label": "dark leaderboard",
+      "pass": true,
+      "data": {
+        "textSamples": 159,
+        "minText": 5.4,
+        "graphics": 0,
+        "minGraphic": null,
+        "failures": []
+      }
+    },
+    {
+      "label": "dark leaderboard-page3",
+      "pass": true,
+      "data": {
+        "textSamples": 119,
+        "minText": 5.4,
+        "graphics": 0,
+        "minGraphic": null,
+        "failures": []
+      }
+    },
+    {
+      "label": "dark score",
+      "pass": true,
+      "data": {
+        "textSamples": 172,
+        "minText": 5.4,
+        "graphics": 0,
+        "minGraphic": null,
+        "failures": []
+      }
+    },
+    {
+      "label": "dark create",
+      "pass": true,
+      "data": {
+        "textSamples": 30,
+        "minText": 5.4,
+        "graphics": 0,
+        "minGraphic": null,
+        "failures": []
+      }
+    },
+    {
+      "label": "dark create-step2",
+      "pass": true,
+      "data": {
+        "textSamples": 22,
+        "minText": 5.4,
+        "graphics": 0,
+        "minGraphic": null,
+        "failures": []
+      }
+    },
+    {
+      "label": "dark policies",
+      "pass": true,
+      "data": {
+        "textSamples": 29,
+        "minText": 5.4,
+        "graphics": 0,
+        "minGraphic": null,
+        "failures": []
+      }
+    },
+    {
+      "label": "dark order-console",
+      "pass": true,
+      "data": {
+        "textSamples": 138,
+        "minText": 5.4,
+        "graphics": 19,
+        "minGraphic": 4.93,
+        "failures": []
+      }
+    },
+    {
+      "label": "dark order-details",
+      "pass": true,
+      "data": {
+        "textSamples": 138,
+        "minText": 5.4,
+        "graphics": 19,
+        "minGraphic": 4.93,
+        "failures": []
+      }
+    },
+    {
+      "label": "dark related",
+      "pass": true,
+      "data": {
+        "textSamples": 162,
+        "minText": 4.93,
+        "graphics": 21,
+        "minGraphic": 4.93,
+        "failures": []
+      }
+    },
+    {
+      "label": "dark conditional",
+      "pass": true,
+      "data": {
+        "textSamples": 139,
+        "minText": 5.4,
+        "graphics": 19,
+        "minGraphic": 4.93,
+        "failures": []
+      }
+    },
+    {
+      "label": "dark help",
+      "pass": true,
+      "data": {
+        "textSamples": 549,
+        "minText": 5.4,
+        "graphics": 107,
+        "minGraphic": 3.62,
+        "failures": []
+      }
+    },
+    {
+      "label": "dark leader-filter",
+      "pass": true,
+      "data": {
+        "textSamples": 165,
+        "minText": 5.4,
+        "graphics": 0,
+        "minGraphic": null,
+        "failures": []
+      }
+    },
+    {
+      "label": "dark leader-explainer",
+      "pass": true,
+      "data": {
+        "textSamples": 159,
+        "minText": 5.4,
+        "graphics": 0,
+        "minGraphic": null,
+        "failures": []
+      }
+    },
+    {
+      "label": "dark history-point",
+      "pass": true,
+      "data": {
+        "textSamples": 163,
+        "minText": 4.93,
+        "graphics": 21,
+        "minGraphic": 4.93,
+        "failures": []
+      }
+    },
+    {
+      "label": "dark simulation-success",
+      "pass": true,
+      "data": {
+        "textSamples": 150,
+        "minText": 5.4,
+        "graphics": 19,
+        "minGraphic": 4.93,
+        "failures": []
+      }
+    },
+    {
+      "label": "dark create-handoff",
+      "pass": true,
+      "data": {
+        "textSamples": 25,
+        "minText": 5.32,
+        "graphics": 0,
+        "minGraphic": null,
+        "failures": []
+      }
+    },
+    {
+      "label": "dark quick-custom",
+      "pass": true,
+      "data": {
+        "textSamples": 544,
+        "minText": 5.4,
+        "graphics": 107,
+        "minGraphic": 3.62,
+        "failures": []
+      }
+    },
+    {
+      "label": "dark quick-validation",
+      "pass": true,
+      "data": {
+        "textSamples": 544,
+        "minText": 5.4,
+        "graphics": 107,
+        "minGraphic": 3.62,
+        "failures": []
+      }
+    },
+    {
+      "label": "dark scalar-order",
+      "pass": true,
+      "data": {
+        "textSamples": 130,
+        "minText": 5.4,
+        "graphics": 1,
+        "minGraphic": 3.92,
+        "failures": []
+      }
+    },
+    {
+      "label": "dark scalar-confirm",
+      "pass": true,
+      "data": {
+        "textSamples": 145,
+        "minText": 5.4,
+        "graphics": 1,
+        "minGraphic": 3.92,
+        "failures": []
+      }
+    },
+    {
+      "label": "light home",
+      "pass": true,
+      "data": {
+        "textSamples": 544,
+        "minText": 4.78,
+        "graphics": 107,
+        "minGraphic": 3.63,
+        "failures": []
+      }
+    },
+    {
+      "label": "light index",
+      "pass": true,
+      "data": {
+        "textSamples": 467,
+        "minText": 4.78,
+        "graphics": 0,
+        "minGraphic": null,
+        "failures": []
+      }
+    },
+    {
+      "label": "light activity",
+      "pass": true,
+      "data": {
+        "textSamples": 333,
+        "minText": 5.29,
+        "graphics": 0,
+        "minGraphic": null,
+        "failures": []
+      }
+    },
+    {
+      "label": "light details",
+      "pass": true,
+      "data": {
+        "textSamples": 544,
+        "minText": 4.78,
+        "graphics": 109,
+        "minGraphic": 3.63,
+        "failures": []
+      }
+    },
+    {
+      "label": "light agent",
+      "pass": true,
+      "data": {
+        "textSamples": 559,
+        "minText": 4.78,
+        "graphics": 107,
+        "minGraphic": 3.63,
+        "failures": []
+      }
+    },
+    {
+      "label": "light filters",
+      "pass": true,
+      "data": {
+        "textSamples": 557,
+        "minText": 4.78,
+        "graphics": 107,
+        "minGraphic": 3.63,
+        "failures": []
+      }
+    },
+    {
+      "label": "light more",
+      "pass": true,
+      "data": {
+        "textSamples": 549,
+        "minText": 4.78,
+        "graphics": 107,
+        "minGraphic": 3.63,
+        "failures": []
+      }
+    },
+    {
+      "label": "light empty",
+      "pass": true,
+      "data": {
+        "textSamples": 54,
+        "minText": 5.29,
+        "graphics": 0,
+        "minGraphic": null,
+        "failures": []
+      }
+    },
+    {
+      "label": "light wallet",
+      "pass": true,
+      "data": {
+        "textSamples": 552,
+        "minText": 4.78,
+        "graphics": 107,
+        "minGraphic": 3.63,
+        "failures": []
+      }
+    },
+    {
+      "label": "light apps",
+      "pass": true,
+      "data": {
+        "textSamples": 556,
+        "minText": 4.78,
+        "graphics": 107,
+        "minGraphic": 3.63,
+        "failures": []
+      }
+    },
+    {
+      "label": "light binary",
+      "pass": true,
+      "data": {
+        "textSamples": 138,
+        "minText": 5.29,
+        "graphics": 19,
+        "minGraphic": 6.61,
+        "failures": []
+      }
+    },
+    {
+      "label": "light scalar",
+      "pass": true,
+      "data": {
+        "textSamples": 130,
+        "minText": 5.29,
+        "graphics": 1,
+        "minGraphic": 4.3,
+        "failures": []
+      }
+    },
+    {
+      "label": "light many",
+      "pass": true,
+      "data": {
+        "textSamples": 370,
+        "minText": 5.29,
+        "graphics": 20,
+        "minGraphic": 5.66,
+        "failures": []
+      }
+    },
+    {
+      "label": "light history",
+      "pass": true,
+      "data": {
+        "textSamples": 162,
+        "minText": 5.29,
+        "graphics": 21,
+        "minGraphic": 5.66,
+        "failures": []
+      }
+    },
+    {
+      "label": "light pools",
+      "pass": true,
+      "data": {
+        "textSamples": 162,
+        "minText": 5.29,
+        "graphics": 21,
+        "minGraphic": 5.66,
+        "failures": []
+      }
+    },
+    {
+      "label": "light market-agent",
+      "pass": true,
+      "data": {
+        "textSamples": 191,
+        "minText": 5.29,
+        "graphics": 21,
+        "minGraphic": 5.66,
+        "failures": []
+      }
+    },
+    {
+      "label": "light confirm",
+      "pass": true,
+      "data": {
+        "textSamples": 153,
+        "minText": 5.29,
+        "graphics": 19,
+        "minGraphic": 6.61,
+        "failures": []
+      }
+    },
+    {
+      "label": "light leaderboard",
+      "pass": true,
+      "data": {
+        "textSamples": 159,
+        "minText": 5.29,
+        "graphics": 0,
+        "minGraphic": null,
+        "failures": []
+      }
+    },
+    {
+      "label": "light leaderboard-page3",
+      "pass": true,
+      "data": {
+        "textSamples": 119,
+        "minText": 5.29,
+        "graphics": 0,
+        "minGraphic": null,
+        "failures": []
+      }
+    },
+    {
+      "label": "light score",
+      "pass": true,
+      "data": {
+        "textSamples": 172,
+        "minText": 5.29,
+        "graphics": 0,
+        "minGraphic": null,
+        "failures": []
+      }
+    },
+    {
+      "label": "light create",
+      "pass": true,
+      "data": {
+        "textSamples": 30,
+        "minText": 5.86,
+        "graphics": 0,
+        "minGraphic": null,
+        "failures": []
+      }
+    },
+    {
+      "label": "light create-step2",
+      "pass": true,
+      "data": {
+        "textSamples": 22,
+        "minText": 5.86,
+        "graphics": 0,
+        "minGraphic": null,
+        "failures": []
+      }
+    },
+    {
+      "label": "light policies",
+      "pass": true,
+      "data": {
+        "textSamples": 29,
+        "minText": 5.86,
+        "graphics": 0,
+        "minGraphic": null,
+        "failures": []
+      }
+    },
+    {
+      "label": "light order-console",
+      "pass": true,
+      "data": {
+        "textSamples": 138,
+        "minText": 5.29,
+        "graphics": 19,
+        "minGraphic": 6.61,
+        "failures": []
+      }
+    },
+    {
+      "label": "light order-details",
+      "pass": true,
+      "data": {
+        "textSamples": 138,
+        "minText": 5.29,
+        "graphics": 19,
+        "minGraphic": 6.61,
+        "failures": []
+      }
+    },
+    {
+      "label": "light related",
+      "pass": true,
+      "data": {
+        "textSamples": 162,
+        "minText": 5.29,
+        "graphics": 21,
+        "minGraphic": 5.66,
+        "failures": []
+      }
+    },
+    {
+      "label": "light conditional",
+      "pass": true,
+      "data": {
+        "textSamples": 139,
+        "minText": 5.29,
+        "graphics": 19,
+        "minGraphic": 6.61,
+        "failures": []
+      }
+    },
+    {
+      "label": "light help",
+      "pass": true,
+      "data": {
+        "textSamples": 549,
+        "minText": 4.78,
+        "graphics": 107,
+        "minGraphic": 3.63,
+        "failures": []
+      }
+    },
+    {
+      "label": "light leader-filter",
+      "pass": true,
+      "data": {
+        "textSamples": 165,
+        "minText": 5.29,
+        "graphics": 0,
+        "minGraphic": null,
+        "failures": []
+      }
+    },
+    {
+      "label": "light leader-explainer",
+      "pass": true,
+      "data": {
+        "textSamples": 159,
+        "minText": 5.29,
+        "graphics": 0,
+        "minGraphic": null,
+        "failures": []
+      }
+    },
+    {
+      "label": "light history-point",
+      "pass": true,
+      "data": {
+        "textSamples": 163,
+        "minText": 5.29,
+        "graphics": 21,
+        "minGraphic": 5.66,
+        "failures": []
+      }
+    },
+    {
+      "label": "light simulation-success",
+      "pass": true,
+      "data": {
+        "textSamples": 150,
+        "minText": 5.29,
+        "graphics": 19,
+        "minGraphic": 6.61,
+        "failures": []
+      }
+    },
+    {
+      "label": "light create-handoff",
+      "pass": true,
+      "data": {
+        "textSamples": 25,
+        "minText": 5.86,
+        "graphics": 0,
+        "minGraphic": null,
+        "failures": []
+      }
+    },
+    {
+      "label": "light quick-custom",
+      "pass": true,
+      "data": {
+        "textSamples": 544,
+        "minText": 4.78,
+        "graphics": 107,
+        "minGraphic": 3.63,
+        "failures": []
+      }
+    },
+    {
+      "label": "light quick-validation",
+      "pass": true,
+      "data": {
+        "textSamples": 544,
+        "minText": 4.78,
+        "graphics": 107,
+        "minGraphic": 3.63,
+        "failures": []
+      }
+    },
+    {
+      "label": "light scalar-order",
+      "pass": true,
+      "data": {
+        "textSamples": 130,
+        "minText": 5.29,
+        "graphics": 1,
+        "minGraphic": 4.3,
+        "failures": []
+      }
+    },
+    {
+      "label": "light scalar-confirm",
+      "pass": true,
+      "data": {
+        "textSamples": 145,
+        "minText": 5.29,
+        "graphics": 1,
+        "minGraphic": 4.3,
+        "failures": []
+      }
+    }
+  ]
+}

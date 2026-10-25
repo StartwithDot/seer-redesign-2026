@@ -1,0 +1,66 @@
+{
+  "expected": 8,
+  "covered": 8,
+  "passed": 8,
+  "failed": 0,
+  "unverified": 0,
+  "records": [
+    {
+      "group": "navigation",
+      "name": "every contest overview and direct case-insensitive detail",
+      "theme": "dark",
+      "width": 1440,
+      "status": "PASS"
+    },
+    {
+      "group": "navigation",
+      "name": "every contest overview and direct case-insensitive detail",
+      "theme": "dark",
+      "width": 390,
+      "status": "PASS"
+    },
+    {
+      "group": "navigation",
+      "name": "every contest overview and direct case-insensitive detail",
+      "theme": "light",
+      "width": 1440,
+      "status": "PASS"
+    },
+    {
+      "group": "navigation",
+      "name": "every contest overview and direct case-insensitive detail",
+      "theme": "light",
+      "width": 390,
+      "status": "PASS"
+    },
+    {
+      "group": "navigation",
+      "name": "query preservation history and keyboard search",
+      "theme": "dark",
+      "width": 1440,
+      "status": "PASS"
+    },
+    {
+      "group": "navigation",
+      "name": "query preservation history and keyboard search",
+      "theme": "dark",
+      "width": 390,
+      "status": "PASS"
+    },
+    {
+      "group": "navigation",
+      "name": "query preservation history and keyboard search",
+      "theme": "light",
+      "width": 1440,
+      "status": "PASS"
+    },
+    {
+      "group": "navigation",
+      "name": "query preservation history and keyboard search",
+      "theme": "light",
+      "width": 390,
+      "status": "PASS"
+    }
+  ],
+  "measurements": {}
+}

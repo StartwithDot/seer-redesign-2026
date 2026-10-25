@@ -1,0 +1,65 @@
+/* Explorer overrides for the shared sub header (seer-subbar.css). Loaded after app.css. */
+:root{--subnav-h:56px;--tb-h:56px}
+body #header.sb{height:var(--subnav-h);top:var(--seer-header-h,56px);box-shadow:0 1px 0 var(--line)}
+#header .subnav.sb-row{height:56px;padding:0 var(--sb-pad,24px);max-width:none;flex-wrap:nowrap;gap:16px}
+#header .sn-nav{width:auto;gap:4px}
+#header .sn-nav .sb-tab{height:36px;min-height:36px;padding:0 14px;border-radius:10px;font-size:14px;color:var(--text-2);background:transparent}
+#header .sn-nav .sb-tab:hover{color:var(--text);background:var(--nested)}
+#header .sn-nav .sb-tab.current{color:var(--text);background:transparent}
+#header .sn-nav .sb-tab::after{display:block!important;content:"";left:14px;right:14px;bottom:3px;top:auto;height:2px;background:var(--violet)}
+#header .sn-nav .sb-tab.current::after{transform:scaleX(1)}
+#header .sn-tools{display:flex;margin-left:auto;gap:8px;flex:none}
+#header .sn-search{width:clamp(200px,24vw,380px);order:0;flex:none}
+#header .sn-mode{order:0;margin-left:0}
+#header .sn-icon{display:inline-flex}
+@media (max-width:700px){
+ body #header.sb{height:var(--subnav-h)}
+ #header .subnav.sb-row{flex-wrap:nowrap;padding:0 16px}
+ #header .sn-tools{display:flex}
+ #header .sn-search{width:160px;flex:0 0 160px;height:36px}
+ #header .sn-icon{display:inline-flex;width:36px;height:36px}
+ #header .sn-nav .sb-tab{height:36px;min-height:36px;padding:0 12px}
+ .seg button,.sn-mode button{height:32px;min-height:32px}
+}
+@media (max-width:700px){#header .sn-nav .sb-tab,#header .sn-search,#header .sn-icon{height:40px;min-height:40px}#header .sn-icon{width:40px}.seg button,.sn-mode button{height:36px;min-height:36px}}
+
+/* Explorer context strip (Asked by / Priced / How to use). In flow under the tab row, above the carousel. */
+.ctx-static.sb{position:static;box-shadow:none;background:var(--sb-tone)}
+.ctx-static .sb-row.sb-ctx{height:auto;min-height:48px;padding:12px var(--page-pad);max-width:var(--page-max);margin:0 auto;background:transparent;flex-wrap:nowrap}
+.ctx-static .sb-meta{flex-wrap:nowrap;width:100%;gap:0}
+.ctx-static .sb-item{flex:0 1 auto;white-space:nowrap}
+.ctx-static .sb-item:nth-child(3){flex:1 1 0}
+.ctx-static .sb-item>span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-size:14px;font-weight:500;color:var(--sb-fg)}
+.ctx-static .ctx-asker{display:inline;max-width:100%;height:auto;min-height:0;padding:0;background:none;color:var(--violet-text);font:inherit;font-weight:500}
+.ctx-static .ctx-asker:hover{text-decoration:underline}
+.ctx-static .ctx-n{color:var(--sb-mute);font-weight:400}
+@media (max-width:1100px){.ctx-static .sb-meta{flex-wrap:wrap;gap:4px 0}.ctx-static .sb-item:nth-child(3){flex:1 1 100%;border-left:0;padding-left:0}}
+@media (max-width:600px){.ctx-static .sb-row.sb-ctx{padding:12px 16px}.ctx-static .sb-meta{flex-direction:column;align-items:stretch;gap:4px}.ctx-static .sb-item,.ctx-static .sb-item+.sb-item{padding:0;border-left:0;flex:none}}
+/* hero 200px: the context strip takes its 48px-ish row above it */
+.hero.hc{height:200px}
+/* panel: three fact rows under the title, then a compact detail block */
+.pn-ctx3{margin:0;display:flex;flex-direction:column;flex:none}
+.pn-ctx3 div{display:grid;grid-template-columns:96px minmax(0,1fr);gap:8px;align-items:center;height:32px;min-height:32px;box-shadow:0 1px 0 var(--line)}
+.pn-ctx3 div:last-child{box-shadow:none}
+.pn-ctx3 dt{font-size:12px;line-height:16px;font-weight:500;color:var(--text-2);white-space:nowrap}
+.pn-ctx3 dd{margin:0;font-size:13px;line-height:16px;color:var(--text);min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;display:flex;gap:8px;align-items:center}
+.pn-ctx3 dd .asker-link{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;height:auto;min-height:0;padding:0;background:none;color:var(--violet-text);font-size:13px}
+.pn-ctx3 dd .pn-sub{flex:none;white-space:nowrap}
+.pn-mini{margin:0;display:grid;grid-template-columns:1fr 1fr;gap:0 16px;flex:none}
+.pn-mini div{display:flex;align-items:baseline;gap:8px;height:32px;min-height:32px;min-width:0;align-items:center}
+.pn-mini dt{font-size:12px;color:var(--text-2);flex:none}
+.pn-mini dd{margin:0;font-size:13px;color:var(--text);min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.pn-ctx3 dd .tx{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.ctx-static .sb-item{margin:0}
+.ctx-static .sb-item>b{margin:0}
+.ix-panel{gap:8px;padding:16px 20px}
+.pn-trade{gap:8px}
+.ix-panel{padding:12px 20px 16px}
+#app .odd{height:68px;min-height:68px;padding:8px 16px}
+.ix-panel{padding:12px 20px}
+
+
+/* Local integration: honest fixture provenance and simulation copy. */
+.demo-notice{font-size:13px;line-height:1.5;color:var(--text-2);background:var(--nested);padding:12px;border-radius:10px}.site-footer{line-height:1.6}.hc-rank::after{content:" · Snapshot"}.loading{min-height:40vh}button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible{outline:2px solid var(--violet);outline-offset:3px}
+
+@media(max-width:1050px){body.console-open{overflow:hidden}}

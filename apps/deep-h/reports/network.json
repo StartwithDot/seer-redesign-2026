@@ -1,0 +1,644 @@
+{
+  "browser": "155.0.8059.86",
+  "mode": "headless; no network interception",
+  "expected": 64,
+  "covered": 64,
+  "records": [
+    {
+      "theme": "dark",
+      "width": 1440,
+      "route": "/",
+      "status": "PASS",
+      "imageState": []
+    },
+    {
+      "theme": "dark",
+      "width": 1440,
+      "route": "/?view=swarm",
+      "status": "PASS",
+      "imageState": []
+    },
+    {
+      "theme": "dark",
+      "width": 1440,
+      "route": "/repo/ethereum/consensus-specs",
+      "status": "PASS",
+      "imageState": []
+    },
+    {
+      "theme": "dark",
+      "width": 1440,
+      "route": "/?round=zcash-nu7",
+      "status": "PASS",
+      "imageState": []
+    },
+    {
+      "theme": "dark",
+      "width": 1440,
+      "route": "/?round=zcash-grants",
+      "status": "PASS",
+      "imageState": []
+    },
+    {
+      "theme": "dark",
+      "width": 1440,
+      "route": "/?round=octant",
+      "status": "PASS",
+      "imageState": []
+    },
+    {
+      "theme": "dark",
+      "width": 1440,
+      "route": "/?round=round2-l2",
+      "status": "PASS",
+      "imageState": []
+    },
+    {
+      "theme": "dark",
+      "width": 1440,
+      "route": "/?round=round2-l1",
+      "status": "PASS",
+      "imageState": []
+    },
+    {
+      "theme": "dark",
+      "width": 1440,
+      "route": "/?round=round2-originality",
+      "status": "PASS",
+      "imageState": []
+    },
+    {
+      "theme": "dark",
+      "width": 1440,
+      "route": "/?round=round1",
+      "status": "PASS",
+      "imageState": []
+    },
+    {
+      "theme": "dark",
+      "width": 1440,
+      "route": "/?round=all",
+      "status": "PASS",
+      "imageState": []
+    },
+    {
+      "theme": "dark",
+      "width": 1440,
+      "route": "/?round=archived",
+      "status": "PASS",
+      "imageState": []
+    },
+    {
+      "theme": "dark",
+      "width": 1440,
+      "route": "/leaderboard?period=all",
+      "status": "PASS",
+      "imageState": [
+        {
+          "src": "https://cdn.kleros.link/ipfs/QmYEVwqmUgyzU4k1ykVgcUkRhiuGkeWbDfPpA7cwwrG6RU",
+          "complete": true,
+          "naturalWidth": 1080
+        }
+      ]
+    },
+    {
+      "theme": "dark",
+      "width": 1440,
+      "route": "/leaderboard?period=1d",
+      "status": "PASS",
+      "imageState": []
+    },
+    {
+      "theme": "dark",
+      "width": 1440,
+      "route": "/leaderboard?period=1w",
+      "status": "PASS",
+      "imageState": []
+    },
+    {
+      "theme": "dark",
+      "width": 1440,
+      "route": "/leaderboard?period=1m",
+      "status": "PASS",
+      "imageState": []
+    },
+    {
+      "theme": "dark",
+      "width": 390,
+      "route": "/",
+      "status": "PASS",
+      "imageState": []
+    },
+    {
+      "theme": "dark",
+      "width": 390,
+      "route": "/?view=swarm",
+      "status": "PASS",
+      "imageState": []
+    },
+    {
+      "theme": "dark",
+      "width": 390,
+      "route": "/repo/ethereum/consensus-specs",
+      "status": "PASS",
+      "imageState": []
+    },
+    {
+      "theme": "dark",
+      "width": 390,
+      "route": "/?round=zcash-nu7",
+      "status": "PASS",
+      "imageState": []
+    },
+    {
+      "theme": "dark",
+      "width": 390,
+      "route": "/?round=zcash-grants",
+      "status": "PASS",
+      "imageState": []
+    },
+    {
+      "theme": "dark",
+      "width": 390,
+      "route": "/?round=octant",
+      "status": "PASS",
+      "imageState": []
+    },
+    {
+      "theme": "dark",
+      "width": 390,
+      "route": "/?round=round2-l2",
+      "status": "PASS",
+      "imageState": []
+    },
+    {
+      "theme": "dark",
+      "width": 390,
+      "route": "/?round=round2-l1",
+      "status": "PASS",
+      "imageState": []
+    },
+    {
+      "theme": "dark",
+      "width": 390,
+      "route": "/?round=round2-originality",
+      "status": "PASS",
+      "imageState": []
+    },
+    {
+      "theme": "dark",
+      "width": 390,
+      "route": "/?round=round1",
+      "status": "PASS",
+      "imageState": []
+    },
+    {
+      "theme": "dark",
+      "width": 390,
+      "route": "/?round=all",
+      "status": "PASS",
+      "imageState": []
+    },
+    {
+      "theme": "dark",
+      "width": 390,
+      "route": "/?round=archived",
+      "status": "PASS",
+      "imageState": []
+    },
+    {
+      "theme": "dark",
+      "width": 390,
+      "route": "/leaderboard?period=all",
+      "status": "PASS",
+      "imageState": [
+        {
+          "src": "https://cdn.kleros.link/ipfs/QmYEVwqmUgyzU4k1ykVgcUkRhiuGkeWbDfPpA7cwwrG6RU",
+          "complete": true,
+          "naturalWidth": 1080
+        }
+      ]
+    },
+    {
+      "theme": "dark",
+      "width": 390,
+      "route": "/leaderboard?period=1d",
+      "status": "PASS",
+      "imageState": []
+    },
+    {
+      "theme": "dark",
+      "width": 390,
+      "route": "/leaderboard?period=1w",
+      "status": "PASS",
+      "imageState": []
+    },
+    {
+      "theme": "dark",
+      "width": 390,
+      "route": "/leaderboard?period=1m",
+      "status": "PASS",
+      "imageState": []
+    },
+    {
+      "theme": "light",
+      "width": 1440,
+      "route": "/",
+      "status": "PASS",
+      "imageState": []
+    },
+    {
+      "theme": "light",
+      "width": 1440,
+      "route": "/?view=swarm",
+      "status": "PASS",
+      "imageState": []
+    },
+    {
+      "theme": "light",
+      "width": 1440,
+      "route": "/repo/ethereum/consensus-specs",
+      "status": "PASS",
+      "imageState": []
+    },
+    {
+      "theme": "light",
+      "width": 1440,
+      "route": "/?round=zcash-nu7",
+      "status": "PASS",
+      "imageState": []
+    },
+    {
+      "theme": "light",
+      "width": 1440,
+      "route": "/?round=zcash-grants",
+      "status": "PASS",
+      "imageState": []
+    },
+    {
+      "theme": "light",
+      "width": 1440,
+      "route": "/?round=octant",
+      "status": "PASS",
+      "imageState": []
+    },
+    {
+      "theme": "light",
+      "width": 1440,
+      "route": "/?round=round2-l2",
+      "status": "PASS",
+      "imageState": []
+    },
+    {
+      "theme": "light",
+      "width": 1440,
+      "route": "/?round=round2-l1",
+      "status": "PASS",
+      "imageState": []
+    },
+    {
+      "theme": "light",
+      "width": 1440,
+      "route": "/?round=round2-originality",
+      "status": "PASS",
+      "imageState": []
+    },
+    {
+      "theme": "light",
+      "width": 1440,
+      "route": "/?round=round1",
+      "status": "PASS",
+      "imageState": []
+    },
+    {
+      "theme": "light",
+      "width": 1440,
+      "route": "/?round=all",
+      "status": "PASS",
+      "imageState": []
+    },
+    {
+      "theme": "light",
+      "width": 1440,
+      "route": "/?round=archived",
+      "status": "PASS",
+      "imageState": []
+    },
+    {
+      "theme": "light",
+      "width": 1440,
+      "route": "/leaderboard?period=all",
+      "status": "PASS",
+      "imageState": [
+        {
+          "src": "https://cdn.kleros.link/ipfs/QmYEVwqmUgyzU4k1ykVgcUkRhiuGkeWbDfPpA7cwwrG6RU",
+          "complete": true,
+          "naturalWidth": 1080
+        }
+      ]
+    },
+    {
+      "theme": "light",
+      "width": 1440,
+      "route": "/leaderboard?period=1d",
+      "status": "PASS",
+      "imageState": []
+    },
+    {
+      "theme": "light",
+      "width": 1440,
+      "route": "/leaderboard?period=1w",
+      "status": "PASS",
+      "imageState": []
+    },
+    {
+      "theme": "light",
+      "width": 1440,
+      "route": "/leaderboard?period=1m",
+      "status": "PASS",
+      "imageState": []
+    },
+    {
+      "theme": "light",
+      "width": 390,
+      "route": "/",
+      "status": "PASS",
+      "imageState": []
+    },
+    {
+      "theme": "light",
+      "width": 390,
+      "route": "/?view=swarm",
+      "status": "PASS",
+      "imageState": []
+    },
+    {
+      "theme": "light",
+      "width": 390,
+      "route": "/repo/ethereum/consensus-specs",
+      "status": "PASS",
+      "imageState": []
+    },
+    {
+      "theme": "light",
+      "width": 390,
+      "route": "/?round=zcash-nu7",
+      "status": "PASS",
+      "imageState": []
+    },
+    {
+      "theme": "light",
+      "width": 390,
+      "route": "/?round=zcash-grants",
+      "status": "PASS",
+      "imageState": []
+    },
+    {
+      "theme": "light",
+      "width": 390,
+      "route": "/?round=octant",
+      "status": "PASS",
+      "imageState": []
+    },
+    {
+      "theme": "light",
+      "width": 390,
+      "route": "/?round=round2-l2",
+      "status": "PASS",
+      "imageState": []
+    },
+    {
+      "theme": "light",
+      "width": 390,
+      "route": "/?round=round2-l1",
+      "status": "PASS",
+      "imageState": []
+    },
+    {
+      "theme": "light",
+      "width": 390,
+      "route": "/?round=round2-originality",
+      "status": "PASS",
+      "imageState": []
+    },
+    {
+      "theme": "light",
+      "width": 390,
+      "route": "/?round=round1",
+      "status": "PASS",
+      "imageState": []
+    },
+    {
+      "theme": "light",
+      "width": 390,
+      "route": "/?round=all",
+      "status": "PASS",
+      "imageState": []
+    },
+    {
+      "theme": "light",
+      "width": 390,
+      "route": "/?round=archived",
+      "status": "PASS",
+      "imageState": []
+    },
+    {
+      "theme": "light",
+      "width": 390,
+      "route": "/leaderboard?period=all",
+      "status": "PASS",
+      "imageState": [
+        {
+          "src": "https://cdn.kleros.link/ipfs/QmYEVwqmUgyzU4k1ykVgcUkRhiuGkeWbDfPpA7cwwrG6RU",
+          "complete": true,
+          "naturalWidth": 1080
+        }
+      ]
+    },
+    {
+      "theme": "light",
+      "width": 390,
+      "route": "/leaderboard?period=1d",
+      "status": "PASS",
+      "imageState": []
+    },
+    {
+      "theme": "light",
+      "width": 390,
+      "route": "/leaderboard?period=1w",
+      "status": "PASS",
+      "imageState": []
+    },
+    {
+      "theme": "light",
+      "width": 390,
+      "route": "/leaderboard?period=1m",
+      "status": "PASS",
+      "imageState": []
+    }
+  ],
+  "events": [
+    {
+      "theme": "dark",
+      "width": 1440,
+      "route": "http://127.0.0.1:5326/deep/previews/h/#/leaderboard?period=all",
+      "kind": "requestfailed",
+      "url": "https://static.vecteezy.com/system/resources/thumbnails/069/669/321/small/cute-cartoon-pig-character-illustration-vector.jpg",
+      "failure": "net::ERR_BLOCKED_BY_ORB",
+      "resource": "image",
+      "classification": "remote-avatar-with-rendered-fallback"
+    },
+    {
+      "theme": "dark",
+      "width": 1440,
+      "route": "http://127.0.0.1:5326/deep/previews/h/#/leaderboard?period=1d",
+      "kind": "requestfailed",
+      "url": "https://static.vecteezy.com/system/resources/thumbnails/069/669/321/small/cute-cartoon-pig-character-illustration-vector.jpg",
+      "failure": "net::ERR_BLOCKED_BY_ORB",
+      "resource": "image",
+      "classification": "remote-avatar-with-rendered-fallback"
+    },
+    {
+      "theme": "dark",
+      "width": 1440,
+      "route": "http://127.0.0.1:5326/deep/previews/h/#/leaderboard?period=1w",
+      "kind": "requestfailed",
+      "url": "https://static.vecteezy.com/system/resources/thumbnails/069/669/321/small/cute-cartoon-pig-character-illustration-vector.jpg",
+      "failure": "net::ERR_BLOCKED_BY_ORB",
+      "resource": "image",
+      "classification": "remote-avatar-with-rendered-fallback"
+    },
+    {
+      "theme": "dark",
+      "width": 1440,
+      "route": "http://127.0.0.1:5326/deep/previews/h/#/leaderboard?period=1m",
+      "kind": "requestfailed",
+      "url": "https://static.vecteezy.com/system/resources/thumbnails/069/669/321/small/cute-cartoon-pig-character-illustration-vector.jpg",
+      "failure": "net::ERR_BLOCKED_BY_ORB",
+      "resource": "image",
+      "classification": "remote-avatar-with-rendered-fallback"
+    },
+    {
+      "theme": "dark",
+      "width": 390,
+      "route": "http://127.0.0.1:5326/deep/previews/h/#/leaderboard?period=all",
+      "kind": "requestfailed",
+      "url": "https://static.vecteezy.com/system/resources/thumbnails/069/669/321/small/cute-cartoon-pig-character-illustration-vector.jpg",
+      "failure": "net::ERR_BLOCKED_BY_ORB",
+      "resource": "image",
+      "classification": "remote-avatar-with-rendered-fallback"
+    },
+    {
+      "theme": "dark",
+      "width": 390,
+      "route": "http://127.0.0.1:5326/deep/previews/h/#/leaderboard?period=1d",
+      "kind": "requestfailed",
+      "url": "https://static.vecteezy.com/system/resources/thumbnails/069/669/321/small/cute-cartoon-pig-character-illustration-vector.jpg",
+      "failure": "net::ERR_BLOCKED_BY_ORB",
+      "resource": "image",
+      "classification": "remote-avatar-with-rendered-fallback"
+    },
+    {
+      "theme": "dark",
+      "width": 390,
+      "route": "http://127.0.0.1:5326/deep/previews/h/#/leaderboard?period=1w",
+      "kind": "requestfailed",
+      "url": "https://static.vecteezy.com/system/resources/thumbnails/069/669/321/small/cute-cartoon-pig-character-illustration-vector.jpg",
+      "failure": "net::ERR_BLOCKED_BY_ORB",
+      "resource": "image",
+      "classification": "remote-avatar-with-rendered-fallback"
+    },
+    {
+      "theme": "dark",
+      "width": 390,
+      "route": "http://127.0.0.1:5326/deep/previews/h/#/leaderboard?period=1m",
+      "kind": "requestfailed",
+      "url": "https://static.vecteezy.com/system/resources/thumbnails/069/669/321/small/cute-cartoon-pig-character-illustration-vector.jpg",
+      "failure": "net::ERR_BLOCKED_BY_ORB",
+      "resource": "image",
+      "classification": "remote-avatar-with-rendered-fallback"
+    },
+    {
+      "theme": "light",
+      "width": 1440,
+      "route": "http://127.0.0.1:5326/deep/previews/h/#/leaderboard?period=all",
+      "kind": "requestfailed",
+      "url": "https://static.vecteezy.com/system/resources/thumbnails/069/669/321/small/cute-cartoon-pig-character-illustration-vector.jpg",
+      "failure": "net::ERR_BLOCKED_BY_ORB",
+      "resource": "image",
+      "classification": "remote-avatar-with-rendered-fallback"
+    },
+    {
+      "theme": "light",
+      "width": 1440,
+      "route": "http://127.0.0.1:5326/deep/previews/h/#/leaderboard?period=1d",
+      "kind": "requestfailed",
+      "url": "https://static.vecteezy.com/system/resources/thumbnails/069/669/321/small/cute-cartoon-pig-character-illustration-vector.jpg",
+      "failure": "net::ERR_BLOCKED_BY_ORB",
+      "resource": "image",
+      "classification": "remote-avatar-with-rendered-fallback"
+    },
+    {
+      "theme": "light",
+      "width": 1440,
+      "route": "http://127.0.0.1:5326/deep/previews/h/#/leaderboard?period=1w",
+      "kind": "requestfailed",
+      "url": "https://static.vecteezy.com/system/resources/thumbnails/069/669/321/small/cute-cartoon-pig-character-illustration-vector.jpg",
+      "failure": "net::ERR_BLOCKED_BY_ORB",
+      "resource": "image",
+      "classification": "remote-avatar-with-rendered-fallback"
+    },
+    {
+      "theme": "light",
+      "width": 1440,
+      "route": "http://127.0.0.1:5326/deep/previews/h/#/leaderboard?period=1m",
+      "kind": "requestfailed",
+      "url": "https://static.vecteezy.com/system/resources/thumbnails/069/669/321/small/cute-cartoon-pig-character-illustration-vector.jpg",
+      "failure": "net::ERR_BLOCKED_BY_ORB",
+      "resource": "image",
+      "classification": "remote-avatar-with-rendered-fallback"
+    },
+    {
+      "theme": "light",
+      "width": 390,
+      "route": "http://127.0.0.1:5326/deep/previews/h/#/leaderboard?period=all",
+      "kind": "requestfailed",
+      "url": "https://static.vecteezy.com/system/resources/thumbnails/069/669/321/small/cute-cartoon-pig-character-illustration-vector.jpg",
+      "failure": "net::ERR_BLOCKED_BY_ORB",
+      "resource": "image",
+      "classification": "remote-avatar-with-rendered-fallback"
+    },
+    {
+      "theme": "light",
+      "width": 390,
+      "route": "http://127.0.0.1:5326/deep/previews/h/#/leaderboard?period=1d",
+      "kind": "requestfailed",
+      "url": "https://static.vecteezy.com/system/resources/thumbnails/069/669/321/small/cute-cartoon-pig-character-illustration-vector.jpg",
+      "failure": "net::ERR_BLOCKED_BY_ORB",
+      "resource": "image",
+      "classification": "remote-avatar-with-rendered-fallback"
+    },
+    {
+      "theme": "light",
+      "width": 390,
+      "route": "http://127.0.0.1:5326/deep/previews/h/#/leaderboard?period=1w",
+      "kind": "requestfailed",
+      "url": "https://static.vecteezy.com/system/resources/thumbnails/069/669/321/small/cute-cartoon-pig-character-illustration-vector.jpg",
+      "failure": "net::ERR_BLOCKED_BY_ORB",
+      "resource": "image",
+      "classification": "remote-avatar-with-rendered-fallback"
+    },
+    {
+      "theme": "light",
+      "width": 390,
+      "route": "http://127.0.0.1:5326/deep/previews/h/#/leaderboard?period=1m",
+      "kind": "requestfailed",
+      "url": "https://static.vecteezy.com/system/resources/thumbnails/069/669/321/small/cute-cartoon-pig-character-illustration-vector.jpg",
+      "failure": "net::ERR_BLOCKED_BY_ORB",
+      "resource": "image",
+      "classification": "remote-avatar-with-rendered-fallback"
+    }
+  ],
+  "unexpected": [],
+  "remoteAvatarFailures": 16
+}

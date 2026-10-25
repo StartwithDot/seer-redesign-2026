@@ -1,0 +1,29 @@
+{
+  "name": "perf",
+  "testedAt": "2026-10-24T23:02:38.992Z",
+  "pass": true,
+  "checks": [
+    {
+      "label": "41-tile scroll and hover frame trace",
+      "pass": true,
+      "data": {
+        "frames": 179,
+        "medianMs": 7,
+        "p95Ms": 14,
+        "maxMs": 27.799999999999955,
+        "averageFps": 113.06215260232442,
+        "over20ms": 4
+      }
+    },
+    {
+      "label": "reduced motion stops carousel autoplay and keeps final instruments",
+      "pass": true,
+      "data": {
+        "reduced": true,
+        "timer": null,
+        "active": 0,
+        "animations": 0
+      }
+    }
+  ]
+}
