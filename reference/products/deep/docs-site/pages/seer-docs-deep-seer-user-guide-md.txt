@@ -1,3 +1,0 @@
-URL: https://deep-pm.gitbook.io/seer-docs/deep-seer-user-guide.md
-
-> For the complete documentation index, see [llms.txt](https://deep-pm.gitbook.io/seer-docs/llms.txt). Markdown versions of documentation pages are available by appending `.md` to page URLs; this page is available as [Markdown](https://deep-pm.gitbook.io/seer-docs/deep-seer-user-guide.md). # 🧠 Deep Seer — User Guide deep.seer.pm lets you execute one-click trades on Deepfunding prediction markets on Seer. ### 🧭 Quick Diagram \[Connect Wallet] ↓ \[Create Trade Wallet] ↓ \[Get sUSDS] ↓ \[Deposit to Trade Wallet] ↓ \[Upload CSV Predictions] ↓ \[Execute Strategy]

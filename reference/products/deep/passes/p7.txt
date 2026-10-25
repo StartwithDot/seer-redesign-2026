@@ -1,8 +1,0 @@
-PASS 7 (polish; leaderboard already built). View screenshots: run `npm run build -w apps/deep` then use products/deep/spike/appshot.mjs against vite preview if the sandbox allows; otherwise fix from reading CSS. Fix these visible bugs vs concepts2/r2-A-main.png and r2-A-lb.png:
-1. Market page chart header: the crosshair date text '18 Oct 2026, 19:30 UTC' overlaps the title 'Share of original work over time' and the toolbar is cramped; use two clean rows (title + subtitle left, toolbar right; hover readout inside the plot top-left). 
-2. Chart/Swarm switch and Expand button overlap the x-axis labels at the bottom-right of the chart; move them into the toolbar row.
-3. Desk (Setup ledger): step circles are tiny and step 3 'Add sUSDS' is cramped; match r2-A-main.png (3 clear steps with titles + one-line descriptions, active step's button).
-4. Leaderboard route must NOT show the contest stat line ('Round 3 · Originality LIVE 98 repositories...'); show only the shell top bar and its own sub-bar. The contest tab strip stays.
-5. Leaderboard landscape: label the top 3 wallets and bottom 2 on the map, y-axis title 'P/L, USD (signed log)' must not collide with the plot, add a 'You' marker legend; ensure clicking a dot or searching an address selects it and updates the inspector; Follow and Compare buttons work (Follow list under FOLLOWING, Compare up to 3 shows a small compare strip).
-6. Mobile 390x844 (r2-A-mob.png): bottom tab bar Chart·List·Desk·Board; verify nothing overflows horizontally, no page scroll.
-Then build must pass.

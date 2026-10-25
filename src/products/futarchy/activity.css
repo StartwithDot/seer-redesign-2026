@@ -1,8 +1,0 @@
-.activity-feed { height:420px; overflow:auto; overflow-anchor:none; position:relative; scrollbar-gutter:stable; }
-.activity-feed thead { position:sticky; top:0; z-index:1; background:var(--f-paper); }
-.activity-feed-status { display:flex; align-items:center; justify-content:space-between; gap:12px; margin:12px 0; }
-.activity-feed-status p { color:var(--f-secondary); font-size:12px; margin:0; }
-.activity-feed-status button { font-size:12px; }
-.activity-fresh { animation:activity-arrival 1.8s ease-out; }
-@keyframes activity-arrival { from { background:var(--f-violet-soft); } to { background:transparent; } }
-@media(max-width:620px) { .activity-feed-status { align-items:start; flex-direction:column; } .activity-feed { height:360px; } }

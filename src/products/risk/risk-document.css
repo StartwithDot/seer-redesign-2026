@@ -1,3 +1,0 @@
-/* Reset belongs only to the standalone Risk document. */
-html, body { margin: 0; padding: 0; }
-body { font-family: 'Inter Tight Variable', 'Inter Tight', sans-serif; font-size: 16px; line-height: 1.5; -webkit-font-smoothing: antialiased; background: var(--ef-bg-page); }

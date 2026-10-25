@@ -1,5 +1,0 @@
-after/
-baseline/*
-!baseline/observed-controls.json
-.impeccable/review/
-*.log

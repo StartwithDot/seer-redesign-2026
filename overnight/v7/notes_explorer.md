@@ -1,6 +1,0 @@
-CLAUDE'S REVIEW OF THE CURRENT STATE (fix these first, then continue the general critique):
-1. The command-bar block is a huge boxed card containing more boxes (card-in-card). Flatten it: no outer card; the command bar sits on the page background, chips below, ONE quiet snapshot line, then the Movers rail. Reduce vertical use so the Index starts above the fold (at 1440x900 the first table rows and the Inspector must be visible without scrolling).
-2. Movers rail cards: titles truncate to 2-3 words ("Will Marine ..."), the word "snapshot" repeats on every card as noise. Show the question on two lines, the chance and the change arrow; show "snapshot" once in the section label only.
-3. Index table: the "Chance" column text collides with Volume in rows with long outcome names (e.g. "Flavio Bolsonaro 79.7%" overlapping "2.1K"). Give columns fixed widths, truncate outcome names with ellipsis, right-align numerics, tabular numerals.
-4. The scope chips list lacks Deep, Opportunity, Risk: add them (filter by market type where data allows; otherwise show them disabled with a tooltip "Not in this snapshot").
-5. Verify Tiles, Activity and Map views each render correctly and look designed (scroll screenshots), and that the Inspector's chart is the new smooth area chart with crosshair + glass tooltip.
