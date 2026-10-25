@@ -1,0 +1,6 @@
+CLAUDE'S REVIEW OF THE CURRENT STATE (fix these first, then continue the general critique):
+1. The stat ribbon (Repositories, Median UP, Volume, Liquidity, Last trade) overflows past the right edge of the left column ("Median U..." is clipped). It must fit its column: wrap or shrink to a compact single glass bar, never overflow, at 1440 and 1024.
+2. The hero chart still reads as the old grey spaghetti. Implement the brief's three layers properly: a visible 10th-90th percentile ribbon, ALL repositories as faint hairlines (~12% opacity), the global median as ONE bold line with gradient area beneath, and the TOP 5 + selected repository bold with end-of-line name labels (collision-avoided), plus the crosshair glass tooltip of top movers. Remove the monospace timestamp overlay in the corner (move into the tooltip).
+3. "Asked by / Priced / Use" strip: chevrons between steps look like arrows to nowhere and the strip is clipped; make it a clean three-step row that fits.
+4. Trading desk: good direction. Make Create trade wallet / Add sUSDS step buttons look like real disabled/secondary buttons (they currently look like plain text), and align the stepper line.
+5. The page below the fold (Repositories table, detail, funds, predictions, section nav) must exist and be redesigned: verify each section in the scroll screenshots, fix empty gaps.

@@ -700,3 +700,60 @@
 10-24 19:01 [v3] agent v5_crit_product_3 via mp failed (rc=1) -> next
 10-24 19:03 [v3] agent v5_crit_product_3 ok via nat
 10-24 19:03 [v3] === v5 DONE ===
+09:13 ar agentB ok via gpt-6.1-sol
+09:22 ar agentA ok via gpt-6.1-sol
+13:44 [v7:deep] start
+13:44 [v7:explorer] start
+13:52 ar v7_deep_0 via gpt-6.1-sol failed -> next
+14:17 ar v7_explorer_0 via gpt-6.1-sol failed -> next
+14:18 ar v7_explorer_0 via gpt-5.6-sol failed -> next
+14:22 ar v7_explorer_0 via gpt-5.6-sol failed -> next
+14:23 ar v7_explorer_0 via gpt-6-astra failed -> next
+14:51 ar v7_explorer_0 via gpt-6.1-sol failed -> next
+14:57 ar v7_explorer_0 via gpt-5.6-sol failed -> next
+15:01 ar v7_explorer_0 via gpt-5.6-sol failed -> next
+15:03 ar v7_explorer_0 via gpt-6-astra failed -> next
+15:09 ar v7_explorer_0 via gpt-6.1-sol failed -> next
+15:10 ar v7_explorer_0 via gpt-5.6-sol failed -> next
+15:13 [v7:deep] start
+15:13 [v7:explorer] start
+15:19 ar v7_explorer_1 ok via gpt-6.1-sol
+15:29 ar v7_explorer_2 via gpt-6.1-sol failed -> next
+15:35 ar v7_explorer_2 via gpt-5.6-sol failed -> next
+15:42 ar v7_deep_1 via gpt-6.1-sol failed -> next
+15:49 ar v7_deep_1 via gpt-5.6-sol failed -> next
+15:58 ar v7_deep_1 via gpt-5.6-sol failed -> next
+15:59 ar v7_explorer_2 via gpt-5.6-sol failed -> next
+16:01 ar v7_deep_1 via gpt-6-astra failed -> next
+16:10 codex deep_fix finished rc=0
+16:36 [v8:explorer] round 1 codex rc=0
+16:36 [v8:explorer] build: 
+16:37 [v8:deep] round 1 codex rc=0
+16:38 [v8:deep] build: size limit for this warning via build.chunkSizeWarningLimit. ✓ built in 1.55s 
+16:38 [v8:explorer] qa total: 57
+16:39 [v8:explorer] round 2 codex rc=0
+16:39 [v8:explorer] build: 
+16:40 [v8:deep] qa total: 216
+16:41 [v8:explorer] qa total: 30
+16:43 [v8:explorer] round 3 codex rc=0
+16:43 [v8:explorer] build: 
+16:45 [v8:explorer] qa total: 16
+16:45 [v8:explorer] done
+16:47 seer_polish finished
+17:35 [v8:deep] round 1 codex rc=0
+17:35 [v8:deep] build: size limit for this warning via build.chunkSizeWarningLimit. ✓ built in 1.37s 
+17:37 [v8:deep] qa total: 149
+17:39 [v8:deep] round 2 codex rc=0
+17:39 [v8:deep] build: size limit for this warning via build.chunkSizeWarningLimit. ✓ built in 1.33s 
+17:41 [v8:deep] qa total: 122
+17:41 [v8:deep] done
+17:45 deep_stack finished
+19:57 [owner:deep] codex rc=0
+19:57 [owner:deep] build done
+19:57 [owner:explorer] codex rc=0
+19:57 [owner:explorer] build done
+20:02 deep_r2 finished
+20:19 [r3:explorer] finished
+20:20 [r3:deep] finished
+20:23 deep_r4 finished
+20:26 deep_r5 finished

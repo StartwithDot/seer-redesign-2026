@@ -1,9 +1,10 @@
-import { useEffect, useRef, useState } from 'react';
+import { useEffect, useRef, useState, type MouseEvent as ReactMouseEvent } from 'react';
 import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import Lenis from 'lenis';
 import 'lenis/dist/lenis.css';
 import { Clouds } from './Clouds';
+import { navTo } from '../../lib/nav';
 import './monument.css';
 
 gsap.registerPlugin(ScrollTrigger);
@@ -15,17 +16,22 @@ const logo = new URL('../../../../assets/brand/logo.svg', import.meta.url).href;
 const IMG = { day: '/img/monument/hero-day.webp', dusk: '/img/monument/hero-dusk.webp', macro: '/img/monument/macro.webp', object: '/img/monument/object.webp', kleros: '/img/kleros-logo.png', klerosPic: '/img/monument/kleros.webp' };
 const reduced = () => typeof window !== 'undefined' && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 const SEER = 'https://app.seer.pm/';
+const internalLink = (event: ReactMouseEvent<HTMLAnchorElement>, href: string) => {
+  if (event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
+  event.preventDefault();
+  navTo(href);
+};
 const SKY_DAY = { shade: [0.5, 0.58, 0.8] as [number, number, number], lit: [1, 1, 1] as [number, number, number] };
 const SKY_DUSK = { shade: [0.27, 0.22, 0.42] as [number, number, number], lit: [1, 0.72, 0.64] as [number, number, number] };
 const SKY_NIGHT = { shade: [0.1, 0.09, 0.17] as [number, number, number], lit: [0.46, 0.4, 0.72] as [number, number, number] };
 
 type App = { name: string; ask: string; prices: string; use: string; href: string; pic: string; z: { cx: number; cy: number; s: number } };
 const APPS: App[] = [
-  { name: 'Seer App', ask: 'Anyone: a person, a DAO, an agent.', prices: 'Every outcome, across every market type.', use: 'Find a market, read the odds, trade if you want to.', href: SEER, pic: '/img/monument/p-seer.webp', z: { cx: 0.5, cy: 0.5, s: 1 } },
-  { name: 'Deep', ask: 'A funder with a large field to judge.', prices: 'How reviewers will judge each candidate, outcome by outcome.', use: 'Rank the field. People and agents read the same prices.', href: SEER, pic: '/img/monument/p-deep.webp', z: { cx: 0.59, cy: 0.38, s: 1.7 } },
-  { name: 'Futarchy', ask: 'A DAO deciding on a proposal.', prices: 'The token if the proposal passes, against the token if it fails.', use: 'Read the gap before you vote. The DAO still decides.', href: SEER, pic: '/img/monument/p-futarchy.webp', z: { cx: 0.37, cy: 0.56, s: 1.55 } },
-  { name: 'Opportunity Markets', ask: 'A sponsor with many submissions.', prices: 'Which submissions will be selected.', use: 'Shortlist by odds. Reviewers keep the final say.', href: 'https://opportunity.seer.pm/', pic: '/img/monument/p-opportunity.webp', z: { cx: 0.57, cy: 0.86, s: 1.9 } },
-  { name: 'Risk Pricing', ask: 'A treasury moving collateral.', prices: 'The risk of several protocols, side by side.', use: 'Compare them before you move anything.', href: SEER, pic: '/img/monument/p-risk.webp', z: { cx: 0.8, cy: 0.7, s: 1.65 } },
+  { name: 'Seer App', ask: 'Anyone: a person, a DAO, an agent.', prices: 'Every outcome, across every market type.', use: 'Find a market, read the odds, trade if you want to.', href: '/explorer', pic: '/img/monument/p-seer.webp', z: { cx: 0.5, cy: 0.5, s: 1 } },
+  { name: 'Deep', ask: 'A funder with a large field to judge.', prices: 'How reviewers will judge each candidate, outcome by outcome.', use: 'Rank the field. People and agents read the same prices.', href: '/deep', pic: '/img/monument/p-deep.webp', z: { cx: 0.59, cy: 0.38, s: 1.7 } },
+  { name: 'Futarchy', ask: 'A DAO deciding on a proposal.', prices: 'The token if the proposal passes, against the token if it fails.', use: 'Read the gap before you vote. The DAO still decides.', href: '/futarchy', pic: '/img/monument/p-futarchy.webp', z: { cx: 0.37, cy: 0.56, s: 1.55 } },
+  { name: 'Opportunity Markets', ask: 'A sponsor with many submissions.', prices: 'Which submissions will be selected.', use: 'Shortlist by odds. Reviewers keep the final say.', href: '/opportunity', pic: '/img/monument/p-opportunity.webp', z: { cx: 0.57, cy: 0.86, s: 1.9 } },
+  { name: 'Risk Pricing', ask: 'A treasury moving collateral.', prices: 'The risk of several protocols, side by side.', use: 'Compare them before you move anything.', href: '/risk', pic: '/img/monument/p-risk.webp', z: { cx: 0.8, cy: 0.7, s: 1.65 } },
 ];
 const STEPS = [
   { w: 'Ask', t: 'Someone needs an answer: a person, a DAO, a treasury, an agent. They write the question.' },
@@ -93,7 +99,7 @@ function Nav() {
           <button className="mn-apps-btn" aria-expanded={open} aria-haspopup="true" onClick={() => setOpen((o) => !o)}>Apps <svg viewBox="0 0 12 12" width="10" height="10" aria-hidden="true"><path d="M2 4.2 6 8l4-3.8" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round" /></svg></button>
           <div className="mn-apps-panel" role="menu">
             {APPS.map((p, k) => (
-              <a key={p.name} role="menuitem" className="mn-ap" href={p.href} style={{ ['--i' as string]: k }}>
+              <a key={p.name} role="menuitem" className="mn-ap" href={p.href} style={{ ['--i' as string]: k }} onClick={(event) => internalLink(event, p.href)}>
                 <img src={p.pic} alt="" decoding="async" />
                 <span className="mn-ap-t"><b>{p.name}</b><em>{APP_DESC[k]}</em></span>
                 <svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true"><path d="M3 8h9m-4-4 4 4-4 4" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round" /></svg>
@@ -169,7 +175,7 @@ function Hero() {
       <div className="mn-hero-copy">
         <WindText lines={[{ t: 'Where' }, { t: 'information' }, { t: 'becomes' }, { t: 'a market.', em: true }]} />
         <p className="fade">Seer is Information Finance. People, DAOs and AI agents ask the questions that matter, and traders price every answer.</p>
-        <div className="mn-cta fade"><a className="mn-primary" ref={cta} href={SEER}>Explore Markets</a><a className="mn-link" href="#statement">How it works</a></div>
+        <div className="mn-cta fade"><a className="mn-primary" ref={cta} href="/explorer" onClick={(event) => internalLink(event, '/explorer')}>Explore Markets</a><a className="mn-link" href="#statement">How it works</a></div>
       </div>
     </section>
   );
@@ -260,7 +266,7 @@ function Surfaces() {
               </div>
             ))}
           </div>
-          <a className="mn-open mn-open--cta" href={a.href}>
+          <a className="mn-open mn-open--cta" href={a.href} onClick={(event) => internalLink(event, a.href)}>
             <span className="mn-oc"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M3 8h9m-4-4 4 4-4 4" /></svg><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M3 8h9m-4-4 4 4-4 4" /></svg></span>
             <span className="mn-ol">Open {a.name}</span>
           </a>
@@ -276,7 +282,7 @@ function Surfaces() {
         {APPS.map((p) => (
           <article key={p.name}><img src={p.pic} alt="" loading="lazy" decoding="async" /><h3>{p.name}</h3>
             <p><b>Asked by</b> {p.ask}</p><p><b>Prices</b> {p.prices}</p><p><b>How to use it</b> {p.use}</p>
-            <a className="mn-open" href={p.href}>Open {p.name} <span aria-hidden="true">&rarr;</span></a></article>
+            <a className="mn-open" href={p.href} onClick={(event) => internalLink(event, p.href)}>Open {p.name} <span aria-hidden="true">&rarr;</span></a></article>
         ))}
       </div>
     </section>
@@ -367,12 +373,12 @@ function Final() {
         <CloudBank className="mn-final-sky" tone="day" n={4} />
         <div className="mn-final-obj" ref={obj}><img src={IMG.object} alt="" loading="lazy" decoding="async" /><i className="mn-shimmer mn-shimmer--obj" aria-hidden="true" /><i className="mn-spot" ref={glow as React.RefObject<HTMLElement>} aria-hidden="true" /></div>
         <h2><span className="mask"><span className="ln">A new foundation</span></span><span className="mask"><span className="ln">for <em>information</em> markets.</span></span></h2>
-        <div className="mn-cta"><a className="mn-primary" ref={c1} href={SEER}>Explore Seer</a><a className="mn-link" ref={c2} href={SEER}>Connect Wallet</a></div>
+        <div className="mn-cta"><a className="mn-primary" ref={c1} href="/explorer" onClick={(event) => internalLink(event, '/explorer')}>Explore Seer</a><a className="mn-link" ref={c2} href={SEER}>Connect Wallet</a></div>
       </section>
       <footer className="mn-footer">
         <div className="mn-foot-grid">
           <div><img src={logo} alt="Seer" width="104" height="48" /><p>Information Finance infrastructure for people, DAOs and agents.</p></div>
-          <nav aria-label="Apps"><b>Apps</b><a href={SEER}>Seer App</a><a href={SEER}>Deep</a><a href={SEER}>Futarchy</a><a href="https://opportunity.seer.pm/">Opportunity Markets</a><a href={SEER}>Risk Pricing</a></nav>
+          <nav aria-label="Apps"><b>Apps</b>{APPS.map((app) => <a key={app.name} href={app.href} onClick={(event) => internalLink(event, app.href)}>{app.name}</a>)}</nav>
           <nav aria-label="Protocol"><b>Protocol</b><a href="https://docs.seer.pm">Documentation</a><a href="https://seer.pm">seer.pm</a><a href="https://kleros.io">Kleros</a></nav>
         </div>
         <div className="mn-wordmark" aria-hidden="true">Seer</div>

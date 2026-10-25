@@ -1,0 +1,20 @@
+## 1440px #/ (1)
+ - small target 84x28 a.sg-brand "SEER"
+## 1440px #/m/aave-412 (2)
+ - small target 84x28 a.sg-brand "SEER"
+ - small target 27x40 a "Risk"
+## 1440px #/organizations (1)
+ - small target 84x28 a.sg-brand "SEER"
+## 768px #/ (1)
+ - small target 84x28 a.sg-brand "SEER"
+## 768px #/m/aave-412 (2)
+ - small target 84x28 a.sg-brand "SEER"
+ - small target 27x40 a "Risk"
+## 768px #/organizations (1)
+ - small target 84x28 a.sg-brand "SEER"
+## 390px #/ (0)
+
+## 390px #/m/aave-412 (0)
+
+## 390px #/organizations (0)
+

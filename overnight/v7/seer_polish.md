@@ -1,0 +1,6 @@
+Folder apps/explorer-v2 (read overnight/v7/COMMON.md). Owner feedback on the trade window (screenshot attached): 
+1. The market photo + question appear TWICE (the Inspector's own header AND the trade ticket's header). When the trade ticket is open, hide/replace the Inspector header so only ONE header (photo, question, 'Asked by', Back to markets, close) remains.
+2. The whole ticket must fit in one screen at 1440x900 inside the sticky Inspector with no scrolling needed to reach the CTA: compact it: Buy/Sell toggle 36px, outcome cards in one row at 72px height, 'You pay' block as one row (label left, big number 36px + the number input right), slider 28px, quick chips in one row, results in a compact 2-column grid (You pay, Shares, Avg price, Price impact, Payout, New chance), the CTA pinned at the bottom of the ticket (position: sticky bottom with a soft top shadow).
+3. Add subtle motion: the outcome card selection slides a violet inset ring, numbers ease when slider moves, results grid values tick, CTA has a light sweep on hover.
+4. Make sure Tiles view in Agent mode, Index, Activity and Map all still render without console errors; run `node --check app.js`.
+Do not change behaviour that already works: slider<->number sync, chips, Back/Esc, Agent call panel, wallet-aware CTA. Report 4 lines.

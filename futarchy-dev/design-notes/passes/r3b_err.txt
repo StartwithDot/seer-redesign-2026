@@ -1,0 +1,8 @@
+src/chart/field.ts(81,11): error TS6133: 'width' is declared but its value is never read.
+src/chart/field.ts(82,11): error TS6133: 'height' is declared but its value is never read.
+src/components/ForkChart.tsx(1125,22): error TS7053: Element implicitly has an 'any' type because expression of type '"yes" | "no" | "impact" | "time"' can't be used to index type 'SeriesPoint'.
+  Property 'time' does not exist on type 'SeriesPoint'.
+src/components/ForkChart.tsx(1125,35): error TS7053: Element implicitly has an 'any' type because expression of type '"yes" | "no" | "impact" | "time"' can't be used to index type 'SeriesPoint'.
+  Property 'time' does not exist on type 'SeriesPoint'.
+src/components/forkRenderer.ts(567,7): error TS2367: This comparison appears to be unintentional because the types '4 | 3' and '1' have no overlap.
+src/components/forkRenderer.ts(594,7): error TS2367: This comparison appears to be unintentional because the types '5 | 3' and '1' have no overlap.

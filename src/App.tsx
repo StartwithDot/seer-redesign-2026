@@ -6,12 +6,7 @@ import { DesignLabHub } from './design-lab/DesignLabHub';
 import { Seer2026Landing } from './seer-2026/Seer2026Landing';
 import { ActiveRoute } from './design-system/components/GlobalNavbar';
 import { SEER_SURFACES, SeerSurface } from './design-system/seerData';
-
-const ExplorerPage = React.lazy(() => import('./products/explorer').then(m => ({ default: m.Page })));
-const FutarchyPage = React.lazy(() => import('./products/futarchy').then(m => ({ default: m.Page })));
-const DeepPage = React.lazy(() => import('./products/deep').then(m => ({ default: m.Page })));
-const OpportunityPage = React.lazy(() => import('./products/opportunity').then(m => ({ default: m.Page })));
-const RiskPage = React.lazy(() => import('./products/risk').then(m => ({ default: m.Page })));
+import { ProductShell, type ProductId } from './products/shared/ProductShell';
 
 export type RouteId =
   | '/explorer'
@@ -68,15 +63,18 @@ export const App: React.FC = () => {
     else if (active === 'concept-c') navigate('/design-lab/concept-c');
   };
 
+  const productRoute: ProductId | null = route === '/explorer' ? 'explorer'
+    : route === '/deep' ? 'deep'
+      : route === '/futarchy' ? 'futarchy'
+        : route === '/opportunity' ? 'opportunity'
+          : route === '/risk' ? 'risk'
+            : null;
+
   if (route === '/seer-2026') {
     return <Seer2026Landing />;
   }
 
-  if (route === '/explorer') return <ExplorerPage />;
-  if (route === '/futarchy') return <FutarchyPage />;
-  if (route === '/deep') return <DeepPage />;
-  if (route === '/opportunity') return <OpportunityPage />;
-  if (route === '/risk') return <RiskPage />;
+  if (productRoute) return <ProductShell product={productRoute} />;
 
   return (
     <div className="ef-page" data-theme={theme}>
