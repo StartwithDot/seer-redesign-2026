@@ -12,7 +12,7 @@ const sections = [
   ['replay', 'Replay'],
 ] as const;
 
-export function SectionNav({openPanel}:{openPanel:(id:string)=>void}) {
+export function SectionNav({openCompare,openPanel}:{openCompare:()=>void;openPanel?:(id:string)=>void}) {
   const [active, setActive] = useState('repositories');
   useEffect(() => {
     const nodes = sections.map(([id]) => document.getElementById(id)).filter(Boolean) as HTMLElement[];
@@ -32,17 +32,18 @@ export function SectionNav({openPanel}:{openPanel:(id:string)=>void}) {
       window.removeEventListener('resize', update);
     };
   }, []);
-  return <nav data-testid="section-rail" className="section-nav" aria-label="Market sections">
-    {sections.map(([id, label]) => <a key={id} title={label} className={active === id ? 'active' : ''} aria-current={active === id ? 'location' : undefined} href={`#${id}`} onClick={event => {
+  return <div className="rail-slot"><nav data-testid="section-rail" className="section-nav" aria-label="Market sections">
+    {sections.map(([id, label]) => <a key={id} aria-label={label} className={active === id ? 'active' : ''} aria-current={active === id ? 'location' : undefined} href={`#${id}`} onClick={event => {
       event.preventDefault();
       setActive(id);
-      openPanel(id === 'repository-detail' ? id : '');
+      openPanel?.(id === 'repository-detail' ? id : '');
       const section = document.getElementById(id);
       section?.scrollIntoView({ behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth', block: 'start' });
       section?.animate([{outline:'2px solid var(--violet)'},{outline:'2px solid var(--violet)',offset:.8},{outline:'2px solid transparent'}],{duration:1200});
       if (id === 'repository-detail') requestAnimationFrame(() => document.querySelector('.comparison-bubble')?.animate([{outline:'2px solid var(--violet)'},{outline:'2px solid transparent'}],{duration:1200}));
     }}><Icon name={id === 'funds' ? 'wallet' : id === 'predictions' ? 'upload' : id === 'replay' ? 'play' : id === 'repository-detail' ? 'split' : 'list'}/><span>{label}</span></a>)}
-  </nav>;
+    <button aria-label="Sideways comparison" onClick={openCompare}><Icon name="compare"/><span>Sideways comparison</span></button>
+  </nav></div>;
 }
 
 export function MarketSections({ market, connected, trade, balance, predictionCount, t, playing, onFunds, onPredictions, onReplay, onTrade }:{

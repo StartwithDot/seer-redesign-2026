@@ -14,3 +14,6 @@ mountSeerShell({ current: 'deep' });
 createRoot(document.getElementById('root')!).render(<React.StrictMode><App /></React.StrictMode>);
 
 import './repairs.css';
+
+import "./comparison.css";
+import './repository-layout.css';

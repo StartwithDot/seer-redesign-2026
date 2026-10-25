@@ -20,13 +20,14 @@ function RepoAvatar({ market }:{ market:Market }) {
   return <svg className="repo-avatar" viewBox="0 0 28 28" aria-hidden="true"><rect x="1" y="1" width="26" height="26" rx="8"/><path d={`M7 ${8 + seed % 5}h14M7 14h${8 + seed % 8}M7 ${19 + seed % 3}h11`}/></svg>;
 }
 
-export function SplitList({ rows, params, predictions, select, trade }:{ rows:Market[]; params:URLSearchParams; predictions:Record<string,number>; select:(market:Market)=>void; trade:(market:Market)=>void }) {
+export function SplitList({ onCompare, rows, params, predictions, select, trade }:{ onCompare:()=>void; rows:Market[]; params:URLSearchParams; predictions:Record<string,number>; select:(market:Market)=>void; trade:(market:Market)=>void }) {
   const [positions, setPositions] = useState(false), [help, setHelp] = useState('');
   const q = params.get('q') ?? '', sort = params.get('sort') ?? 'up';
   const filtered = rows.filter(market => market.name.toLowerCase().includes(q.toLowerCase())).sort((a, b) => sort === 'name' ? a.name.localeCompare(b.name) : sort === '-name' ? b.name.localeCompare(a.name) : sort === 'diff' ? Math.abs((predictions[b.id] ?? b.up) - b.up) - Math.abs((predictions[a.id] ?? a.up) - a.up) : sort === 'change' ? (b.up - series[b.id].up[0].value) - (a.up - series[a.id].up[0].value) : b.up - a.up);
   const rankNow = Object.fromEntries([...rows].sort((a,b) => b.up - a.up || a.name.localeCompare(b.name)).map((market, index) => [market.id, index + 1]));
   return <section data-testid="split-table" className={`repository-box ${positions ? 'positions-view' : ''}`}>
     <div className="list-tools"><div className="list-title"><h2>Repositories</h2><span>{filtered.length} ranked signals</span></div>
+      <button onClick={onCompare} data-testid="sideways-compare"><Icon name="compare"/>Compare</button>
       <input data-testid="search-outcomes" aria-label="Search outcomes" placeholder="Search repositories" value={q} onChange={event => updateQuery({ q:event.target.value || null }, true)}/>
       <Menu testId="positions-menu" label={positions ? 'Positions' : 'Market'}>{close => <>{['Market','Positions'].map(value => <button role="menuitem" aria-checked={positions === (value === 'Positions')} key={value} onClick={() => { setPositions(value === 'Positions'); close(); }}>{value}</button>)}</>}</Menu>
       <Menu label="Sort">{close => <>{[['up','UP price'],['name','Repository A–Z'],['-name','Repository Z–A'],['change','Change since Oct 1'],['diff','Difference']].map(([value,label]) => <button role="menuitem" aria-checked={sort === value} key={value} onClick={() => { updateQuery({ sort:value }); close(); }}>{label}</button>)}</>}</Menu>

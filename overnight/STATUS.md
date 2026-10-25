@@ -757,3 +757,5 @@
 20:20 [r3:deep] finished
 20:23 deep_r4 finished
 20:26 deep_r5 finished
+21:35 deep_r6 finished
+21:38 deep_r7 finished

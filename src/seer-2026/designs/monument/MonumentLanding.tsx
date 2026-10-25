@@ -107,7 +107,7 @@ function Nav() {
             ))}
           </div>
         </div>
-        <a className="mn-wallet" href={SEER}><span className="mn-w-fill" aria-hidden="true" /><span className="mn-w-ico" aria-hidden="true"><i /><i /><i /><i /></span><span className="mn-w-txt">Connect Wallet</span></a>
+        
       </nav>
     </header>
   );
@@ -352,8 +352,8 @@ function Kleros() {
 }
 
 function Final() {
-  const root = useRef<HTMLElement>(null), c1 = useRef<HTMLAnchorElement>(null), c2 = useRef<HTMLAnchorElement>(null), glow = useRef<HTMLElement>(null), obj = useRef<HTMLDivElement>(null);
-  useMagnetic(c1); useMagnetic(c2);
+  const root = useRef<HTMLElement>(null), c1 = useRef<HTMLAnchorElement>(null), glow = useRef<HTMLElement>(null), obj = useRef<HTMLDivElement>(null);
+  useMagnetic(c1);
   useEffect(() => {
     const ctx = gsap.context(() => {
       if (reduced()) return;
@@ -373,7 +373,7 @@ function Final() {
         <CloudBank className="mn-final-sky" tone="day" n={4} />
         <div className="mn-final-obj" ref={obj}><img src={IMG.object} alt="" loading="lazy" decoding="async" /><i className="mn-shimmer mn-shimmer--obj" aria-hidden="true" /><i className="mn-spot" ref={glow as React.RefObject<HTMLElement>} aria-hidden="true" /></div>
         <h2><span className="mask"><span className="ln">A new foundation</span></span><span className="mask"><span className="ln">for <em>information</em> markets.</span></span></h2>
-        <div className="mn-cta"><a className="mn-primary" ref={c1} href="/explorer" onClick={(event) => internalLink(event, '/explorer')}>Explore Seer</a><a className="mn-link" ref={c2} href={SEER}>Connect Wallet</a></div>
+        <div className="mn-cta"><a className="mn-primary" ref={c1} href="/explorer" onClick={(event) => internalLink(event, '/explorer')}>Explore Seer</a></div>
       </section>
       <footer className="mn-footer">
         <div className="mn-foot-grid">

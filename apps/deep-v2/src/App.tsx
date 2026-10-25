@@ -19,10 +19,12 @@ import { Guide } from './components/Guide';
 import { MarketSections, SectionNav } from './components/MarketSections';
 import { AnimatedValue } from './components/AnimatedValue';
 import { useSlidingControls } from './useSlidingControls';
+import { SidewaysComparison } from './components/SidewaysComparison';
 import { LeaderboardPodium } from './components/LeaderboardPodium';
 
 export default function App() {
   useSlidingControls();
+  const [sideways, setSideways] = useState(false);
   const [guide, setGuide] = useState(false);
   const chartRef = useRef<HTMLDivElement>(null);
   const [compare, setCompare] = useState(false);
@@ -65,7 +67,8 @@ export default function App() {
         setExpanded(false); setBubble(''); setCompare(false); setDeskOverlay(false);
         return;
       }
-      if ((event.target as HTMLElement).matches('input,textarea,select')) return;
+      if ((event.target as HTMLElement).closest('dialog[open],input,textarea,select,[contenteditable=true]')) return;
+      if (event.key.toLowerCase() === 'c' && !event.metaKey && !event.ctrlKey && !event.altKey) { event.preventDefault(); setSideways(true); }
       if (event.key.toLowerCase() === 'f') setExpanded(value => !value);
     };
     window.addEventListener('keydown', key);
@@ -97,7 +100,7 @@ export default function App() {
   const { path, params } = useRoute();
   const [connected, setConnected] = useState(false);
   const [markets, setMarkets] = useState(initialMarkets);
-  const [, setLoading] = useState(true);
+  const [loading, setLoading] = useState(true);
   useEffect(() => {
     const apply = (theme: string) => {
       const root = document.documentElement;
@@ -239,8 +242,7 @@ export default function App() {
     <button className="expand-control" onClick={() => setExpanded(!expanded)}><Icon name={expanded ? 'close' : 'expand'} size={16}/>{expanded ? 'Close · Esc' : 'Expand · F'}</button>
   </div>;
 
-  const rootMarket = <div className={`terminal market-workspace ${compare ? 'compare-mode' : ''}`}>
-    <SectionNav openPanel={setBubble}/>
+  const rootMarket = <div className="rail-layout"><SectionNav openPanel={compare ? setBubble : undefined} openCompare={() => setSideways(true)}/><div className={`terminal market-workspace ${compare ? 'compare-mode' : ''}`}>
     {compare && <aside className="compare-list" aria-label="Compare repositories"><header><h2>Compare</h2><button onClick={() => {setCompare(false); setDeskOverlay(false); setBubble(''); updateQuery({iso:null},true);}}>Exit compare</button></header><div className="compare-repositories">{[...liveMarkets].filter(item=>item.name.toLowerCase().includes((params.get('q') || '').toLowerCase())).sort((a,b)=>b.up-a.up).map((item,index)=>{const delta=item.up-series[item.id].up[0].value;return <button key={item.id} aria-pressed={item.id===selected.id} title={item.name} onClick={()=>selectRepository(item.id)} onMouseEnter={()=>setCompareHover(item.id)} onMouseLeave={()=>setCompareHover(null)} onFocus={()=>setCompareHover(item.id)} onBlur={()=>setCompareHover(null)} onKeyDown={event=>{if(event.key==='ArrowDown'||event.key==='ArrowUp'){event.preventDefault(); const next=event.key==='ArrowDown'?event.currentTarget.nextElementSibling:event.currentTarget.previousElementSibling;(next as HTMLButtonElement|null)?.focus();(next as HTMLButtonElement|null)?.click();}}}><span>{index+1}</span><span className="compare-name">{item.name}</span><strong>{item.up.toFixed(4)}</strong><span className={delta<0?'loss':'gain'}>{delta>=0?'+':''}{delta.toFixed(3)}</span></button>;})}</div></aside>}
     {compare && <button className="desk-bubble primary" aria-label={`Open trading desk for ${selectedLive.name}`} aria-expanded={deskOverlay} onClick={()=>setDeskOverlay(value=>!value)}><Icon name="desk"/><span>{selectedLive.repo.slice(0,2).toUpperCase()}</span></button>}
     <div className="chart-column workspace-scroll">
@@ -252,7 +254,7 @@ export default function App() {
           {expanded && <aside className="expanded-details"><h2>{selectedLive.repo}</h2><Inspector market={selectedLive}/></aside>}
         </div>
         <div id="repositories" className="reveal-section repository-section">
-          <SplitList rows={liveMarkets} params={params} predictions={predictions} select={item => selectRepository(item.id)} trade={item => { setSelected(item); focusDesk(); }}/>
+          <SplitList onCompare={() => setSideways(true)} rows={liveMarkets} params={params} predictions={predictions} select={item => selectRepository(item.id)} trade={item => { setSelected(item); focusDesk(); }}/>
         </div>
         <MarketSections market={selectedLive} connected={connected} trade={trade} balance={balance} predictionCount={Object.keys(predictions).length} t={t} playing={playing} onFunds={() => setFunds(true)} onPredictions={focusDesk} onReplay={() => playing ? setPlaying(false) : replay()} onTrade={focusDesk}/>
       </div>
@@ -281,10 +283,11 @@ export default function App() {
       </div>
     </aside>
     <button className="mobile-desk-trigger primary" aria-label="Desk" onClick={() => setMobile('desk')}><Icon name="desk"/>Trading desk<span>{Object.keys(predictions).length ? `${Object.keys(predictions).length} loaded` : `${connected ? 1 : 0}/3 setup`}</span></button>
-  </div>;
+  </div></div>;
 
   return <>
     <Search/>
+    {sideways && <SidewaysComparison loading={loading} rows={liveMarkets} initial={selectedLive.id} close={() => setSideways(false)} select={id => { selectRepository(id); setSideways(false); }}/>}
     <Masthead onGuide={() => setGuide(true)} leaderboard={path === '/leaderboard'} connected={connected} setup={balance > 0 ? 3 : trade ? 2 : connected ? 1 : 0} setConnected={value => { if (value) void connectWallet(); else { setConnected(false); setTrade(false); } }} round={round} onRefresh={volumes => setMarkets(current => current.map(item => { const volume = volumes[item.id as keyof typeof volumes]; return volume ? { ...item, volTok: Number(volume.totalVolumeTokens), liqTok: Number(volume.totalLiquidityTokens) } : item; }))}/>
     <main className={`page main mobile-${mobile}`}>
       {path === '/leaderboard' ? <div className="leaderboard-route"><LeaderboardPodium/><Leaderboard params={params} connected={connected} error={fail} retry={retry}/></div> : path.startsWith('/repo/') ? market ? <Detail market={market}/> : <section className="card empty">No repositories match <a href="#/">All deep markets</a></section> : round !== 'round3' ? (contestById(round) ? <ContestMarket key={round} contest={contestById(round)!} params={params}/> : <ContestOverview archived={round === 'archived'}/>) : rootMarket}

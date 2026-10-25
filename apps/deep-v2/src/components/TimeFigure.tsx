@@ -1,3 +1,4 @@
+import { Segments } from './Segments';
 import { useLayoutEffect, useMemo, useRef, useState, type ReactNode } from 'react';
 import { line, curveMonotoneX, curveBumpX, area } from 'd3-shape';
 import { Icon } from './Icon';
@@ -81,8 +82,8 @@ export function TimeFigure({ controls, t, replay, playing, hidden, toggle, q, is
       <div className="chart-controls">
         <div className="segments" aria-label="Chart type">{(['Lines','Rank flow','Heatmap'] as const).map(type=><button key={type} aria-pressed={chartType===type} onClick={()=>setChartType(type)}>{type}</button>)}</div>
         {chartType==='Rank flow' && <div className="segments" aria-label="Rank flow rows">{[12,25,50,98].map(count=><button key={count} aria-pressed={rowCount===count} onClick={()=>setRowCount(count)}>{count===98?'All':`Top ${count}`}</button>)}</div>}
-        <div className="segments" aria-label="Price side">{(['up','down'] as const).map(side => <button key={side} aria-pressed={mode === side} aria-current={mode === side ? 'true' : undefined} title={mode === side ? 'Current' : undefined} onClick={() => setMode(side)}>{side.toUpperCase()}</button>)}</div>
-        <div className="segments" aria-label="Chart range">{[1,3,7,0].map(value => <button key={value} aria-pressed={value === 0 ? range === 0 : range === value} aria-current={(value === 0 ? range === 0 : range === value) ? 'true' : undefined} title={(value === 0 ? range === 0 : range === value) ? 'Current' : undefined} onClick={() => { setRange(value); }}>{value === 0 ? 'All' : value === 7 ? '1W' : `${value}D`}</button>)}</div>
+        <Segments values={['up','down'] as const} value={mode} change={setMode} label="Price side" format={v=>v.toUpperCase()}/>
+        <Segments values={[1,3,7,0]} value={range} change={setRange} label="Chart range" format={v=>v===0?'All':v===7?'1W':`${v}D`}/>
         <button aria-pressed={!full} aria-current={!full ? 'true' : undefined} title={!full ? 'Current' : undefined} onClick={() => setFull(!full)}>{full ? '0–1' : 'Lens'}</button>
         <button aria-label={playing ? 'Stop replay' : 'Replay market'} onClick={replay}><Icon name={playing ? 'pause' : 'play'} size={16}/>{playing ? 'Stop' : 'Replay'}</button>
         <button data-testid="hide-all" aria-pressed={hidden} onClick={toggle}>{hidden ? 'Show all' : 'Hide all'}</button>
